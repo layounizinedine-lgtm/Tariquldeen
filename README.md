@@ -17,10 +17,11 @@ planen, dass Din (Glaubenspraxis) und Alltag zusammenpassen.
   Generalbehörde, Karachi, Umm al-Qura, Teheran, Ja'fari) sowie Hanafi/Standard
   für die Asr-Berechnung.
 - Countdown bis zum nächsten Gebet.
-- Gebetsruf (Adhan) pro Gebet ein-/ausschaltbar, mit Lautstärkeregler und
-  Test-Button. Ohne eigene Audiodatei wird ein sanfter Erinnerungston
-  abgespielt (Web Audio API). Für den authentischen Gebetsruf einfach eine
-  eigene Datei unter `assets/adhan.mp3` ablegen.
+- Echter Adhan (Gebetsruf) als Audiodatei (`assets/adhan.mp3`), pro Gebet
+  ein-/ausschaltbar, mit Lautstärkeregler und Test-Button. Ist keine
+  Audiodatei vorhanden, spielt die App ersatzweise einen sanften Erinnerungston
+  (Web Audio API). Die mitgelieferte Datei kann jederzeit durch eine eigene
+  Aufnahme ersetzt werden (siehe Lizenzhinweis unten).
 - System-Benachrichtigungen (Browser Notifications), sofern erlaubt.
 
 ### 📿 Adhkar & Dua
@@ -94,7 +95,18 @@ data/
   tajweed.js                Tajweed-Regeln
 assets/
   logo.svg, icon-*.png     Logo „طريق الدين“ (arabische Kalligraphie-Optik)
+  adhan.mp3                Gebetsruf-Audiodatei (siehe Lizenzhinweis unten)
 ```
+
+## Lizenzhinweis zur Adhan-Audiodatei
+
+Die mitgelieferte Datei `assets/adhan.mp3` ist „[The Adhan – Muslim Call to
+Prayer](https://commons.wikimedia.org/wiki/File:The_Adhan_-_Muslim_Call_to_Prayer_-_Aaqib_Azeez.mp3)“
+von Aaqib Azeez (Wikimedia-Nutzer Atcovi), lizenziert unter
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), bezogen über
+Wikimedia Commons. Bei Weitergabe/Veröffentlichung der App bitte die
+Namensnennung beibehalten. Die Datei kann jederzeit durch eine eigene
+Aufnahme ersetzt werden — einfach `assets/adhan.mp3` überschreiben.
 
 ## Hinweise
 

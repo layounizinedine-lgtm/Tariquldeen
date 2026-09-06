@@ -1,5 +1,5 @@
 // sw.js — einfacher Service Worker für Offline-Nutzung (App-Shell-Caching)
-const CACHE_NAME = "tariqul-deen-v1";
+const CACHE_NAME = "tariqul-deen-v2";
 const ASSETS = [
   "./",
   "./index.html",
@@ -16,6 +16,7 @@ const ASSETS = [
   "./assets/icon-512.png",
   "./assets/favicon.png",
   "./assets/logo.svg",
+  "./assets/adhan.mp3",
 ];
 
 self.addEventListener("install", (event) => {

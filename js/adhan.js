@@ -14,10 +14,9 @@ function getAudioContext() {
   return audioCtx;
 }
 
-// Einfache, freundliche Ton-Sequenz als Erinnerung (kein Ersatz für den
-// echten Adhan). Für den authentischen Gebetsruf kann eine eigene Audiodatei
-// unter assets/adhan.mp3 abgelegt werden – die App nutzt sie dann automatisch.
-export function playToneFallback(volume = 0.8) {
+// Einfache, freundliche Ton-Sequenz als Fallback, falls assets/adhan.mp3
+// aus irgendeinem Grund nicht geladen werden kann.
+function playToneFallback(volume = 0.8) {
   const ctx = getAudioContext();
   const notes = [523.25, 587.33, 659.25, 587.33, 523.25]; // C5 D5 E5 D5 C5
   const noteDuration = 0.45;
