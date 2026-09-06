@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>طريق الدين — Tariq al-Din</title>
+<meta name="description" content="Tariq al-Din: Gebetszeiten mit Adhan, Adhkar & Dua, Tajweed-Regeln und ein KI-gestützter Wochenplaner für Muslime.">
+<meta name="theme-color" content="#0a2b21">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="assets/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="assets/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div id="app">
+
+  <header class="app-header">
+    <img src="assets/icon-192.png" class="logo" alt="Tariq al-Din Logo">
+    <div class="header-text">
+      <h1 class="arabic-title">طريق الدين</h1>
+      <p class="tagline">Dein Weg zu den fünf Gebeten, Adhkar, Tajweed &amp; einer geplanten Woche</p>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <button data-tab="gebetszeiten" class="tab-btn active" type="button">
+      <span class="tab-icon">🕌</span><span>Gebetszeiten</span>
+    </button>
+    <button data-tab="adhkar" class="tab-btn" type="button">
+      <span class="tab-icon">📿</span><span>Adhkar &amp; Dua</span>
+    </button>
+    <button data-tab="tajweed" class="tab-btn" type="button">
+      <span class="tab-icon">📖</span><span>Tajweed</span>
+    </button>
+    <button data-tab="planner" class="tab-btn" type="button">
+      <span class="tab-icon">🗓️</span><span>Wochenplaner</span>
+    </button>
+    <button data-tab="settings" class="tab-btn" type="button">
+      <span class="tab-icon">⚙️</span><span>Einstellungen</span>
+    </button>
+  </nav>
+
+  <main>
+
+    <!-- GEBETSZEITEN -->
+    <section id="tab-gebetszeiten" class="tab-panel active">
+      <div class="card next-prayer-card" id="next-prayer-card">
+        <p class="muted">Nächstes Gebet</p>
+        <h2 id="next-prayer-name">—</h2>
+        <p class="countdown" id="next-prayer-countdown">—</p>
+      </div>
+
+      <div class="card">
+        <div class="row-between">
+          <p class="muted" id="location-info">Standort wird benötigt…</p>
+          <button id="use-geolocation-btn" class="btn-secondary" type="button">📍 Standort verwenden</button>
+        </div>
+        <p class="muted small" id="today-date"></p>
+      </div>
+
+      <div class="card">
+        <h3>Heutige Gebetszeiten</h3>
+        <div id="prayer-list" class="prayer-list"></div>
+      </div>
+
+      <div class="card">
+        <h3>Adhan-Einstellungen</h3>
+        <label class="field">
+          <span>Lautstärke</span>
+          <input type="range" id="adhan-volume" min="0" max="1" step="0.05" value="0.8">
+        </label>
+        <button id="test-adhan-btn" class="btn-secondary" type="button">🔊 Adhan-Sound testen</button>
+        <p class="muted small">
+          Hinweis: Für den authentischen Gebetsruf kann eine eigene Audiodatei als
+          <code>assets/adhan.mp3</code> im Projektordner abgelegt werden. Ohne diese Datei
+          wird ein sanfter Erinnerungston abgespielt. Damit der Ruf zuverlässig ertönt, die
+          App installiert lassen bzw. den Tab geöffnet halten und Benachrichtigungen erlauben.
+        </p>
+      </div>
+    </section>
+
+    <!-- ADHKAR -->
+    <section id="tab-adhkar" class="tab-panel">
+      <div class="card">
+        <h3>Adhkar &amp; Dua</h3>
+        <p class="muted small">Tägliche Erinnerungen und Bittgebete – tippe auf eine Karte, um mitzuzählen.</p>
+        <div id="adhkar-categories" class="chip-row"></div>
+      </div>
+      <div id="adhkar-list" class="stack"></div>
+    </section>
+
+    <!-- TAJWEED -->
+    <section id="tab-tajweed" class="tab-panel">
+      <div class="card">
+        <h3>Tajweed-Regeln</h3>
+        <p class="muted small">Ein Lernbegleiter für die korrekte Quran-Rezitation. Ersetzt nicht das Lernen bei einem Lehrer (Talaqqi).</p>
+        <div id="tajweed-categories" class="chip-row"></div>
+      </div>
+      <div id="tajweed-list" class="stack"></div>
+    </section>
+
+    <!-- WOCHENPLANER -->
+    <section id="tab-planner" class="tab-panel">
+      <div class="card">
+        <h3>🗓️ KI-Wochenplaner</h3>
+        <p class="muted small">
+          Trage deine festen Termine ein (z. B. Montag 17:00 Unterricht). Die KI erstellt dir
+          daraus einen vollständigen Wochenplan rund um deine Gebetszeiten – mit Tipps, wie du
+          deine beste Version wirst und ein guter Schüler des Wissens bleibst.
+        </p>
+
+        <form id="schedule-form" class="inline-form">
+          <select id="entry-day" required>
+            <option value="Montag">Montag</option>
+            <option value="Dienstag">Dienstag</option>
+            <option value="Mittwoch">Mittwoch</option>
+            <option value="Donnerstag">Donnerstag</option>
+            <option value="Freitag">Freitag</option>
+            <option value="Samstag">Samstag</option>
+            <option value="Sonntag">Sonntag</option>
+          </select>
+          <input type="time" id="entry-time" required>
+          <input type="text" id="entry-activity" placeholder="z. B. Unterricht, Arbeit, Sport…" required>
+          <button type="submit" class="btn-primary">+ Hinzufügen</button>
+        </form>
+
+        <ul id="schedule-entries" class="entry-list"></ul>
+
+        <label class="field">
+          <span>Zusätzliche Wünsche (optional)</span>
+          <textarea id="extra-wishes" rows="2" placeholder="z. B. Ich möchte täglich 30 Min. Quran lernen, bin Anfänger…"></textarea>
+        </label>
+
+        <div class="row-between">
+          <button id="generate-plan-btn" class="btn-primary" type="button">✨ Wochenplan erstellen</button>
+          <button id="clear-plan-btn" class="btn-ghost" type="button">Plan löschen</button>
+        </div>
+        <p id="plan-status" class="muted small"></p>
+      </div>
+
+      <div class="card" id="plan-result-card" hidden>
+        <h3>Dein Wochenplan</h3>
+        <div id="plan-result" class="markdown-body"></div>
+      </div>
+    </section>
+
+    <!-- EINSTELLUNGEN -->
+    <section id="tab-settings" class="tab-panel">
+      <div class="card">
+        <h3>📍 Standort &amp; Berechnung</h3>
+        <button id="use-geolocation-btn-2" class="btn-secondary" type="button">📍 Meinen Standort verwenden</button>
+        <label class="field">
+          <span>Stadt (Anzeigename)</span>
+          <input type="text" id="setting-city" placeholder="z. B. Berlin">
+        </label>
+        <div class="two-col">
+          <label class="field">
+            <span>Breitengrad</span>
+            <input type="number" id="setting-lat" step="0.0001">
+          </label>
+          <label class="field">
+            <span>Längengrad</span>
+            <input type="number" id="setting-lon" step="0.0001">
+          </label>
+        </div>
+        <label class="field">
+          <span>Zeitzonen-Offset zu UTC (Stunden)</span>
+          <input type="number" id="setting-tz" step="0.5">
+        </label>
+        <label class="field">
+          <span>Berechnungsmethode</span>
+          <select id="setting-method"></select>
+        </label>
+        <label class="field">
+          <span>Asr-Berechnung (Madhhab)</span>
+          <select id="setting-asr">
+            <option value="STANDARD">Standard (Shafi'i, Maliki, Hanbali)</option>
+            <option value="HANAFI">Hanafi</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>Zeitformat</span>
+          <select id="setting-timeformat">
+            <option value="24">24-Stunden</option>
+            <option value="12">12-Stunden (AM/PM)</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="card">
+        <h3>🔔 Adhan pro Gebet</h3>
+        <div id="setting-adhan-toggles" class="toggle-list"></div>
+      </div>
+
+      <div class="card">
+        <h3>🤖 KI-Wochenplaner: API-Schlüssel</h3>
+        <p class="muted small">
+          Um den KI-Wochenplaner zu nutzen, benötigst du einen eigenen API-Schlüssel von
+          <a href="https://console.anthropic.com/" target="_blank" rel="noopener">console.anthropic.com</a>.
+          Dein Schlüssel wird <strong>ausschließlich lokal in deinem Browser</strong> gespeichert
+          und nur direkt an die Anthropic-API gesendet — niemals an einen anderen Server.
+        </p>
+        <label class="field">
+          <span>API-Schlüssel</span>
+          <input type="password" id="setting-api-key" placeholder="sk-ant-...">
+        </label>
+        <label class="field">
+          <span>Modell</span>
+          <select id="setting-api-model">
+            <option value="claude-sonnet-4-5">Claude Sonnet 4.5 (empfohlen)</option>
+            <option value="claude-opus-4-1">Claude Opus 4.1 (leistungsstärker)</option>
+            <option value="claude-haiku-4-5">Claude Haiku 4.5 (schnell &amp; günstig)</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="row-between">
+        <button id="save-settings-btn" class="btn-primary" type="button">💾 Einstellungen speichern</button>
+      </div>
+      <p id="settings-status" class="muted small"></p>
+    </section>
+
+  </main>
+
+  <footer class="app-footer">
+    <p>طريق الدين — möge Allah unsere Schritte auf dem Weg des Wissens und der Gottesfurcht festigen. آمين</p>
+  </footer>
+
+</div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

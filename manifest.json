@@ -1,0 +1,27 @@
+{
+  "name": "طريق الدين — Tariq al-Din",
+  "short_name": "Tariq al-Din",
+  "description": "Gebetszeiten mit Adhan, Adhkar & Dua, Tajweed-Regeln und ein KI-gestützter Wochenplaner für Muslime.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1f19",
+  "theme_color": "#0a2b21",
+  "orientation": "portrait",
+  "lang": "de",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
