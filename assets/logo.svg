@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="70%">
+      <stop offset="0%" stop-color="#0f3d2e"/>
+      <stop offset="55%" stop-color="#0a2b21"/>
+      <stop offset="100%" stop-color="#061a15"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6e27a"/>
+      <stop offset="35%" stop-color="#d4af37"/>
+      <stop offset="70%" stop-color="#f6e27a"/>
+      <stop offset="100%" stop-color="#b8860b"/>
+    </linearGradient>
+    <linearGradient id="goldText" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff3c4"/>
+      <stop offset="50%" stop-color="#e8c15a"/>
+      <stop offset="100%" stop-color="#c79a2e"/>
+    </linearGradient>
+    <clipPath id="circleClip">
+      <circle cx="256" cy="256" r="240"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <circle cx="256" cy="256" r="248" fill="url(#bg)"/>
+
+  <!-- outer ring -->
+  <circle cx="256" cy="256" r="240" fill="none" stroke="url(#gold)" stroke-width="6"/>
+  <circle cx="256" cy="256" r="226" fill="none" stroke="url(#gold)" stroke-width="2" opacity="0.7"/>
+
+  <g clip-path="url(#circleClip)">
+    <!-- subtle geometric star pattern -->
+    <g opacity="0.14" stroke="url(#gold)" stroke-width="1.5" fill="none">
+      <g transform="translate(256,256)">
+        <g id="star8">
+          <polygon points="0,-150 20,-90 0,-30 -20,-90"/>
+        </g>
+        <use href="#star8" transform="rotate(45)"/>
+        <use href="#star8" transform="rotate(90)"/>
+        <use href="#star8" transform="rotate(135)"/>
+        <use href="#star8" transform="rotate(180)"/>
+        <use href="#star8" transform="rotate(225)"/>
+        <use href="#star8" transform="rotate(270)"/>
+        <use href="#star8" transform="rotate(315)"/>
+        <circle r="70"/>
+        <circle r="170"/>
+      </g>
+    </g>
+
+    <!-- mihrab arch -->
+    <path d="M 176 400 L 176 260 A 80 80 0 0 1 336 260 L 336 400 Z"
+          fill="none" stroke="url(#gold)" stroke-width="4" opacity="0.85"/>
+    <path d="M 196 400 L 196 265 A 60 60 0 0 1 316 265 L 316 400 Z"
+          fill="none" stroke="url(#gold)" stroke-width="2" opacity="0.6"/>
+
+    <!-- crescent -->
+    <g transform="translate(256,120)">
+      <path d="M 10,-38 A 40 40 0 1 0 10,38 A 32 32 0 1 1 10,-38 Z" fill="url(#gold)"/>
+      <circle cx="34" cy="-6" r="5" fill="url(#gold)"/>
+    </g>
+  </g>
+
+  <!-- Arabic calligraphy text: طريق الدين -->
+  <text x="256" y="300" text-anchor="middle"
+        font-family="Amiri, 'Noto Naskh Arabic', serif" font-size="86" font-weight="700"
+        fill="url(#goldText)" stroke="#7a5a12" stroke-width="0.8"
+        direction="ltr">ﻦﻳﺪﻟﺍ ﻖﻳﺮﻃ</text>
+
+  <!-- inner hairline -->
+  <circle cx="256" cy="256" r="196" fill="none" stroke="url(#gold)" stroke-width="1" opacity="0.5"/>
+</svg>

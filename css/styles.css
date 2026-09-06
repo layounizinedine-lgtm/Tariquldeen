@@ -1,0 +1,508 @@
+:root {
+  --bg: #0b1f19;
+  --bg-elevated: #12291f;
+  --card: #163628;
+  --card-border: #234a37;
+  --gold: #d4af37;
+  --gold-light: #f6e27a;
+  --text: #eef3ee;
+  --text-muted: #9fb7ab;
+  --accent: #2f7a5c;
+  --accent-light: #3f9c76;
+  --danger: #c1584a;
+  --radius: 14px;
+  --font-arabic: "Amiri", "Noto Naskh Arabic", serif;
+  --font-ui: "Cairo", "Segoe UI", system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-ui);
+  -webkit-font-smoothing: antialiased;
+}
+
+#app {
+  max-width: 720px;
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ---------- Header ---------- */
+.app-header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 20px 16px 12px;
+  background: linear-gradient(180deg, var(--bg-elevated), var(--bg));
+  border-bottom: 1px solid var(--card-border);
+}
+
+.app-header .logo {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px var(--gold);
+}
+
+.arabic-title {
+  font-family: var(--font-arabic);
+  color: var(--gold-light);
+  font-size: 1.6rem;
+  margin: 0 0 2px;
+  direction: rtl;
+}
+
+.tagline {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+/* ---------- Tabs ---------- */
+.tabs {
+  display: flex;
+  overflow-x: auto;
+  gap: 4px;
+  padding: 8px;
+  background: var(--bg-elevated);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  border-bottom: 1px solid var(--card-border);
+}
+
+.tab-btn {
+  flex: 1 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  padding: 8px 10px;
+  border-radius: 10px;
+  font-size: 0.72rem;
+  cursor: pointer;
+  white-space: nowrap;
+  font-family: var(--font-ui);
+}
+
+.tab-btn .tab-icon {
+  font-size: 1.2rem;
+}
+
+.tab-btn.active {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* ---------- Panels ---------- */
+main {
+  flex: 1;
+  padding: 14px;
+  padding-bottom: 40px;
+}
+
+.tab-panel {
+  display: none;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.tab-panel.active {
+  display: flex;
+}
+
+/* ---------- Cards ---------- */
+.card {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius);
+  padding: 16px;
+  min-width: 0;
+}
+
+.card h3 {
+  margin: 0 0 10px;
+  color: var(--gold-light);
+  font-size: 1.05rem;
+}
+
+.card h4 {
+  margin: 0 0 8px;
+  color: var(--gold-light);
+}
+
+.muted {
+  color: var(--text-muted);
+}
+
+.small {
+  font-size: 0.8rem;
+}
+
+.row-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+/* ---------- Next prayer card ---------- */
+.next-prayer-card {
+  text-align: center;
+  background: radial-gradient(circle at top, #1c4a35, var(--card));
+  border-color: var(--gold);
+}
+
+.next-prayer-card h2 {
+  font-family: var(--font-arabic);
+  color: var(--gold-light);
+  font-size: 2rem;
+  margin: 4px 0;
+}
+
+.next-prayer-card .latin {
+  font-family: var(--font-ui);
+  font-size: 1.1rem;
+  color: var(--text);
+}
+
+.countdown {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--gold);
+  margin: 0;
+}
+
+/* ---------- Prayer list ---------- */
+.prayer-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.prayer-row {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 12px;
+  background: var(--bg-elevated);
+  border-radius: 10px;
+}
+
+.prayer-name {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.prayer-arabic {
+  font-family: var(--font-arabic);
+  color: var(--gold-light);
+  font-size: 1.1rem;
+}
+
+.prayer-time {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+}
+
+/* ---------- Buttons ---------- */
+button {
+  font-family: var(--font-ui);
+  cursor: pointer;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  background: var(--accent-light);
+}
+
+.btn-primary:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.btn-secondary {
+  background: transparent;
+  color: var(--gold-light);
+  border: 1px solid var(--gold);
+  padding: 8px 14px;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.btn-ghost {
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--card-border);
+  padding: 6px 10px;
+  border-radius: 8px;
+}
+
+/* ---------- Switch ---------- */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 42px;
+  height: 24px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  inset: 0;
+  background: #2a4b3d;
+  border-radius: 24px;
+  transition: 0.2s;
+}
+
+.slider::before {
+  content: "";
+  position: absolute;
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  bottom: 3px;
+  background: white;
+  border-radius: 50%;
+  transition: 0.2s;
+}
+
+.switch input:checked + .slider {
+  background: var(--accent);
+}
+
+.switch input:checked + .slider::before {
+  transform: translateX(18px);
+}
+
+/* ---------- Chips ---------- */
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.chip {
+  background: var(--bg-elevated);
+  border: 1px solid var(--card-border);
+  color: var(--text);
+  padding: 8px 12px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+}
+
+.chip.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+/* ---------- Adhkar / Dua cards ---------- */
+.stack {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.dhikr-card .dhikr-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.badge {
+  background: var(--gold);
+  color: #201a04;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+}
+
+.arabic-text {
+  font-family: var(--font-arabic);
+  direction: rtl;
+  font-size: 1.5rem;
+  line-height: 2.1;
+  color: var(--gold-light);
+  margin: 8px 0;
+}
+
+.arabic-text.example {
+  font-size: 1.3rem;
+  margin-top: 10px;
+}
+
+.translit {
+  color: var(--text-muted);
+  font-style: italic;
+  margin: 4px 0;
+}
+
+.translation {
+  margin: 4px 0;
+}
+
+.note {
+  border-inline-start: 3px solid var(--gold);
+  padding-inline-start: 8px;
+}
+
+.dhikr-counter-row {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+.counter-value {
+  font-weight: 700;
+}
+
+/* ---------- Planner ---------- */
+.inline-form {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.inline-form select,
+.inline-form input[type="time"],
+.inline-form input[type="text"] {
+  flex: 1 1 auto;
+  min-width: 100px;
+}
+
+input, select, textarea {
+  background: var(--bg-elevated);
+  border: 1px solid var(--card-border);
+  color: var(--text);
+  padding: 8px 10px;
+  border-radius: 8px;
+  font-family: var(--font-ui);
+  width: 100%;
+  min-width: 0;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin: 10px 0;
+  min-width: 0;
+}
+
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  min-width: 0;
+}
+
+.two-col .field {
+  min-width: 0;
+}
+
+.entry-list {
+  list-style: none;
+  margin: 0 0 10px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.entry-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--bg-elevated);
+  padding: 8px 12px;
+  border-radius: 8px;
+  gap: 8px;
+}
+
+.markdown-body h2 {
+  color: var(--gold-light);
+  border-bottom: 1px solid var(--card-border);
+  padding-bottom: 4px;
+  margin-top: 20px;
+}
+
+.markdown-body h3 {
+  color: var(--gold);
+  margin-top: 16px;
+}
+
+.markdown-body ul {
+  padding-inline-start: 20px;
+}
+
+.markdown-body li {
+  margin: 4px 0;
+}
+
+/* ---------- Toggle list (settings) ---------- */
+.toggle-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.toggle-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--bg-elevated);
+  padding: 8px 12px;
+  border-radius: 8px;
+}
+
+/* ---------- Footer ---------- */
+.app-footer {
+  text-align: center;
+  padding: 16px;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  font-family: var(--font-arabic);
+  border-top: 1px solid var(--card-border);
+}
+
+/* ---------- Responsive ---------- */
+@media (min-width: 640px) {
+  .tab-btn {
+    flex-direction: row;
+    font-size: 0.85rem;
+  }
+}
