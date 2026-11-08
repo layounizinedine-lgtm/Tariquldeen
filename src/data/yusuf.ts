@@ -5,6 +5,8 @@ import woerter from './yusuf-woerter-a2.json' // ENTWURF, von Hand vorberechnet,
 import quizA2 from './yusuf-quiz-a2.json'
 import audio from './yusuf-audio.json' // PLATZHALTER-Töne, siehe scripts/make-placeholder-audio.py
 
+// Basis-Pfad (GitHub Pages läuft unter /Tariquldeen/)
+const A = (u?: string) => (u?.startsWith('/') ? import.meta.env.BASE_URL + u.slice(1) : u)
 // Quran-Text stammt aus scripts/fetch-quran.mjs (Quran.com-API), nie von Hand getippt.
 const q = (key: keyof typeof quran): Zitat => ({
   id: `q-${key}`, typ: 'ayah', text_ar: quran[key].text_ar, text_de: quran[key].text_de,
@@ -19,7 +21,7 @@ const z53: Zitat = {
 
 export const yusuf: Geschichte = {
   id: 'yusuf', bereich: 'anbiya', titel_ar: 'يُوسُفُ عَلَيْهِ السَّلَامُ', titel_de: 'Yusuf (Josef)',
-  bild_motiv: 'brunnen', bild_url: '/bilder/yusuf.webp', status: 'entwurf',
+  bild_motiv: 'brunnen', bild_url: A('/bilder/yusuf.webp'), status: 'entwurf',
   quellen: [
     { werk: 'Quran', stelle: 'Sure 12 (Yusuf), hier 12:4, 12:15, 12:20, 12:53' },
     { werk: 'Ibn Kathir, Qisas al-Anbiya', stelle: '[Platzhalter: Seite/Kapitel noch einzutragen]', platzhalter: true },
@@ -48,6 +50,7 @@ export const yusuf: Geschichte = {
         zitat_nach: (x as { zitat_nach?: string }).zitat_nach,
         woerter: woerter[x.id as keyof typeof woerter] as Wort[],
         ...audio[x.id as keyof typeof audio],
+        audio_url: A(audio[x.id as keyof typeof audio]?.audio_url),
       })),
     },
   },
