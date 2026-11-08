@@ -2,12 +2,17 @@ import { useState } from 'react'
 import { alleGeschichten, bereiche, sichtbar } from './data'
 import { useSettings } from './settings'
 import Reader from './components/Reader'
+import VocabView from './components/VocabView'
+import { faellige, useVokabeln } from './vocab'
 import CoverArt from './components/CoverArt'
 
 export default function App() {
   const [s, set] = useSettings()
   const [id, setId] = useState<string | null>(null)
+  const [vok, setVok] = useState(false)
+  const karten = useVokabeln()
   const g = alleGeschichten.find((x) => x.id === id)
+  if (vok) return <VocabView zurueck={() => setVok(false)} />
   if (g) return <Reader g={g} s={s} set={set} zurueck={() => setId(null)} />
 
   return (
@@ -16,6 +21,7 @@ export default function App() {
         <p className="ar logo" dir="rtl" lang="ar">طَرِيقُ الدِّينِ</p>
         <h1>Arabisch lernen mit den Geschichten des Islam</h1>
       </header>
+      <button className="karte vok-knopf" onClick={() => setVok(true)}>📚 Meine Vokabeln <em className="tag">{faellige(karten).length} fällig</em></button>
       {bereiche.map((b) => {
         const liste = alleGeschichten.filter((x) => x.bereich === b.id && sichtbar(x))
         return (

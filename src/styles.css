@@ -41,3 +41,17 @@ h1{font-size:1.5rem;margin:.6em 0 .2em}h2{font-size:1.15rem;margin:1.4em 0 .3em}
 .zitat.aktiv{box-shadow:0 0 0 2px var(--gold)}
 .wort{border-radius:6px;transition:background .1s}.aktiv-wort{background:var(--gold);color:#0e1b33}
 .seite{padding-bottom:170px}
+.wort.tippbar{cursor:pointer;border-bottom:1px dotted var(--gold)}
+.sheet-bg{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:20;display:flex;align-items:flex-end;justify-content:center}
+.sheet{background:var(--card);width:100%;max-width:720px;border-radius:20px 20px 0 0;padding:20px 20px calc(20px + env(safe-area-inset-bottom));max-height:80vh;overflow:auto;position:relative;border-top:2px solid var(--gold)}
+.sheet-zu{position:absolute;right:14px;top:12px;background:none;border:0;color:var(--muted);font-size:1.2rem;cursor:pointer}
+.sheet-wort{font-size:44px;text-align:center;color:var(--gold);margin:0}
+.ws-kontext{text-align:center;font-size:1.1rem;font-weight:600;margin:4px 0 12px}
+.ws-zeile{display:flex;justify-content:space-between;border-bottom:1px solid var(--line);padding:6px 0}.ws-zeile span{color:var(--muted)}
+.ws-knoepfe{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}
+.ws-knoepfe button,.gross-btn{flex:1;border:1px solid var(--line);background:var(--bg);color:var(--text);border-radius:12px;padding:12px;font:inherit;cursor:pointer}
+button.gold{background:var(--gold)!important;color:#0e1b33!important;border-color:var(--gold)!important}
+button:disabled{opacity:.4;cursor:not-allowed}
+.lernkarte{background:var(--card);border:1px solid var(--gold);border-radius:14px;padding:16px;text-align:center;margin:12px 0}
+.vokliste{list-style:none;padding:0}.vokliste li{display:flex;gap:12px;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);padding:8px 0}
+.vok-knopf{text-align:center}

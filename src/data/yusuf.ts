@@ -1,6 +1,7 @@
-import type { Geschichte, Zitat } from '../types'
+import type { Geschichte, Wort, Zitat } from '../types'
 import quran from './quran-yusuf.json'
 import a2Saetze from './yusuf-saetze-a2.json'
+import woerter from './yusuf-woerter-a2.json' // ENTWURF, von Hand vorberechnet, ungeprüft
 import audio from './yusuf-audio.json' // PLATZHALTER-Töne, siehe scripts/make-placeholder-audio.py
 
 // Quran-Text stammt aus scripts/fetch-quran.mjs (Quran.com-API), nie von Hand getippt.
@@ -43,6 +44,7 @@ export const yusuf: Geschichte = {
       saetze: a2Saetze.map((x) => ({
         id: x.id, text_ar_mit_harakat: x.ar, text_de: x.de,
         zitat_nach: (x as { zitat_nach?: string }).zitat_nach,
+        woerter: woerter[x.id as keyof typeof woerter] as Wort[],
         ...audio[x.id as keyof typeof audio],
       })),
     },

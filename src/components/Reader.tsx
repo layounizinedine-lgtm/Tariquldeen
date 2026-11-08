@@ -1,13 +1,14 @@
 import { useEffect, useMemo, useState } from 'react'
 import { usePlayer, type Spur } from '../usePlayer'
 import PlayerBar from './PlayerBar'
-import type { Geschichte, Niveau, Zitat } from '../types'
+import WordSheet from './WordSheet'
+import type { Geschichte, Niveau, Wort, Zitat } from '../types'
 import type { Settings } from '../settings'
 import ArText from './WordText'
 import CoverArt from './CoverArt'
 import SettingsBar from './SettingsBar'
 
-interface Item extends Spur { kind: 'satz' | 'zitat'; ar: string; de: string; zitat?: Zitat }
+interface Item extends Spur { woerter?: Wort[]; kind: 'satz' | 'zitat'; ar: string; de: string; zitat?: Zitat }
 const NIVEAUS: Niveau[] = ['klassisch', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 
 function ZitatBox({ z, s, aktiv }: { z: Zitat; s: Settings; aktiv?: boolean }) {
@@ -40,12 +41,13 @@ export default function Reader({ g, s, set, zurueck }: {
     for (const sa of f.saetze) {
       const z = sa.zitat_id ? g.zitate[sa.zitat_id] : undefined
       if (z) out.push(zi(z))
-      else out.push({ id: sa.id, kind: 'satz', ar: sa.text_ar_mit_harakat, de: sa.text_de, audio_url: sa.audio_url, ts: sa.wort_zeitstempel })
+      else out.push({ id: sa.id, kind: 'satz', ar: sa.text_ar_mit_harakat, de: sa.text_de, audio_url: sa.audio_url, ts: sa.wort_zeitstempel, woerter: sa.woerter })
       if (sa.zitat_nach) out.push(zi(g.zitate[sa.zitat_nach]))
     }
     f.schluss_zitate?.forEach((id) => out.push(zi(g.zitate[id])))
     return out
   }, [f, g])
+  const [wahl, setWahl] = useState<{ item: Item; i: number } | null>(null)
   const p = usePlayer(items)
   useEffect(() => { p.stop() }, [niveau]) // eslint-disable-line react-hooks/exhaustive-deps
   const aktivId = p.index >= 0 ? items[p.index]?.id : undefined
@@ -80,7 +82,8 @@ export default function Reader({ g, s, set, zurueck }: {
           <div key={it.id} id={`item-${it.id}`} className="satz">
             {it.zitat ? <ZitatBox z={it.zitat} s={s} aktiv={aktivId === it.id} /> : (
               <div className={aktivId === it.id ? 'aktiv-satz' : ''}>
-                <ArText text={it.ar} s={s} words={it.ts ? { aktiv: aktivId === it.id ? p.wort : -1, ts: it.ts } : undefined} />
+                <ArText text={it.ar} s={s} words={it.ts || it.woerter ? { aktiv: aktivId === it.id ? p.wort : -1, tippbar: it.woerter?.map(Boolean), onTap: (i) => setWahl({ item: it, i }) } : undefined} />
+                {it.woerter && <p className="klein">Tippe auf ein Wort für Bedeutung und Grammatik.</p>}
                 {s.uebersetzung === 'immer' && <p className="de">{it.de}</p>}
                 {s.uebersetzung === 'tippen' && (
                   <>
@@ -108,6 +111,10 @@ export default function Reader({ g, s, set, zurueck }: {
         </ul>
         {g.hinweis && <p className="hinweis">{g.hinweis}</p>}
       </section>
+      {wahl?.item.woerter && (
+        <WordSheet wort={wahl.item.woerter[wahl.i]} geschichte={g.id} zu={() => setWahl(null)}
+          ts={wahl.item.ts?.find((t) => t.wort_index === wahl.i)} audioUrl={wahl.item.audio_url} />
+      )}
       <PlayerBar p={p} anzahl={items.length} />
     </main>
   )
