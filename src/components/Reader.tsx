@@ -2,6 +2,9 @@ import { useEffect, useMemo, useState } from 'react'
 import { usePlayer, type Spur } from '../usePlayer'
 import PlayerBar from './PlayerBar'
 import WordSheet from './WordSheet'
+import QuizView from './QuizView'
+import { quizVerfuegbar } from '../quiz'
+import { markiereGelesen, useFortschritt } from '../progress'
 import type { Geschichte, Niveau, Wort, Zitat } from '../types'
 import type { Settings } from '../settings'
 import ArText from './WordText'
@@ -48,6 +51,8 @@ export default function Reader({ g, s, set, zurueck }: {
     return out
   }, [f, g])
   const [wahl, setWahl] = useState<{ item: Item; i: number } | null>(null)
+  const [quiz, setQuiz] = useState(false)
+  const fort = useFortschritt()
   const p = usePlayer(items)
   useEffect(() => { p.stop() }, [niveau]) // eslint-disable-line react-hooks/exhaustive-deps
   const aktivId = p.index >= 0 ? items[p.index]?.id : undefined
@@ -55,6 +60,7 @@ export default function Reader({ g, s, set, zurueck }: {
     if (aktivId) document.getElementById(`item-${aktivId}`)?.scrollIntoView({ block: 'center', behavior: 'smooth' })
   }, [aktivId])
 
+  if (quiz) return <QuizView g={g} niveau={niveau} zurueck={() => setQuiz(false)} />
   return (
     <main className="seite">
       <button className="link" onClick={zurueck}>← Zurück</button>
@@ -98,6 +104,16 @@ export default function Reader({ g, s, set, zurueck }: {
             {it.audio_url && <button className="link" onClick={() => p.play(i)}>▶ ab hier abspielen</button>}
           </div>
         ))}
+      </section>
+
+      <section className="abschluss">
+        {quizVerfuegbar(g, niveau)
+          ? <button className="gold gross-btn" onClick={() => setQuiz(true)}>Quiz starten ({niveau})</button>
+          : <p className="klein">Für dieses Niveau gibt es noch kein Quiz.</p>}
+        <button className="gross-btn" onClick={() => markiereGelesen(g.id)} disabled={!!fort.gelesen[g.id]}>
+          {fort.gelesen[g.id] ? '✓ Als gelesen gespeichert' : 'Als gelesen markieren'}
+        </button>
+        {fort.quiz[`${g.id}|${niveau}`] && <p className="klein">Bestes Quiz-Ergebnis: {fort.quiz[`${g.id}|${niveau}`].beste} %</p>}
       </section>
 
       <section className="quellen">

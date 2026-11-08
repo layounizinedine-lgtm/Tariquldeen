@@ -55,3 +55,11 @@ button:disabled{opacity:.4;cursor:not-allowed}
 .lernkarte{background:var(--card);border:1px solid var(--gold);border-radius:14px;padding:16px;text-align:center;margin:12px 0}
 .vokliste{list-style:none;padding:0}.vokliste li{display:flex;gap:12px;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);padding:8px 0}
 .vok-knopf{text-align:center}
+.stats{text-align:center;color:var(--muted);font-size:.9rem}
+.abschluss{display:grid;gap:8px;margin:20px 0}
+.optionen{display:grid;gap:8px;margin:12px 0}
+.opt{border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:12px;padding:14px;font:inherit;text-align:left;cursor:pointer}
+.opt.richtig{background:#2e7d5b;color:#fff;border-color:#2e7d5b}.opt.falsch{background:#b4432c;color:#fff;border-color:#b4432c}
+.optionen:has(.ar) .opt{text-align:center}
+.balken{height:6px;background:var(--line);border-radius:4px;overflow:hidden}.balken i{display:block;height:100%;background:var(--gold)}
+.feedback{margin-top:8px}

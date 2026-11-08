@@ -1,0 +1,15 @@
+{
+  "_hinweis": "ENTWURF: Fragen nur aus den A2-Sätzen abgeleitet (satz = Beleg-Satz). Von fachkundiger Person zu prüfen.",
+  "verstaendnis": [
+    { "satz": "a3", "frage": "Was sah Yusuf in seinem Traum?",
+      "optionen": ["Elf Sterne, die Sonne und den Mond", "Sieben Berge und zwei Flüsse", "Einen Brunnen und eine Karawane", "Zwölf Palmen und den Wind"], "richtig": 0 },
+    { "satz": "a4", "frage": "Wem erzählte Yusuf von dem Traum?",
+      "optionen": ["Seinem Vater", "Seinen Brüdern", "Einem Händler", "Seinem Lehrer"], "richtig": 0 },
+    { "satz": "a5", "frage": "Wohin warfen ihn seine Brüder?",
+      "optionen": ["In einen Fluss", "In den Brunnen", "In ein Haus", "In die Wüste"], "richtig": 1 },
+    { "satz": "a6", "frage": "Wofür wurde Yusuf verkauft?",
+      "optionen": ["Für viel Gold", "Für ein Kamel", "Für wenige Dirhams", "Für ein Pferd"], "richtig": 2 },
+    { "satz": "a1", "frage": "Was war Yusuf am Anfang der Geschichte?",
+      "optionen": ["Ein alter Mann", "Ein kleiner Junge", "Ein Händler", "Ein König"], "richtig": 1 }
+  ]
+}
