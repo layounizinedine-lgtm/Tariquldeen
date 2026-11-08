@@ -2,8 +2,8 @@ import type { Settings } from '../settings'
 
 export default function SettingsBar({ s, set }: { s: Settings; set: (p: Partial<Settings>) => void }) {
   return (
-    <details className="einstellungen">
-      <summary>Anzeige-Einstellungen</summary>
+    <div className="einstellungen">
+      <h2>Anzeige</h2>
       <label>Schriftgröße: {s.groesse}px
         <input type="range" min={22} max={56} value={s.groesse} onChange={(e) => set({ groesse: +e.target.value })} />
       </label>
@@ -23,6 +23,6 @@ export default function SettingsBar({ s, set }: { s: Settings; set: (p: Partial<
           <option value="auto">System</option><option value="hell">Hell</option><option value="dunkel">Dunkel</option>
         </select>
       </label>
-    </details>
+    </div>
   )
 }

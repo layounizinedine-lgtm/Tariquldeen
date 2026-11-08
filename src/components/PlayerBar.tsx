@@ -1,7 +1,10 @@
 import type { usePlayer } from '../usePlayer'
 
 type P = ReturnType<typeof usePlayer>
-export default function PlayerBar({ p, anzahl }: { p: P; anzahl: number }) {
+export default function PlayerBar({ p, anzahl, ausblenden }: { p: P; anzahl: number; ausblenden?: boolean }) {
+  if (ausblenden) return null
+  if (p.index < 0 && !p.playing)
+    return <button className="pille" onClick={p.toggle} aria-label="Geschichte anhören">▶ Anhören</button>
   return (
     <div className="playerbar" role="group" aria-label="Audio-Player">
       <div className="pb-zeile">
@@ -10,7 +13,7 @@ export default function PlayerBar({ p, anzahl }: { p: P; anzahl: number }) {
         <button onClick={p.stop} aria-label="Stopp">⏹</button>
         <button onClick={p.weiter} aria-label="Satz vor">⏭</button>
         <button className={p.repeat ? 'on' : ''} onClick={() => p.setRepeat(!p.repeat)} aria-pressed={p.repeat} aria-label="Satz wiederholen">🔁</button>
-        <span className="klein">{p.index >= 0 ? `${p.index + 1}/${anzahl}` : `–/${anzahl}`}</span>
+        <span className="klein">{p.index + 1}/{anzahl}</span>
       </div>
       <label className="pb-tempo">Tempo {p.rate.toFixed(1)}×
         <input type="range" min={0.5} max={1.5} step={0.1} value={p.rate} onChange={(e) => p.setRate(+e.target.value)} />
