@@ -36,7 +36,7 @@ export default function Reader({ g, s, set, zurueck }: {
   return (
     <main className="seite">
       <button className="link" onClick={zurueck}>← Zurück</button>
-      <CoverArt motiv={g.bild_motiv} />
+      <CoverArt motiv={g.bild_motiv} url={g.bild_url} />
       <h1>{g.titel_de}</h1>
       <p className="ar titel-ar" dir="rtl" lang="ar">{g.titel_ar}</p>
       {g.status === 'entwurf' && <p className="banner">Entwurf – noch nicht von einer fachkundigen Person geprüft</p>}

@@ -25,7 +25,7 @@ export default function App() {
             {liste.length === 0 && <p className="leer">Noch keine geprüften Geschichten.</p>}
             {liste.map((x) => (
               <button key={x.id} className="karte" onClick={() => setId(x.id)}>
-                <CoverArt motiv={x.bild_motiv} />
+                <CoverArt motiv={x.bild_motiv} url={x.bild_url} />
                 <span>{x.titel_de}{x.status === 'entwurf' && <em className="tag">Entwurf</em>}</span>
               </button>
             ))}

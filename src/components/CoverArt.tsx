@@ -1,5 +1,6 @@
 // Platzhalter-Titelbild (flache SVG, keine Lebewesen). Wird später durch echte Illustrationen (bild_url) ersetzt.
-export default function CoverArt({ motiv }: { motiv: string }) {
+export default function CoverArt({ motiv, url }: { motiv: string; url?: string }) {
+  if (url) return <img src={url} alt={`Titelbild: ${motiv}`} className="cover" loading="lazy" />
   return (
     <svg viewBox="0 0 400 200" role="img" aria-label={`Titelbild: ${motiv}`} className="cover" preserveAspectRatio="xMidYMid slice">
       <defs>

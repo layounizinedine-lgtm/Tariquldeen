@@ -15,7 +15,7 @@ const z53: Zitat = {
 
 export const yusuf: Geschichte = {
   id: 'yusuf', bereich: 'anbiya', titel_ar: 'يُوسُفُ عَلَيْهِ السَّلَامُ', titel_de: 'Yusuf (Josef)',
-  bild_motiv: 'brunnen', status: 'entwurf',
+  bild_motiv: 'brunnen', bild_url: '/bilder/yusuf.webp', status: 'entwurf',
   quellen: [
     { werk: 'Quran', stelle: 'Sure 12 (Yusuf), hier 12:4, 12:15, 12:20, 12:53' },
     { werk: 'Ibn Kathir, Qisas al-Anbiya', stelle: '[Platzhalter: Seite/Kapitel noch einzutragen]', platzhalter: true },
