@@ -1,5 +1,7 @@
 import type { Geschichte, Zitat } from '../types'
 import quran from './quran-yusuf.json'
+import a2Saetze from './yusuf-saetze-a2.json'
+import audio from './yusuf-audio.json' // PLATZHALTER-Töne, siehe scripts/make-placeholder-audio.py
 
 // Quran-Text stammt aus scripts/fetch-quran.mjs (Quran.com-API), nie von Hand getippt.
 const q = (key: keyof typeof quran): Zitat => ({
@@ -35,16 +37,14 @@ export const yusuf: Geschichte = {
     },
     A2: {
       status: 'entwurf',
+      audio_platzhalter: true,
       hinweis: 'Vereinfachte Nacherzählung (Entwurf, Harakat ungeprüft). Inhalt stützt sich nur auf Sure 12.',
       schluss_zitate: [z53.id],
-      saetze: [
-        { id: 'a1', text_ar_mit_harakat: 'كَانَ يُوسُفُ وَلَدًا صَغِيرًا.', text_de: 'Yusuf war ein kleiner Junge.' },
-        { id: 'a2', text_ar_mit_harakat: 'رَأَى يُوسُفُ حُلْمًا.', text_de: 'Yusuf hatte einen Traum.' },
-        { id: 'a3', text_ar_mit_harakat: 'رَأَى أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ.', text_de: 'Er sah elf Sterne, die Sonne und den Mond.', zitat_nach: z4.id },
-        { id: 'a4', text_ar_mit_harakat: 'أَخْبَرَ يُوسُفُ أَبَاهُ بِالْحُلْمِ.', text_de: 'Yusuf erzählte seinem Vater von dem Traum.' },
-        { id: 'a5', text_ar_mit_harakat: 'أَلْقَاهُ إِخْوَتُهُ فِي الْجُبِّ.', text_de: 'Seine Brüder warfen ihn in den Brunnen.', zitat_nach: z15.id },
-        { id: 'a6', text_ar_mit_harakat: 'بِيعَ يُوسُفُ بِدَرَاهِمَ قَلِيلَةٍ.', text_de: 'Yusuf wurde für wenige Dirhams verkauft.', zitat_nach: z20.id },
-      ],
+      saetze: a2Saetze.map((x) => ({
+        id: x.id, text_ar_mit_harakat: x.ar, text_de: x.de,
+        zitat_nach: (x as { zitat_nach?: string }).zitat_nach,
+        ...audio[x.id as keyof typeof audio],
+      })),
     },
   },
 }

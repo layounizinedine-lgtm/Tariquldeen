@@ -1,0 +1,157 @@
+{
+ "a1": {
+  "audio_url": "/audio/yusuf/A2/a1.wav",
+  "wort_zeitstempel": [
+   {
+    "wort_index": 0,
+    "start": 0.0,
+    "ende": 0.43
+   },
+   {
+    "wort_index": 1,
+    "start": 0.51,
+    "ende": 1.0
+   },
+   {
+    "wort_index": 2,
+    "start": 1.08,
+    "ende": 1.57
+   },
+   {
+    "wort_index": 3,
+    "start": 1.65,
+    "ende": 2.2
+   }
+  ]
+ },
+ "a2": {
+  "audio_url": "/audio/yusuf/A2/a2.wav",
+  "wort_zeitstempel": [
+   {
+    "wort_index": 0,
+    "start": 0.0,
+    "ende": 0.43
+   },
+   {
+    "wort_index": 1,
+    "start": 0.51,
+    "ende": 1.0
+   },
+   {
+    "wort_index": 2,
+    "start": 1.08,
+    "ende": 1.57
+   }
+  ]
+ },
+ "a3": {
+  "audio_url": "/audio/yusuf/A2/a3.wav",
+  "wort_zeitstempel": [
+   {
+    "wort_index": 0,
+    "start": 0.0,
+    "ende": 0.43
+   },
+   {
+    "wort_index": 1,
+    "start": 0.51,
+    "ende": 0.94
+   },
+   {
+    "wort_index": 2,
+    "start": 1.02,
+    "ende": 1.45
+   },
+   {
+    "wort_index": 3,
+    "start": 1.53,
+    "ende": 2.08
+   },
+   {
+    "wort_index": 4,
+    "start": 2.16,
+    "ende": 2.77
+   },
+   {
+    "wort_index": 5,
+    "start": 2.85,
+    "ende": 3.46
+   }
+  ]
+ },
+ "a4": {
+  "audio_url": "/audio/yusuf/A2/a4.wav",
+  "wort_zeitstempel": [
+   {
+    "wort_index": 0,
+    "start": 0.0,
+    "ende": 0.49
+   },
+   {
+    "wort_index": 1,
+    "start": 0.57,
+    "ende": 1.06
+   },
+   {
+    "wort_index": 2,
+    "start": 1.14,
+    "ende": 1.63
+   },
+   {
+    "wort_index": 3,
+    "start": 1.71,
+    "ende": 2.32
+   }
+  ]
+ },
+ "a5": {
+  "audio_url": "/audio/yusuf/A2/a5.wav",
+  "wort_zeitstempel": [
+   {
+    "wort_index": 0,
+    "start": 0.0,
+    "ende": 0.55
+   },
+   {
+    "wort_index": 1,
+    "start": 0.63,
+    "ende": 1.18
+   },
+   {
+    "wort_index": 2,
+    "start": 1.26,
+    "ende": 1.63
+   },
+   {
+    "wort_index": 3,
+    "start": 1.71,
+    "ende": 2.2
+   }
+  ]
+ },
+ "a6": {
+  "audio_url": "/audio/yusuf/A2/a6.wav",
+  "wort_zeitstempel": [
+   {
+    "wort_index": 0,
+    "start": 0.0,
+    "ende": 0.43
+   },
+   {
+    "wort_index": 1,
+    "start": 0.51,
+    "ende": 1.0
+   },
+   {
+    "wort_index": 2,
+    "start": 1.08,
+    "ende": 1.69
+   },
+   {
+    "wort_index": 3,
+    "start": 1.77,
+    "ende": 2.32
+   }
+  ]
+ }
+}

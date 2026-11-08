@@ -21,7 +21,7 @@ export interface Satz {
   zitat_id?: string // Satz ist ein Originalzitat (Ayah/Hadith/Athar)
   zitat_nach?: string // Zitat-Kasten nach diesem Satz anzeigen
 }
-export interface Fassung { status: Status; saetze: Satz[]; hinweis?: string; schluss_zitate?: string[] }
+export interface Fassung { status: Status; saetze: Satz[]; hinweis?: string; schluss_zitate?: string[]; audio_platzhalter?: boolean }
 export interface Geschichte {
   id: string; bereich: Bereich; titel_ar: string; titel_de: string
   bild_url?: string; bild_motiv: string

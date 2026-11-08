@@ -31,3 +31,13 @@ h1{font-size:1.5rem;margin:.6em 0 .2em}h2{font-size:1.15rem;margin:1.4em 0 .3em}
 .zitat audio{width:100%;margin-top:6px}
 .platzhalter{color:#b4432c;font-style:italic}
 .quellen ul{padding-left:18px}
+.playerbar{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--gold);padding:8px 16px calc(8px + env(safe-area-inset-bottom));z-index:10;max-width:720px;margin:0 auto}
+.pb-zeile{display:flex;gap:6px;align-items:center;justify-content:center}
+.pb-zeile button{width:42px;height:42px;border-radius:50%;border:1px solid var(--line);background:var(--bg);color:var(--text);font-size:1.1rem;cursor:pointer}
+.pb-zeile button.gross{width:52px;height:52px;background:var(--gold);color:#0e1b33;border-color:var(--gold)}
+.pb-zeile button.on{outline:2px solid var(--gold)}
+.pb-tempo{display:flex;gap:10px;align-items:center;font-size:.85rem;color:var(--muted);margin-top:4px}.pb-tempo input{flex:1}
+.aktiv-satz{background:color-mix(in srgb,var(--gold) 14%,transparent);border-radius:10px}
+.zitat.aktiv{box-shadow:0 0 0 2px var(--gold)}
+.wort{border-radius:6px;transition:background .1s}.aktiv-wort{background:var(--gold);color:#0e1b33}
+.seite{padding-bottom:170px}

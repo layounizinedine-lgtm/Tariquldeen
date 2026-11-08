@@ -1,0 +1,35 @@
+[
+ {
+  "id": "a1",
+  "ar": "كَانَ يُوسُفُ وَلَدًا صَغِيرًا.",
+  "de": "Yusuf war ein kleiner Junge."
+ },
+ {
+  "id": "a2",
+  "ar": "رَأَى يُوسُفُ حُلْمًا.",
+  "de": "Yusuf hatte einen Traum."
+ },
+ {
+  "id": "a3",
+  "ar": "رَأَى أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ.",
+  "de": "Er sah elf Sterne, die Sonne und den Mond.",
+  "zitat_nach": "q-12:4"
+ },
+ {
+  "id": "a4",
+  "ar": "أَخْبَرَ يُوسُفُ أَبَاهُ بِالْحُلْمِ.",
+  "de": "Yusuf erzählte seinem Vater von dem Traum."
+ },
+ {
+  "id": "a5",
+  "ar": "أَلْقَاهُ إِخْوَتُهُ فِي الْجُبِّ.",
+  "de": "Seine Brüder warfen ihn in den Brunnen.",
+  "zitat_nach": "q-12:15"
+ },
+ {
+  "id": "a6",
+  "ar": "بِيعَ يُوسُفُ بِدَرَاهِمَ قَلِيلَةٍ.",
+  "de": "Yusuf wurde für wenige Dirhams verkauft.",
+  "zitat_nach": "q-12:20"
+ }
+]
