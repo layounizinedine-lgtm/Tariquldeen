@@ -1,0 +1,33 @@
+:root{--bg:#f6efdd;--card:#fffaf0;--text:#1d2433;--muted:#6a6454;--gold:#a8821a;--green:#14533f;--line:#e2d6b5;--accent:#0e1b33}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#0e1b33;--card:#16264a;--text:#f3ead2;--muted:#b3ab94;--gold:#d9b648;--green:#7cc3a6;--line:#2c4170;--accent:#d9b648}}
+:root[data-theme=dark]{--bg:#0e1b33;--card:#16264a;--text:#f3ead2;--muted:#b3ab94;--gold:#d9b648;--green:#7cc3a6;--line:#2c4170;--accent:#d9b648}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+.seite{max-width:720px;margin:0 auto;padding:16px 16px 64px}
+h1{font-size:1.5rem;margin:.6em 0 .2em}h2{font-size:1.15rem;margin:1.4em 0 .3em}
+.ar{font-family:'Amiri',serif;direction:rtl;margin:.3em 0}
+.logo{color:var(--gold);font-size:2.4rem;text-align:center;margin:0}
+.kopf{text-align:center;padding:12px 0}.kopf h1{font-size:1.15rem;color:var(--muted);font-weight:500}
+.titel-ar{font-size:1.8rem;color:var(--gold)}
+.cover{width:100%;height:auto;aspect-ratio:2/1;border-radius:14px;display:block}
+.karte{display:block;width:100%;text-align:left;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:8px 8px 12px;margin:10px 0;color:var(--text);font:inherit;font-weight:600;cursor:pointer}
+.karte span{display:block;padding:8px 6px 0}
+.tag,.banner{font-style:normal;font-size:.75rem;background:var(--gold);color:#0e1b33;border-radius:999px;padding:2px 8px;margin-left:8px}
+.banner{display:inline-block;margin:0 0 10px;margin-left:0}
+.klein{font-size:.85rem;color:var(--muted)}.leer{color:var(--muted);font-style:italic}
+.hinweis{font-size:.85rem;border-left:3px solid var(--gold);padding-left:10px;color:var(--muted)}
+.link{background:none;border:0;color:var(--gold);font:inherit;padding:6px 0;cursor:pointer}
+.niveaus{display:flex;gap:6px;overflow-x:auto;padding:8px 0}
+.niveaus button{flex:0 0 auto;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:999px;padding:6px 14px;font:inherit;cursor:pointer}
+.niveaus button.on{background:var(--gold);color:#0e1b33;border-color:var(--gold)}
+.niveaus button:disabled{opacity:.35;cursor:not-allowed}
+.einstellungen{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 14px;margin:10px 0}
+.einstellungen label{display:flex;justify-content:space-between;gap:10px;align-items:center;margin:8px 0}
+.einstellungen select{font:inherit}
+.satz{border-bottom:1px solid var(--line);padding:6px 0}
+.de{color:var(--muted);margin:0 0 6px}
+.zitat{background:var(--card);border:1px solid var(--gold);border-radius:12px;padding:10px 14px;margin:8px 0}
+.zitat-kopf{display:flex;justify-content:space-between;gap:8px;font-size:.78rem;color:var(--gold);text-transform:uppercase;letter-spacing:.04em}
+.zitat audio{width:100%;margin-top:6px}
+.platzhalter{color:#b4432c;font-style:italic}
+.quellen ul{padding-left:18px}
