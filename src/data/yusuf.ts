@@ -2,6 +2,7 @@ import type { Geschichte, Wort, Zitat } from '../types'
 import quran from './quran-yusuf.json'
 import a2Saetze from './yusuf-saetze-a2.json'
 import woerter from './yusuf-woerter-a2.json' // ENTWURF, von Hand vorberechnet, ungeprüft
+import quizA2 from './yusuf-quiz-a2.json'
 import audio from './yusuf-audio.json' // PLATZHALTER-Töne, siehe scripts/make-placeholder-audio.py
 
 // Quran-Text stammt aus scripts/fetch-quran.mjs (Quran.com-API), nie von Hand getippt.
@@ -25,6 +26,7 @@ export const yusuf: Geschichte = {
   ],
   hinweis: 'ENTWURF: Auswahl, Nacherzählung und Harakat der vereinfachten Fassungen müssen von einer fachkundigen Person geprüft werden.',
   zitate: { [z4.id]: z4, [z15.id]: z15, [z20.id]: z20, [z53.id]: z53 },
+  quiz: { A2: quizA2.verstaendnis },
   fassungen: {
     klassisch: {
       status: 'entwurf',

@@ -28,4 +28,7 @@ export interface Geschichte {
   quellen: Quelle[]; hinweis?: string; status: Status
   zitate: Record<string, Zitat>
   fassungen: Partial<Record<Niveau, Fassung>>
+  quiz?: Partial<Record<Niveau, VerstaendnisFrage[]>>
 }
+
+export interface VerstaendnisFrage { satz: string; frage: string; optionen: string[]; richtig: number }

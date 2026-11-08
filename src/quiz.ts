@@ -1,6 +1,5 @@
 import type { Fassung, Geschichte, Niveau, Wort } from './types'
 import { kartenId } from './vocab'
-import verstaendnisA2 from './data/yusuf-quiz-a2.json'
 
 export type FrageTyp = 'verstaendnis' | 'vokabel_ar_de' | 'vokabel_de_ar' | 'hoeren' | 'luecke' | 'grammatik'
 export interface Frage {
@@ -23,7 +22,7 @@ function frage(base: Omit<Frage, 'optionen' | 'richtig'>, richtig: string, falsc
 
 export function quizVerfuegbar(g: Geschichte, n: Niveau) {
   const f = g.fassungen[n]
-  return !!f && (n === 'A2' && g.id === 'yusuf' || f.saetze.some((s) => s.woerter))
+  return !!f && (!!g.quiz?.[n]?.length || f.saetze.some((s) => s.woerter))
 }
 
 export function baueQuiz(g: Geschichte, n: Niveau, seed = Date.now()): { fragen: Frage[]; hinweise: string[] } {
@@ -32,8 +31,8 @@ export function baueQuiz(g: Geschichte, n: Niveau, seed = Date.now()): { fragen:
   const add = (x: Frage | null) => x && out.push(x)
 
   // 1) Verständnisfragen (von Hand, mit Beleg-Satz)
-  if (g.id === 'yusuf' && n === 'A2') {
-    for (const v of verstaendnisA2.verstaendnis) {
+  {
+    for (const v of g.quiz?.[n] ?? []) {
       const s = f.saetze.find((x) => x.id === v.satz)
       add({ id: `v-${v.satz}`, typ: 'verstaendnis', prompt: v.frage, optionen: v.optionen, richtig: v.richtig,
         erklaerung: s ? `Siehe Satz: ${s.text_de}` : undefined })

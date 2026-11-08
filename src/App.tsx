@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import { alleGeschichten, bereiche, sichtbar } from './data'
+import { bereiche, sichtbar } from './data'
+import { useGeschichten } from './store'
 import { useSettings } from './settings'
 import Reader from './components/Reader'
 import CoverArt from './components/CoverArt'
@@ -13,6 +14,7 @@ export default function App() {
   const [vok, setVok] = useState(false)
   const karten = useVokabeln()
   const fort = useFortschritt()
+  const { liste: alleGeschichten, laedt, fehler } = useGeschichten()
   const g = alleGeschichten.find((x) => x.id === id)
   if (vok) return <VocabView zurueck={() => setVok(false)} />
   if (g) return <Reader g={g} s={s} set={set} zurueck={() => setId(null)} />
@@ -26,6 +28,8 @@ export default function App() {
           <span>🔥 {serie(fort.tage)} Tage</span><span>⭐ {fort.punkte} Punkte</span><span>📖 {Object.keys(fort.gelesen).length} gelesen</span>
         </div>
       </header>
+      {laedt && <p className="klein mitte">Lade Geschichten …</p>}
+      {fehler && <p className="hinweis">Offline oder Serverfehler – zeige gespeicherte Geschichten. ({fehler})</p>}
       <button className="vok-karte" onClick={() => setVok(true)}>
         <span>📚 Meine Vokabeln<small>{karten.length} Karten</small></span>
         <em className="tag">{faellige(karten).length} fällig</em>

@@ -110,3 +110,15 @@ button:disabled{opacity:.4;cursor:not-allowed}
 .balken{height:6px;background:var(--line);border-radius:4px;overflow:hidden}.balken i{display:block;height:100%;background:var(--gold2)}
 .feedback{margin-top:8px}
 .einstellungen h2{margin-top:0}
+
+/* Admin */
+.admin .feld{display:grid;gap:4px;margin:10px 0;font-size:.85rem;color:var(--muted)}
+.admin input,.admin textarea,.admin select{font:inherit;padding:9px 10px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--text);width:100%}
+.admin textarea.code{font-family:ui-monospace,monospace;font-size:.78rem}
+.admin .ar-edit{font-size:1.5rem;line-height:2}
+.quellzeile{display:grid;grid-template-columns:1fr 1fr 110px auto auto;gap:6px;align-items:center;margin:6px 0}
+@media(max-width:560px){.quellzeile{grid-template-columns:1fr 1fr}}
+.satzedit{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;margin:12px 0;display:grid;gap:6px}
+.satzkopf{display:flex;justify-content:space-between;align-items:center}.satzkopf .id{width:90px}
+.check{display:flex;gap:6px;align-items:center;font-size:.85rem}.check input{width:auto}
+code{background:var(--bg2);padding:1px 5px;border-radius:5px}
