@@ -13,7 +13,7 @@ export interface Zitat {
   id: string; typ: 'ayah' | 'hadith' | 'athar'
   text_ar: string; text_de: string; quelle: string
   einstufung?: string; hinweis?: string
-  rezitation_url?: string; qari?: string
+  rezitation_url?: string; qari?: string; wort_zeitstempel?: WortZeitstempel[]
 }
 export interface Satz {
   id: string; text_ar_mit_harakat: string; text_de: string

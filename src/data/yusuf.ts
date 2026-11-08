@@ -7,7 +7,7 @@ import audio from './yusuf-audio.json' // PLATZHALTER-Töne, siehe scripts/make-
 // Quran-Text stammt aus scripts/fetch-quran.mjs (Quran.com-API), nie von Hand getippt.
 const q = (key: keyof typeof quran): Zitat => ({
   id: `q-${key}`, typ: 'ayah', text_ar: quran[key].text_ar, text_de: quran[key].text_de,
-  quelle: quran[key].quelle, rezitation_url: quran[key].audio, qari: quran[key].qari,
+  quelle: quran[key].quelle, wort_zeitstempel: (quran[key] as { wort_zeitstempel?: Zitat['wort_zeitstempel'] }).wort_zeitstempel, rezitation_url: quran[key].audio, qari: quran[key].qari,
 })
 const z4 = q('12:4'), z15 = q('12:15'), z20 = q('12:20')
 const z53: Zitat = {

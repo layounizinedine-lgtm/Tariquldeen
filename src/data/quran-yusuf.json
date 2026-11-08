@@ -1,5 +1,82 @@
 {
   "12:4": {
+    "wort_zeitstempel": [
+      {
+        "wort_index": 0,
+        "start": 0.03,
+        "ende": 0.42
+      },
+      {
+        "wort_index": 1,
+        "start": 0.43,
+        "ende": 1.09
+      },
+      {
+        "wort_index": 2,
+        "start": 1.1,
+        "ende": 2.07
+      },
+      {
+        "wort_index": 3,
+        "start": 2.08,
+        "ende": 3.18
+      },
+      {
+        "wort_index": 4,
+        "start": 3.19,
+        "ende": 5.82
+      },
+      {
+        "wort_index": 5,
+        "start": 5.83,
+        "ende": 7.36
+      },
+      {
+        "wort_index": 6,
+        "start": 7.37,
+        "ende": 8.31
+      },
+      {
+        "wort_index": 7,
+        "start": 8.32,
+        "ende": 8.88
+      },
+      {
+        "wort_index": 8,
+        "start": 8.89,
+        "ende": 9.64
+      },
+      {
+        "wort_index": 9,
+        "start": 9.65,
+        "ende": 10.53
+      },
+      {
+        "wort_index": 10,
+        "start": 10.54,
+        "ende": 12.55
+      },
+      {
+        "wort_index": 11,
+        "start": 12.56,
+        "ende": 13.72
+      },
+      {
+        "wort_index": 12,
+        "start": 13.73,
+        "ende": 15.12
+      },
+      {
+        "wort_index": 13,
+        "start": 15.13,
+        "ende": 15.54
+      },
+      {
+        "wort_index": 14,
+        "start": 15.55,
+        "ende": 18.3
+      }
+    ],
     "key": "12:4",
     "text_ar": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
     "text_de": "Als Yusuf zu seinem Vater sagte: O mein Vater, ich sah elf Sterne und die Sonne und den Mond, ich sah sie sich vor mir niederwerfen.",
@@ -8,6 +85,93 @@
     "qari": "Mishari Rashid al-Afasy"
   },
   "12:15": {
+    "wort_zeitstempel": [
+      {
+        "wort_index": 0,
+        "start": 0.03,
+        "ende": 1.86
+      },
+      {
+        "wort_index": 1,
+        "start": 1.87,
+        "ende": 2.79
+      },
+      {
+        "wort_index": 2,
+        "start": 2.8,
+        "ende": 3.51
+      },
+      {
+        "wort_index": 3,
+        "start": 3.52,
+        "ende": 6.18
+      },
+      {
+        "wort_index": 4,
+        "start": 6.19,
+        "ende": 7.38
+      },
+      {
+        "wort_index": 5,
+        "start": 7.39,
+        "ende": 8.49
+      },
+      {
+        "wort_index": 6,
+        "start": 8.5,
+        "ende": 9.02
+      },
+      {
+        "wort_index": 7,
+        "start": 9.03,
+        "ende": 10.14
+      },
+      {
+        "wort_index": 8,
+        "start": 10.15,
+        "ende": 11.53
+      },
+      {
+        "wort_index": 10,
+        "start": 11.54,
+        "ende": 12.7
+      },
+      {
+        "wort_index": 11,
+        "start": 12.71,
+        "ende": 15.56
+      },
+      {
+        "wort_index": 12,
+        "start": 15.57,
+        "ende": 19.13
+      },
+      {
+        "wort_index": 13,
+        "start": 19.14,
+        "ende": 20.4
+      },
+      {
+        "wort_index": 14,
+        "start": 20.41,
+        "ende": 21.34
+      },
+      {
+        "wort_index": 15,
+        "start": 21.35,
+        "ende": 22.05
+      },
+      {
+        "wort_index": 16,
+        "start": 22.06,
+        "ende": 22.49
+      },
+      {
+        "wort_index": 17,
+        "start": 22.5,
+        "ende": 25.32
+      }
+    ],
     "key": "12:15",
     "text_ar": "فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَـٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَـٰذَا وَهُمْ لَا يَشْعُرُونَ",
     "text_de": "Als sie ihn mitnahmen und sich geeinigt hatten, ihn in die verborgene Tiefe des Brunnenlochs zu stecken, gaben Wir ihm ein: Du wirst ihnen ganz gewiß noch diese ihre Tat kundtun, ohne daß sie merken.",
@@ -16,6 +180,53 @@
     "qari": "Mishari Rashid al-Afasy"
   },
   "12:20": {
+    "wort_zeitstempel": [
+      {
+        "wort_index": 0,
+        "start": 0.03,
+        "ende": 1.13
+      },
+      {
+        "wort_index": 1,
+        "start": 1.14,
+        "ende": 2.77
+      },
+      {
+        "wort_index": 2,
+        "start": 2.78,
+        "ende": 4.42
+      },
+      {
+        "wort_index": 3,
+        "start": 4.43,
+        "ende": 5.65
+      },
+      {
+        "wort_index": 4,
+        "start": 5.66,
+        "ende": 7.97
+      },
+      {
+        "wort_index": 5,
+        "start": 7.98,
+        "ende": 9.05
+      },
+      {
+        "wort_index": 6,
+        "start": 9.06,
+        "ende": 9.81
+      },
+      {
+        "wort_index": 7,
+        "start": 9.82,
+        "ende": 10.16
+      },
+      {
+        "wort_index": 8,
+        "start": 10.17,
+        "ende": 13.43
+      }
+    ],
     "key": "12:20",
     "text_ar": "وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍ دَرَٰهِمَ مَعْدُودَةٍ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ",
     "text_de": "Und sie verkauften ihn für einen zu niedrigen Preis, einige gezählte Dirhams. Und sie übten Verzicht in Bezug auf ihn.",

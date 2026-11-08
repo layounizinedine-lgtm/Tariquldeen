@@ -16,12 +16,12 @@ interface Item extends Spur { woerter?: Wort[]; kind: 'satz' | 'zitat'; ar: stri
 const NIVEAUS: Niveau[] = ['klassisch', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 type Tab = 'text' | 'vokabeln' | 'quiz'
 
-function ZitatBox({ z, s, aktiv }: { z: Zitat; s: Settings; aktiv?: boolean }) {
+function ZitatBox({ z, s, aktiv, wort }: { z: Zitat; s: Settings; aktiv?: boolean; wort?: number }) {
   const label = { ayah: 'Ayah', hadith: 'Hadith', athar: 'Athar' }[z.typ]
   return (
     <aside className={`zitat${aktiv ? ' aktiv' : ''}`}>
       <div className="zitat-kopf"><span className="zitat-typ">❖ {label}</span><span>{z.quelle.split(' (')[0]}</span></div>
-      <ArText text={z.text_ar} s={s} />
+      <ArText text={z.text_ar} s={s} words={z.wort_zeitstempel ? { aktiv: aktiv ? (wort ?? -1) : -1 } : undefined} />
       {s.uebersetzung !== 'aus' && <p className="de">{z.text_de}</p>}
       {z.einstufung && <p className="klein">Einstufung: {z.einstufung}</p>}
       {z.hinweis && <p className="hinweis">Hinweis: {z.hinweis}</p>}
@@ -43,7 +43,7 @@ export default function Reader({ g, s, set, zurueck }: {
 
   // Flache Abspielliste: Sätze, Zitate und Schlusszitate in Lesereihenfolge
   const items = useMemo<Item[]>(() => {
-    const zi = (z: Zitat): Item => ({ id: z.id, kind: 'zitat', ar: z.text_ar, de: z.text_de, zitat: z, audio_url: z.rezitation_url })
+    const zi = (z: Zitat): Item => ({ id: z.id, kind: 'zitat', ar: z.text_ar, de: z.text_de, zitat: z, audio_url: z.rezitation_url, ts: z.wort_zeitstempel })
     const out: Item[] = []
     for (const sa of f.saetze) {
       const z = sa.zitat_id ? g.zitate[sa.zitat_id] : undefined
@@ -66,6 +66,14 @@ export default function Reader({ g, s, set, zurueck }: {
   useEffect(() => {
     if (aktivId) document.getElementById(`item-${aktivId}`)?.scrollIntoView({ block: 'center', behavior: 'smooth' })
   }, [aktivId])
+  // Aktives Wort immer im sichtbaren Bereich halten (zwischen Kopfleiste und Player)
+  useEffect(() => {
+    if (!aktivId || p.wort < 0) return
+    const el = document.getElementById(`item-${aktivId}`)?.querySelector<HTMLElement>(`[data-w="${p.wort}"]`)
+    if (!el) return
+    const r = el.getBoundingClientRect()
+    if (r.top < 170 || r.bottom > window.innerHeight - 200) el.scrollIntoView({ block: 'center', behavior: 'smooth' })
+  }, [aktivId, p.wort])
 
   const vokabeln = useMemo(() => {
     const alle = f.saetze.flatMap((x) => x.woerter ?? []).filter((w) => w.wortart !== 'Eigenname')
@@ -122,7 +130,7 @@ export default function Reader({ g, s, set, zurueck }: {
             <section className="text">
               {items.map((it, i) => (
                 <div key={it.id} id={`item-${it.id}`} className="satz">
-                  {it.zitat ? <ZitatBox z={it.zitat} s={s} aktiv={aktivId === it.id} /> : (
+                  {it.zitat ? <ZitatBox z={it.zitat} s={s} aktiv={aktivId === it.id} wort={p.wort} /> : (
                     <div className={`satzbox${aktivId === it.id ? ' aktiv-satz' : ''}`}>
                       <ArText text={it.ar} s={s} words={it.ts || it.woerter ? {
                         aktiv: aktivId === it.id ? p.wort : -1, tippbar: it.woerter?.map(Boolean),
