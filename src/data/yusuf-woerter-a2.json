@@ -1,0 +1,232 @@
+{
+ "a1": [
+  {
+   "text": "كَانَ",
+   "wurzel": "ك و ن",
+   "grundform": "كَانَ",
+   "wortart": "Verb",
+   "bedeutung_kontext": "war",
+   "bedeutung_grund": "sein, existieren",
+   "verbform": "I",
+   "zeit": "Perfekt",
+   "person": "3. Pers. m. Sg."
+  },
+  {
+   "text": "يُوسُفُ",
+   "wurzel": "–",
+   "grundform": "يُوسُف",
+   "wortart": "Eigenname",
+   "bedeutung_kontext": "Yusuf",
+   "bedeutung_grund": "Eigenname (Prophet Yusuf)"
+  },
+  {
+   "text": "وَلَدًا",
+   "wurzel": "و ل د",
+   "grundform": "وَلَد",
+   "wortart": "Nomen",
+   "bedeutung_kontext": "Junge (Prädikat von كَانَ, Akkusativ)",
+   "bedeutung_grund": "Kind, Sohn"
+  },
+  {
+   "text": "صَغِيرًا.",
+   "wurzel": "ص غ ر",
+   "grundform": "صَغِير",
+   "wortart": "Adjektiv",
+   "bedeutung_kontext": "klein",
+   "bedeutung_grund": "klein, jung"
+  }
+ ],
+ "a2": [
+  {
+   "text": "رَأَى",
+   "wurzel": "ر أ ي",
+   "grundform": "رَأَى",
+   "wortart": "Verb",
+   "bedeutung_kontext": "hatte / sah (einen Traum)",
+   "bedeutung_grund": "sehen",
+   "verbform": "I",
+   "zeit": "Perfekt",
+   "person": "3. Pers. m. Sg."
+  },
+  {
+   "text": "يُوسُفُ",
+   "wurzel": "–",
+   "grundform": "يُوسُف",
+   "wortart": "Eigenname",
+   "bedeutung_kontext": "Yusuf",
+   "bedeutung_grund": "Eigenname (Prophet Yusuf)"
+  },
+  {
+   "text": "حُلْمًا.",
+   "wurzel": "ح ل م",
+   "grundform": "حُلْم",
+   "wortart": "Nomen",
+   "bedeutung_kontext": "Traum (Akkusativ)",
+   "bedeutung_grund": "Traum"
+  }
+ ],
+ "a3": [
+  {
+   "text": "رَأَى",
+   "wurzel": "ر أ ي",
+   "grundform": "رَأَى",
+   "wortart": "Verb",
+   "bedeutung_kontext": "sah",
+   "bedeutung_grund": "sehen",
+   "verbform": "I",
+   "zeit": "Perfekt",
+   "person": "3. Pers. m. Sg."
+  },
+  {
+   "text": "أَحَدَ",
+   "wurzel": "أ ح د",
+   "grundform": "أَحَد",
+   "wortart": "Zahlwort",
+   "bedeutung_kontext": "elf (zusammen mit عَشَرَ)",
+   "bedeutung_grund": "eins"
+  },
+  {
+   "text": "عَشَرَ",
+   "wurzel": "ع ش ر",
+   "grundform": "عَشَرَ",
+   "wortart": "Zahlwort",
+   "bedeutung_kontext": "elf (zusammen mit أَحَدَ)",
+   "bedeutung_grund": "zehn"
+  },
+  {
+   "text": "كَوْكَبًا",
+   "wurzel": "ك و ك ب",
+   "grundform": "كَوْكَب",
+   "wortart": "Nomen",
+   "bedeutung_kontext": "Stern (nach 11 im Singular, Akkusativ)",
+   "bedeutung_grund": "Stern, Planet"
+  },
+  {
+   "text": "وَالشَّمْسَ",
+   "wurzel": "ش م س",
+   "grundform": "شَمْس",
+   "wortart": "Nomen",
+   "bedeutung_kontext": "und die Sonne (وَ = und, ال = die)",
+   "bedeutung_grund": "Sonne"
+  },
+  {
+   "text": "وَالْقَمَرَ.",
+   "wurzel": "ق م ر",
+   "grundform": "قَمَر",
+   "wortart": "Nomen",
+   "bedeutung_kontext": "und der Mond (وَ = und, ال = der)",
+   "bedeutung_grund": "Mond"
+  }
+ ],
+ "a4": [
+  {
+   "text": "أَخْبَرَ",
+   "wurzel": "خ ب ر",
+   "grundform": "أَخْبَرَ",
+   "wortart": "Verb",
+   "bedeutung_kontext": "erzählte, berichtete",
+   "bedeutung_grund": "benachrichtigen, informieren",
+   "verbform": "IV",
+   "zeit": "Perfekt",
+   "person": "3. Pers. m. Sg."
+  },
+  {
+   "text": "يُوسُفُ",
+   "wurzel": "–",
+   "grundform": "يُوسُف",
+   "wortart": "Eigenname",
+   "bedeutung_kontext": "Yusuf",
+   "bedeutung_grund": "Eigenname (Prophet Yusuf)"
+  },
+  {
+   "text": "أَبَاهُ",
+   "wurzel": "أ ب و",
+   "grundform": "أَب",
+   "wortart": "Nomen",
+   "bedeutung_kontext": "seinen Vater (ـهُ = sein)",
+   "bedeutung_grund": "Vater"
+  },
+  {
+   "text": "بِالْحُلْمِ.",
+   "wurzel": "ح ل م",
+   "grundform": "حُلْم",
+   "wortart": "Nomen",
+   "bedeutung_kontext": "von dem Traum (بِ + ال; أَخْبَرَ بِ = von etwas berichten)",
+   "bedeutung_grund": "Traum"
+  }
+ ],
+ "a5": [
+  {
+   "text": "أَلْقَاهُ",
+   "wurzel": "ل ق ي",
+   "grundform": "أَلْقَى",
+   "wortart": "Verb",
+   "bedeutung_kontext": "warf ihn (ـهُ = ihn)",
+   "bedeutung_grund": "werfen",
+   "verbform": "IV",
+   "zeit": "Perfekt",
+   "person": "3. Pers. m. Sg."
+  },
+  {
+   "text": "إِخْوَتُهُ",
+   "wurzel": "أ خ و",
+   "grundform": "أَخ",
+   "wortart": "Nomen",
+   "bedeutung_kontext": "seine Brüder (Plural إِخْوَة)",
+   "bedeutung_grund": "Bruder"
+  },
+  {
+   "text": "فِي",
+   "wurzel": "–",
+   "grundform": "فِي",
+   "wortart": "Präposition",
+   "bedeutung_kontext": "in",
+   "bedeutung_grund": "in"
+  },
+  {
+   "text": "الْجُبِّ.",
+   "wurzel": "ج ب ب",
+   "grundform": "جُبّ",
+   "wortart": "Nomen",
+   "bedeutung_kontext": "der Brunnen (tiefes Brunnenloch)",
+   "bedeutung_grund": "Brunnen, Zisterne"
+  }
+ ],
+ "a6": [
+  {
+   "text": "بِيعَ",
+   "wurzel": "ب ي ع",
+   "grundform": "بَاعَ",
+   "wortart": "Verb",
+   "bedeutung_kontext": "wurde verkauft (Passiv)",
+   "bedeutung_grund": "verkaufen",
+   "verbform": "I",
+   "zeit": "Perfekt Passiv",
+   "person": "3. Pers. m. Sg."
+  },
+  {
+   "text": "يُوسُفُ",
+   "wurzel": "–",
+   "grundform": "يُوسُف",
+   "wortart": "Eigenname",
+   "bedeutung_kontext": "Yusuf",
+   "bedeutung_grund": "Eigenname (Prophet Yusuf)"
+  },
+  {
+   "text": "بِدَرَاهِمَ",
+   "wurzel": "د ر ه م",
+   "grundform": "دِرْهَم",
+   "wortart": "Nomen",
+   "bedeutung_kontext": "für Dirhams (Plural von دِرْهَم, nach بِ)",
+   "bedeutung_grund": "Dirham (Silbermünze)"
+  },
+  {
+   "text": "قَلِيلَةٍ.",
+   "wurzel": "ق ل ل",
+   "grundform": "قَلِيل",
+   "wortart": "Adjektiv",
+   "bedeutung_kontext": "wenige (Adjektiv zu einem Plural von Sachen: Femininum Singular)",
+   "bedeutung_grund": "wenig, gering"
+  }
+ ]
+}
