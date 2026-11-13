@@ -1,0 +1,74 @@
+{
+ "id": "sad",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ سَعْدُ بْنُ أَبِي وَقَّاصٍ، مِنْ بَنِي زُهْرَةَ، أَبُو إِسْحَاقَ.",
+   "de": "Er ist Saʿd ibn Abi Waqqas, aus dem Stamm Zuhra, Abu Ishaq.",
+   "page_id": 1519,
+   "book_id": 10906
+  },
+  {
+   "ar": "هُوَ أَحَدُ الْعَشَرَةِ، وَمِنَ السَّابِقِينَ الْأَوَّلِينَ، وَشَهِدَ بَدْرًا وَالْحُدَيْبِيَةَ.",
+   "de": "Er ist einer der Zehn, einer der Ersten im Islam, und war bei Badr und Hudaybiya dabei.",
+   "page_id": 1519,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَهُوَ أَحَدُ السِّتَّةِ أَهْلِ الشُّورَى.",
+   "de": "Er gehörte zu den sechs Männern der Schura.",
+   "page_id": 1519,
+   "book_id": 10906
+  },
+  {
+   "ar": "أَسْلَمَ وَعُمُرُهُ سَبْعَ عَشْرَةَ سَنَةً.",
+   "de": "Er nahm den Islam mit 17 Jahren an.",
+   "page_id": 1522,
+   "book_id": 10906
+  },
+  {
+   "ar": "قَالَ سَعْدٌ: إِنِّي لَأَوَّلُ الْمُسْلِمِينَ رَمَى الْمُشْرِكِينَ بِسَهْمٍ.",
+   "de": "Saʿd sagte: Ich war der erste Muslim, der einen Pfeil auf die Götzendiener schoss.",
+   "page_id": 1524,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ لَهُ النَّبِيُّ ﷺ: ارْمِ، فِدَاكَ أَبِي وَأُمِّي.",
+   "de": "Der Prophet ﷺ sagte zu ihm: Schieß – mein Vater und meine Mutter seien dir Lösegeld!",
+   "page_id": 1524,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَلَمَّا شَكَاهُ قَوْمٌ إِلَى عُمَرَ، قَالَ إِنَّهُ يُصَلِّي كَمَا صَلَّى النَّبِيُّ ﷺ.",
+   "de": "Als sich Leute bei ʿUmar über ihn beschwerten, sagte er, er bete so, wie der Prophet ﷺ gebetet hat.",
+   "page_id": 1520,
+   "book_id": 10906
+  },
+  {
+   "ar": "تُوُفِّيَ فِي قَصْرِهِ بِالْعَقِيقِ، وَحُمِلَ إِلَى الْمَدِينَةِ.",
+   "de": "Er starb in seinem Haus in al-ʿAqiq und wurde nach Medina getragen.",
+   "page_id": 1523,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "مَا جَمَعَ رَسُوْلُ اللهِ -ﷺ- أَبَوَيْهِ لأَحَدٍ قَبْلِي",
+   "text_de": "Vor mir hat der Gesandte Allahs ﷺ für niemanden seine beiden Eltern (als Lösegeld) genannt. (Saʿd)",
+   "page_id": 1524,
+   "einstufung": "متفق عليه (laut adh-Dhahabi)",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "وَإِنِّي لأَوَّلُ المُسْلِمِيْنَ رَمَى المُشْرِكِيْنَ بِسَهْمٍ",
+   "text_de": "Ich war der erste Muslim, der einen Pfeil auf die Götzendiener schoss. (Saʿd)",
+   "page_id": 1524,
+   "einstufung": "متفق عليه (laut adh-Dhahabi)",
+   "book_id": 10906
+  }
+ ]
+}

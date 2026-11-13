@@ -48,6 +48,19 @@ const WERK = { 10906: "adh-Dhahabi, Siyar A'lam an-Nubala (Ausgabe ar-Risala)" }
 const BAND = { 'راشدون': 'al-Khulafa ar-Rashidun', 'سيرة 1': 'as-Sira 1', 'سيرة 2': 'as-Sira 2' }
 const band = (b) => BAND[b] ?? b
 const norm = (t) => t.replace(/\s+/g, ' ').trim()
+// Sucht den Ausschnitt in der Quelle (Buchstaben müssen exakt passen; Vokalzeichen/Leerraum werden beim Vergleich ignoriert)
+// und gibt den ORIGINALTEXT der Quelle zurück – so steht im Zitat immer der Wortlaut der Druckausgabe.
+const ZEICHEN = /[\u064B-\u065F\u0670\u0640\s]/
+function woertlich(quelle, ausschnitt) {
+  const skel = [], pos = []
+  for (let i = 0; i < quelle.length; i++) if (!ZEICHEN.test(quelle[i])) { skel.push(quelle[i]); pos.push(i) }
+  const ziel = [...ausschnitt].filter((c) => !ZEICHEN.test(c)).join('')
+  const k = skel.join('').indexOf(ziel)
+  if (k < 0 || !ziel) return null
+  let ende = pos[k + ziel.length - 1] + 1
+  while (ende < quelle.length && /[\u064B-\u065F\u0670]/.test(quelle[ende])) ende++
+  return quelle.slice(pos[k], ende).replace(/\s+/g, ' ')
+}
 // Biografien aus klassischen Werken: Sätze mit Seitenbeleg, Zitate wörtlich aus den gesicherten Seiten
 function biografie(id) {
   const f = `content/biografien/${id}.json`
@@ -61,8 +74,9 @@ function biografie(id) {
   const stelle = (book, pg, kurz) => { const s = seite(book, pg); return `${kurz ? b.werk_kurz : WERK[book] ?? s.werk}, Bd. ${band(s.band)}, S. ${s.seite}` }
   const zit = b.zitate.map((z, i) => {
     const s = seite(z.book_id, z.page_id)
-    if (!norm(s.text).includes(norm(z.text_ar))) throw new Error(`${id}: Zitat ${i + 1} steht nicht wörtlich auf Seite ${z.page_id}`)
-    return { id: `a-${id}-${i + 1}`, typ: z.typ, text_ar: z.text_ar, text_de: z.text_de + ' [Übersetzung: Entwurf]', quelle: stelle(z.book_id, z.page_id), einstufung: z.einstufung ?? undefined }
+    const original = woertlich(s.text, z.text_ar)
+    if (!original) throw new Error(`${id}: Zitat ${i + 1} steht nicht wörtlich auf Seite ${z.page_id}`)
+    return { id: `a-${id}-${i + 1}`, typ: z.typ, text_ar: original, text_de: z.text_de + ' [Übersetzung: Entwurf]', quelle: stelle(z.book_id, z.page_id), einstufung: z.einstufung ?? undefined }
   })
   const seiten = [...new Set(q.seiten.map((s) => `${s.book_id}|${s.band}`))].map((k) => {
     const [book, bandName] = k.split('|'), ps = q.seiten.filter((s) => `${s.book_id}` === book && s.band === bandName).map((s) => s.seite)

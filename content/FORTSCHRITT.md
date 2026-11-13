@@ -10,10 +10,18 @@ Werkzeuge:
 ## Status
 | id | Quelle (page_id) | Stand |
 |---|---|---|
-| abu-bakr | Siyar 10906: 1155–1164 | ✅ B1 + 4 Zitate |
+| abu-bakr | Siyar 10906: 1155–1164 | ✅ |
+| umar | 1216–1223 | ✅ |
+| uthman | 1291–1297 | ✅ |
+| ali | 1365–1371 | ✅ |
+| abu-ubayda | 1431–1437, 1449 | ✅ |
+| talha | 1449–1453 | ✅ |
+| zubayr | 1467–1470 | ✅ |
+| abdurrahman-ibn-awf | 1494–1497, 1518 | ✅ |
+| sad | 1518–1525 | ✅ |
+| said-ibn-zayd | 1550–1552 | ✅ |
 
 ## Offen (Reihenfolge)
-umar, uthman, ali (Band „Rashidun“), talha 1449, zubayr 1467, abdurrahman-ibn-awf 1494, sad 1518, abu-ubayda 1431, said-ibn-zayd 1550,
 bilal 1773, musab 1571, khadija 2089, aisha 2115, hamza 1597, khalid 1792, salman 1931, jafar 1632, fatima 2098, abu-hurayra 2558,
 ibn-abbas (?), muadh 1869, abu-dharr 2026, said-ibn-musayyib 3370, uways 3172, hasan-basri 3716, umar-ibn-abdulaziz 3886, ibn-sirin (?),
 ata 3850, urwa 3574, zaynulabidin 3539, tawus (?), sufyan-thawri (?), sufyan-uyayna 5580, ahmad 7116, ahmad-mihna, salih-ibn-ahmad 8018,

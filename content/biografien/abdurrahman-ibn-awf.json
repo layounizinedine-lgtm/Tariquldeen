@@ -1,0 +1,74 @@
+{
+ "id": "abdurrahman-ibn-awf",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ، مِنْ بَنِي زُهْرَةَ، أَبُو مُحَمَّدٍ.",
+   "de": "Er ist ʿAbd ar-Rahman ibn ʿAwf, aus dem Stamm Zuhra, Abu Muhammad.",
+   "page_id": 1494,
+   "book_id": 10906
+  },
+  {
+   "ar": "هُوَ أَحَدُ الْعَشَرَةِ، وَأَحَدُ أَهْلِ الشُّورَى، وَشَهِدَ بَدْرًا.",
+   "de": "Er ist einer der Zehn, einer der Männer der Schura, und er nahm an Badr teil.",
+   "page_id": 1494,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ أَحَدَ الثَّمَانِيَةِ الَّذِينَ بَادَرُوا إِلَى الْإِسْلَامِ.",
+   "de": "Er war einer der acht, die als Erste zum Islam eilten.",
+   "page_id": 1494,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ اسْمُهُ فِي الْجَاهِلِيَّةِ عَبْدَ عَمْرٍو، فَسَمَّاهُ النَّبِيُّ ﷺ عَبْدَ الرَّحْمَنِ.",
+   "de": "In der vorislamischen Zeit hieß er ʿAbd ʿAmr; der Prophet ﷺ nannte ihn ʿAbd ar-Rahman.",
+   "page_id": 1495,
+   "book_id": 10906
+  },
+  {
+   "ar": "شَهِدَ عِنْدَ عُمَرَ أَنَّ النَّبِيَّ ﷺ أَخَذَ الْجِزْيَةَ مِنْ مَجُوسِ هَجَرَ.",
+   "de": "Er bezeugte vor ʿUmar, dass der Prophet ﷺ von den Zoroastriern von Hadschar die Dschizya genommen hatte.",
+   "page_id": 1496,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ مُوَفَّقًا فِي التِّجَارَةِ، وَتَرَكَ مَالًا كَثِيرًا.",
+   "de": "Er war im Handel erfolgreich und hinterließ großen Besitz.",
+   "page_id": 1518,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ الذَّهَبِيُّ عَنْهُ: هَذَا هُوَ الْغَنِيُّ الشَّاكِرُ.",
+   "de": "adh-Dhahabi sagte über ihn: Das ist der dankbare Reiche.",
+   "page_id": 1518,
+   "book_id": 10906
+  },
+  {
+   "ar": "تُوُفِّيَ سَنَةَ اثْنَتَيْنِ وَثَلَاثِينَ، وَدُفِنَ بِالْبَقِيعِ.",
+   "de": "Er starb im Jahr 32 und wurde im Baqiʿ begraben.",
+   "page_id": 1518,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "وَهُوَ أَحَدُ الثَّمَانِيَةِ الَّذِيْنَ بَادَرُوا إِلَى الإِسْلاَمِ.",
+   "text_de": "Er ist einer der acht, die als Erste zum Islam eilten. (adh-Dhahabi)",
+   "page_id": 1494,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "قُلْتُ: هَذَا هُوَ الغَنِيُّ الشَاكِرُ",
+   "text_de": "Ich (adh-Dhahabi) sage: Das ist der dankbare Reiche.",
+   "page_id": 1518,
+   "einstufung": null,
+   "book_id": 10906
+  }
+ ]
+}

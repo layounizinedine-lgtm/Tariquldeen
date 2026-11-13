@@ -1,0 +1,88 @@
+{
+ "id": "ali",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ عَلِيُّ بْنُ أَبِي طَالِبٍ، أَمِيرُ الْمُؤْمِنِينَ، أَبُو الْحَسَنِ.",
+   "de": "Er ist ʿAli ibn Abi Talib, der Befehlshaber der Gläubigen, Abu l-Hasan.",
+   "page_id": 1365,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَهُوَ ابْنُ عَمِّ النَّبِيِّ ﷺ وَزَوْجُ ابْنَتِهِ فَاطِمَةَ.",
+   "de": "Er war der Cousin des Propheten ﷺ und der Ehemann seiner Tochter Fatima.",
+   "page_id": 1366,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ مِنَ السَّابِقِينَ الْأَوَّلِينَ، وَشَهِدَ بَدْرًا وَمَا بَعْدَهَا.",
+   "de": "Er gehörte zu den Ersten im Islam und nahm an Badr und allen späteren Schlachten teil.",
+   "page_id": 1366,
+   "book_id": 10906
+  },
+  {
+   "ar": "أَسْلَمَ وَهُوَ صَبِيٌّ، وَاخْتُلِفَ فِي عُمُرِهِ يَوْمَئِذٍ.",
+   "de": "Er nahm den Islam als Junge an; über sein damaliges Alter gibt es verschiedene Angaben.",
+   "page_id": 1367,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَجَدَهُ النَّبِيُّ ﷺ نَائِمًا فِي الْمَسْجِدِ وَعَلَيْهِ التُّرَابُ، فَقَالَ: قُمْ أَبَا تُرَابٍ.",
+   "de": "Der Prophet ﷺ fand ihn schlafend in der Moschee, mit Staub bedeckt, und sagte: Steh auf, Abu Turab (Vater des Staubes)!",
+   "page_id": 1366,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ هَذَا الِاسْمُ أَحَبَّ أَسْمَائِهِ إِلَيْهِ.",
+   "de": "Dieser Name war ihm der liebste.",
+   "page_id": 1366,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَيَوْمَ خَيْبَرَ أَعْطَاهُ النَّبِيُّ ﷺ الرَّايَةَ، فَفَتَحَ اللَّهُ عَلَى يَدَيْهِ.",
+   "de": "Am Tag von Khaybar gab ihm der Prophet ﷺ die Fahne, und Allah schenkte den Sieg durch ihn.",
+   "page_id": 1370,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ لَهُ النَّبِيُّ ﷺ: أَنْتَ مِنِّي بِمَنْزِلَةِ هَارُونَ مِنْ مُوسَى، إِلَّا أَنَّهُ لَا نَبِيَّ بَعْدِي.",
+   "de": "Der Prophet ﷺ sagte zu ihm: Du stehst zu mir wie Harun zu Musa, nur dass es nach mir keinen Propheten gibt.",
+   "page_id": 1370,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ النَّبِيُّ ﷺ: مَنْ كُنْتُ مَوْلَاهُ فَعَلِيٌّ مَوْلَاهُ.",
+   "de": "Und der Prophet ﷺ sagte: Wessen Schutzfreund ich bin, dessen Schutzfreund ist ʿAli.",
+   "page_id": 1371,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "hadith",
+   "text_ar": "قم أبا تراب قم أبا تراب",
+   "text_de": "Steh auf, Abu Turab, steh auf, Abu Turab!",
+   "page_id": 1366,
+   "einstufung": "أخرجه مسلم (laut adh-Dhahabi)",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "ما كان لعلي اسم أحب إليه منه، إن كان ليفرح إذا دعي به",
+   "text_de": "Kein Name war ʿAli lieber als dieser; er freute sich, wenn man ihn so rief. (Sahl ibn Saʿd)",
+   "page_id": 1366,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "hadith",
+   "text_ar": "من كنت مولاه فعلي مولاه",
+   "text_de": "Wessen Schutzfreund ich bin, dessen Schutzfreund ist ʿAli.",
+   "page_id": 1371,
+   "einstufung": "هذا حديث صحيح (adh-Dhahabi)",
+   "book_id": 10906
+  }
+ ]
+}

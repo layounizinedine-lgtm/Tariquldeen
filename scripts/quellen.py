@@ -38,8 +38,10 @@ def page(book, pg):
 def clean(t):
     t = re.sub(r'<[^>]+>', '', t)
     t = html.unescape(t)
-    t = t.split('__________')[0]          # Fußnoten des Herausgebers abtrennen
-    t = re.sub(r'\(\d+\)|\[\d+\]', '', t)  # Fußnoten-Marker
+    t = re.split(r'\n\s*_{5,}', t)[0]       # Fußnoten des Herausgebers abtrennen
+    t = '\n'.join(l for l in t.split('\n') if not l.strip().startswith('(*)'))
+    t = re.sub(r'\(([\d٠-٩]+)»', ')', t)      # verstümmelte Marker "(١»" -> ")"
+    t = re.sub(r'\s?\([\d٠-٩]+\)|\[\d+\]', '', t)  # Fußnoten-Marker
     t = re.sub(r'[ \t]+', ' ', t)
     return t.strip()
 

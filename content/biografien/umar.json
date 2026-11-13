@@ -1,0 +1,94 @@
+{
+ "id": "umar",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ عُمَرُ بْنُ الْخَطَّابِ، أَمِيرُ الْمُؤْمِنِينَ، وَلَقَبُهُ الْفَارُوقُ.",
+   "de": "Er ist ʿUmar ibn al-Khattab, der Befehlshaber der Gläubigen, mit dem Beinamen al-Faruq.",
+   "page_id": 1216,
+   "book_id": 10906
+  },
+  {
+   "ar": "أَسْلَمَ فِي السَّنَةِ السَّادِسَةِ مِنَ النُّبُوَّةِ، وَعُمُرُهُ سَبْعٌ وَعِشْرُونَ سَنَةً.",
+   "de": "Er nahm im sechsten Jahr des Prophetentums den Islam an, mit 27 Jahren.",
+   "page_id": 1216,
+   "book_id": 10906
+  },
+  {
+   "ar": "دَعَا النَّبِيُّ ﷺ أَنْ يُعِزَّ اللَّهُ الْإِسْلَامَ بِعُمَرَ.",
+   "de": "Der Prophet ﷺ bat Allah, den Islam durch ʿUmar zu stärken.",
+   "page_id": 1217,
+   "book_id": 10906
+  },
+  {
+   "ar": "قَالَ ابْنُ مَسْعُودٍ: مَا زِلْنَا أَعِزَّةً مُنْذُ أَسْلَمَ عُمَرُ.",
+   "de": "Ibn Masʿud sagte: Seit ʿUmar Muslim wurde, waren wir stark.",
+   "page_id": 1217,
+   "book_id": 10906
+  },
+  {
+   "ar": "أَخْبَرَ النَّبِيُّ ﷺ أَنَّ الشَّيْطَانَ إِذَا لَقِيَ عُمَرَ فِي طَرِيقٍ سَلَكَ طَرِيقًا آخَرَ.",
+   "de": "Der Prophet ﷺ berichtete: Wenn der Satan ʿUmar auf einem Weg begegnet, nimmt er einen anderen Weg.",
+   "page_id": 1219,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ النَّبِيُّ ﷺ: إِنْ يَكُنْ فِي أُمَّتِي مُحَدَّثٌ فَهُوَ عُمَرُ.",
+   "de": "Der Prophet ﷺ sagte: Wenn es in meiner Umma einen Inspirierten (muhaddath) gibt, dann ist es ʿUmar.",
+   "page_id": 1220,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ عُمَرُ: وَافَقْتُ رَبِّي فِي ثَلَاثٍ، مِنْهَا مَقَامُ إِبْرَاهِيمَ وَالْحِجَابُ.",
+   "de": "ʿUmar sagte: In drei Dingen stimmte ich mit meinem Herrn überein, darunter der Maqam Ibrahim und der Hidschab.",
+   "page_id": 1221,
+   "book_id": 10906
+  },
+  {
+   "ar": "رَأَى النَّبِيُّ ﷺ فِي الْمَنَامِ أَنَّهُ أَعْطَى عُمَرَ بَقِيَّةَ لَبَنِهِ، وَفَسَّرَ ذَلِكَ بِالْعِلْمِ.",
+   "de": "Der Prophet ﷺ sah im Traum, dass er ʿUmar den Rest seiner Milch gab, und deutete es als Wissen.",
+   "page_id": 1222,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَرَأَى النَّبِيُّ ﷺ فِي الْجَنَّةِ قَصْرًا لِعُمَرَ.",
+   "de": "Und der Prophet ﷺ sah im Paradies einen Palast für ʿUmar.",
+   "page_id": 1222,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَاسْتُشْهِدَ فِي آخِرِ ذِي الْحِجَّةِ سَنَةَ ثَلَاثٍ وَعِشْرِينَ.",
+   "de": "Er starb als Märtyrer Ende Dhul-Hiddscha im Jahr 23.",
+   "page_id": 1216,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "hadith",
+   "text_ar": "قد كان في الأمم محدثون فإن يكن في أمتي أحد فعمر بن الخطاب",
+   "text_de": "In den früheren Gemeinschaften gab es Inspirierte; wenn es in meiner Umma einen gibt, dann ist es ʿUmar ibn al-Khattab.",
+   "page_id": 1220,
+   "einstufung": "رواه مسلم (laut adh-Dhahabi)",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "ما زلنا أعزة منذ أسلم عمر.",
+   "text_de": "Seit ʿUmar Muslim wurde, waren wir stark. (Ibn Masʿud)",
+   "page_id": 1217,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "وافقت ربي في ثلاث: في مقام إبراهيم، وفي الحجاب",
+   "text_de": "Ich stimmte mit meinem Herrn in drei Dingen überein: beim Maqam Ibrahim und beim Hidschab … (ʿUmar)",
+   "page_id": 1221,
+   "einstufung": null,
+   "book_id": 10906
+  }
+ ]
+}
