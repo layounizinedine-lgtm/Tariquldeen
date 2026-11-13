@@ -12,7 +12,7 @@ import ArText from './WordText'
 import CoverArt from './CoverArt'
 import SettingsBar from './SettingsBar'
 
-interface Item extends Spur { woerter?: Wort[]; kind: 'satz' | 'zitat'; ar: string; de: string; zitat?: Zitat }
+interface Item extends Spur { beleg?: string; woerter?: Wort[]; kind: 'satz' | 'zitat'; ar: string; de: string; zitat?: Zitat }
 const kurz = (t: string) => t.replace(/ (عَلَيْهِ السَّلَامُ|رَضِيَ اللَّهُ عَنْهُ|رَضِيَ اللَّهُ عَنْهَا|رَحِمَهُ اللَّهُ)$/, '')
 const NIVEAUS: Niveau[] = ['klassisch', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 type Tab = 'text' | 'vokabeln' | 'quiz'
@@ -67,7 +67,7 @@ function ReaderInner({ g, s, set, zurueck }: {
     for (const sa of f.saetze) {
       const z = sa.zitat_id ? g.zitate[sa.zitat_id] : undefined
       if (z) out.push(zi(z))
-      else out.push({ id: sa.id, kind: 'satz', ar: sa.text_ar_mit_harakat, de: sa.text_de, audio_url: sa.audio_url, ts: sa.wort_zeitstempel, woerter: sa.woerter })
+      else out.push({ id: sa.id, kind: 'satz', ar: sa.text_ar_mit_harakat, de: sa.text_de, audio_url: sa.audio_url, ts: sa.wort_zeitstempel, woerter: sa.woerter, beleg: sa.beleg })
       if (sa.zitat_nach) out.push(zi(g.zitate[sa.zitat_nach]))
     }
     f.schluss_zitate?.forEach((id) => out.push(zi(g.zitate[id])))
@@ -159,6 +159,7 @@ function ReaderInner({ g, s, set, zurueck }: {
                         },
                       } : undefined} />
                       {s.uebersetzung === 'immer' && <p className="de">{it.de}</p>}
+                      {it.beleg && <p className="beleg">Beleg: {it.beleg}</p>}
                       {s.uebersetzung === 'tippen' && (
                         <>
                           <button className="link" onClick={(e) => { e.stopPropagation(); toggle(it.id) }}>

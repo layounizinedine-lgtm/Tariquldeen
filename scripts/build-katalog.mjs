@@ -43,6 +43,7 @@ const ts = (v) => {
   return seg.length === idx.length ? seg.map(([, , a, b], n) => ({ wort_index: idx[n], start: a / 1000, ende: b / 1000 })) : undefined
 }
 
+const nach = JSON.parse(readFileSync('content/nacherzaehlungen.json', 'utf8'))
 let n = 0
 const index = []
 for (const e of katalog) {
@@ -74,13 +75,19 @@ for (const e of katalog) {
     saetze.push({ id: `k${saetze.length + 1}`, text_ar_mit_harakat: x.ar, text_de: zitate[id].text_de, zitat_id: id })
     quellen.push({ werk: h.edition, stelle: `Hadith Nr. ${h.nr} (Daten: hadith-api; Einstufung wie dort angegeben)`, einstufung: /sahih/i.test(grade) ? 'sahih' : /hasan/i.test(grade) ? 'hasan' : undefined })
   }
+  const fassungen = saetze.length ? { klassisch: { status: 'entwurf', hinweis: 'Klassisch = Originalwortlaut der Überlieferung. Auswahl ist ein Entwurf.', saetze } } : {}
+  const nz = nach[e.id]
+  if (nz) fassungen[nz.niveau] = {
+    status: 'entwurf', hinweis: 'Vereinfachte Nacherzählung (Entwurf): nur Inhalte, die durch die angegebenen Verse belegt sind. Stufe, Harakat und Übersetzung ungeprüft.',
+    saetze: nz.saetze.map((x, i) => ({ id: `n${i + 1}`, text_ar_mit_harakat: x.ar, text_de: x.de, beleg: x.beleg })),
+  }
   const g = {
     id: e.id, bereich: e.bereich, titel_ar: e.titel_ar, titel_de: e.titel_de, bild_motiv: e.motiv,
     quellen: [...quellen, ...e.quellen], hinweis: e.hinweis, status: 'entwurf', zitate,
-    fassungen: saetze.length ? { klassisch: { status: 'entwurf', hinweis: 'Klassisch = Originalwortlaut der Überlieferung. Auswahl ist ein Entwurf.', saetze } } : {},
+    fassungen,
   }
   writeFileSync(`src/data/geschichten/${e.id}.json`, JSON.stringify(g)); n++
-  index.push({ id: g.id, bereich: g.bereich, titel_ar: g.titel_ar, titel_de: g.titel_de, bild_motiv: g.bild_motiv, status: g.status, hat_inhalt: saetze.length > 0 })
+  index.push({ id: g.id, bereich: g.bereich, titel_ar: g.titel_ar, titel_de: g.titel_de, bild_motiv: g.bild_motiv, status: g.status, hat_inhalt: Object.keys(fassungen).length > 0 })
 }
 writeFileSync('src/data/geschichten/index.json', JSON.stringify(index, null, 1))
 console.log(n, 'Geschichten geschrieben')

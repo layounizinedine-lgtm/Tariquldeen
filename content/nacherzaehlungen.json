@@ -1,0 +1,757 @@
+{
+ "adam": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "أَرَادَ اللَّهُ أَنْ يَجْعَلَ فِي الْأَرْضِ خَلِيفَةً.",
+    "de": "Allah wollte auf der Erde einen Statthalter einsetzen.",
+    "beleg": "Quran 2:30"
+   },
+   {
+    "ar": "خَلَقَ اللَّهُ آدَمَ وَعَلَّمَهُ الْأَسْمَاءَ.",
+    "de": "Allah erschuf Adam und lehrte ihn die Namen.",
+    "beleg": "Quran 2:31"
+   },
+   {
+    "ar": "أَمَرَ اللَّهُ الْمَلَائِكَةَ أَنْ يَسْجُدُوا لِآدَمَ، فَسَجَدُوا إِلَّا إِبْلِيسَ.",
+    "de": "Allah befahl den Engeln, sich vor Adam niederzuwerfen. Alle taten es, außer Iblis.",
+    "beleg": "Quran 2:34"
+   },
+   {
+    "ar": "أَسْكَنَ اللَّهُ آدَمَ وَزَوْجَهُ الْجَنَّةَ.",
+    "de": "Allah ließ Adam und seine Frau im Paradies wohnen.",
+    "beleg": "Quran 2:35"
+   },
+   {
+    "ar": "نَهَاهُمَا اللَّهُ عَنِ الْأَكْلِ مِنْ شَجَرَةٍ.",
+    "de": "Allah verbot ihnen, von einem Baum zu essen.",
+    "beleg": "Quran 2:35; 7:19"
+   },
+   {
+    "ar": "وَسْوَسَ الشَّيْطَانُ لَهُمَا، فَأَكَلَا مِنَ الشَّجَرَةِ.",
+    "de": "Der Satan flüsterte ihnen ein, und sie aßen von dem Baum.",
+    "beleg": "Quran 7:20-22; 2:36"
+   },
+   {
+    "ar": "ثُمَّ تَابَا إِلَى اللَّهِ، فَقَبِلَ اللَّهُ تَوْبَتَهُمَا.",
+    "de": "Dann kehrten sie reumütig zu Allah zurück, und Allah nahm ihre Reue an.",
+    "beleg": "Quran 7:23; 2:37"
+   },
+   {
+    "ar": "وَأَنْزَلَهُمَا اللَّهُ إِلَى الْأَرْضِ.",
+    "de": "Und Allah ließ sie zur Erde hinabsteigen.",
+    "beleg": "Quran 2:36; 2:38"
+   }
+  ]
+ },
+ "idris": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "كَانَ إِدْرِيسُ صِدِّيقًا نَبِيًّا.",
+    "de": "Idris war wahrhaftig und ein Prophet.",
+    "beleg": "Quran 19:56"
+   },
+   {
+    "ar": "وَرَفَعَهُ اللَّهُ إِلَى مَكَانٍ عَلِيٍّ.",
+    "de": "Und Allah erhob ihn an einen hohen Ort.",
+    "beleg": "Quran 19:57"
+   }
+  ]
+ },
+ "nuh": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ نُوحًا إِلَى قَوْمِهِ.",
+    "de": "Allah sandte Nuh zu seinem Volk.",
+    "beleg": "Quran 11:25"
+   },
+   {
+    "ar": "دَعَا نُوحٌ قَوْمَهُ إِلَى عِبَادَةِ اللَّهِ وَحْدَهُ.",
+    "de": "Nuh rief sein Volk dazu auf, Allah allein zu dienen.",
+    "beleg": "Quran 11:25-26"
+   },
+   {
+    "ar": "لَكِنَّ أَكْثَرَهُمْ كَذَّبُوهُ، وَمَا آمَنَ مَعَهُ إِلَّا قَلِيلٌ.",
+    "de": "Aber die meisten hielten ihn für einen Lügner, und nur wenige glaubten mit ihm.",
+    "beleg": "Quran 11:27; 11:40"
+   },
+   {
+    "ar": "أَمَرَهُ اللَّهُ أَنْ يَصْنَعَ السَّفِينَةَ.",
+    "de": "Allah befahl ihm, das Schiff zu bauen.",
+    "beleg": "Quran 11:37-38"
+   },
+   {
+    "ar": "جَاءَ أَمْرُ اللَّهِ وَفَارَ التَّنُّورُ.",
+    "de": "Als Allahs Befehl kam, sprudelte der Ofen hervor.",
+    "beleg": "Quran 11:40"
+   },
+   {
+    "ar": "حَمَلَ نُوحٌ فِي السَّفِينَةِ الْمُؤْمِنِينَ، وَمِنْ كُلِّ نَوْعٍ زَوْجَيْنِ.",
+    "de": "Nuh nahm die Gläubigen in das Schiff auf, und von jeder Art ein Paar.",
+    "beleg": "Quran 11:40"
+   },
+   {
+    "ar": "وَغَرِقَ ابْنُ نُوحٍ لِأَنَّهُ لَمْ يُؤْمِنْ.",
+    "de": "Nuhs Sohn ertrank, weil er nicht glaubte.",
+    "beleg": "Quran 11:42-43; 11:46"
+   },
+   {
+    "ar": "وَاسْتَوَتِ السَّفِينَةُ عَلَى الْجُودِيِّ.",
+    "de": "Und das Schiff ließ sich auf dem Dschudi nieder.",
+    "beleg": "Quran 11:44"
+   }
+  ]
+ },
+ "hud": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ هُودًا إِلَى قَوْمِ عَادٍ.",
+    "de": "Allah sandte Hud zum Volk von ʿAd.",
+    "beleg": "Quran 7:65; 11:50"
+   },
+   {
+    "ar": "دَعَا هُودٌ قَوْمَهُ إِلَى عِبَادَةِ اللَّهِ وَحْدَهُ.",
+    "de": "Hud rief sein Volk auf, Allah allein zu dienen.",
+    "beleg": "Quran 7:65"
+   },
+   {
+    "ar": "لَكِنَّ قَوْمَهُ كَذَّبُوهُ.",
+    "de": "Aber sein Volk wies ihn zurück.",
+    "beleg": "Quran 7:66-70"
+   },
+   {
+    "ar": "فَأَنْجَى اللَّهُ هُودًا وَالَّذِينَ آمَنُوا مَعَهُ.",
+    "de": "Da rettete Allah Hud und die, die mit ihm glaubten.",
+    "beleg": "Quran 7:72; 11:58"
+   },
+   {
+    "ar": "وَأَهْلَكَ اللَّهُ الْمُكَذِّبِينَ.",
+    "de": "Und Allah vernichtete die, die ihn leugneten.",
+    "beleg": "Quran 7:72; 11:59-60"
+   }
+  ]
+ },
+ "salih": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ صَالِحًا إِلَى قَوْمِ ثَمُودَ.",
+    "de": "Allah sandte Salih zum Volk von Thamud.",
+    "beleg": "Quran 7:73; 11:61"
+   },
+   {
+    "ar": "أَعْطَاهُمُ اللَّهُ نَاقَةً آيَةً.",
+    "de": "Allah gab ihnen eine Kamelstute als Zeichen.",
+    "beleg": "Quran 7:73; 11:64"
+   },
+   {
+    "ar": "نَهَاهُمْ صَالِحٌ أَنْ يَمَسُّوا النَّاقَةَ بِسُوءٍ.",
+    "de": "Salih verbot ihnen, der Stute Böses zuzufügen.",
+    "beleg": "Quran 7:73; 11:64"
+   },
+   {
+    "ar": "لَكِنَّهُمْ عَقَرُوا النَّاقَةَ.",
+    "de": "Aber sie töteten die Stute.",
+    "beleg": "Quran 7:77; 11:65"
+   },
+   {
+    "ar": "فَأَهْلَكَهُمُ اللَّهُ.",
+    "de": "Da vernichtete Allah sie.",
+    "beleg": "Quran 7:78; 11:67"
+   },
+   {
+    "ar": "وَنَجَّى اللَّهُ صَالِحًا وَالَّذِينَ آمَنُوا.",
+    "de": "Und Allah rettete Salih und die Gläubigen.",
+    "beleg": "Quran 11:66"
+   }
+  ]
+ },
+ "ibrahim": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "آتَى اللَّهُ إِبْرَاهِيمَ رُشْدَهُ.",
+    "de": "Allah gab Ibrahim seine Rechtleitung.",
+    "beleg": "Quran 21:51"
+   },
+   {
+    "ar": "سَأَلَ إِبْرَاهِيمُ أَبَاهُ وَقَوْمَهُ: مَا هَذِهِ التَّمَاثِيلُ؟",
+    "de": "Ibrahim fragte seinen Vater und sein Volk: Was sind diese Standbilder?",
+    "beleg": "Quran 21:52"
+   },
+   {
+    "ar": "كَسَرَ إِبْرَاهِيمُ الْأَصْنَامَ وَتَرَكَ كَبِيرَهُمْ.",
+    "de": "Ibrahim zerschlug die Götzen und ließ nur den größten übrig.",
+    "beleg": "Quran 21:58"
+   },
+   {
+    "ar": "أَرَادَ قَوْمُهُ أَنْ يُحْرِقُوهُ بِالنَّارِ.",
+    "de": "Sein Volk wollte ihn im Feuer verbrennen.",
+    "beleg": "Quran 21:68"
+   },
+   {
+    "ar": "جَعَلَ اللَّهُ النَّارَ بَرْدًا وَسَلَامًا عَلَى إِبْرَاهِيمَ.",
+    "de": "Allah machte das Feuer kühl und unschädlich für Ibrahim.",
+    "beleg": "Quran 21:69"
+   },
+   {
+    "ar": "وَأَرَادُوا بِهِ كَيْدًا، فَجَعَلَهُمُ اللَّهُ الْأَخْسَرِينَ.",
+    "de": "Sie wollten ihm eine List antun, doch Allah machte sie zu den Verlierern.",
+    "beleg": "Quran 21:70"
+   }
+  ]
+ },
+ "lut": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ لُوطًا إِلَى قَوْمِهِ.",
+    "de": "Allah sandte Lut zu seinem Volk.",
+    "beleg": "Quran 7:80"
+   },
+   {
+    "ar": "نَهَاهُمْ لُوطٌ عَنْ فَاحِشَةٍ لَمْ يَسْبِقْهُمْ بِهَا أَحَدٌ.",
+    "de": "Lut verbot ihnen eine Abscheulichkeit, die vor ihnen niemand begangen hatte.",
+    "beleg": "Quran 7:80"
+   },
+   {
+    "ar": "لَكِنَّهُمْ لَمْ يَسْمَعُوا لَهُ.",
+    "de": "Aber sie hörten nicht auf ihn.",
+    "beleg": "Quran 7:82"
+   },
+   {
+    "ar": "جَاءَتِ الْمَلَائِكَةُ إِلَى لُوطٍ.",
+    "de": "Die Engel kamen zu Lut.",
+    "beleg": "Quran 11:77"
+   },
+   {
+    "ar": "فَأَنْجَى اللَّهُ لُوطًا وَأَهْلَهُ إِلَّا امْرَأَتَهُ.",
+    "de": "Da rettete Allah Lut und seine Familie, außer seiner Frau.",
+    "beleg": "Quran 7:83; 11:81"
+   },
+   {
+    "ar": "وَأَمْطَرَ اللَّهُ عَلَى قَوْمِهِ حِجَارَةً.",
+    "de": "Und Allah ließ auf sein Volk Steine regnen.",
+    "beleg": "Quran 7:84; 11:82"
+   }
+  ]
+ },
+ "ismail": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "كَانَ إِسْمَاعِيلُ صَادِقَ الْوَعْدِ.",
+    "de": "Ismail hielt immer sein Versprechen.",
+    "beleg": "Quran 19:54"
+   },
+   {
+    "ar": "وَكَانَ يَأْمُرُ أَهْلَهُ بِالصَّلَاةِ وَالزَّكَاةِ.",
+    "de": "Und er trug seiner Familie Gebet und Zakat auf.",
+    "beleg": "Quran 19:55"
+   },
+   {
+    "ar": "رَأَى إِبْرَاهِيمُ فِي الْمَنَامِ أَنْ يَذْبَحَ ابْنَهُ.",
+    "de": "Ibrahim sah im Traum, dass er seinen Sohn opfern solle.",
+    "beleg": "Quran 37:102"
+   },
+   {
+    "ar": "صَبَرَ الِابْنُ وَقَبِلَ أَمْرَ اللَّهِ.",
+    "de": "Der Sohn blieb geduldig und fügte sich Allahs Befehl.",
+    "beleg": "Quran 37:102"
+   },
+   {
+    "ar": "فَفَدَاهُ اللَّهُ بِذِبْحٍ عَظِيمٍ.",
+    "de": "Da löste Allah ihn mit einem großen Opfertier aus.",
+    "beleg": "Quran 37:107"
+   }
+  ]
+ },
+ "ishaq": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "جَاءَتْ مَلَائِكَةٌ إِلَى إِبْرَاهِيمَ بِالْبُشْرَى.",
+    "de": "Engel kamen mit einer frohen Botschaft zu Ibrahim.",
+    "beleg": "Quran 11:69"
+   },
+   {
+    "ar": "بَشَّرُوهُمْ بِإِسْحَاقَ.",
+    "de": "Sie verkündeten ihnen die Geburt von Ishaq.",
+    "beleg": "Quran 11:71"
+   },
+   {
+    "ar": "وَمِنْ بَعْدِ إِسْحَاقَ يَعْقُوبُ.",
+    "de": "Und nach Ishaq würde Yaqub kommen.",
+    "beleg": "Quran 11:71"
+   },
+   {
+    "ar": "وَبَارَكَ اللَّهُ عَلَى إِبْرَاهِيمَ وَإِسْحَاقَ.",
+    "de": "Und Allah segnete Ibrahim und Ishaq.",
+    "beleg": "Quran 37:113"
+   }
+  ]
+ },
+ "yaqub": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "وَصَّى يَعْقُوبُ أَبْنَاءَهُ بِعِبَادَةِ اللَّهِ.",
+    "de": "Yaqub trug seinen Söhnen auf, Allah zu dienen.",
+    "beleg": "Quran 2:132-133"
+   },
+   {
+    "ar": "فَقَدَ يَعْقُوبُ ابْنَهُ يُوسُفَ، فَصَبَرَ صَبْرًا جَمِيلًا.",
+    "de": "Yaqub verlor seinen Sohn Yusuf und übte schöne Geduld.",
+    "beleg": "Quran 12:83"
+   },
+   {
+    "ar": "حَزِنَ حَتَّى ابْيَضَّتْ عَيْنَاهُ.",
+    "de": "Er trauerte, bis seine Augen weiß wurden.",
+    "beleg": "Quran 12:84"
+   },
+   {
+    "ar": "وَلَمْ يَفْقِدِ الْأَمَلَ فِي رَحْمَةِ اللَّهِ.",
+    "de": "Und er verlor die Hoffnung auf Allahs Barmherzigkeit nicht.",
+    "beleg": "Quran 12:87"
+   },
+   {
+    "ar": "ثُمَّ أُلْقِيَ قَمِيصُ يُوسُفَ عَلَى وَجْهِهِ، فَرَجَعَ إِلَيْهِ بَصَرُهُ.",
+    "de": "Dann wurde Yusufs Hemd auf sein Gesicht gelegt, und er konnte wieder sehen.",
+    "beleg": "Quran 12:96"
+   }
+  ]
+ },
+ "ayyub": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "مَسَّ الضُّرُّ أَيُّوبَ.",
+    "de": "Ayyub wurde von Leid getroffen.",
+    "beleg": "Quran 21:83"
+   },
+   {
+    "ar": "صَبَرَ أَيُّوبُ وَدَعَا رَبَّهُ.",
+    "de": "Ayyub blieb geduldig und rief seinen Herrn an.",
+    "beleg": "Quran 21:83; 38:41"
+   },
+   {
+    "ar": "أَمَرَهُ اللَّهُ أَنْ يَضْرِبَ الْأَرْضَ بِرِجْلِهِ، فَخَرَجَ مَاءٌ بَارِدٌ.",
+    "de": "Allah befahl ihm, mit dem Fuß auf die Erde zu stampfen, da kam kühles Wasser hervor.",
+    "beleg": "Quran 38:42"
+   },
+   {
+    "ar": "وَكَشَفَ اللَّهُ عَنْهُ الضُّرَّ.",
+    "de": "Und Allah nahm das Leid von ihm.",
+    "beleg": "Quran 21:84"
+   },
+   {
+    "ar": "وَآتَاهُ أَهْلَهُ وَمِثْلَهُمْ مَعَهُمْ.",
+    "de": "Und Er gab ihm seine Familie zurück und noch einmal so viele dazu.",
+    "beleg": "Quran 21:84"
+   },
+   {
+    "ar": "وَوَجَدَهُ اللَّهُ صَابِرًا.",
+    "de": "Allah fand ihn geduldig.",
+    "beleg": "Quran 38:44"
+   }
+  ]
+ },
+ "shuayb": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ شُعَيْبًا إِلَى أَهْلِ مَدْيَنَ.",
+    "de": "Allah sandte Shuayb zu den Leuten von Madyan.",
+    "beleg": "Quran 7:85"
+   },
+   {
+    "ar": "دَعَاهُمْ إِلَى عِبَادَةِ اللَّهِ، وَنَهَاهُمْ عَنْ نَقْصِ الْمِكْيَالِ وَالْمِيزَانِ.",
+    "de": "Er rief sie zum Dienst an Allah auf und verbot ihnen, Maß und Gewicht zu verkürzen.",
+    "beleg": "Quran 7:85; 11:84-85"
+   },
+   {
+    "ar": "لَكِنَّ قَوْمَهُ كَذَّبُوهُ.",
+    "de": "Aber sein Volk wies ihn zurück.",
+    "beleg": "Quran 7:88-90"
+   },
+   {
+    "ar": "فَأَخَذَتْهُمُ الرَّجْفَةُ.",
+    "de": "Da ergriff sie das Beben.",
+    "beleg": "Quran 7:91"
+   },
+   {
+    "ar": "وَنَجَّى اللَّهُ شُعَيْبًا وَالَّذِينَ آمَنُوا مَعَهُ.",
+    "de": "Und Allah rettete Shuayb und die, die mit ihm glaubten.",
+    "beleg": "Quran 11:94"
+   }
+  ]
+ },
+ "musa": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "أَوْحَى اللَّهُ إِلَى أُمِّ مُوسَى أَنْ تُرْضِعَهُ، ثُمَّ تُلْقِيَهُ فِي الْيَمِّ.",
+    "de": "Allah gab der Mutter Musas ein, ihn zu stillen und ihn dann in den Fluss zu legen.",
+    "beleg": "Quran 28:7"
+   },
+   {
+    "ar": "وَالْتَقَطَهُ آلُ فِرْعَوْنَ.",
+    "de": "Und die Leute Fir'auns nahmen ihn auf.",
+    "beleg": "Quran 28:8"
+   },
+   {
+    "ar": "وَرَدَّهُ اللَّهُ إِلَى أُمِّهِ لِتَقَرَّ عَيْنُهَا.",
+    "de": "Und Allah brachte ihn zu seiner Mutter zurück, damit sie sich freue.",
+    "beleg": "Quran 28:13"
+   },
+   {
+    "ar": "رَأَى مُوسَى نَارًا، فَذَهَبَ إِلَيْهَا.",
+    "de": "Musa sah ein Feuer und ging darauf zu.",
+    "beleg": "Quran 20:10"
+   },
+   {
+    "ar": "وَكَلَّمَهُ اللَّهُ.",
+    "de": "Und Allah sprach zu ihm.",
+    "beleg": "Quran 20:11-14"
+   },
+   {
+    "ar": "وَأَعْطَاهُ اللَّهُ آيَةَ الْعَصَا.",
+    "de": "Und Allah gab ihm das Zeichen des Stabes.",
+    "beleg": "Quran 20:17-21"
+   },
+   {
+    "ar": "وَأَمَرَهُ أَنْ يَذْهَبَ إِلَى فِرْعَوْنَ.",
+    "de": "Er befahl ihm, zu Fir'aun zu gehen.",
+    "beleg": "Quran 20:24"
+   },
+   {
+    "ar": "سَأَلَ مُوسَى رَبَّهُ أَنْ يَجْعَلَ أَخَاهُ هَارُونَ وَزِيرًا لَهُ.",
+    "de": "Musa bat seinen Herrn, seinen Bruder Harun zu seinem Helfer zu machen.",
+    "beleg": "Quran 20:29-30"
+   },
+   {
+    "ar": "أَمَرَهُ اللَّهُ أَنْ يَضْرِبَ الْبَحْرَ بِعَصَاهُ، فَانْفَلَقَ.",
+    "de": "Allah befahl ihm, mit seinem Stab auf das Meer zu schlagen, da teilte es sich.",
+    "beleg": "Quran 26:63"
+   },
+   {
+    "ar": "فَنَجَّى اللَّهُ مُوسَى وَمَنْ مَعَهُ، وَأَغْرَقَ الْآخَرِينَ.",
+    "de": "Da rettete Allah Musa und die bei ihm waren und ließ die anderen ertrinken.",
+    "beleg": "Quran 26:65-66"
+   }
+  ]
+ },
+ "harun": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "سَأَلَ مُوسَى رَبَّهُ أَنْ يَجْعَلَ هَارُونَ وَزِيرًا لَهُ.",
+    "de": "Musa bat seinen Herrn, Harun zu seinem Helfer zu machen.",
+    "beleg": "Quran 20:29-32"
+   },
+   {
+    "ar": "وَاسْتَجَابَ اللَّهُ دُعَاءَهُ.",
+    "de": "Und Allah erhörte seine Bitte.",
+    "beleg": "Quran 20:36"
+   },
+   {
+    "ar": "وَوَهَبَ اللَّهُ لِمُوسَى أَخَاهُ هَارُونَ نَبِيًّا.",
+    "de": "Und Allah schenkte Musa seinen Bruder Harun als Propheten.",
+    "beleg": "Quran 19:53"
+   }
+  ]
+ },
+ "dhulkifl": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "كَانَ ذُو الْكِفْلِ مِنَ الصَّابِرِينَ.",
+    "de": "Dhul-Kifl gehörte zu den Geduldigen.",
+    "beleg": "Quran 21:85"
+   },
+   {
+    "ar": "وَأَدْخَلَهُ اللَّهُ فِي رَحْمَتِهِ.",
+    "de": "Und Allah nahm ihn in Seine Barmherzigkeit auf.",
+    "beleg": "Quran 21:86"
+   },
+   {
+    "ar": "وَهُوَ مِنَ الْأَخْيَارِ.",
+    "de": "Und er gehört zu den Besten.",
+    "beleg": "Quran 38:48"
+   }
+  ]
+ },
+ "dawud": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "كَانَ دَاوُودُ عَبْدًا قَوِيًّا، وَكَانَ أَوَّابًا.",
+    "de": "Dawud war ein starker Diener und kehrte oft zu Allah zurück.",
+    "beleg": "Quran 38:17"
+   },
+   {
+    "ar": "سَخَّرَ اللَّهُ الْجِبَالَ وَالطَّيْرَ لِتُسَبِّحَ مَعَهُ.",
+    "de": "Allah stellte Berge und Vögel in seinen Dienst, damit sie mit ihm Allah priesen.",
+    "beleg": "Quran 38:18-19; 34:10"
+   },
+   {
+    "ar": "وَأَلَانَ اللَّهُ لَهُ الْحَدِيدَ.",
+    "de": "Und Allah machte das Eisen für ihn weich.",
+    "beleg": "Quran 34:10"
+   },
+   {
+    "ar": "وَأَمَرَهُ أَنْ يَعْمَلَ دُرُوعًا سَابِغَاتٍ.",
+    "de": "Er befahl ihm, weite Panzerhemden zu fertigen.",
+    "beleg": "Quran 34:11"
+   },
+   {
+    "ar": "وَجَعَلَهُ اللَّهُ خَلِيفَةً فِي الْأَرْضِ، وَأَمَرَهُ أَنْ يَحْكُمَ بِالْحَقِّ.",
+    "de": "Allah machte ihn zum Statthalter auf der Erde und befahl ihm, mit der Wahrheit zu richten.",
+    "beleg": "Quran 38:26"
+   }
+  ]
+ },
+ "sulayman": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "وَرِثَ سُلَيْمَانُ دَاوُودَ.",
+    "de": "Sulayman erbte von Dawud.",
+    "beleg": "Quran 27:16"
+   },
+   {
+    "ar": "وَعَلَّمَهُ اللَّهُ مَنْطِقَ الطَّيْرِ.",
+    "de": "Und Allah lehrte ihn die Sprache der Vögel.",
+    "beleg": "Quran 27:16"
+   },
+   {
+    "ar": "وَسَخَّرَ اللَّهُ لَهُ الرِّيحَ وَالْجِنَّ.",
+    "de": "Und Allah stellte ihm den Wind und die Dschinn in den Dienst.",
+    "beleg": "Quran 38:36-37; 27:17"
+   },
+   {
+    "ar": "سَمِعَ سُلَيْمَانُ كَلَامَ النَّمْلَةِ، فَتَبَسَّمَ ضَاحِكًا.",
+    "de": "Sulayman hörte die Rede der Ameise und lächelte lachend.",
+    "beleg": "Quran 27:18-19"
+   },
+   {
+    "ar": "غَابَ الْهُدْهُدُ، ثُمَّ جَاءَ بِخَبَرٍ عَنْ مَلِكَةِ سَبَأٍ.",
+    "de": "Der Wiedehopf blieb weg und kam dann mit Nachricht über die Königin von Saba.",
+    "beleg": "Quran 27:20-22"
+   },
+   {
+    "ar": "فَأَرْسَلَ سُلَيْمَانُ كِتَابًا إِلَى مَلِكَةِ سَبَأٍ.",
+    "de": "Da schickte Sulayman einen Brief an die Königin von Saba.",
+    "beleg": "Quran 27:28-30"
+   }
+  ]
+ },
+ "ilyas": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "كَانَ إِلْيَاسُ مِنَ الْمُرْسَلِينَ.",
+    "de": "Ilyas gehörte zu den Gesandten.",
+    "beleg": "Quran 37:123"
+   },
+   {
+    "ar": "دَعَا قَوْمَهُ إِلَى تَقْوَى اللَّهِ، وَنَهَاهُمْ عَنْ عِبَادَةِ بَعْلٍ.",
+    "de": "Er rief sein Volk zur Gottesfurcht auf und warnte sie davor, Baal anzurufen.",
+    "beleg": "Quran 37:124-125"
+   },
+   {
+    "ar": "لَكِنَّهُمْ كَذَّبُوهُ.",
+    "de": "Aber sie leugneten ihn.",
+    "beleg": "Quran 37:127"
+   },
+   {
+    "ar": "وَكَانَ مِنْ عِبَادِ اللَّهِ الْمُؤْمِنِينَ.",
+    "de": "Er gehörte zu Allahs gläubigen Dienern.",
+    "beleg": "Quran 37:132"
+   }
+  ]
+ },
+ "alyasa": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "كَانَ الْيَسَعُ مِمَّنْ فَضَّلَهُمُ اللَّهُ عَلَى الْعَالَمِينَ.",
+    "de": "Al-Yasa gehörte zu denen, die Allah vor den Welten bevorzugte.",
+    "beleg": "Quran 6:86"
+   },
+   {
+    "ar": "وَهُوَ مِنَ الْأَخْيَارِ.",
+    "de": "Und er gehört zu den Besten.",
+    "beleg": "Quran 38:48"
+   }
+  ]
+ },
+ "yunus": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "ذَهَبَ يُونُسُ مُغَاضِبًا.",
+    "de": "Yunus ging zornig davon.",
+    "beleg": "Quran 21:87"
+   },
+   {
+    "ar": "وَرَكِبَ السَّفِينَةَ.",
+    "de": "Und er bestieg das Schiff.",
+    "beleg": "Quran 37:140"
+   },
+   {
+    "ar": "فَالْتَقَمَهُ الْحُوتُ.",
+    "de": "Da verschlang ihn der Fisch.",
+    "beleg": "Quran 37:142"
+   },
+   {
+    "ar": "دَعَا رَبَّهُ فِي الظُّلُمَاتِ.",
+    "de": "Er rief seinen Herrn in den Finsternissen an.",
+    "beleg": "Quran 21:87"
+   },
+   {
+    "ar": "وَنَجَّاهُ اللَّهُ مِنَ الْغَمِّ.",
+    "de": "Und Allah rettete ihn aus der Bedrängnis.",
+    "beleg": "Quran 21:88"
+   },
+   {
+    "ar": "وَأَرْسَلَهُ إِلَى مِئَةِ أَلْفٍ أَوْ يَزِيدُونَ، فَآمَنُوا.",
+    "de": "Und Er sandte ihn zu hunderttausend oder mehr, und sie glaubten.",
+    "beleg": "Quran 37:147-148"
+   }
+  ]
+ },
+ "zakariya": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "كَانَ زَكَرِيَّا شَيْخًا كَبِيرًا.",
+    "de": "Zakariya war ein alter Mann.",
+    "beleg": "Quran 19:4"
+   },
+   {
+    "ar": "دَعَا رَبَّهُ دُعَاءً خَفِيًّا.",
+    "de": "Er rief seinen Herrn leise an.",
+    "beleg": "Quran 19:3"
+   },
+   {
+    "ar": "وَطَلَبَ مِنَ اللَّهِ وَلَدًا.",
+    "de": "Und er bat Allah um ein Kind.",
+    "beleg": "Quran 19:5; 3:38"
+   },
+   {
+    "ar": "فَبَشَّرَهُ اللَّهُ بِيَحْيَى.",
+    "de": "Da verkündete Allah ihm Yahya.",
+    "beleg": "Quran 19:7; 3:39"
+   },
+   {
+    "ar": "وَجَعَلَ اللَّهُ لَهُ آيَةً: أَلَّا يُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ.",
+    "de": "Und Allah gab ihm ein Zeichen: Er sollte drei Nächte nicht mit den Menschen sprechen.",
+    "beleg": "Quran 19:10; 3:41"
+   }
+  ]
+ },
+ "yahya": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "آتَى اللَّهُ يَحْيَى الْحُكْمَ وَهُوَ صَبِيٌّ.",
+    "de": "Allah gab Yahya Urteilskraft, als er noch ein Kind war.",
+    "beleg": "Quran 19:12"
+   },
+   {
+    "ar": "وَكَانَ بَارًّا بِوَالِدَيْهِ.",
+    "de": "Und er war gut zu seinen Eltern.",
+    "beleg": "Quran 19:14"
+   },
+   {
+    "ar": "وَكَانَ تَقِيًّا، وَلَمْ يَكُنْ جَبَّارًا.",
+    "de": "Er war gottesfürchtig und nicht überheblich.",
+    "beleg": "Quran 19:13-14"
+   },
+   {
+    "ar": "وَالسَّلَامُ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا.",
+    "de": "Und Frieden sei auf ihm am Tag seiner Geburt, am Tag seines Todes und am Tag, an dem er lebendig auferweckt wird.",
+    "beleg": "Quran 19:15"
+   }
+  ]
+ },
+ "isa": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "بَشَّرَتِ الْمَلَائِكَةُ مَرْيَمَ بِكَلِمَةٍ مِنَ اللَّهِ اسْمُهُ الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ.",
+    "de": "Die Engel verkündeten Maryam ein Wort von Allah: sein Name ist al-Masih, Isa, der Sohn der Maryam.",
+    "beleg": "Quran 3:45"
+   },
+   {
+    "ar": "وُلِدَ عِيسَى بِأَمْرِ اللَّهِ مِنْ غَيْرِ أَبٍ.",
+    "de": "Isa wurde auf Allahs Befehl ohne Vater geboren.",
+    "beleg": "Quran 3:47; 19:20-21"
+   },
+   {
+    "ar": "وَتَكَلَّمَ عِيسَى فِي الْمَهْدِ.",
+    "de": "Und Isa sprach in der Wiege.",
+    "beleg": "Quran 3:46; 19:29-30"
+   },
+   {
+    "ar": "وَأَعْطَاهُ اللَّهُ آيَاتٍ بِإِذْنِهِ: يُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ، وَيُحْيِي الْمَوْتَى بِإِذْنِ اللَّهِ.",
+    "de": "Allah gab ihm Zeichen mit Seiner Erlaubnis: Er heilte Blindgeborene und Aussätzige und belebte Tote, mit Allahs Erlaubnis.",
+    "beleg": "Quran 3:49; 5:110"
+   },
+   {
+    "ar": "وَدَعَا عِيسَى بَنِي إِسْرَائِيلَ إِلَى عِبَادَةِ اللَّهِ وَحْدَهُ.",
+    "de": "Und Isa rief die Kinder Israels auf, Allah allein zu dienen.",
+    "beleg": "Quran 3:49-51; 5:117"
+   },
+   {
+    "ar": "وَكَانَ لِعِيسَى حَوَارِيُّونَ آمَنُوا بِهِ.",
+    "de": "Isa hatte Jünger, die an ihn glaubten.",
+    "beleg": "Quran 3:52"
+   },
+   {
+    "ar": "وَرَفَعَهُ اللَّهُ إِلَيْهِ.",
+    "de": "Und Allah erhob ihn zu Sich.",
+    "beleg": "Quran 3:55"
+   }
+  ]
+ },
+ "muhammad": {
+  "niveau": "B1",
+  "saetze": [
+   {
+    "ar": "لَمْ يَتْرُكِ اللَّهُ نَبِيَّهُ مُحَمَّدًا ﷺ وَلَمْ يَكْرَهْهُ.",
+    "de": "Allah hat Seinen Propheten Muhammad ﷺ weder verlassen noch verabscheut.",
+    "beleg": "Quran 93:3"
+   },
+   {
+    "ar": "وَجَدَهُ يَتِيمًا فَآوَاهُ.",
+    "de": "Er fand ihn als Waise und gab ihm Obdach.",
+    "beleg": "Quran 93:6"
+   },
+   {
+    "ar": "وَوَجَدَهُ فَقِيرًا فَأَغْنَاهُ.",
+    "de": "Er fand ihn bedürftig und machte ihn unabhängig.",
+    "beleg": "Quran 93:8"
+   },
+   {
+    "ar": "وَشَرَحَ اللَّهُ صَدْرَهُ، وَرَفَعَ ذِكْرَهُ.",
+    "de": "Und Allah öffnete ihm die Brust und erhöhte sein Ansehen.",
+    "beleg": "Quran 94:1-4"
+   },
+   {
+    "ar": "وَأَسْرَى اللَّهُ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى.",
+    "de": "Und Allah ließ Seinen Diener bei Nacht von der Heiligen Moschee zur fernen Moschee reisen.",
+    "beleg": "Quran 17:1"
+   },
+   {
+    "ar": "وَطَمْأَنَ النَّبِيُّ ﷺ صَاحِبَهُ فِي الْغَارِ، لِأَنَّ اللَّهَ مَعَهُمَا.",
+    "de": "Und der Prophet ﷺ beruhigte seinen Gefährten in der Höhle, denn Allah war mit den beiden.",
+    "beleg": "Quran 9:40"
+   }
+  ]
+ }
+}
