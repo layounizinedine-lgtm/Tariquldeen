@@ -1,0 +1,102 @@
+{
+ "id": "abu-bakr",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "اسْمُهُ عَبْدُ اللَّهِ بْنُ أَبِي قُحَافَةَ، وَلَقَبُهُ عَتِيقٌ.",
+   "de": "Sein Name war Abdullah ibn Abi Quhafa, sein Beiname ʿAtiq.",
+   "page_id": 1155,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ أَوَّلَ مَنْ آمَنَ مِنَ الرِّجَالِ.",
+   "de": "Er war der erste Mann, der den Glauben annahm.",
+   "page_id": 1155,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَأَنْفَقَ أَمْوَالَهُ عَلَى النَّبِيِّ ﷺ وَفِي سَبِيلِ اللَّهِ.",
+   "de": "Er gab sein Vermögen für den Propheten ﷺ und auf Allahs Weg aus.",
+   "page_id": 1156,
+   "book_id": 10906
+  },
+  {
+   "ar": "سَأَلَ عَمْرُو بْنُ الْعَاصِ النَّبِيَّ ﷺ: أَيُّ الرِّجَالِ أَحَبُّ إِلَيْكَ؟ فَقَالَ: أَبُو بَكْرٍ.",
+   "de": "ʿAmr ibn al-ʿAs fragte den Propheten ﷺ: Welcher Mann ist dir am liebsten? Er sagte: Abu Bakr.",
+   "page_id": 1156,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ النَّبِيُّ ﷺ: لَوْ كَانَ يَتَّخِذُ خَلِيلًا لَاتَّخَذَ أَبَا بَكْرٍ.",
+   "de": "Der Prophet ﷺ sagte, wenn er einen engsten Freund (Khalil) nähme, dann würde er Abu Bakr nehmen.",
+   "page_id": 1158,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَأَمَرَهُ النَّبِيُّ ﷺ أَنْ يَؤُمَّ النَّاسَ فِي الصَّلَاةِ.",
+   "de": "Der Prophet ﷺ trug ihm auf, die Menschen im Gebet zu leiten.",
+   "page_id": 1160,
+   "book_id": 10906
+  },
+  {
+   "ar": "لَمَّا صَارَ خَلِيفَةً وَضَعَ مَا عِنْدَهُ مِنْ دَنَانِيرَ وَدَرَاهِمَ فِي بَيْتِ الْمَالِ.",
+   "de": "Als er Kalif wurde, legte er seine Dinare und Dirhams in die Staatskasse.",
+   "page_id": 1162,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ أَوَّلَ مَنْ جَمَعَ الْقُرْآنَ بَيْنَ اللَّوْحَيْنِ.",
+   "de": "Er war der Erste, der den Quran zwischen zwei Buchdeckeln sammelte.",
+   "page_id": 1163,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ عَلِيٌّ: خَيْرُ هَذِهِ الْأُمَّةِ بَعْدَ نَبِيِّهَا أَبُو بَكْرٍ وَعُمَرُ.",
+   "de": "ʿAli sagte: Die Besten dieser Umma nach ihrem Propheten sind Abu Bakr und ʿUmar.",
+   "page_id": 1163,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَتْ خِلَافَتُهُ سَنَتَيْنِ وَمِئَةَ يَوْمٍ، ثُمَّ اسْتَخْلَفَ عُمَرَ.",
+   "de": "Sein Kalifat dauerte zwei Jahre und hundert Tage, dann bestimmte er ʿUmar zum Nachfolger.",
+   "page_id": 1164,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "وكان أول من آمن من الرجال.",
+   "text_de": "Und er war der erste Mann, der glaubte.",
+   "page_id": 1155,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "hadith",
+   "text_ar": "إن من أمن الناس علي في صحبته وماله أبو بكر، ولو كنت متخذا خليلا لاتخذت أبا بكر خليلا، ولكن أخوة الإسلام",
+   "text_de": "Der mir in seiner Gefährtenschaft und mit seinem Vermögen am meisten Gutes getan hat, ist Abu Bakr. Würde ich einen engsten Freund nehmen, so nähme ich Abu Bakr; doch es ist die Brüderlichkeit des Islam.",
+   "page_id": 1158,
+   "einstufung": "متفق على صحته (laut adh-Dhahabi)",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "خير هذه الأمة بعد نبيها أبو بكر، وعمر.",
+   "text_de": "Die Besten dieser Umma nach ihrem Propheten sind Abu Bakr und ʿUmar. (ʿAli)",
+   "page_id": 1163,
+   "einstufung": "متواتر عنه (laut adh-Dhahabi)",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "أعظم الناس أجرا في المصاحف أبو بكر، كان أول من جمع القرآن بين اللوحين.",
+   "text_de": "Den größten Lohn bezüglich der Mushafe hat Abu Bakr: Er sammelte als Erster den Quran zwischen zwei Deckeln. (ʿAli)",
+   "page_id": 1163,
+   "einstufung": "إسناده حسن (laut adh-Dhahabi)",
+   "book_id": 10906
+  }
+ ]
+}

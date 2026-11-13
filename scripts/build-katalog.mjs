@@ -44,6 +44,36 @@ const ts = (v) => {
 }
 
 const nach = JSON.parse(readFileSync('content/nacherzaehlungen.json', 'utf8'))
+const WERK = { 10906: "adh-Dhahabi, Siyar A'lam an-Nubala (Ausgabe ar-Risala)" }
+const BAND = { 'راشدون': 'al-Khulafa ar-Rashidun', 'سيرة 1': 'as-Sira 1', 'سيرة 2': 'as-Sira 2' }
+const band = (b) => BAND[b] ?? b
+const norm = (t) => t.replace(/\s+/g, ' ').trim()
+// Biografien aus klassischen Werken: Sätze mit Seitenbeleg, Zitate wörtlich aus den gesicherten Seiten
+function biografie(id) {
+  const f = `content/biografien/${id}.json`
+  if (!existsSync(f)) return null
+  const b = JSON.parse(readFileSync(f, 'utf8')), q = JSON.parse(readFileSync(`content/quellen/${id}.json`, 'utf8'))
+  const seite = (book, pg) => {
+    const s = q.seiten.find((x) => x.book_id === book && x.page_id === pg)
+    if (!s) throw new Error(`${id}: Seite ${book}/${pg} nicht gesichert`)
+    return s
+  }
+  const stelle = (book, pg, kurz) => { const s = seite(book, pg); return `${kurz ? b.werk_kurz : WERK[book] ?? s.werk}, Bd. ${band(s.band)}, S. ${s.seite}` }
+  const zit = b.zitate.map((z, i) => {
+    const s = seite(z.book_id, z.page_id)
+    if (!norm(s.text).includes(norm(z.text_ar))) throw new Error(`${id}: Zitat ${i + 1} steht nicht wörtlich auf Seite ${z.page_id}`)
+    return { id: `a-${id}-${i + 1}`, typ: z.typ, text_ar: z.text_ar, text_de: z.text_de + ' [Übersetzung: Entwurf]', quelle: stelle(z.book_id, z.page_id), einstufung: z.einstufung ?? undefined }
+  })
+  const seiten = [...new Set(q.seiten.map((s) => `${s.book_id}|${s.band}`))].map((k) => {
+    const [book, bandName] = k.split('|'), ps = q.seiten.filter((s) => `${s.book_id}` === book && s.band === bandName).map((s) => s.seite)
+    return { werk: WERK[book] ?? q.seiten[0].werk, stelle: `Bd. ${band(bandName)}, S. ${Math.min(...ps)}–${Math.max(...ps)} (Text: turath.io / Shamela)` }
+  })
+  return {
+    zitate: zit, quellen: seiten, hinweis: b.hinweis,
+    saetze: b.saetze.map((x, i) => ({ id: `b${i + 1}`, text_ar_mit_harakat: x.ar, text_de: x.de, beleg: stelle(x.book_id, x.page_id, true) })),
+    niveau: b.niveau,
+  }
+}
 let n = 0
 const index = []
 for (const e of katalog) {
@@ -76,6 +106,14 @@ for (const e of katalog) {
     quellen.push({ werk: h.edition, stelle: `Hadith Nr. ${h.nr} (Daten: hadith-api; Einstufung wie dort angegeben)`, einstufung: /sahih/i.test(grade) ? 'sahih' : /hasan/i.test(grade) ? 'hasan' : undefined })
   }
   const fassungen = saetze.length ? { klassisch: { status: 'entwurf', hinweis: 'Klassisch = Originalwortlaut der Überlieferung. Auswahl ist ein Entwurf.', saetze } } : {}
+  const bio = biografie(e.id)
+  if (bio) {
+    for (const z of bio.zitate) zitate[z.id] = z
+    const k = fassungen.klassisch ?? { status: 'entwurf', hinweis: 'Klassisch = Originalwortlaut der Überlieferung (Druckausgabe ohne vollständige Harakat).', saetze: [] }
+    k.saetze = [...k.saetze, ...bio.zitate.map((z, i) => ({ id: `kz${i + 1}`, text_ar_mit_harakat: z.text_ar, text_de: z.text_de, zitat_id: z.id }))]
+    fassungen.klassisch = k
+    fassungen[bio.niveau] = { status: 'entwurf', hinweis: 'Nacherzählung in eigenen Worten (Entwurf) nach den angegebenen Seiten. Harakat und Übersetzung ungeprüft.', saetze: bio.saetze }
+  }
   const nz = nach[e.id]
   if (nz) fassungen[nz.niveau] = {
     status: 'entwurf', hinweis: 'Vereinfachte Nacherzählung (Entwurf): nur Inhalte, die durch die angegebenen Verse belegt sind. Stufe, Harakat und Übersetzung ungeprüft.',
@@ -83,7 +121,8 @@ for (const e of katalog) {
   }
   const g = {
     id: e.id, bereich: e.bereich, titel_ar: e.titel_ar, titel_de: e.titel_de, bild_motiv: e.motiv,
-    quellen: [...quellen, ...e.quellen], hinweis: e.hinweis, status: 'entwurf', zitate,
+    quellen: [...quellen, ...(bio?.quellen ?? []), ...e.quellen.filter((q) => !(bio && /Siyar/.test(q.werk)))],
+    hinweis: bio ? (bio.hinweis ?? 'Nacherzählung und Zitate nach adh-Dhahabis Siyar (Seiten angegeben). Weitere Quellen noch zu ergänzen.') : e.hinweis, status: 'entwurf', zitate,
     fassungen,
   }
   writeFileSync(`src/data/geschichten/${e.id}.json`, JSON.stringify(g)); n++
