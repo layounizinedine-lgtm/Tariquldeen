@@ -1,0 +1,86 @@
+// Baut aus content/katalog.json die Geschichten-Dateien in src/data/geschichten/.
+// Quran-Text + deutsche Übersetzung: Quran.com-API (geprüfte Quelle). Hadith-Text: fawazahmed0/hadith-api
+// (Arabisch/Englisch, Einstufungen wie dort angegeben). NICHTS wird von KI geschrieben; was fehlt, ist als [Platzhalter] markiert.
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs'
+
+const katalog = JSON.parse(readFileSync('content/katalog.json', 'utf8'))
+const SKIP = new Set(['yusuf']) // von Hand kuratiert (src/data/yusuf.ts)
+mkdirSync('content/.cache', { recursive: true }); mkdirSync('src/data/geschichten', { recursive: true })
+const wait = (ms) => new Promise((r) => setTimeout(r, ms))
+async function getJson(url, tries = 4) {
+  for (let i = 0; i < tries; i++) {
+    try { const r = await fetch(url); if (r.ok) return await r.json(); if (r.status === 404) return null } catch { /* retry */ }
+    await wait(1000 * 2 ** i)
+  }
+  throw new Error('Abruf fehlgeschlagen: ' + url)
+}
+const strip = (t) => t.replace(/<sup[^>]*>.*?<\/sup>/g, '').replace(/<[^>]+>/g, '').trim()
+
+async function kapitel(n) {
+  const f = `content/.cache/ch-${n}.json`
+  if (existsSync(f)) return JSON.parse(readFileSync(f, 'utf8'))
+  const verse = {}
+  for (let page = 1; ; page++) {
+    const j = await getJson(`https://api.quran.com/api/v4/verses/by_chapter/${n}?language=de&words=false&translations=27&fields=text_uthmani&audio=7&per_page=50&page=${page}`)
+    for (const v of j.verses) verse[v.verse_number] = v
+    if (!j.pagination?.next_page) break
+  }
+  writeFileSync(f, JSON.stringify(verse)); return verse
+}
+async function hadith(sammlung, nr) {
+  const f = `content/.cache/h-${sammlung}-${nr}.json`
+  if (existsSync(f)) return JSON.parse(readFileSync(f, 'utf8'))
+  const base = 'https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions'
+  const [ar, en] = await Promise.all([getJson(`${base}/ara-${sammlung}/${nr}.json`), getJson(`${base}/eng-${sammlung}/${nr}.json`)])
+  const a = ar?.hadiths?.find((h) => h.hadithnumber === nr), e = en?.hadiths?.find((h) => h.hadithnumber === nr)
+  if (!a) throw new Error(`Hadith nicht gefunden: ${sammlung} ${nr}`)
+  const out = { ar: a.text.replace(/‏/g, '').replace(/\s+/g, ' ').trim(), en: e?.text, grades: a.grades ?? [] }
+  writeFileSync(f, JSON.stringify(out)); return out
+}
+const ts = (v) => {
+  const seg = v.audio?.segments ?? [], toks = v.text_uthmani.split(/\s+/)
+  const idx = toks.map((t, i) => (/[ء-ي]/.test(t) ? i : -1)).filter((i) => i >= 0)
+  return seg.length === idx.length ? seg.map(([, , a, b], n) => ({ wort_index: idx[n], start: a / 1000, ende: b / 1000 })) : undefined
+}
+
+let n = 0
+const index = []
+for (const e of katalog) {
+  if (SKIP.has(e.id)) continue
+  const zitate = {}, saetze = [], quellen = []
+  for (const r of e.quran) {
+    const [s, v1] = r.von.split(':').map(Number), v2 = Number(r.bis.split(':')[1])
+    const ch = await kapitel(s)
+    for (let v = v1; v <= v2; v++) {
+      const x = ch[v]; if (!x) throw new Error(`Vers fehlt ${s}:${v}`)
+      const id = `q-${s}:${v}`
+      if (zitate[id]) continue
+      zitate[id] = {
+        id, typ: 'ayah', text_ar: x.text_uthmani, text_de: strip(x.translations?.[0]?.text ?? ''),
+        quelle: `Quran ${s}:${v}`, qari: 'Mishari Rashid al-Afasy',
+        rezitation_url: `https://verses.quran.com/${x.audio.url}`, wort_zeitstempel: ts(x),
+      }
+      saetze.push({ id: `k${saetze.length + 1}`, text_ar_mit_harakat: x.text_uthmani, text_de: zitate[id].text_de, zitat_id: id })
+    }
+    quellen.push({ werk: 'Quran', stelle: r.von === r.bis ? `Sure ${r.von}` : `Sure ${r.von}–${r.bis.split(':')[1]}` })
+  }
+  for (const h of e.hadith) {
+    const x = await hadith(h.sammlung, h.nr), id = `h-${h.sammlung}-${h.nr}`
+    const grade = x.grades.map((g) => `${g.grade} (${g.name})`).join('; ') || '[Platzhalter: Einstufung fehlt]'
+    zitate[id] = {
+      id, typ: 'hadith', text_ar: x.ar, text_en: x.en, text_de: '[Platzhalter: deutsche Übersetzung noch zu ergänzen]',
+      quelle: `${h.edition} ${h.nr}`, einstufung: grade,
+    }
+    saetze.push({ id: `k${saetze.length + 1}`, text_ar_mit_harakat: x.ar, text_de: zitate[id].text_de, zitat_id: id })
+    quellen.push({ werk: h.edition, stelle: `Hadith Nr. ${h.nr} (Daten: hadith-api; Einstufung wie dort angegeben)`, einstufung: /sahih/i.test(grade) ? 'sahih' : /hasan/i.test(grade) ? 'hasan' : undefined })
+  }
+  const g = {
+    id: e.id, bereich: e.bereich, titel_ar: e.titel_ar, titel_de: e.titel_de, bild_motiv: e.motiv,
+    quellen: [...quellen, ...e.quellen], hinweis: e.hinweis, status: 'entwurf', zitate,
+    fassungen: saetze.length ? { klassisch: { status: 'entwurf', hinweis: 'Klassisch = Originalwortlaut der Überlieferung. Auswahl ist ein Entwurf.', saetze } } : {},
+  }
+  writeFileSync(`src/data/geschichten/${e.id}.json`, JSON.stringify(g)); n++
+  index.push({ id: g.id, bereich: g.bereich, titel_ar: g.titel_ar, titel_de: g.titel_de, bild_motiv: g.bild_motiv, status: g.status, hat_inhalt: saetze.length > 0 })
+}
+writeFileSync('src/data/geschichten/index.json', JSON.stringify(index, null, 1))
+console.log(n, 'Geschichten geschrieben')

@@ -12,7 +12,7 @@ export interface Quelle { werk: string; stelle: string; einstufung?: 'sahih' | '
 export interface Zitat {
   id: string; typ: 'ayah' | 'hadith' | 'athar'
   text_ar: string; text_de: string; quelle: string
-  einstufung?: string; hinweis?: string
+  einstufung?: string; hinweis?: string; text_en?: string
   rezitation_url?: string; qari?: string; wort_zeitstempel?: WortZeitstempel[]
 }
 export interface Satz {
@@ -29,6 +29,7 @@ export interface Geschichte {
   zitate: Record<string, Zitat>
   fassungen: Partial<Record<Niveau, Fassung>>
   quiz?: Partial<Record<Niveau, VerstaendnisFrage[]>>
+  hat_inhalt?: boolean // nur Katalog-Eintrag: gibt es schon Text?
 }
 
 export interface VerstaendnisFrage { satz: string; frage: string; optionen: string[]; richtig: number }

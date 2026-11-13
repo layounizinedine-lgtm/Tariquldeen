@@ -1,0 +1,605 @@
+[
+ {
+  "id": "adam",
+  "bereich": "anbiya",
+  "titel_ar": "آدَمُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Adam",
+  "bild_motiv": "Paradiesgarten mit Baum",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "idris",
+  "bereich": "anbiya",
+  "titel_ar": "إِدْرِيسُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Idris",
+  "bild_motiv": "Sternenhimmel über Bergen",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "nuh",
+  "bereich": "anbiya",
+  "titel_ar": "نُوحٌ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Nuh (Noah)",
+  "bild_motiv": "Schiff auf Wellen",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "hud",
+  "bereich": "anbiya",
+  "titel_ar": "هُودٌ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Hud",
+  "bild_motiv": "Sanddünen und Windhosen",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "salih",
+  "bereich": "anbiya",
+  "titel_ar": "صَالِحٌ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Salih",
+  "bild_motiv": "Felsenlandschaft mit Berg",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "ibrahim",
+  "bereich": "anbiya",
+  "titel_ar": "إِبْرَاهِيمُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Ibrahim (Abraham)",
+  "bild_motiv": "Sternenhimmel und Feuerstelle",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "lut",
+  "bereich": "anbiya",
+  "titel_ar": "لُوطٌ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Lut (Lot)",
+  "bild_motiv": "Zerfallene Stadtmauern",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "ismail",
+  "bereich": "anbiya",
+  "titel_ar": "إِسْمَاعِيلُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Ismail (Ismael)",
+  "bild_motiv": "Quelle in der Wüste",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "ishaq",
+  "bereich": "anbiya",
+  "titel_ar": "إِسْحَاقُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Ishaq (Isaak)",
+  "bild_motiv": "Olivenbaum im Abendlicht",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "yaqub",
+  "bereich": "anbiya",
+  "titel_ar": "يَعْقُوبُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Yaqub (Jakob)",
+  "bild_motiv": "Zelt unter Sternen",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "ayyub",
+  "bereich": "anbiya",
+  "titel_ar": "أَيُّوبُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Ayyub (Hiob)",
+  "bild_motiv": "Quelle im Gebirge",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "shuayb",
+  "bereich": "anbiya",
+  "titel_ar": "شُعَيْبٌ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Shuayb",
+  "bild_motiv": "Waage und Marktplatz",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "musa",
+  "bereich": "anbiya",
+  "titel_ar": "مُوسَى عَلَيْهِ السَّلَامُ",
+  "titel_de": "Musa (Moses)",
+  "bild_motiv": "Geteiltes Meer",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "harun",
+  "bereich": "anbiya",
+  "titel_ar": "هَارُونُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Harun (Aaron)",
+  "bild_motiv": "Bergpfad im Morgenlicht",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "dhulkifl",
+  "bereich": "anbiya",
+  "titel_ar": "ذُو الْكِفْلِ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Dhul-Kifl",
+  "bild_motiv": "Tor einer alten Stadt",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "dawud",
+  "bereich": "anbiya",
+  "titel_ar": "دَاوُودُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Dawud (David)",
+  "bild_motiv": "Harfe und Eisenringe",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "sulayman",
+  "bereich": "anbiya",
+  "titel_ar": "سُلَيْمَانُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Sulayman (Salomo)",
+  "bild_motiv": "Palast aus Kristall",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "ilyas",
+  "bereich": "anbiya",
+  "titel_ar": "إِلْيَاسُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Ilyas (Elia)",
+  "bild_motiv": "Bergspitze im Sonnenaufgang",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "alyasa",
+  "bereich": "anbiya",
+  "titel_ar": "الْيَسَعُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Al-Yasa (Elisa)",
+  "bild_motiv": "Ackerland am Fluss",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "yunus",
+  "bereich": "anbiya",
+  "titel_ar": "يُونُسُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Yunus (Jona)",
+  "bild_motiv": "Wal-Silhouette im Meer",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "zakariya",
+  "bereich": "anbiya",
+  "titel_ar": "زَكَرِيَّا عَلَيْهِ السَّلَامُ",
+  "titel_de": "Zakariya",
+  "bild_motiv": "Gebetsnische im Tempel",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "yahya",
+  "bereich": "anbiya",
+  "titel_ar": "يَحْيَى عَلَيْهِ السَّلَامُ",
+  "titel_de": "Yahya (Johannes)",
+  "bild_motiv": "Wüstenpfad mit Quelle",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "isa",
+  "bereich": "anbiya",
+  "titel_ar": "عِيسَى عَلَيْهِ السَّلَامُ",
+  "titel_de": "Isa (Jesus)",
+  "bild_motiv": "Palme und Quelle",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "muhammad",
+  "bereich": "anbiya",
+  "titel_ar": "مُحَمَّدٌ ﷺ",
+  "titel_de": "Muhammad ﷺ",
+  "bild_motiv": "Höhle und Spinnennetz",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "abu-bakr",
+  "bereich": "sahaba",
+  "titel_ar": "أَبُو بَكْرٍ الصِّدِّيقُ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Abu Bakr as-Siddiq",
+  "bild_motiv": "Höhle mit Sternen",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "umar",
+  "bereich": "sahaba",
+  "titel_ar": "عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Umar ibn al-Khattab",
+  "bild_motiv": "Stadttor und Fackel",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "uthman",
+  "bereich": "sahaba",
+  "titel_ar": "عُثْمَانُ بْنُ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Uthman ibn Affan",
+  "bild_motiv": "Brunnen und Koranblätter",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "ali",
+  "bereich": "sahaba",
+  "titel_ar": "عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Ali ibn Abi Talib",
+  "bild_motiv": "Schwert und Tor einer Festung",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "talha",
+  "bereich": "sahaba",
+  "titel_ar": "طَلْحَةُ بْنُ عُبَيْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Talha ibn Ubaydillah",
+  "bild_motiv": "Schild und Palmen",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "zubayr",
+  "bereich": "sahaba",
+  "titel_ar": "الزُّبَيْرُ بْنُ الْعَوَّامِ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "az-Zubayr ibn al-Awwam",
+  "bild_motiv": "Schwert im Wüstenwind",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "abdurrahman-ibn-awf",
+  "bereich": "sahaba",
+  "titel_ar": "عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Abd ar-Rahman ibn Awf",
+  "bild_motiv": "Handelskarawane und Waage",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "sad",
+  "bereich": "sahaba",
+  "titel_ar": "سَعْدُ بْنُ أَبِي وَقَّاصٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Sa'd ibn Abi Waqqas",
+  "bild_motiv": "Bogen und Pfeile",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "abu-ubayda",
+  "bereich": "sahaba",
+  "titel_ar": "أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Abu Ubayda ibn al-Jarrah",
+  "bild_motiv": "Brücke über einen Fluss",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "said-ibn-zayd",
+  "bereich": "sahaba",
+  "titel_ar": "سَعِيدُ بْنُ زَيْدٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Said ibn Zayd",
+  "bild_motiv": "Kaaba-Hof im Morgenlicht",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "bilal",
+  "bereich": "sahaba",
+  "titel_ar": "بِلَالُ بْنُ رَبَاحٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Bilal ibn Rabah",
+  "bild_motiv": "Minarett bei Sonnenaufgang",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "musab",
+  "bereich": "sahaba",
+  "titel_ar": "مُصْعَبُ بْنُ عُمَيْرٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Mus'ab ibn Umair",
+  "bild_motiv": "Gebetsteppich und Schriftrolle",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "khadija",
+  "bereich": "sahaba",
+  "titel_ar": "خَدِيجَةُ بِنْتُ خُوَيْلِدٍ رَضِيَ اللَّهُ عَنْهَا",
+  "titel_de": "Khadija bint Khuwaylid",
+  "bild_motiv": "Handelskarawane im Abendlicht",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "aisha",
+  "bereich": "sahaba",
+  "titel_ar": "عَائِشَةُ بِنْتُ أَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهَا",
+  "titel_de": "Aisha bint Abi Bakr",
+  "bild_motiv": "Bücher und Öllampe",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "hamza",
+  "bereich": "sahaba",
+  "titel_ar": "حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Hamza ibn Abd al-Muttalib",
+  "bild_motiv": "Berg Uhud",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "khalid",
+  "bereich": "sahaba",
+  "titel_ar": "خَالِدُ بْنُ الْوَلِيدِ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Khalid ibn al-Walid",
+  "bild_motiv": "Schwert und Wüstenzelt",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "salman",
+  "bereich": "sahaba",
+  "titel_ar": "سَلْمَانُ الْفَارِسِيُّ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Salman al-Farisi",
+  "bild_motiv": "Graben und Palmen",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "jafar",
+  "bereich": "sahaba",
+  "titel_ar": "جَعْفَرُ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Ja'far ibn Abi Talib",
+  "bild_motiv": "Schiff auf dem Roten Meer",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "fatima",
+  "bereich": "sahaba",
+  "titel_ar": "فَاطِمَةُ الزَّهْرَاءُ رَضِيَ اللَّهُ عَنْهَا",
+  "titel_de": "Fatima az-Zahra",
+  "bild_motiv": "Rose im Innenhof",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "abu-hurayra",
+  "bereich": "sahaba",
+  "titel_ar": "أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Abu Hurayra",
+  "bild_motiv": "Schriftrolle und Moscheesäulen",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "ibn-abbas",
+  "bereich": "sahaba",
+  "titel_ar": "عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Abdullah ibn Abbas",
+  "bild_motiv": "Aufgeschlagenes Buch und Lampe",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "muadh",
+  "bereich": "sahaba",
+  "titel_ar": "مُعَاذُ بْنُ جَبَلٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Mu'adh ibn Jabal",
+  "bild_motiv": "Karawanenweg nach Jemen",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "abu-dharr",
+  "bereich": "sahaba",
+  "titel_ar": "أَبُو ذَرٍّ الْغِفَارِيُّ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Abu Dharr al-Ghifari",
+  "bild_motiv": "Einsame Wüstenstraße",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "said-ibn-musayyib",
+  "bereich": "tabiin",
+  "titel_ar": "سَعِيدُ بْنُ الْمُسَيِّبِ رَحِمَهُ اللَّهُ",
+  "titel_de": "Said ibn al-Musayyib",
+  "bild_motiv": "Moscheehof mit Säulen",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "uways",
+  "bereich": "tabiin",
+  "titel_ar": "أُوَيْسٌ الْقَرَنِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "Uways al-Qarani",
+  "bild_motiv": "Einsamer Pfad im Jemen",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "hasan-basri",
+  "bereich": "tabiin",
+  "titel_ar": "الْحَسَنُ الْبَصْرِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "al-Hasan al-Basri",
+  "bild_motiv": "Lernkreis unter Palmen",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "umar-ibn-abdulaziz",
+  "bereich": "tabiin",
+  "titel_ar": "عُمَرُ بْنُ عَبْدِ الْعَزِيزِ رَحِمَهُ اللَّهُ",
+  "titel_de": "Umar ibn Abd al-Aziz",
+  "bild_motiv": "Öllampe und Waage",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "ibn-sirin",
+  "bereich": "tabiin",
+  "titel_ar": "مُحَمَّدُ بْنُ سِيرِينَ رَحِمَهُ اللَّهُ",
+  "titel_de": "Muhammad ibn Sirin",
+  "bild_motiv": "Marktplatz und Schriftrolle",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "ata",
+  "bereich": "tabiin",
+  "titel_ar": "عَطَاءُ بْنُ أَبِي رَبَاحٍ رَحِمَهُ اللَّهُ",
+  "titel_de": "Ata ibn Abi Rabah",
+  "bild_motiv": "Kaaba-Vorhof",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "urwa",
+  "bereich": "tabiin",
+  "titel_ar": "عُرْوَةُ بْنُ الزُّبَيْرِ رَحِمَهُ اللَّهُ",
+  "titel_de": "Urwa ibn az-Zubayr",
+  "bild_motiv": "Bibliothek mit Schriftrollen",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "zaynulabidin",
+  "bereich": "tabiin",
+  "titel_ar": "عَلِيُّ بْنُ الْحُسَيْنِ زَيْنُ الْعَابِدِينَ رَحِمَهُ اللَّهُ",
+  "titel_de": "Ali ibn al-Husayn Zayn al-Abidin",
+  "bild_motiv": "Gebetsnische im Lampenlicht",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "tawus",
+  "bereich": "tabiin",
+  "titel_ar": "طَاوُسُ بْنُ كَيْسَانَ رَحِمَهُ اللَّهُ",
+  "titel_de": "Tawus ibn Kaysan",
+  "bild_motiv": "Bergpfad nach Mekka",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "sufyan-thawri",
+  "bereich": "tabiin",
+  "titel_ar": "سُفْيَانُ الثَّوْرِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "Sufyan ath-Thawri",
+  "bild_motiv": "Lernkreis mit Schriftrollen",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "sufyan-uyayna",
+  "bereich": "tabiin",
+  "titel_ar": "سُفْيَانُ بْنُ عُيَيْنَةَ رَحِمَهُ اللَّهُ",
+  "titel_de": "Sufyan ibn Uyayna",
+  "bild_motiv": "Moscheehof bei Morgendämmerung",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "ahmad",
+  "bereich": "ahmad",
+  "titel_ar": "الْإِمَامُ أَحْمَدُ بْنُ حَنْبَلٍ رَحِمَهُ اللَّهُ",
+  "titel_de": "Imam Ahmad ibn Hanbal",
+  "bild_motiv": "Bücher und Öllampe",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "ahmad-mihna",
+  "bereich": "ahmad",
+  "titel_ar": "مِحْنَةُ الْإِمَامِ أَحْمَدَ",
+  "titel_de": "Die Mihna des Imam Ahmad",
+  "bild_motiv": "Gefängnistor und Öllampe",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "salih-ibn-ahmad",
+  "bereich": "ahmad",
+  "titel_ar": "صَالِحُ بْنُ أَحْمَدَ رَحِمَهُ اللَّهُ",
+  "titel_de": "Salih ibn Ahmad (Sohn)",
+  "bild_motiv": "Bücher und Öllampe",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "abdullah-ibn-ahmad",
+  "bereich": "ahmad",
+  "titel_ar": "عَبْدُ اللَّهِ بْنُ أَحْمَدَ رَحِمَهُ اللَّهُ",
+  "titel_de": "Abdullah ibn Ahmad (Sohn)",
+  "bild_motiv": "Bücher und Öllampe",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "abu-dawud",
+  "bereich": "ahmad",
+  "titel_ar": "أَبُو دَاوُدَ السِّجِسْتَانِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "Abu Dawud as-Sijistani",
+  "bild_motiv": "Bücher und Öllampe",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "athram",
+  "bereich": "ahmad",
+  "titel_ar": "الْأَثْرَمُ رَحِمَهُ اللَّهُ",
+  "titel_de": "al-Athram",
+  "bild_motiv": "Bücher und Öllampe",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "marrudhi",
+  "bereich": "ahmad",
+  "titel_ar": "الْمَرُّوذِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "al-Marrudhi",
+  "bild_motiv": "Bücher und Öllampe",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "harb-kirmani",
+  "bereich": "ahmad",
+  "titel_ar": "حَرْبٌ الْكِرْمَانِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "Harb al-Kirmani",
+  "bild_motiv": "Bücher und Öllampe",
+  "status": "entwurf",
+  "hat_inhalt": false
+ },
+ {
+  "id": "ishaq-ibn-hani",
+  "bereich": "ahmad",
+  "titel_ar": "إِسْحَاقُ بْنُ هَانِئٍ رَحِمَهُ اللَّهُ",
+  "titel_de": "Ishaq ibn Hani",
+  "bild_motiv": "Bücher und Öllampe",
+  "status": "entwurf",
+  "hat_inhalt": false
+ }
+]

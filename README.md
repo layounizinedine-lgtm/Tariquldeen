@@ -24,3 +24,8 @@ Siehe `tools/tts/README.md` (läuft auf einem Rechner mit GPU).
 ## Veröffentlichung
 GitHub Pages über `.github/workflows/pages.yml` (Repo → Settings → Pages → Source: *GitHub Actions*).
 Optional unter Settings → Secrets and variables → Actions → *Variables*: `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`.
+
+## Geschichten-Katalog
+`content/katalog.json` listet alle Geschichten (25 Propheten, die zehn mit Paradies-Zusage, weitere Sahaba, Tabi'in, Imam Ahmad & Schüler).
+`npm run build:katalog` lädt dazu Quran-Verse (Quran.com-API) und Hadith (hadith-api) und schreibt `src/data/geschichten/*.json`.
+Alles ist `entwurf`. Ohne Quellentext bleibt ein „Gerüst“ mit Platzhaltern – nichts wird erfunden.

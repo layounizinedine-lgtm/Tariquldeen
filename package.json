@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "check:data": "node scripts/check-data.mjs",
+    "build:katalog": "node scripts/build-katalog.mjs",
     "fetch:quran": "node scripts/fetch-quran.mjs"
   },
   "dependencies": {

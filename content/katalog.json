@@ -1,0 +1,2115 @@
+[
+ {
+  "id": "adam",
+  "bereich": "anbiya",
+  "titel_ar": "آدَمُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Adam",
+  "motiv": "Paradiesgarten mit Baum",
+  "quran": [
+   {
+    "von": "2:30",
+    "bis": "2:39"
+   },
+   {
+    "von": "7:19",
+    "bis": "7:25"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "idris",
+  "bereich": "anbiya",
+  "titel_ar": "إِدْرِيسُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Idris",
+  "motiv": "Sternenhimmel über Bergen",
+  "quran": [
+   {
+    "von": "19:56",
+    "bis": "19:57"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "nuh",
+  "bereich": "anbiya",
+  "titel_ar": "نُوحٌ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Nuh (Noah)",
+  "motiv": "Schiff auf Wellen",
+  "quran": [
+   {
+    "von": "11:25",
+    "bis": "11:48"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "hud",
+  "bereich": "anbiya",
+  "titel_ar": "هُودٌ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Hud",
+  "motiv": "Sanddünen und Windhosen",
+  "quran": [
+   {
+    "von": "7:65",
+    "bis": "7:72"
+   },
+   {
+    "von": "11:50",
+    "bis": "11:60"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "salih",
+  "bereich": "anbiya",
+  "titel_ar": "صَالِحٌ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Salih",
+  "motiv": "Felsenlandschaft mit Berg",
+  "quran": [
+   {
+    "von": "7:73",
+    "bis": "7:79"
+   },
+   {
+    "von": "11:61",
+    "bis": "11:68"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "ibrahim",
+  "bereich": "anbiya",
+  "titel_ar": "إِبْرَاهِيمُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Ibrahim (Abraham)",
+  "motiv": "Sternenhimmel und Feuerstelle",
+  "quran": [
+   {
+    "von": "21:51",
+    "bis": "21:70"
+   },
+   {
+    "von": "37:83",
+    "bis": "37:98"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "lut",
+  "bereich": "anbiya",
+  "titel_ar": "لُوطٌ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Lut (Lot)",
+  "motiv": "Zerfallene Stadtmauern",
+  "quran": [
+   {
+    "von": "11:77",
+    "bis": "11:83"
+   },
+   {
+    "von": "7:80",
+    "bis": "7:84"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "ismail",
+  "bereich": "anbiya",
+  "titel_ar": "إِسْمَاعِيلُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Ismail (Ismael)",
+  "motiv": "Quelle in der Wüste",
+  "quran": [
+   {
+    "von": "19:54",
+    "bis": "19:55"
+   },
+   {
+    "von": "37:99",
+    "bis": "37:107"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "ishaq",
+  "bereich": "anbiya",
+  "titel_ar": "إِسْحَاقُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Ishaq (Isaak)",
+  "motiv": "Olivenbaum im Abendlicht",
+  "quran": [
+   {
+    "von": "11:69",
+    "bis": "11:73"
+   },
+   {
+    "von": "37:112",
+    "bis": "37:113"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "yaqub",
+  "bereich": "anbiya",
+  "titel_ar": "يَعْقُوبُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Yaqub (Jakob)",
+  "motiv": "Zelt unter Sternen",
+  "quran": [
+   {
+    "von": "2:132",
+    "bis": "2:133"
+   },
+   {
+    "von": "12:83",
+    "bis": "12:87"
+   },
+   {
+    "von": "12:93",
+    "bis": "12:96"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "ayyub",
+  "bereich": "anbiya",
+  "titel_ar": "أَيُّوبُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Ayyub (Hiob)",
+  "motiv": "Quelle im Gebirge",
+  "quran": [
+   {
+    "von": "21:83",
+    "bis": "21:84"
+   },
+   {
+    "von": "38:41",
+    "bis": "38:44"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "shuayb",
+  "bereich": "anbiya",
+  "titel_ar": "شُعَيْبٌ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Shuayb",
+  "motiv": "Waage und Marktplatz",
+  "quran": [
+   {
+    "von": "7:85",
+    "bis": "7:93"
+   },
+   {
+    "von": "11:84",
+    "bis": "11:95"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "musa",
+  "bereich": "anbiya",
+  "titel_ar": "مُوسَى عَلَيْهِ السَّلَامُ",
+  "titel_de": "Musa (Moses)",
+  "motiv": "Geteiltes Meer",
+  "quran": [
+   {
+    "von": "20:9",
+    "bis": "20:36"
+   },
+   {
+    "von": "28:7",
+    "bis": "28:14"
+   },
+   {
+    "von": "26:61",
+    "bis": "26:68"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "harun",
+  "bereich": "anbiya",
+  "titel_ar": "هَارُونُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Harun (Aaron)",
+  "motiv": "Bergpfad im Morgenlicht",
+  "quran": [
+   {
+    "von": "20:29",
+    "bis": "20:36"
+   },
+   {
+    "von": "19:53",
+    "bis": "19:53"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "dhulkifl",
+  "bereich": "anbiya",
+  "titel_ar": "ذُو الْكِفْلِ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Dhul-Kifl",
+  "motiv": "Tor einer alten Stadt",
+  "quran": [
+   {
+    "von": "21:85",
+    "bis": "21:86"
+   },
+   {
+    "von": "38:48",
+    "bis": "38:48"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "dawud",
+  "bereich": "anbiya",
+  "titel_ar": "دَاوُودُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Dawud (David)",
+  "motiv": "Harfe und Eisenringe",
+  "quran": [
+   {
+    "von": "38:17",
+    "bis": "38:26"
+   },
+   {
+    "von": "34:10",
+    "bis": "34:11"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "sulayman",
+  "bereich": "anbiya",
+  "titel_ar": "سُلَيْمَانُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Sulayman (Salomo)",
+  "motiv": "Palast aus Kristall",
+  "quran": [
+   {
+    "von": "27:15",
+    "bis": "27:31"
+   },
+   {
+    "von": "38:30",
+    "bis": "38:40"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "ilyas",
+  "bereich": "anbiya",
+  "titel_ar": "إِلْيَاسُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Ilyas (Elia)",
+  "motiv": "Bergspitze im Sonnenaufgang",
+  "quran": [
+   {
+    "von": "37:123",
+    "bis": "37:132"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "alyasa",
+  "bereich": "anbiya",
+  "titel_ar": "الْيَسَعُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Al-Yasa (Elisa)",
+  "motiv": "Ackerland am Fluss",
+  "quran": [
+   {
+    "von": "6:86",
+    "bis": "6:86"
+   },
+   {
+    "von": "38:48",
+    "bis": "38:48"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "yunus",
+  "bereich": "anbiya",
+  "titel_ar": "يُونُسُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Yunus (Jona)",
+  "motiv": "Wal-Silhouette im Meer",
+  "quran": [
+   {
+    "von": "37:139",
+    "bis": "37:148"
+   },
+   {
+    "von": "21:87",
+    "bis": "21:88"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "zakariya",
+  "bereich": "anbiya",
+  "titel_ar": "زَكَرِيَّا عَلَيْهِ السَّلَامُ",
+  "titel_de": "Zakariya",
+  "motiv": "Gebetsnische im Tempel",
+  "quran": [
+   {
+    "von": "19:2",
+    "bis": "19:15"
+   },
+   {
+    "von": "3:37",
+    "bis": "3:41"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "yahya",
+  "bereich": "anbiya",
+  "titel_ar": "يَحْيَى عَلَيْهِ السَّلَامُ",
+  "titel_de": "Yahya (Johannes)",
+  "motiv": "Wüstenpfad mit Quelle",
+  "quran": [
+   {
+    "von": "19:12",
+    "bis": "19:15"
+   },
+   {
+    "von": "3:39",
+    "bis": "3:39"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "isa",
+  "bereich": "anbiya",
+  "titel_ar": "عِيسَى عَلَيْهِ السَّلَامُ",
+  "titel_de": "Isa (Jesus)",
+  "motiv": "Palme und Quelle",
+  "quran": [
+   {
+    "von": "3:45",
+    "bis": "3:59"
+   },
+   {
+    "von": "19:16",
+    "bis": "19:33"
+   },
+   {
+    "von": "5:110",
+    "bis": "5:118"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "muhammad",
+  "bereich": "anbiya",
+  "titel_ar": "مُحَمَّدٌ ﷺ",
+  "titel_de": "Muhammad ﷺ",
+  "motiv": "Höhle und Spinnennetz",
+  "quran": [
+   {
+    "von": "93:1",
+    "bis": "93:11"
+   },
+   {
+    "von": "94:1",
+    "bis": "94:8"
+   },
+   {
+    "von": "9:40",
+    "bis": "9:40"
+   },
+   {
+    "von": "17:1",
+    "bis": "17:1"
+   }
+  ],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu den genannten Versen",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hisham / Ibn Kathir, as-Sira an-Nabawiyya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Klassisch = Quran-Verse (Auswahl ist ein Entwurf). Reihenfolge, Auswahl und Erläuterungen aus Tafsir/Hadith sind noch zu prüfen. Isra'iliyyat nicht übernommen."
+ },
+ {
+  "id": "abu-bakr",
+  "bereich": "sahaba",
+  "titel_ar": "أَبُو بَكْرٍ الصِّدِّيقُ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Abu Bakr as-Siddiq",
+  "motiv": "Höhle mit Sternen",
+  "quran": [],
+  "hadith": [
+   {
+    "sammlung": "tirmidhi",
+    "nr": 3747,
+    "edition": "Jami at-Tirmidhi"
+   },
+   {
+    "sammlung": "abudawud",
+    "nr": 4649,
+    "edition": "Sunan Abi Dawud"
+   }
+  ],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Zugesagtes Paradies (al-Ashara al-Mubashshara): nur die beiden Hadith sind bisher als Text eingetragen. Lebensgeschichte (Siyar/Isaba) noch nicht eingetragen. In Abu Dawud 4649 wird der zehnte nicht namentlich genannt."
+ },
+ {
+  "id": "umar",
+  "bereich": "sahaba",
+  "titel_ar": "عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Umar ibn al-Khattab",
+  "motiv": "Stadttor und Fackel",
+  "quran": [],
+  "hadith": [
+   {
+    "sammlung": "tirmidhi",
+    "nr": 3747,
+    "edition": "Jami at-Tirmidhi"
+   },
+   {
+    "sammlung": "abudawud",
+    "nr": 4649,
+    "edition": "Sunan Abi Dawud"
+   }
+  ],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Zugesagtes Paradies (al-Ashara al-Mubashshara): nur die beiden Hadith sind bisher als Text eingetragen. Lebensgeschichte (Siyar/Isaba) noch nicht eingetragen. In Abu Dawud 4649 wird der zehnte nicht namentlich genannt."
+ },
+ {
+  "id": "uthman",
+  "bereich": "sahaba",
+  "titel_ar": "عُثْمَانُ بْنُ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Uthman ibn Affan",
+  "motiv": "Brunnen und Koranblätter",
+  "quran": [],
+  "hadith": [
+   {
+    "sammlung": "tirmidhi",
+    "nr": 3747,
+    "edition": "Jami at-Tirmidhi"
+   },
+   {
+    "sammlung": "abudawud",
+    "nr": 4649,
+    "edition": "Sunan Abi Dawud"
+   }
+  ],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Zugesagtes Paradies (al-Ashara al-Mubashshara): nur die beiden Hadith sind bisher als Text eingetragen. Lebensgeschichte (Siyar/Isaba) noch nicht eingetragen. In Abu Dawud 4649 wird der zehnte nicht namentlich genannt."
+ },
+ {
+  "id": "ali",
+  "bereich": "sahaba",
+  "titel_ar": "عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Ali ibn Abi Talib",
+  "motiv": "Schwert und Tor einer Festung",
+  "quran": [],
+  "hadith": [
+   {
+    "sammlung": "tirmidhi",
+    "nr": 3747,
+    "edition": "Jami at-Tirmidhi"
+   },
+   {
+    "sammlung": "abudawud",
+    "nr": 4649,
+    "edition": "Sunan Abi Dawud"
+   }
+  ],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Zugesagtes Paradies (al-Ashara al-Mubashshara): nur die beiden Hadith sind bisher als Text eingetragen. Lebensgeschichte (Siyar/Isaba) noch nicht eingetragen. In Abu Dawud 4649 wird der zehnte nicht namentlich genannt."
+ },
+ {
+  "id": "talha",
+  "bereich": "sahaba",
+  "titel_ar": "طَلْحَةُ بْنُ عُبَيْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Talha ibn Ubaydillah",
+  "motiv": "Schild und Palmen",
+  "quran": [],
+  "hadith": [
+   {
+    "sammlung": "tirmidhi",
+    "nr": 3747,
+    "edition": "Jami at-Tirmidhi"
+   },
+   {
+    "sammlung": "abudawud",
+    "nr": 4649,
+    "edition": "Sunan Abi Dawud"
+   }
+  ],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Zugesagtes Paradies (al-Ashara al-Mubashshara): nur die beiden Hadith sind bisher als Text eingetragen. Lebensgeschichte (Siyar/Isaba) noch nicht eingetragen. In Abu Dawud 4649 wird der zehnte nicht namentlich genannt."
+ },
+ {
+  "id": "zubayr",
+  "bereich": "sahaba",
+  "titel_ar": "الزُّبَيْرُ بْنُ الْعَوَّامِ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "az-Zubayr ibn al-Awwam",
+  "motiv": "Schwert im Wüstenwind",
+  "quran": [],
+  "hadith": [
+   {
+    "sammlung": "tirmidhi",
+    "nr": 3747,
+    "edition": "Jami at-Tirmidhi"
+   },
+   {
+    "sammlung": "abudawud",
+    "nr": 4649,
+    "edition": "Sunan Abi Dawud"
+   }
+  ],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Zugesagtes Paradies (al-Ashara al-Mubashshara): nur die beiden Hadith sind bisher als Text eingetragen. Lebensgeschichte (Siyar/Isaba) noch nicht eingetragen. In Abu Dawud 4649 wird der zehnte nicht namentlich genannt."
+ },
+ {
+  "id": "abdurrahman-ibn-awf",
+  "bereich": "sahaba",
+  "titel_ar": "عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Abd ar-Rahman ibn Awf",
+  "motiv": "Handelskarawane und Waage",
+  "quran": [],
+  "hadith": [
+   {
+    "sammlung": "tirmidhi",
+    "nr": 3747,
+    "edition": "Jami at-Tirmidhi"
+   },
+   {
+    "sammlung": "abudawud",
+    "nr": 4649,
+    "edition": "Sunan Abi Dawud"
+   }
+  ],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Zugesagtes Paradies (al-Ashara al-Mubashshara): nur die beiden Hadith sind bisher als Text eingetragen. Lebensgeschichte (Siyar/Isaba) noch nicht eingetragen. In Abu Dawud 4649 wird der zehnte nicht namentlich genannt."
+ },
+ {
+  "id": "sad",
+  "bereich": "sahaba",
+  "titel_ar": "سَعْدُ بْنُ أَبِي وَقَّاصٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Sa'd ibn Abi Waqqas",
+  "motiv": "Bogen und Pfeile",
+  "quran": [],
+  "hadith": [
+   {
+    "sammlung": "tirmidhi",
+    "nr": 3747,
+    "edition": "Jami at-Tirmidhi"
+   },
+   {
+    "sammlung": "abudawud",
+    "nr": 4649,
+    "edition": "Sunan Abi Dawud"
+   }
+  ],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Zugesagtes Paradies (al-Ashara al-Mubashshara): nur die beiden Hadith sind bisher als Text eingetragen. Lebensgeschichte (Siyar/Isaba) noch nicht eingetragen. In Abu Dawud 4649 wird der zehnte nicht namentlich genannt."
+ },
+ {
+  "id": "abu-ubayda",
+  "bereich": "sahaba",
+  "titel_ar": "أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Abu Ubayda ibn al-Jarrah",
+  "motiv": "Brücke über einen Fluss",
+  "quran": [],
+  "hadith": [
+   {
+    "sammlung": "tirmidhi",
+    "nr": 3747,
+    "edition": "Jami at-Tirmidhi"
+   },
+   {
+    "sammlung": "abudawud",
+    "nr": 4649,
+    "edition": "Sunan Abi Dawud"
+   }
+  ],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Zugesagtes Paradies (al-Ashara al-Mubashshara): nur die beiden Hadith sind bisher als Text eingetragen. Lebensgeschichte (Siyar/Isaba) noch nicht eingetragen. In Abu Dawud 4649 wird der zehnte nicht namentlich genannt."
+ },
+ {
+  "id": "said-ibn-zayd",
+  "bereich": "sahaba",
+  "titel_ar": "سَعِيدُ بْنُ زَيْدٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Said ibn Zayd",
+  "motiv": "Kaaba-Hof im Morgenlicht",
+  "quran": [],
+  "hadith": [
+   {
+    "sammlung": "tirmidhi",
+    "nr": 3747,
+    "edition": "Jami at-Tirmidhi"
+   },
+   {
+    "sammlung": "abudawud",
+    "nr": 4649,
+    "edition": "Sunan Abi Dawud"
+   }
+  ],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Zugesagtes Paradies (al-Ashara al-Mubashshara): nur die beiden Hadith sind bisher als Text eingetragen. Lebensgeschichte (Siyar/Isaba) noch nicht eingetragen. In Abu Dawud 4649 wird der zehnte nicht namentlich genannt."
+ },
+ {
+  "id": "bilal",
+  "bereich": "sahaba",
+  "titel_ar": "بِلَالُ بْنُ رَبَاحٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Bilal ibn Rabah",
+  "motiv": "Minarett bei Sonnenaufgang",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "musab",
+  "bereich": "sahaba",
+  "titel_ar": "مُصْعَبُ بْنُ عُمَيْرٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Mus'ab ibn Umair",
+  "motiv": "Gebetsteppich und Schriftrolle",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "khadija",
+  "bereich": "sahaba",
+  "titel_ar": "خَدِيجَةُ بِنْتُ خُوَيْلِدٍ رَضِيَ اللَّهُ عَنْهَا",
+  "titel_de": "Khadija bint Khuwaylid",
+  "motiv": "Handelskarawane im Abendlicht",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "aisha",
+  "bereich": "sahaba",
+  "titel_ar": "عَائِشَةُ بِنْتُ أَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهَا",
+  "titel_de": "Aisha bint Abi Bakr",
+  "motiv": "Bücher und Öllampe",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "hamza",
+  "bereich": "sahaba",
+  "titel_ar": "حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Hamza ibn Abd al-Muttalib",
+  "motiv": "Berg Uhud",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "khalid",
+  "bereich": "sahaba",
+  "titel_ar": "خَالِدُ بْنُ الْوَلِيدِ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Khalid ibn al-Walid",
+  "motiv": "Schwert und Wüstenzelt",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "salman",
+  "bereich": "sahaba",
+  "titel_ar": "سَلْمَانُ الْفَارِسِيُّ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Salman al-Farisi",
+  "motiv": "Graben und Palmen",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "jafar",
+  "bereich": "sahaba",
+  "titel_ar": "جَعْفَرُ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Ja'far ibn Abi Talib",
+  "motiv": "Schiff auf dem Roten Meer",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "fatima",
+  "bereich": "sahaba",
+  "titel_ar": "فَاطِمَةُ الزَّهْرَاءُ رَضِيَ اللَّهُ عَنْهَا",
+  "titel_de": "Fatima az-Zahra",
+  "motiv": "Rose im Innenhof",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "abu-hurayra",
+  "bereich": "sahaba",
+  "titel_ar": "أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Abu Hurayra",
+  "motiv": "Schriftrolle und Moscheesäulen",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "ibn-abbas",
+  "bereich": "sahaba",
+  "titel_ar": "عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Abdullah ibn Abbas",
+  "motiv": "Aufgeschlagenes Buch und Lampe",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "muadh",
+  "bereich": "sahaba",
+  "titel_ar": "مُعَاذُ بْنُ جَبَلٍ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Mu'adh ibn Jabal",
+  "motiv": "Karawanenweg nach Jemen",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "abu-dharr",
+  "bereich": "sahaba",
+  "titel_ar": "أَبُو ذَرٍّ الْغِفَارِيُّ رَضِيَ اللَّهُ عَنْهُ",
+  "titel_de": "Abu Dharr al-Ghifari",
+  "motiv": "Einsame Wüstenstraße",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Hajar, al-Isaba fi Tamyiz as-Sahaba",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Nichts ohne belegte Quelle ergänzen."
+ },
+ {
+  "id": "said-ibn-musayyib",
+  "bereich": "tabiin",
+  "titel_ar": "سَعِيدُ بْنُ الْمُسَيِّبِ رَحِمَهُ اللَّهُ",
+  "titel_de": "Said ibn al-Musayyib",
+  "motiv": "Moscheehof mit Säulen",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Abu Nu'aym, Hilyat al-Awliya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Sa'd, at-Tabaqat al-Kubra",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen."
+ },
+ {
+  "id": "uways",
+  "bereich": "tabiin",
+  "titel_ar": "أُوَيْسٌ الْقَرَنِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "Uways al-Qarani",
+  "motiv": "Einsamer Pfad im Jemen",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Abu Nu'aym, Hilyat al-Awliya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Sa'd, at-Tabaqat al-Kubra",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen."
+ },
+ {
+  "id": "hasan-basri",
+  "bereich": "tabiin",
+  "titel_ar": "الْحَسَنُ الْبَصْرِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "al-Hasan al-Basri",
+  "motiv": "Lernkreis unter Palmen",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Abu Nu'aym, Hilyat al-Awliya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Sa'd, at-Tabaqat al-Kubra",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen."
+ },
+ {
+  "id": "umar-ibn-abdulaziz",
+  "bereich": "tabiin",
+  "titel_ar": "عُمَرُ بْنُ عَبْدِ الْعَزِيزِ رَحِمَهُ اللَّهُ",
+  "titel_de": "Umar ibn Abd al-Aziz",
+  "motiv": "Öllampe und Waage",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Abu Nu'aym, Hilyat al-Awliya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Sa'd, at-Tabaqat al-Kubra",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen."
+ },
+ {
+  "id": "ibn-sirin",
+  "bereich": "tabiin",
+  "titel_ar": "مُحَمَّدُ بْنُ سِيرِينَ رَحِمَهُ اللَّهُ",
+  "titel_de": "Muhammad ibn Sirin",
+  "motiv": "Marktplatz und Schriftrolle",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Abu Nu'aym, Hilyat al-Awliya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Sa'd, at-Tabaqat al-Kubra",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen."
+ },
+ {
+  "id": "ata",
+  "bereich": "tabiin",
+  "titel_ar": "عَطَاءُ بْنُ أَبِي رَبَاحٍ رَحِمَهُ اللَّهُ",
+  "titel_de": "Ata ibn Abi Rabah",
+  "motiv": "Kaaba-Vorhof",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Abu Nu'aym, Hilyat al-Awliya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Sa'd, at-Tabaqat al-Kubra",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen."
+ },
+ {
+  "id": "urwa",
+  "bereich": "tabiin",
+  "titel_ar": "عُرْوَةُ بْنُ الزُّبَيْرِ رَحِمَهُ اللَّهُ",
+  "titel_de": "Urwa ibn az-Zubayr",
+  "motiv": "Bibliothek mit Schriftrollen",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Abu Nu'aym, Hilyat al-Awliya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Sa'd, at-Tabaqat al-Kubra",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen."
+ },
+ {
+  "id": "zaynulabidin",
+  "bereich": "tabiin",
+  "titel_ar": "عَلِيُّ بْنُ الْحُسَيْنِ زَيْنُ الْعَابِدِينَ رَحِمَهُ اللَّهُ",
+  "titel_de": "Ali ibn al-Husayn Zayn al-Abidin",
+  "motiv": "Gebetsnische im Lampenlicht",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Abu Nu'aym, Hilyat al-Awliya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Sa'd, at-Tabaqat al-Kubra",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen."
+ },
+ {
+  "id": "tawus",
+  "bereich": "tabiin",
+  "titel_ar": "طَاوُسُ بْنُ كَيْسَانَ رَحِمَهُ اللَّهُ",
+  "titel_de": "Tawus ibn Kaysan",
+  "motiv": "Bergpfad nach Mekka",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Abu Nu'aym, Hilyat al-Awliya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Sa'd, at-Tabaqat al-Kubra",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen."
+ },
+ {
+  "id": "sufyan-thawri",
+  "bereich": "tabiin",
+  "titel_ar": "سُفْيَانُ الثَّوْرِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "Sufyan ath-Thawri",
+  "motiv": "Lernkreis mit Schriftrollen",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Abu Nu'aym, Hilyat al-Awliya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Sa'd, at-Tabaqat al-Kubra",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Hinweis: Er zählt zu den Atba' at-Tabi'in (Generation nach den Tabi'in); hier wegen der Nähe zur Tabi'in-Zeit eingeordnet."
+ },
+ {
+  "id": "sufyan-uyayna",
+  "bereich": "tabiin",
+  "titel_ar": "سُفْيَانُ بْنُ عُيَيْنَةَ رَحِمَهُ اللَّهُ",
+  "titel_de": "Sufyan ibn Uyayna",
+  "motiv": "Moscheehof bei Morgendämmerung",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Abu Nu'aym, Hilyat al-Awliya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Sa'd, at-Tabaqat al-Kubra",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Überlieferungen mit Quelle und Einstufung sind noch einzutragen. Hinweis: Er zählt zu den Atba' at-Tabi'in (Generation nach den Tabi'in); hier wegen der Nähe zur Tabi'in-Zeit eingeordnet."
+ },
+ {
+  "id": "ahmad",
+  "bereich": "ahmad",
+  "titel_ar": "الْإِمَامُ أَحْمَدُ بْنُ حَنْبَلٍ رَحِمَهُ اللَّهُ",
+  "titel_de": "Imam Ahmad ibn Hanbal",
+  "motiv": "Bücher und Öllampe",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn al-Jawzi, Manaqib al-Imam Ahmad",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala (Biografie Ahmad ibn Hanbal)",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Leben, Wara' und Überlieferungen noch mit Quellen einzutragen."
+ },
+ {
+  "id": "ahmad-mihna",
+  "bereich": "ahmad",
+  "titel_ar": "مِحْنَةُ الْإِمَامِ أَحْمَدَ",
+  "titel_de": "Die Mihna des Imam Ahmad",
+  "motiv": "Gefängnistor und Öllampe",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "Ibn al-Jawzi, Manaqib al-Imam Ahmad",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala (Biografie Ahmad ibn Hanbal)",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Kathir, al-Bidaya wan-Nihaya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Gerüst: Ereignisse der Mihna nur aus belegten Quellen (z. B. Manaqib, Siyar) eintragen."
+ },
+ {
+  "id": "salih-ibn-ahmad",
+  "bereich": "ahmad",
+  "titel_ar": "صَالِحُ بْنُ أَحْمَدَ رَحِمَهُ اللَّهُ",
+  "titel_de": "Salih ibn Ahmad (Sohn)",
+  "motiv": "Bücher und Öllampe",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Abi Ya'la, Tabaqat al-Hanabila",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Schüler-Beziehung zu Imam Ahmad ist ZU PRÜFEN (Belege aus Tabaqat/Siyar). Nicht als gesichert darstellen, bis belegt."
+ },
+ {
+  "id": "abdullah-ibn-ahmad",
+  "bereich": "ahmad",
+  "titel_ar": "عَبْدُ اللَّهِ بْنُ أَحْمَدَ رَحِمَهُ اللَّهُ",
+  "titel_de": "Abdullah ibn Ahmad (Sohn)",
+  "motiv": "Bücher und Öllampe",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Abi Ya'la, Tabaqat al-Hanabila",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Schüler-Beziehung zu Imam Ahmad ist ZU PRÜFEN (Belege aus Tabaqat/Siyar). Nicht als gesichert darstellen, bis belegt."
+ },
+ {
+  "id": "abu-dawud",
+  "bereich": "ahmad",
+  "titel_ar": "أَبُو دَاوُدَ السِّجِسْتَانِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "Abu Dawud as-Sijistani",
+  "motiv": "Bücher und Öllampe",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Abi Ya'la, Tabaqat al-Hanabila",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Schüler-Beziehung zu Imam Ahmad ist ZU PRÜFEN (Belege aus Tabaqat/Siyar). Nicht als gesichert darstellen, bis belegt."
+ },
+ {
+  "id": "athram",
+  "bereich": "ahmad",
+  "titel_ar": "الْأَثْرَمُ رَحِمَهُ اللَّهُ",
+  "titel_de": "al-Athram",
+  "motiv": "Bücher und Öllampe",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Abi Ya'la, Tabaqat al-Hanabila",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Schüler-Beziehung zu Imam Ahmad ist ZU PRÜFEN (Belege aus Tabaqat/Siyar). Nicht als gesichert darstellen, bis belegt."
+ },
+ {
+  "id": "marrudhi",
+  "bereich": "ahmad",
+  "titel_ar": "الْمَرُّوذِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "al-Marrudhi",
+  "motiv": "Bücher und Öllampe",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Abi Ya'la, Tabaqat al-Hanabila",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Schüler-Beziehung zu Imam Ahmad ist ZU PRÜFEN (Belege aus Tabaqat/Siyar). Nicht als gesichert darstellen, bis belegt."
+ },
+ {
+  "id": "harb-kirmani",
+  "bereich": "ahmad",
+  "titel_ar": "حَرْبٌ الْكِرْمَانِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "Harb al-Kirmani",
+  "motiv": "Bücher und Öllampe",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Abi Ya'la, Tabaqat al-Hanabila",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Schüler-Beziehung zu Imam Ahmad ist ZU PRÜFEN (Belege aus Tabaqat/Siyar). Nicht als gesichert darstellen, bis belegt."
+ },
+ {
+  "id": "ishaq-ibn-hani",
+  "bereich": "ahmad",
+  "titel_ar": "إِسْحَاقُ بْنُ هَانِئٍ رَحِمَهُ اللَّهُ",
+  "titel_de": "Ishaq ibn Hani",
+  "motiv": "Bücher und Öllampe",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Ibn Abi Ya'la, Tabaqat al-Hanabila",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch eintragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Schüler-Beziehung zu Imam Ahmad ist ZU PRÜFEN (Belege aus Tabaqat/Siyar). Nicht als gesichert darstellen, bis belegt."
+ }
+]
