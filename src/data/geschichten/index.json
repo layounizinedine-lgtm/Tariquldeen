@@ -375,7 +375,7 @@
   "titel_de": "Ja'far ibn Abi Talib",
   "bild_motiv": "Schiff auf dem Roten Meer",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "fatima",
@@ -393,7 +393,7 @@
   "titel_de": "Abu Hurayra",
   "bild_motiv": "Schriftrolle und Moscheesäulen",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "ibn-abbas",
@@ -402,7 +402,7 @@
   "titel_de": "Abdullah ibn Abbas",
   "bild_motiv": "Aufgeschlagenes Buch und Lampe",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "muadh",
@@ -411,7 +411,7 @@
   "titel_de": "Mu'adh ibn Jabal",
   "bild_motiv": "Karawanenweg nach Jemen",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "abu-dharr",
@@ -420,7 +420,7 @@
   "titel_de": "Abu Dharr al-Ghifari",
   "bild_motiv": "Einsame Wüstenstraße",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "said-ibn-musayyib",

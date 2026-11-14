@@ -20,11 +20,14 @@ Werkzeuge:
 | abdurrahman-ibn-awf | 1494–1497, 1518 | ✅ |
 | sad | 1518–1525 | ✅ |
 | said-ibn-zayd | 1550–1552 | ✅ |
+| bilal, musab, khadija, fatima, aisha, hamza, khalid, salman, jafar, abu-hurayra, ibn-abbas, muadh, abu-dharr | siehe content/quellen | ✅ |
 
 ## Offen (Reihenfolge)
-bilal 1773, musab 1571, khadija 2089, aisha 2115, hamza 1597, khalid 1792, salman 1931, jafar 1632, fatima 2098, abu-hurayra 2558,
-ibn-abbas (?), muadh 1869, abu-dharr 2026, said-ibn-musayyib 3370, uways 3172, hasan-basri 3716, umar-ibn-abdulaziz 3886, ibn-sirin (?),
+said-ibn-musayyib 3370, uways 3172, hasan-basri 3716, umar-ibn-abdulaziz 3886, ibn-sirin (?),
 ata 3850, urwa 3574, zaynulabidin 3539, tawus (?), sufyan-thawri (?), sufyan-uyayna 5580, ahmad 7116, ahmad-mihna, salih-ibn-ahmad 8018,
 abdullah-ibn-ahmad 8635, abu-dawud 8322, athram 8112, marrudhi 8292, harb-kirmani (?), ishaq-ibn-hani (?),
 NEU: shafii 6254, malik (?), abu-hanifa 4640 (neuer Bereich „Imame“)
 Danach: Prüfdurchgang Harakat/Inhalte der ganzen App.
+
+Hilfe: `python3 scripts/quellen.py grep 10906 <start> <n> "<regex ohne Harakat>"` findet Stellen schnell.
+Bekannte page_ids: sufyan-thawri 4893, malik 5174, ibn-sirin 3759, tawus 3810, shafii 6254, abu-hanifa 4640.
