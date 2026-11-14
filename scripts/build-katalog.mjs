@@ -84,7 +84,7 @@ function biografie(id) {
   })
   return {
     zitate: zit, quellen: seiten, hinweis: b.hinweis,
-    saetze: b.saetze.map((x, i) => ({ id: `b${i + 1}`, text_ar_mit_harakat: x.ar, text_de: x.de, beleg: stelle(x.book_id, x.page_id, true) })),
+    saetze: (() => { let kap; return b.saetze.map((x, i) => { if (b.kapitel?.[i]) kap = b.kapitel[i]; return { id: `b${i + 1}`, text_ar_mit_harakat: x.ar, text_de: x.de, beleg: stelle(x.book_id, x.page_id, true), kapitel: kap } }) })(),
     niveau: b.niveau,
   }
 }
