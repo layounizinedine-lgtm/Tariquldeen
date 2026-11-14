@@ -5,6 +5,7 @@ import WordSheet from './WordSheet'
 import QuizView from './QuizView'
 import { quizVerfuegbar } from '../quiz'
 import { zeigeEntwuerfe } from '../data'
+import { asset } from '../assetUrl'
 import { markiereGelesen, useFortschritt } from '../progress'
 import { hatKarte, hinzufuegen, entfernen, kartenId, useVokabeln } from '../vocab'
 import type { Geschichte, Niveau, Wort, Zitat } from '../types'
@@ -68,7 +69,7 @@ function ReaderInner({ g, s, set, zurueck }: {
     for (const sa of f.saetze) {
       const z = sa.zitat_id ? g.zitate[sa.zitat_id] : undefined
       if (z) out.push(zi(z))
-      else out.push({ id: sa.id, kind: 'satz', ar: sa.text_ar_mit_harakat, de: sa.text_de, audio_url: sa.audio_url, ts: sa.wort_zeitstempel, woerter: sa.woerter, beleg: sa.beleg })
+      else out.push({ id: sa.id, kind: 'satz', ar: sa.text_ar_mit_harakat, de: sa.text_de, audio_url: asset(sa.audio_url), ts: sa.wort_zeitstempel, woerter: sa.woerter, beleg: sa.beleg })
       if (sa.zitat_nach) out.push(zi(g.zitate[sa.zitat_nach]))
     }
     f.schluss_zitate?.forEach((id) => out.push(zi(g.zitate[id])))
@@ -147,6 +148,7 @@ function ReaderInner({ g, s, set, zurueck }: {
             <p className="klein hinweisleiste">
               {niveau !== 'klassisch' && !f.hinweis?.includes('Nacherzählung') ? 'Vereinfachte Nacherzählung · ' : ''}{f.hinweis}
               {f.audio_platzhalter && ' · Audio: Platzhalter-Töne ohne Stimme (Verse mit echter Rezitation).'}
+              {f.audio_ki && ' · 🎙 Erzählerstimme: KI (Chatterbox), Entwurf – Verse mit echter Rezitation.'}
             </p>
             <section className="text">
               {items.map((it, i) => (

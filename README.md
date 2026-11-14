@@ -38,3 +38,8 @@ Freigaben macht nur ein Mensch – nie die KI.
 
 ## Bilder
 `public/bilder/<id>.webp` (Aquarell, ohne Menschen/Gesichter). Fehlt ein Bild, zeigt die App eine einfache Grafik.
+
+## Erzählerstimme (kostenlos, KI)
+Mit **Chatterbox** (Resemble AI, MIT-Lizenz) – ein freies ElevenLabs-Gegenstück, kann Arabisch. Erkenntnis aus Tests: Arabisch klingt ohne Harakat im Vorlesetext deutlich besser; angezeigt wird weiter der Text mit Harakat.
+Das Audio entsteht kostenlos auf GitHub-Servern: **Actions → „Erzählerstimme erzeugen“ → Run workflow**. Ergebnis: `public/audio/<id>/*.mp3` + `meta.json` (Wort-Zeitstempel fürs Mitlesen). Hörproben: `#/stimmen`.
+Verse (Ayat) bleiben echte Rezitation (Qari), nie KI-Stimme.

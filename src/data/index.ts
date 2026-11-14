@@ -1,4 +1,4 @@
-import type { Bereich, Geschichte } from '../types'
+import type { Bereich, Geschichte, Satz } from '../types'
 import { yusuf } from './yusuf'
 import katalog from './geschichten/index.json'
 import pruefung from '../../content/pruefung.json'
@@ -12,10 +12,29 @@ const yusufMitFreigabe: Geschichte = frY ? { ...yusuf, status: 'geprüft', pruef
 export const alleGeschichten: Geschichte[] = [yusufMitFreigabe, ...katalog.map(stub)]
 const dateien = import.meta.glob('./geschichten/*.json', { import: 'default' }) as Record<string, () => Promise<Geschichte>>
 
+// Erzähler-Audio (KI-Stimme) liegt je Geschichte unter audio/<id>/meta.json und wird beim Öffnen zugemischt.
+async function mitAudio(g: Geschichte): Promise<Geschichte> {
+  try {
+    const r = await fetch(`${import.meta.env.BASE_URL}audio/${g.id}/meta.json`)
+    if (!r.ok || !(r.headers.get('content-type') ?? '').includes('json')) return g
+    const meta = (await r.json()) as Record<string, { audio_url: string; wort_zeitstempel?: Satz['wort_zeitstempel'] }>
+    const fassungen = Object.fromEntries(Object.entries(g.fassungen).map(([n, f]) => {
+      if (!f) return [n, f]
+      let ki = false
+      const saetze = f.saetze.map((s) => (meta[s.id] && !s.zitat_id ? ((ki = true), { ...s, audio_url: meta[s.id].audio_url, wort_zeitstempel: meta[s.id].wort_zeitstempel }) : s))
+      return [n, { ...f, saetze, audio_ki: ki || undefined }]
+    }))
+    return { ...g, fassungen }
+  } catch { return g }
+}
+
 export async function ladeVoll(g: Geschichte): Promise<Geschichte> {
-  if (g.quellen.length || Object.keys(g.fassungen).length) return g // schon vollständig (Yusuf oder aus Supabase)
-  const f = dateien[`./geschichten/${g.id}.json`]
-  return f ? f() : g
+  let voll = g
+  if (!(g.quellen.length || Object.keys(g.fassungen).length)) { // nur Katalog-Eintrag -> Datei nachladen
+    const f = dateien[`./geschichten/${g.id}.json`]
+    voll = f ? await f() : g
+  }
+  return g.id === 'yusuf' ? voll : mitAudio(voll)
 }
 export const bereiche: { id: Bereich; ar: string; de: string; beschr: string }[] = [
   { id: 'anbiya', ar: 'قَصَصُ الْأَنْبِيَاءِ', de: 'Propheten', beschr: 'Geschichten der Propheten, Friede auf ihnen' },

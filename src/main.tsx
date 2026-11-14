@@ -8,12 +8,14 @@ import { lazy, Suspense, useEffect, useState } from 'react'
 import App from './App'
 const Admin = lazy(() => import('./admin/Admin'))
 const PruefView = lazy(() => import('./components/PruefView'))
+const StimmenView = lazy(() => import('./components/StimmenView'))
 
 function Root() {
   const [hash, setHash] = useState(location.hash)
   useEffect(() => { const f = () => setHash(location.hash); addEventListener('hashchange', f); return () => removeEventListener('hashchange', f) }, [])
   if (hash.startsWith('#/admin')) return <Suspense fallback={null}><Admin /></Suspense>
   if (hash.startsWith('#/pruefen')) return <Suspense fallback={null}><PruefView /></Suspense>
+  if (hash.startsWith('#/stimmen')) return <Suspense fallback={null}><StimmenView /></Suspense>
   return <App />
 }
 
