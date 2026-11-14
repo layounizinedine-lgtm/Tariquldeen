@@ -11,8 +11,8 @@ on:
         description: 'Höchstens so viele Geschichten pro Lauf'
         default: '40'
       stimme:
-        description: 'Stimme: A_ruhig, B_neutral oder C_langsam'
-        default: 'A_ruhig'
+        description: 'Stimme: D1_tief, D2_tiefer, D3_alt, C_langsam'
+        default: 'D2_tiefer'
 permissions: { contents: write, actions: write }
 concurrency: { group: audio, cancel-in-progress: false }
 jobs:
@@ -55,6 +55,8 @@ jobs:
         with: { python-version: '3.11' }
       - uses: actions/cache@v4
         with: { path: '~/.cache/huggingface', key: hf-chatterbox-v1 }
+      - name: ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
       - name: Abhängigkeiten
         run: |
           pip install torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu
