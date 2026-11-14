@@ -22,7 +22,7 @@ export interface Satz {
   beleg?: string // Quelle der Aussage (z. B. Quran 11:25-26), Pflicht bei Nacherzählungen
   zitat_nach?: string // Zitat-Kasten nach diesem Satz anzeigen
 }
-export interface Fassung { status: Status; saetze: Satz[]; hinweis?: string; schluss_zitate?: string[]; audio_platzhalter?: boolean }
+export interface Fassung { status: Status; saetze: Satz[]; hinweis?: string; schluss_zitate?: string[]; audio_platzhalter?: boolean; audio_ki?: boolean }
 export interface Geschichte {
   id: string; bereich: Bereich; titel_ar: string; titel_de: string
   bild_url?: string; bild_motiv: string

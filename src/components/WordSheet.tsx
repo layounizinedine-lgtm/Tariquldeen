@@ -1,5 +1,6 @@
 import { useRef } from 'react'
 import type { Wort, WortZeitstempel } from '../types'
+import { asset } from '../assetUrl'
 import { hatKarte, hinzufuegen, entfernen, kartenId, useVokabeln } from '../vocab'
 
 export default function WordSheet({ wort, ts, audioUrl, geschichte, zu }: {
@@ -12,7 +13,7 @@ export default function WordSheet({ wort, ts, audioUrl, geschichte, zu }: {
   const hoeren = () => {
     if (!audioUrl || !ts) return
     a.current?.pause()
-    const el = new Audio(audioUrl); a.current = el
+    const el = new Audio(asset(audioUrl)); a.current = el
     el.currentTime = ts.start
     el.ontimeupdate = () => { if (el.currentTime >= ts.ende) el.pause() }
     el.play().catch(() => {})
