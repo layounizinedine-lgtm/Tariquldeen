@@ -23,5 +23,18 @@ if (existsSync('content/nacherzaehlungen.json')) {
     }
   }
 }
+if (existsSync('content/stufen.json')) {
+  const st = JSON.parse(readFileSync('content/stufen.json', 'utf8'))
+  for (const [id, lv] of Object.entries(st)) {
+    const g = JSON.parse(readFileSync(`src/data/geschichten/${id}.json`, 'utf8'))
+    for (const [niv, sa] of Object.entries(lv)) for (const [i, x] of sa.entries()) {
+      if (!x.beleg) { console.error(`${id}/${niv}[${i}]: Beleg fehlt`); fehler++; continue }
+      for (const teil of x.beleg.replace('Quran ', '').split(';')) {
+        const [sure, rest] = teil.trim().split(':'), [a, b] = rest.split('-').map(Number)
+        for (let v = a; v <= (b ?? a); v++) if (!g.zitate[`q-${sure}:${v}`]) { console.error(`${id}/${niv}[${i}]: Vers ${sure}:${v} nicht in der Auswahl`); fehler++ }
+      }
+    }
+  }
+}
 console.log(fehler ? `${fehler} Fehler` : 'Wortdaten OK')
 process.exit(fehler ? 1 : 0)

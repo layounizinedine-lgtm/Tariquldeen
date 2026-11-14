@@ -17,3 +17,11 @@ Fertig (Siyar, mit Seiten + wörtlichen Zitaten): abdullah-ibn-ahmad, abdurrahma
 - ✅ Bilder: alle 70 (+ Yusuf) erzeugt und gesichtet, ohne Menschen
 - ✅ Hadith-Übersetzungen (content/hadith-de.json, Entwurf)
 - ✅ Prüfablauf: #/pruefen + content/pruefung.json (noch keine Freigaben – nur durch Menschen)
+
+## Sprachstufen A1–C2 (Stand)
+- Format: `content/stufen_*.py` (je Geschichte alle Stufen, jeder Satz mit Vers-Beleg) → `content/stufen.json` → `npm run build:katalog`.
+- ✅ fertig: nuh, adam, musa (A1, A2, B1, B2, C1, C2 + klassisch)
+- Offen: alle weiteren Propheten (B1 existiert, A1/A2/B2/C1/C2 fehlen), danach Sahaba/Tabi'in/Imame (Siyar).
+- Regeln: gleicher Inhalt wie B1, keine neuen Fakten, keine wörtlichen Quran-Zitate in eigenen Sätzen; Stufen unterscheiden sich in Satzlänge, Wortschatz und Grammatik.
+## Stimme
+- Chatterbox-Standardstimme + Nachbearbeitung klang zu künstlich. Natürlichere Stimme braucht eine Referenzaufnahme mit ausdrücklicher Zustimmung des Sprechers (siehe README, Abschnitt Erzählerstimme).
