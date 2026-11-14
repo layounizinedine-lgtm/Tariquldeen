@@ -528,7 +528,7 @@
   "titel_de": "Imam Ahmad ibn Hanbal",
   "bild_motiv": "Bücher und Öllampe",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "ahmad-mihna",
@@ -537,7 +537,7 @@
   "titel_de": "Die Mihna des Imam Ahmad",
   "bild_motiv": "Gefängnistor und Öllampe",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "salih-ibn-ahmad",

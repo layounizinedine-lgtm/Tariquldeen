@@ -1,0 +1,80 @@
+{
+ "id": "ahmad",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ الْإِمَامُ أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ الشَّيْبَانِيُّ، أَبُو عَبْدِ اللَّهِ الْبَغْدَادِيُّ.",
+   "de": "Er ist Imam Ahmad ibn Muhammad ibn Hanbal asch-Schaibani, Abu ʿAbdillah aus Bagdad.",
+   "page_id": 7117,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَهُوَ أَحَدُ الْأَئِمَّةِ الْأَعْلَامِ.",
+   "de": "Er ist einer der großen, bekannten Imame.",
+   "page_id": 7117,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَ فِي رَبِيعٍ الْأَوَّلِ سَنَةَ أَرْبَعٍ وَسِتِّينَ وَمِئَةٍ.",
+   "de": "Er wurde im Monat Rabiʿ al-Awwal des Jahres 164 geboren.",
+   "page_id": 7118,
+   "book_id": 10906
+  },
+  {
+   "ar": "قَالَ أَبُو زُرْعَةَ: كَانَ أَحْمَدُ يَحْفَظُ أَلْفَ أَلْفِ حَدِيثٍ.",
+   "de": "Abu Zurʿa sagte: Ahmad kannte eine Million Hadithe (mit ihren Überlieferungswegen) auswendig.",
+   "page_id": 7126,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ الشَّافِعِيُّ: رَأَيْتُ بِبَغْدَادَ شَابًّا، إِذَا قَالَ: حَدَّثَنَا، قَالَ النَّاسُ كُلُّهُمْ: صَدَقَ.",
+   "de": "asch-Schafiʿi sagte: Ich sah in Bagdad einen jungen Mann; wenn er sagte „Es berichtete uns …“, sagten alle Leute: Er spricht die Wahrheit.",
+   "page_id": 7134,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَصَنَّفَ الْمُسْنَدَ، وَقَرَأَهُ عَلَى أَوْلَادِهِ.",
+   "de": "Er verfasste den Musnad und las ihn seinen Söhnen vor.",
+   "page_id": 7266,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ النَّاسُ يَحْضُرُونَ مَجْلِسَهُ لِيَتَعَلَّمُوا مِنْ أَدَبِهِ وَأَخْلَاقِهِ.",
+   "de": "Leute kamen in seine Versammlung, um von seinem Benehmen und seinem Charakter zu lernen.",
+   "page_id": 7255,
+   "book_id": 10906
+  },
+  {
+   "ar": "تُوُفِّيَ يَوْمَ الْجُمُعَةِ لِثِنْتَيْ عَشْرَةَ خَلَتْ مِنْ رَبِيعٍ الْأَوَّلِ سَنَةَ إِحْدَى وَأَرْبَعِينَ وَمِئَتَيْنِ.",
+   "de": "Er starb an einem Freitag, dem 12. Rabiʿ al-Awwal des Jahres 241.",
+   "page_id": 7274,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَشَهِدَ جَنَازَتَهُ جَمْعٌ عَظِيمٌ جِدًّا.",
+   "de": "Eine riesige Menschenmenge nahm an seinem Begräbnis teil.",
+   "page_id": 7278,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "رَأَيْتَ بِبَغْدَادَ شَابًّا، إِذَا قَالَ: حَدَّثَنَا، قَالَ النَّاسُ كُلُّهُم: صَدَقَ",
+   "text_de": "Ich sah in Bagdad einen jungen Mann; wenn er sagte „Es berichtete uns …“, sagten alle Leute: Er spricht die Wahrheit. (asch-Schafiʿi)",
+   "page_id": 7134,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "إِنَّمَا كُنْتُ أَنْظُرُ إِلَى هَدْيِهِ وَأَخلاَقِهِ",
+   "text_de": "Ich schaute nur auf seine Lebensweise und seinen Charakter. (ein Besucher seiner Lesungen)",
+   "page_id": 7255,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}
