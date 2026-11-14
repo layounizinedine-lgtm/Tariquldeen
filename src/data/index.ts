@@ -24,7 +24,6 @@ export const bereiche: { id: Bereich; ar: string; de: string; beschr: string }[]
   { id: 'aimma', ar: 'الْأَئِمَّةُ', de: 'Imame', beschr: 'Die großen Imame der Rechtsschulen: Abu Hanifa, Malik, asch-Schafiʿi' },
   { id: 'ahmad', ar: 'الْإِمَامُ أَحْمَدُ', de: 'Imam Ahmad & Schüler', beschr: 'Leben, Mihna und Wara\u2019' },
 ]
-// Nur geprüfte Inhalte sind für Nutzer sichtbar; Entwürfe nur im Entwicklungsmodus oder mit ?entwurf=1
-export const zeigeEntwuerfe =
-  import.meta.env.DEV || new URLSearchParams(location.search).has('entwurf')
+// Entwürfe sind sichtbar (mit Hinweis "noch nicht fachlich geprüft"). Nur geprüfte zeigen: ?nur-geprueft=1
+export const zeigeEntwuerfe = !new URLSearchParams(location.search).has('nur-geprueft')
 export const sichtbar = (g: Geschichte) => zeigeEntwuerfe || g.status === 'geprüft'
