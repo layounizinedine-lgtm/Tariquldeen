@@ -14,4 +14,6 @@ Fertig (Siyar, mit Seiten + wörtlichen Zitaten): abdullah-ibn-ahmad, abdurrahma
 - ishaq-ibn-hani: nicht im Siyar → andere Quelle (Tabaqat al-Hanabila) suchen
 - ✅ Prüfdurchgang 1 erledigt (automatischer Harakat-Check `python3 scripts/check-harakat.py`, alle Sätze gelesen, 26 Korrekturen, Browser-Test aller 71 Geschichten ohne Fehler)
 - Offen: Prüfung durch fachkundige Person; Wortdaten/Quizze für neue Geschichten; deutsche Übersetzung der Hadith-Zitate aus hadith-api
-- Bilder für neue Geschichten (Credits, Nutzer fragen)
+- ✅ Bilder: alle 70 (+ Yusuf) erzeugt und gesichtet, ohne Menschen
+- ✅ Hadith-Übersetzungen (content/hadith-de.json, Entwurf)
+- ✅ Prüfablauf: #/pruefen + content/pruefung.json (noch keine Freigaben – nur durch Menschen)

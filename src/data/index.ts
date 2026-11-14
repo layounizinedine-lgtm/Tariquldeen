@@ -1,10 +1,15 @@
 import type { Bereich, Geschichte } from '../types'
 import { yusuf } from './yusuf'
 import katalog from './geschichten/index.json'
+import pruefung from '../../content/pruefung.json'
 
 // Katalog: leichte Einträge, vollständige Geschichte wird erst beim Öffnen nachgeladen (eigene Chunks, offlinefähig via PWA).
-const stub = (k: (typeof katalog)[number]): Geschichte => ({ ...k, bereich: k.bereich as Bereich, status: 'entwurf', quellen: [], zitate: {}, fassungen: {} })
-export const alleGeschichten: Geschichte[] = [yusuf, ...katalog.map(stub)]
+const stub = (k: (typeof katalog)[number]): Geschichte => ({ ...k, bereich: k.bereich as Bereich, status: k.status as Geschichte['status'], quellen: [], zitate: {}, fassungen: {} })
+// Freigabe für die von Hand gepflegte Yusuf-Geschichte (die übrigen setzt der Builder)
+const frY = (pruefung.freigaben as Record<string, Geschichte['pruefung']>)['yusuf']
+const yusufMitFreigabe: Geschichte = frY ? { ...yusuf, status: 'geprüft', pruefung: frY,
+  fassungen: Object.fromEntries(Object.entries(yusuf.fassungen).map(([n, f]) => [n, frY.niveaus.includes(n as never) ? { ...f!, status: 'geprüft' } : f])) } : yusuf
+export const alleGeschichten: Geschichte[] = [yusufMitFreigabe, ...katalog.map(stub)]
 const dateien = import.meta.glob('./geschichten/*.json', { import: 'default' }) as Record<string, () => Promise<Geschichte>>
 
 export async function ladeVoll(g: Geschichte): Promise<Geschichte> {

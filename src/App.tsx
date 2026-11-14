@@ -11,7 +11,10 @@ import { faellige, useVokabeln } from './vocab'
 
 export default function App() {
   const [s, set] = useSettings()
-  const [id, setId] = useState<string | null>(null)
+  const ausHash = () => (location.hash.match(/^#\/g\/([\w-]+)/) ?? [])[1] ?? null
+  const [id, setIdState] = useState<string | null>(ausHash)
+  const setId = (x: string | null) => { setIdState(x); history.replaceState(null, '', x ? `#/g/${x}` : '#/') }
+  useEffect(() => { const f = () => setIdState(ausHash()); addEventListener('hashchange', f); return () => removeEventListener('hashchange', f) }, [])
   const [vok, setVok] = useState(false)
   const karten = useVokabeln()
   const fort = useFortschritt()
@@ -47,20 +50,11 @@ export default function App() {
             </div>
             <p className="klein">{b.beschr}</p>
             {liste.length === 0 && <p className="leer">Noch keine geprüften Geschichten.</p>}
-            {liste.map((x) => !x.bild_url ? (
+            {liste.map((x) => (
               <button key={x.id} className="karte-klein" onClick={() => setId(x.id)}>
-                <span className="mini"><CoverArt motiv={x.bild_motiv} /></span>
+                <span className="mini"><CoverArt motiv={x.bild_motiv} url={x.bild_url} /></span>
                 <span className="kk-text"><span className="ar" dir="rtl" lang="ar">{x.titel_ar}</span><b>{x.titel_de}</b>
                   <span>{x.hat_inhalt === false && <em className="tag">Gerüst</em>}{x.status === 'entwurf' && <em className="tag">Entwurf</em>}{fort.gelesen[x.id] && <em className="tag ok">✓ gelesen</em>}</span></span>
-              </button>
-            ) : (
-              <button key={x.id} className="karte" onClick={() => setId(x.id)}>
-                <CoverArt motiv={x.bild_motiv} url={x.bild_url} />
-                <span className="karte-text">
-                  <span className="ar" dir="rtl" lang="ar" style={{ fontSize: x.titel_ar.length > 24 ? "1.4rem" : undefined }}>{x.titel_ar}</span>
-                  <b>{x.titel_de}</b>
-                  <span>{x.status === 'entwurf' && <em className="tag">Entwurf</em>}{fort.gelesen[x.id] && <em className="tag ok">✓ gelesen</em>}</span>
-                </span>
               </button>
             ))}
           </section>
