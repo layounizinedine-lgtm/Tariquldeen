@@ -64,7 +64,7 @@ bio("hamza", [
  ("هُوَ حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ، عَمُّ رَسُولِ اللَّهِ ﷺ، وَأَخُوهُ مِنَ الرَّضَاعَةِ.", "Er ist Hamza ibn ʿAbd al-Muttalib, Onkel des Gesandten Allahs ﷺ und sein Milchbruder.", 1598),
  ("وَكَانَ يُلَقَّبُ بِأَسَدِ اللَّهِ.", "Er trug den Beinamen „Löwe Allahs“.", 1598),
  ("لَمَّا أَسْلَمَ عَلِمَتْ قُرَيْشٌ أَنَّهُ سَيَحْمِي النَّبِيَّ ﷺ، فَكَفُّوا عَنْ بَعْضِ أَذَاهُمْ.", "Als er Muslim wurde, wusste Quraisch, dass er den Propheten ﷺ schützen würde, und sie ließen von einem Teil ihrer Feindseligkeiten ab.", 1598),
- ("وَيَوْمَ بَدْرٍ بَارَزَ عُتْبَةَ بْنَ رَبِيعَةَ فَقَتَلَهُ.", "Am Tag von Badr trat er im Zweikampf gegen ʿUtba ibn Rabiʿa an und tötete ihn.", 1598),
+ ("وَفِي رِوَايَةٍ: بَارَزَ يَوْمَ بَدْرٍ عُتْبَةَ بْنَ رَبِيعَةَ فَقَتَلَهُ.", "Nach einem Bericht trat er am Tag von Badr im Zweikampf gegen ʿUtba ibn Rabiʿa an und tötete ihn.", 1598),
  ("وَاسْتُشْهِدَ يَوْمَ أُحُدٍ، قَتَلَهُ وَحْشِيٌّ.", "Er fiel am Tag von Uhud als Märtyrer; Wahschi hatte ihn getötet.", 1600),
  ("ثُمَّ أَسْلَمَ وَحْشِيٌّ بَعْدَ ذَلِكَ، وَقَدِمَ عَلَى النَّبِيِّ ﷺ.", "Später nahm Wahschi den Islam an und kam zum Propheten ﷺ.", 1602),
  ("وَقَالَ النَّبِيُّ ﷺ: سَيِّدُ الشُّهَدَاءِ حَمْزَةُ.", "Der Prophet ﷺ sagte: Der Herr der Märtyrer ist Hamza.", 1599),

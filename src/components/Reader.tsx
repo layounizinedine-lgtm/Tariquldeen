@@ -53,7 +53,7 @@ function ReaderInner({ g, s, set, zurueck }: {
   g: Geschichte; s: Settings; set: (p: Partial<Settings>) => void; zurueck: () => void
 }) {
   const verfuegbar = NIVEAUS.filter((n) => g.fassungen[n])
-  const [niveau, setNiveau] = useState<Niveau>(verfuegbar.includes('A2') ? 'A2' : verfuegbar[0])
+  const [niveau, setNiveau] = useState<Niveau>((['A2', 'B1', 'A1', 'B2'] as Niveau[]).find((n) => verfuegbar.includes(n)) ?? verfuegbar[0])
   const [tab, setTab] = useState<Tab>('text')
   const [einst, setEinst] = useState(false)
   const [offen, setOffen] = useState<Set<string>>(new Set())

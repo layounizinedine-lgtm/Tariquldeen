@@ -6,8 +6,8 @@ bio("ahmad", [
  ("وُلِدَ فِي رَبِيعٍ الْأَوَّلِ سَنَةَ أَرْبَعٍ وَسِتِّينَ وَمِئَةٍ.", "Er wurde im Monat Rabiʿ al-Awwal des Jahres 164 geboren.", 7118),
  ("قَالَ أَبُو زُرْعَةَ: كَانَ أَحْمَدُ يَحْفَظُ أَلْفَ أَلْفِ حَدِيثٍ.", "Abu Zurʿa sagte: Ahmad kannte eine Million Hadithe (mit ihren Überlieferungswegen) auswendig.", 7126),
  ("وَقَالَ الشَّافِعِيُّ: رَأَيْتُ بِبَغْدَادَ شَابًّا، إِذَا قَالَ: حَدَّثَنَا، قَالَ النَّاسُ كُلُّهُمْ: صَدَقَ.", "asch-Schafiʿi sagte: Ich sah in Bagdad einen jungen Mann; wenn er sagte „Es berichtete uns …“, sagten alle Leute: Er spricht die Wahrheit.", 7134),
- ("وَصَنَّفَ الْمُسْنَدَ، وَقَرَأَهُ عَلَى أَوْلَادِهِ.", "Er verfasste den Musnad und las ihn seinen Söhnen vor.", 7266),
- ("وَكَانَ النَّاسُ يَحْضُرُونَ مَجْلِسَهُ لِيَتَعَلَّمُوا مِنْ أَدَبِهِ وَأَخْلَاقِهِ.", "Leute kamen in seine Versammlung, um von seinem Benehmen und seinem Charakter zu lernen.", 7255),
+ ("وَرَوَى الْمُسْنَدَ لِأَوْلَادِهِ، وَهُوَ ثَلَاثُونَ أَلْفَ حَدِيثٍ.", "Er überlieferte seinen Söhnen den Musnad mit dreißigtausend Hadithen.", 7266),
+ ("وَقَالَ أَحَدُ مَنْ حَضَرَ مَجْلِسَهُ: إِنَّمَا كُنْتُ أَنْظُرُ إِلَى هَدْيِهِ وَأَخْلَاقِهِ.", "Einer, der seine Lesungen besuchte, sagte: Ich schaute nur auf seine Lebensweise und seinen Charakter.", 7255),
  ("تُوُفِّيَ يَوْمَ الْجُمُعَةِ لِثِنْتَيْ عَشْرَةَ خَلَتْ مِنْ رَبِيعٍ الْأَوَّلِ سَنَةَ إِحْدَى وَأَرْبَعِينَ وَمِئَتَيْنِ.", "Er starb an einem Freitag, dem 12. Rabiʿ al-Awwal des Jahres 241.", 7274),
  ("وَشَهِدَ جَنَازَتَهُ جَمْعٌ عَظِيمٌ جِدًّا.", "Eine riesige Menschenmenge nahm an seinem Begräbnis teil.", 7278),
 ], [

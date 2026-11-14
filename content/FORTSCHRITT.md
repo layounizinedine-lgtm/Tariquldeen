@@ -12,5 +12,6 @@ Fertig (Siyar, mit Seiten + wörtlichen Zitaten): abdullah-ibn-ahmad, abdurrahma
 
 ## Offen
 - ishaq-ibn-hani: nicht im Siyar → andere Quelle (Tabaqat al-Hanabila) suchen
-- Prüfdurchgang: Harakat/Inhalte aller Nacherzählungen (Propheten B1 + Biografien), Ahmad-Satz zum Musnad präzisieren
+- ✅ Prüfdurchgang 1 erledigt (automatischer Harakat-Check `python3 scripts/check-harakat.py`, alle Sätze gelesen, 26 Korrekturen, Browser-Test aller 71 Geschichten ohne Fehler)
+- Offen: Prüfung durch fachkundige Person; Wortdaten/Quizze für neue Geschichten; deutsche Übersetzung der Hadith-Zitate aus hadith-api
 - Bilder für neue Geschichten (Credits, Nutzer fragen)

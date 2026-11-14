@@ -6,7 +6,7 @@ bio("said-ibn-musayyib", [
  ("وُلِدَ فِي خِلَافَةِ عُمَرَ بْنِ الْخَطَّابِ.", "Er wurde während des Kalifats von ʿUmar ibn al-Khattab geboren.", 3371),
  ("قَالَ: مَا فَاتَتْنِي الصَّلَاةُ فِي جَمَاعَةٍ مُنْذُ أَرْبَعِينَ سَنَةً.", "Er sagte: Seit vierzig Jahren habe ich kein Gemeinschaftsgebet verpasst.", 3374),
  ("وَكَانَ زَوْجَ ابْنَةِ أَبِي هُرَيْرَةَ، وَأَكْثَرُ رِوَايَتِهِ عَنْهُ.", "Er war mit der Tochter Abu Hurayras verheiratet, und das meiste, was er überlieferte, stammt von ihm.", 3377),
- ("وَلَمْ يَكُنْ يَذْهَبُ إِلَى الْخُلَفَاءِ، حَتَّى عَبْدُ الْمَلِكِ بْنُ مَرْوَانَ تَرَكَهُ.", "Er ging nicht zu den Kalifen; selbst ʿAbd al-Malik ibn Marwan ließ ihn in Ruhe.", 3379),
+ ("وَلَمْ يَكُنْ يَذْهَبُ إِلَى الْخُلَفَاءِ، حَتَّى إِنَّ عَبْدَ الْمَلِكِ بْنَ مَرْوَانَ تَرَكَهُ.", "Er ging nicht zu den Kalifen; selbst ʿAbd al-Malik ibn Marwan ließ ihn in Ruhe.", 3379),
  ("تُوُفِّيَ سَنَةَ ثَلَاثٍ وَتِسْعِينَ، وَقِيلَ غَيْرُ ذَلِكَ.", "Er starb im Jahr 93; es gibt auch andere Angaben.", 3399),
 ], [
  ("athar", "عَالِمُ أَهْلِ المَدِيْنَةِ", "Der Gelehrte der Leute von Medina. (adh-Dhahabi)", 3370),

@@ -6,7 +6,7 @@ bio("salih-ibn-ahmad", [
  ("سَمِعَ مِنْ أَبِيهِ، وَتَفَقَّهَ عَلَيْهِ.", "Er hörte von seinem Vater und lernte bei ihm den Fiqh.", 8018),
  ("وُلِدَ سَنَةَ ثَلَاثٍ وَمِئَتَيْنِ.", "Er wurde im Jahr 203 geboren.", 8019),
  ("وَصَارَ قَاضِيَ أَصْبَهَانَ.", "Er wurde Richter von Isfahan.", 8018),
- ("لَمَّا قُرِئَ عَهْدُهُ فِي أَصْبَهَانَ بَكَى، وَقَالَ: ذَكَرْتُ أَبِي أَنْ يَرَانِي فِي هَذِهِ الْحَالِ.", "Als seine Ernennungsurkunde in Isfahan verlesen wurde, weinte er und sagte: Ich dachte an meinen Vater – dass er mich in diesem Zustand sehen könnte.", 8019),
+ ("لَمَّا قُرِئَ عَهْدُهُ فِي أَصْبَهَانَ بَكَى، وَقَالَ: أَبْكَانِي أَنِّي تَذَكَّرْتُ أَبِي، كَأَنَّهُ يَرَانِي فِي هَذِهِ الْحَالِ.", "Als seine Ernennungsurkunde in Isfahan verlesen wurde, weinte er und sagte: Mich brachte zum Weinen, dass ich an meinen Vater dachte – als sähe er mich in diesem Zustand (als Amtsträger).", 8019),
  ("وَتُوُفِّيَ بِأَصْبَهَانَ سَنَةَ سِتٍّ وَسِتِّينَ وَمِئَتَيْنِ، وَقِيلَ: خَمْسٍ وَسِتِّينَ.", "Er starb in Isfahan im Jahr 266; nach anderer Angabe 265.", 8019),
 ], [
  ("athar", "مَا بِبَلَدِنَا إِلاَّ مَنْ يُحِبُّ أَبَاكَ", "In unserer Stadt gibt es niemanden, der deinen Vater nicht liebt. (Gelehrte in Isfahan zu Salih)", 8019, E),

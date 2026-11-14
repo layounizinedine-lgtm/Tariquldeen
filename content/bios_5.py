@@ -6,7 +6,7 @@ bio("jafar", [
  ("هَاجَرَ إِلَى الْحَبَشَةِ، وَكَانَ هُوَ الَّذِي يُكَلِّمُ النَّجَاشِيَّ عَنِ الْمُسْلِمِينَ.", "Er wanderte nach Abessinien aus und war es, der für die Muslime mit dem Negus sprach.", 1641),
  ("ثُمَّ قَدِمَ الْمَدِينَةَ عِنْدَ فَتْحِ خَيْبَرَ، فَسُرَّ النَّبِيُّ ﷺ بِقُدُومِهِ كَثِيرًا.", "Dann kam er zur Zeit der Einnahme Khaybars nach Medina, und der Prophet ﷺ freute sich sehr über seine Ankunft.", 1632),
  ("وَأَمَّرَهُ النَّبِيُّ ﷺ عَلَى جَيْشِ مُؤْتَةَ، فَاسْتُشْهِدَ هُنَاكَ.", "Der Prophet ﷺ machte ihn zum Befehlshaber des Heeres von Muʾta, und dort fiel er als Märtyrer.", 1632),
- ("وَرَآهُ النَّبِيُّ ﷺ مَلَكًا يَطِيرُ فِي الْجَنَّةِ، فَسُمِّيَ ذَا الْجَنَاحَيْنِ.", "Der Prophet ﷺ sah ihn als einen Engel, der im Paradies fliegt; deshalb wurde er „der mit den zwei Flügeln“ genannt.", 1638),
+ ("وَرَآهُ النَّبِيُّ ﷺ مَلَكًا يَطِيرُ فِي الْجَنَّةِ، وَلُقِّبَ بِذِي الْجَنَاحَيْنِ.", "Der Prophet ﷺ sah ihn als einen Engel, der im Paradies fliegt; er erhielt den Beinamen „der mit den zwei Flügeln“.", 1638),
 ], [
  ("athar", "وَقَدْ سُرَّ رَسُوْلُ اللهِ -ﷺ- كَثِيْرًا بِقُدُوْمِهِ، وَحَزِنَ -وَاللهِ- لِوَفَاتِهِ.", "Der Gesandte Allahs ﷺ freute sich sehr über seine Ankunft und trauerte – bei Allah – über seinen Tod. (adh-Dhahabi)", 1632),
  ("hadith", "رَأَيْتُ جَعْفَرَ بنَ أَبِي طَالِبٍ مَلَكًا فِي الجَنَّةِ", "Ich sah Dschaʿfar ibn Abi Talib als Engel im Paradies.", 1638, E),
