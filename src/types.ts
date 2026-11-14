@@ -19,6 +19,7 @@ export interface Satz {
   id: string; text_ar_mit_harakat: string; text_de: string
   audio_url?: string; wort_zeitstempel?: WortZeitstempel[]; woerter?: Wort[]
   zitat_id?: string // Satz ist ein Originalzitat (Ayah/Hadith/Athar)
+  kapitel?: string // Überschrift des Kapitels, zu dem der Satz gehört
   beleg?: string // Quelle der Aussage (z. B. Quran 11:25-26), Pflicht bei Nacherzählungen
   zitat_nach?: string // Zitat-Kasten nach diesem Satz anzeigen
 }

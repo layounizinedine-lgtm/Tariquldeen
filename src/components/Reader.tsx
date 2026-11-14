@@ -14,7 +14,7 @@ import ArText from './WordText'
 import CoverArt from './CoverArt'
 import SettingsBar from './SettingsBar'
 
-interface Item extends Spur { beleg?: string; woerter?: Wort[]; kind: 'satz' | 'zitat'; ar: string; de: string; zitat?: Zitat }
+interface Item extends Spur { kapitel?: string; beleg?: string; woerter?: Wort[]; kind: 'satz' | 'zitat'; ar: string; de: string; zitat?: Zitat }
 const kurz = (t: string) => t.replace(/ (عَلَيْهِ السَّلَامُ|رَضِيَ اللَّهُ عَنْهُ|رَضِيَ اللَّهُ عَنْهَا|رَحِمَهُ اللَّهُ)$/, '')
 const NIVEAUS: Niveau[] = ['klassisch', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 type Tab = 'text' | 'vokabeln' | 'quiz'
@@ -69,7 +69,7 @@ function ReaderInner({ g, s, set, zurueck }: {
     for (const sa of f.saetze) {
       const z = sa.zitat_id ? g.zitate[sa.zitat_id] : undefined
       if (z) out.push(zi(z))
-      else out.push({ id: sa.id, kind: 'satz', ar: sa.text_ar_mit_harakat, de: sa.text_de, audio_url: asset(sa.audio_url), ts: sa.wort_zeitstempel, woerter: sa.woerter, beleg: sa.beleg })
+      else out.push({ id: sa.id, kind: 'satz', ar: sa.text_ar_mit_harakat, de: sa.text_de, audio_url: asset(sa.audio_url), ts: sa.wort_zeitstempel, woerter: sa.woerter, beleg: sa.beleg, kapitel: sa.kapitel })
       if (sa.zitat_nach) out.push(zi(g.zitate[sa.zitat_nach]))
     }
     f.schluss_zitate?.forEach((id) => out.push(zi(g.zitate[id])))
@@ -153,6 +153,7 @@ function ReaderInner({ g, s, set, zurueck }: {
             <section className="text">
               {items.map((it, i) => (
                 <div key={it.id} id={`item-${it.id}`} className="satz">
+                  {it.kapitel && it.kapitel !== items[i - 1]?.kapitel && <h2 className="kapitel">{it.kapitel}</h2>}
                   {it.zitat ? <ZitatBox z={it.zitat} s={s} aktiv={aktivId === it.id} wort={p.wort} /> : (
                     <div className={`satzbox${aktivId === it.id ? ' aktiv-satz' : ''}`}>
                       <ArText text={it.ar} s={s} words={it.ts || it.woerter ? {
