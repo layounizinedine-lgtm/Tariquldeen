@@ -1,0 +1,68 @@
+{
+ "id": "khalid",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ خَالِدُ بْنُ الْوَلِيدِ، مِنْ بَنِي مَخْزُومٍ، أَبُو سُلَيْمَانَ.",
+   "de": "Er ist Khalid ibn al-Walid, aus dem Stamm Makhzum, Abu Sulayman.",
+   "page_id": 1792,
+   "book_id": 10906
+  },
+  {
+   "ar": "هَاجَرَ مُسْلِمًا فِي صَفَرٍ سَنَةَ ثَمَانٍ.",
+   "de": "Er wanderte im Monat Safar des Jahres 8 als Muslim aus.",
+   "page_id": 1792,
+   "book_id": 10906
+  },
+  {
+   "ar": "شَهِدَ غَزْوَةَ مُؤْتَةَ، فَلَمَّا اسْتُشْهِدَ الْأُمَرَاءُ الثَّلَاثَةُ أَخَذَ الرَّايَةَ، فَكَانَ النَّصْرُ.",
+   "de": "Er nahm am Feldzug von Muʾta teil; als die drei Befehlshaber gefallen waren, nahm er die Fahne, und es kam die Rettung.",
+   "page_id": 1792,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَسَمَّاهُ النَّبِيُّ ﷺ سَيْفَ اللَّهِ.",
+   "de": "Der Prophet ﷺ nannte ihn „das Schwert Allahs“.",
+   "page_id": 1792,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَشَهِدَ فَتْحَ مَكَّةَ وَحُنَيْنًا.",
+   "de": "Er war bei der Einnahme Mekkas und bei Hunayn dabei.",
+   "page_id": 1792,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَحَارَبَ أَهْلَ الرِّدَّةِ وَمُسَيْلِمَةَ، ثُمَّ غَزَا الْعِرَاقَ وَالشَّامَ.",
+   "de": "Er kämpfte gegen die Abtrünnigen und Musaylima und zog dann in den Irak und nach Syrien.",
+   "page_id": 1792,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَطَعَ الصَّحْرَاءَ مِنَ الْعِرَاقِ إِلَى الشَّامِ فِي خَمْسِ لَيَالٍ.",
+   "de": "Er durchquerte die Wüste vom Irak nach Syrien in fünf Nächten.",
+   "page_id": 1792,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "hadith",
+   "text_ar": "إِنَّ خَالِدًا سَيْفٌ سَلَّهُ اللهُ عَلَى المُشْرِكِيْنَ",
+   "text_de": "Khalid ist ein Schwert, das Allah gegen die Götzendiener gezogen hat.",
+   "page_id": 1792,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "سَيْفُ اللهِ -تَعَالَى- وَفَارِسُ الإِسْلاَمِ، وَلَيْثُ المَشَاهِدِ",
+   "text_de": "Das Schwert Allahs, der Reiter des Islam und der Löwe der Schlachten. (adh-Dhahabi)",
+   "page_id": 1792,
+   "einstufung": null,
+   "book_id": 10906
+  }
+ ]
+}

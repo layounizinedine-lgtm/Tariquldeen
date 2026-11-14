@@ -2,6 +2,7 @@
 
   python3 scripts/quellen.py find <book_id> <muster>          # Überschriften suchen
   python3 scripts/quellen.py read <book_id> <page_id> [n] [maxzeichen]  # n Seiten lesen (mit Band/Seite)
+  python3 scripts/quellen.py grep <book_id> <page_id> <n> <regex>  # Zeilen suchen (Regex ohne Vokalzeichen)
   python3 scripts/quellen.py meta <book_id>                   # Titel/Edition
   python3 scripts/quellen.py save <id> <book_id> <page_id> <n>  # Seiten wörtlich nach content/quellen/<id>.json sichern
 
@@ -39,6 +40,7 @@ def clean(t):
     t = re.sub(r'<[^>]+>', '', t)
     t = html.unescape(t)
     t = re.split(r'\n\s*_{5,}', t)[0]       # Fußnoten des Herausgebers abtrennen
+    t = re.split(r'\n[ \t]*\n[ \t]*\n[ \t]*\n', t)[0]  # Fußnotenblock nach mehreren Leerzeilen
     t = '\n'.join(l for l in t.split('\n') if not l.strip().startswith('(*)'))
     t = re.sub(r'\(([\d٠-٩]+)»', ')', t)      # verstümmelte Marker "(١»" -> ")"
     t = re.sub(r'\s?\([\d٠-٩]+\)|\[\d+\]', '', t)  # Fußnoten-Marker
@@ -67,6 +69,14 @@ if __name__ == '__main__':
             alt['seiten'].append({'book_id': int(book), 'werk': werk, 'page_id': pg, 'band': str(meta.get('vol')), 'seite': meta.get('page'), 'text': t})
         json.dump(alt, open(ziel, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
         print('gesichert:', ziel, len(alt['seiten']), 'Seiten')
+    elif cmd == 'grep':
+        start, n, pat = int(sys.argv[3]), int(sys.argv[4]), sys.argv[5]
+        strip = lambda x: re.sub(r'[\u064B-\u065F\u0670]', '', x)
+        for pg in range(start, start + n):
+            meta, t = page(book, pg)
+            for line in t.split('\n'):
+                if re.search(pat, strip(line)):
+                    print(f"[{pg} | {meta.get('vol')}/{meta.get('page')}] {line[:400]}")
     elif cmd == 'read':
         start = int(sys.argv[3]); n = int(sys.argv[4]) if len(sys.argv) > 4 else 1
         mx = int(sys.argv[5]) if len(sys.argv) > 5 else 100000

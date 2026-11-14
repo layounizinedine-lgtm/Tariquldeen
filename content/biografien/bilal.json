@@ -1,0 +1,62 @@
+{
+ "id": "bilal",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ بِلَالُ بْنُ رَبَاحٍ، مُؤَذِّنُ رَسُولِ اللَّهِ ﷺ، وَمَوْلَى أَبِي بَكْرٍ.",
+   "de": "Er ist Bilal ibn Rabah, der Gebetsrufer des Gesandten Allahs ﷺ und Freigelassener Abu Bakrs.",
+   "page_id": 1773,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ مِنَ السَّابِقِينَ الْأَوَّلِينَ الَّذِينَ عُذِّبُوا فِي اللَّهِ.",
+   "de": "Er gehörte zu den ersten Muslimen, die um Allahs willen gefoltert wurden.",
+   "page_id": 1773,
+   "book_id": 10906
+  },
+  {
+   "ar": "أَلْبَسَهُ الْمُشْرِكُونَ دُرُوعَ الْحَدِيدِ فِي الشَّمْسِ، فَكَانَ يَقُولُ: أَحَدٌ، أَحَدٌ.",
+   "de": "Die Götzendiener zogen ihm eiserne Rüstungen an und ließen ihn in der Sonne; er sagte nur: Einer, Einer!",
+   "page_id": 1774,
+   "book_id": 10906
+  },
+  {
+   "ar": "شَهِدَ بَدْرًا، وَشَهِدَ لَهُ النَّبِيُّ ﷺ بِالْجَنَّةِ.",
+   "de": "Er kämpfte bei Badr, und der Prophet ﷺ bezeugte ihm namentlich das Paradies.",
+   "page_id": 1773,
+   "book_id": 10906
+  },
+  {
+   "ar": "سَمِعَ النَّبِيُّ ﷺ صَوْتَ نَعْلَيْهِ فِي الْجَنَّةِ.",
+   "de": "Der Prophet ﷺ hörte im Paradies das Geräusch seiner Sandalen.",
+   "page_id": 1774,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ عُمَرُ: أَبُو بَكْرٍ سَيِّدُنَا، وَأَعْتَقَ سَيِّدَنَا، يَعْنِي بِلَالًا.",
+   "de": "ʿUmar sagte: Abu Bakr ist unser Herr, und er befreite unseren Herrn – gemeint war Bilal.",
+   "page_id": 1775,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "فَجَعَلُوا يَطُوْفُوْنَ بِهِ فِي شِعَابِ مَكَّةَ، وَهُوَ يَقُوْلُ: أَحَدٌ أَحَدٌ",
+   "text_de": "Sie zogen ihn durch die Schluchten Mekkas, und er sagte: Einer, Einer! (Ibn Masʿud)",
+   "page_id": 1774,
+   "einstufung": "وله إسناد آخر صحيح (adh-Dhahabi)",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "أَبُو بَكْرٍ سَيِّدُنَا، أَعْتَقَ بِلاَلًا سَيِّدَنَا",
+   "text_de": "Abu Bakr ist unser Herr; er befreite Bilal, unseren Herrn. (ʿUmar)",
+   "page_id": 1775,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

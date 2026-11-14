@@ -312,7 +312,7 @@
   "titel_de": "Bilal ibn Rabah",
   "bild_motiv": "Minarett bei Sonnenaufgang",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "musab",
@@ -321,7 +321,7 @@
   "titel_de": "Mus'ab ibn Umair",
   "bild_motiv": "Gebetsteppich und Schriftrolle",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "khadija",
@@ -330,7 +330,7 @@
   "titel_de": "Khadija bint Khuwaylid",
   "bild_motiv": "Handelskarawane im Abendlicht",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "aisha",
@@ -339,7 +339,7 @@
   "titel_de": "Aisha bint Abi Bakr",
   "bild_motiv": "Bücher und Öllampe",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "hamza",
@@ -348,7 +348,7 @@
   "titel_de": "Hamza ibn Abd al-Muttalib",
   "bild_motiv": "Berg Uhud",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "khalid",
@@ -357,7 +357,7 @@
   "titel_de": "Khalid ibn al-Walid",
   "bild_motiv": "Schwert und Wüstenzelt",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "salman",
@@ -366,7 +366,7 @@
   "titel_de": "Salman al-Farisi",
   "bild_motiv": "Graben und Palmen",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "jafar",
@@ -384,7 +384,7 @@
   "titel_de": "Fatima az-Zahra",
   "bild_motiv": "Rose im Innenhof",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "abu-hurayra",
