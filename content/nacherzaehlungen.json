@@ -73,7 +73,7 @@
     "beleg": "Quran 11:25-26"
    },
    {
-    "ar": "لَكِنَّ أَكْثَرَهُمْ كَذَّبُوهُ، وَمَا آمَنَ مَعَهُ إِلَّا قَلِيلٌ.",
+    "ar": "لَكِنَّ أَكْثَرَهُمْ كَذَّبُوهُ، وَلَمْ يُؤْمِنْ مَعَهُ إِلَّا عَدَدٌ قَلِيلٌ.",
     "de": "Aber die meisten hielten ihn für einen Lügner, und nur wenige glaubten mit ihm.",
     "beleg": "Quran 11:27; 11:40"
    },
@@ -193,13 +193,13 @@
     "beleg": "Quran 21:68"
    },
    {
-    "ar": "جَعَلَ اللَّهُ النَّارَ بَرْدًا وَسَلَامًا عَلَى إِبْرَاهِيمَ.",
-    "de": "Allah machte das Feuer kühl und unschädlich für Ibrahim.",
+    "ar": "فَجَعَلَ اللَّهُ النَّارَ بَارِدَةً، فَلَمْ تَضُرَّ إِبْرَاهِيمَ.",
+    "de": "Doch Allah machte das Feuer kühl, und es schadete Ibrahim nicht.",
     "beleg": "Quran 21:69"
    },
    {
-    "ar": "وَأَرَادُوا بِهِ كَيْدًا، فَجَعَلَهُمُ اللَّهُ الْأَخْسَرِينَ.",
-    "de": "Sie wollten ihm eine List antun, doch Allah machte sie zu den Verlierern.",
+    "ar": "أَرَادُوا أَنْ يَكِيدُوا لَهُ، فَخَسِرُوا.",
+    "de": "Sie wollten ihm eine List antun, doch sie verloren.",
     "beleg": "Quran 21:70"
    }
   ]
@@ -213,7 +213,7 @@
     "beleg": "Quran 7:80"
    },
    {
-    "ar": "نَهَاهُمْ لُوطٌ عَنْ فَاحِشَةٍ لَمْ يَسْبِقْهُمْ بِهَا أَحَدٌ.",
+    "ar": "نَهَاهُمْ لُوطٌ عَنْ فَاحِشَةٍ لَمْ يَفْعَلْهَا أَحَدٌ قَبْلَهُمْ.",
     "de": "Lut verbot ihnen eine Abscheulichkeit, die vor ihnen niemand begangen hatte.",
     "beleg": "Quran 7:80"
    },
@@ -263,8 +263,8 @@
     "beleg": "Quran 37:102"
    },
    {
-    "ar": "فَفَدَاهُ اللَّهُ بِذِبْحٍ عَظِيمٍ.",
-    "de": "Da löste Allah ihn mit einem großen Opfertier aus.",
+    "ar": "فَفَدَاهُ اللَّهُ بِحَيَوَانٍ عَظِيمٍ يُذْبَحُ بَدَلًا مِنْهُ.",
+    "de": "Da löste Allah ihn durch ein großes Tier aus, das an seiner Stelle geopfert wurde.",
     "beleg": "Quran 37:107"
    }
   ]
@@ -278,8 +278,8 @@
     "beleg": "Quran 11:69"
    },
    {
-    "ar": "بَشَّرُوهُمْ بِإِسْحَاقَ.",
-    "de": "Sie verkündeten ihnen die Geburt von Ishaq.",
+    "ar": "وَبَشَّرُوا امْرَأَتَهُ بِإِسْحَاقَ.",
+    "de": "Sie verkündeten seiner Frau die Geburt von Ishaq.",
     "beleg": "Quran 11:71"
    },
    {
@@ -348,7 +348,7 @@
     "beleg": "Quran 21:84"
    },
    {
-    "ar": "وَآتَاهُ أَهْلَهُ وَمِثْلَهُمْ مَعَهُمْ.",
+    "ar": "وَرَدَّ إِلَيْهِ أَهْلَهُ، وَزَادَهُ مِثْلَهُمْ.",
     "de": "Und Er gab ihm seine Familie zurück und noch einmal so viele dazu.",
     "beleg": "Quran 21:84"
    },
@@ -403,8 +403,8 @@
     "beleg": "Quran 28:8"
    },
    {
-    "ar": "وَرَدَّهُ اللَّهُ إِلَى أُمِّهِ لِتَقَرَّ عَيْنُهَا.",
-    "de": "Und Allah brachte ihn zu seiner Mutter zurück, damit sie sich freue.",
+    "ar": "وَرَدَّهُ اللَّهُ إِلَى أُمِّهِ لِتَفْرَحَ بِهِ.",
+    "de": "Und Allah brachte ihn zu seiner Mutter zurück, damit sie sich über ihn freue.",
     "beleg": "Quran 28:13"
    },
    {
@@ -458,8 +458,8 @@
     "beleg": "Quran 20:36"
    },
    {
-    "ar": "وَوَهَبَ اللَّهُ لِمُوسَى أَخَاهُ هَارُونَ نَبِيًّا.",
-    "de": "Und Allah schenkte Musa seinen Bruder Harun als Propheten.",
+    "ar": "وَجَعَلَ اللَّهُ هَارُونَ نَبِيًّا، رَحْمَةً بِمُوسَى.",
+    "de": "Und Allah machte Harun zum Propheten, aus Barmherzigkeit für Musa.",
     "beleg": "Quran 19:53"
    }
   ]
@@ -518,9 +518,9 @@
   "niveau": "B1",
   "saetze": [
    {
-    "ar": "وَرِثَ سُلَيْمَانُ دَاوُودَ.",
-    "de": "Sulayman erbte von Dawud.",
-    "beleg": "Quran 27:16"
+    "ar": "وَرِثَ سُلَيْمَانُ أَبَاهُ دَاوُودَ.",
+    "de": "Sulayman beerbte seinen Vater Dawud.",
+    "beleg": "Quran 27:16; 38:30"
    },
    {
     "ar": "وَعَلَّمَهُ اللَّهُ مَنْطِقَ الطَّيْرِ.",
@@ -533,8 +533,8 @@
     "beleg": "Quran 38:36-37; 27:17"
    },
    {
-    "ar": "سَمِعَ سُلَيْمَانُ كَلَامَ النَّمْلَةِ، فَتَبَسَّمَ ضَاحِكًا.",
-    "de": "Sulayman hörte die Rede der Ameise und lächelte lachend.",
+    "ar": "سَمِعَ سُلَيْمَانُ كَلَامَ النَّمْلَةِ، فَابْتَسَمَ.",
+    "de": "Sulayman hörte die Rede der Ameise und lächelte.",
     "beleg": "Quran 27:18-19"
    },
    {
@@ -593,7 +593,7 @@
   "niveau": "B1",
   "saetze": [
    {
-    "ar": "ذَهَبَ يُونُسُ مُغَاضِبًا.",
+    "ar": "خَرَجَ يُونُسُ غَاضِبًا.",
     "de": "Yunus ging zornig davon.",
     "beleg": "Quran 21:87"
    },
@@ -618,7 +618,7 @@
     "beleg": "Quran 21:88"
    },
    {
-    "ar": "وَأَرْسَلَهُ إِلَى مِئَةِ أَلْفٍ أَوْ يَزِيدُونَ، فَآمَنُوا.",
+    "ar": "وَأَرْسَلَهُ اللَّهُ إِلَى مِئَةِ أَلْفٍ أَوْ أَكْثَرَ، فَآمَنُوا.",
     "de": "Und Er sandte ihn zu hunderttausend oder mehr, und sie glaubten.",
     "beleg": "Quran 37:147-148"
    }
@@ -633,8 +633,8 @@
     "beleg": "Quran 19:4"
    },
    {
-    "ar": "دَعَا رَبَّهُ دُعَاءً خَفِيًّا.",
-    "de": "Er rief seinen Herrn leise an.",
+    "ar": "دَعَا رَبَّهُ بِصَوْتٍ خَفِيٍّ.",
+    "de": "Er rief seinen Herrn mit leiser Stimme an.",
     "beleg": "Quran 19:3"
    },
    {
@@ -658,8 +658,8 @@
   "niveau": "B1",
   "saetze": [
    {
-    "ar": "آتَى اللَّهُ يَحْيَى الْحُكْمَ وَهُوَ صَبِيٌّ.",
-    "de": "Allah gab Yahya Urteilskraft, als er noch ein Kind war.",
+    "ar": "أَعْطَى اللَّهُ يَحْيَى الْحِكْمَةَ وَهُوَ صَغِيرٌ.",
+    "de": "Allah gab Yahya Weisheit, als er noch klein war.",
     "beleg": "Quran 19:12"
    },
    {
@@ -673,7 +673,7 @@
     "beleg": "Quran 19:13-14"
    },
    {
-    "ar": "وَالسَّلَامُ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا.",
+    "ar": "وَلَهُ السَّلَامُ مِنَ اللَّهِ يَوْمَ وِلَادَتِهِ، وَيَوْمَ مَوْتِهِ، وَيَوْمَ يُبْعَثُ حَيًّا.",
     "de": "Und Frieden sei auf ihm am Tag seiner Geburt, am Tag seines Todes und am Tag, an dem er lebendig auferweckt wird.",
     "beleg": "Quran 19:15"
    }
@@ -683,8 +683,8 @@
   "niveau": "B1",
   "saetze": [
    {
-    "ar": "بَشَّرَتِ الْمَلَائِكَةُ مَرْيَمَ بِكَلِمَةٍ مِنَ اللَّهِ اسْمُهُ الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ.",
-    "de": "Die Engel verkündeten Maryam ein Wort von Allah: sein Name ist al-Masih, Isa, der Sohn der Maryam.",
+    "ar": "بَشَّرَتِ الْمَلَائِكَةُ مَرْيَمَ بِوَلَدٍ اسْمُهُ عِيسَى، وَهُوَ الْمَسِيحُ.",
+    "de": "Die Engel verkündeten Maryam einen Sohn namens Isa, den Messias (al-Masih).",
     "beleg": "Quran 3:45"
    },
    {
@@ -698,8 +698,8 @@
     "beleg": "Quran 3:46; 19:29-30"
    },
    {
-    "ar": "وَأَعْطَاهُ اللَّهُ آيَاتٍ بِإِذْنِهِ: يُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ، وَيُحْيِي الْمَوْتَى بِإِذْنِ اللَّهِ.",
-    "de": "Allah gab ihm Zeichen mit Seiner Erlaubnis: Er heilte Blindgeborene und Aussätzige und belebte Tote, mit Allahs Erlaubnis.",
+    "ar": "وَأَعْطَاهُ اللَّهُ مُعْجِزَاتٍ: كَانَ يَشْفِي الْأَعْمَى وَالْأَبْرَصَ، وَيُحْيِي الْمَوْتَى، بِإِذْنِ اللَّهِ.",
+    "de": "Allah gab ihm Wunder: Er heilte Blinde und Aussätzige und belebte Tote – mit Allahs Erlaubnis.",
     "beleg": "Quran 3:49; 5:110"
    },
    {
@@ -728,13 +728,13 @@
     "beleg": "Quran 93:3"
    },
    {
-    "ar": "وَجَدَهُ يَتِيمًا فَآوَاهُ.",
-    "de": "Er fand ihn als Waise und gab ihm Obdach.",
+    "ar": "كَانَ يَتِيمًا، فَآوَاهُ اللَّهُ.",
+    "de": "Er war eine Waise, und Allah gab ihm Obdach.",
     "beleg": "Quran 93:6"
    },
    {
-    "ar": "وَوَجَدَهُ فَقِيرًا فَأَغْنَاهُ.",
-    "de": "Er fand ihn bedürftig und machte ihn unabhängig.",
+    "ar": "وَكَانَ فَقِيرًا، فَأَغْنَاهُ اللَّهُ.",
+    "de": "Er war bedürftig, und Allah machte ihn unabhängig.",
     "beleg": "Quran 93:8"
    },
    {
@@ -743,8 +743,8 @@
     "beleg": "Quran 94:1-4"
    },
    {
-    "ar": "وَأَسْرَى اللَّهُ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى.",
-    "de": "Und Allah ließ Seinen Diener bei Nacht von der Heiligen Moschee zur fernen Moschee reisen.",
+    "ar": "وَأَسْرَى اللَّهُ بِنَبِيِّهِ ﷺ فِي لَيْلَةٍ مِنْ مَكَّةَ إِلَى الْمَسْجِدِ الْأَقْصَى.",
+    "de": "Und Allah ließ Seinen Propheten ﷺ in einer Nacht von Mekka zur al-Aqsa-Moschee reisen.",
     "beleg": "Quran 17:1"
    },
    {
