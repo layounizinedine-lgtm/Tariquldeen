@@ -4,6 +4,7 @@ import PlayerBar from './PlayerBar'
 import WordSheet from './WordSheet'
 import QuizView from './QuizView'
 import { quizVerfuegbar } from '../quiz'
+import { zeigeEntwuerfe } from '../data'
 import { markiereGelesen, useFortschritt } from '../progress'
 import { hatKarte, hinzufuegen, entfernen, kartenId, useVokabeln } from '../vocab'
 import type { Geschichte, Niveau, Wort, Zitat } from '../types'
@@ -24,7 +25,7 @@ function ZitatBox({ z, s, aktiv, wort }: { z: Zitat; s: Settings; aktiv?: boolea
       <div className="zitat-kopf"><span className="zitat-typ">❖ {label}</span><span>{z.quelle.split(' (')[0]}</span></div>
       <ArText text={z.text_ar} s={s} words={z.wort_zeitstempel ? { aktiv: aktiv ? (wort ?? -1) : -1 } : undefined} />
       {s.uebersetzung !== 'aus' && <p className="de">{z.text_de}</p>}
-      {s.uebersetzung !== 'aus' && z.text_en && <p className="de en" lang="en">EN: {z.text_en}</p>}
+      {s.uebersetzung !== 'aus' && z.text_en && z.text_de.startsWith('[Platzhalter') && <p className="de en" lang="en">EN: {z.text_en}</p>}
       {z.einstufung && <p className="klein">Einstufung: {z.einstufung}</p>}
       {z.hinweis && <p className="hinweis">Hinweis: {z.hinweis}</p>}
       {z.qari && <p className="klein">Rezitation: {z.qari}</p>}
@@ -52,7 +53,7 @@ export default function Reader(props: { g: Geschichte; s: Settings; set: (p: Par
 function ReaderInner({ g, s, set, zurueck }: {
   g: Geschichte; s: Settings; set: (p: Partial<Settings>) => void; zurueck: () => void
 }) {
-  const verfuegbar = NIVEAUS.filter((n) => g.fassungen[n])
+  const verfuegbar = NIVEAUS.filter((n) => g.fassungen[n] && (zeigeEntwuerfe || g.fassungen[n]!.status === 'geprüft'))
   const [niveau, setNiveau] = useState<Niveau>((['A2', 'B1', 'A1', 'B2'] as Niveau[]).find((n) => verfuegbar.includes(n)) ?? verfuegbar[0])
   const [tab, setTab] = useState<Tab>('text')
   const [einst, setEinst] = useState(false)
@@ -131,10 +132,11 @@ function ReaderInner({ g, s, set, zurueck }: {
           </div>
         </div>
         {g.status === 'entwurf' && <p className="banner">Entwurf – noch nicht von einer fachkundigen Person geprüft</p>}
+        {g.status === 'geprüft' && g.pruefung && <p className="banner ok">✓ Geprüft von {g.pruefung.pruefer} am {g.pruefung.datum}</p>}
 
         <div className="niveaus" role="group" aria-label="Lernniveau">
           {NIVEAUS.map((n) => (
-            <button key={n} aria-pressed={n === niveau} disabled={!g.fassungen[n]} className={n === niveau ? 'on' : ''} onClick={() => setNiveau(n)}>
+            <button key={n} aria-pressed={n === niveau} disabled={!verfuegbar.includes(n)} className={n === niveau ? 'on' : ''} onClick={() => setNiveau(n)}>
               {n === 'klassisch' ? 'Klassisch' : n}
             </button>
           ))}

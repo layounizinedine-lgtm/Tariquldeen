@@ -129,3 +129,4 @@ code{background:var(--bg2);padding:1px 5px;border-radius:5px}
 .de.en{font-size:.85rem}
 .kopf-titel{min-width:0;flex:1}.kopf-titel .ar{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:1.3rem}.kopf-titel small{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .beleg{font-size:.75rem;color:var(--gold);margin:-4px 0 8px 12px}
+.banner.ok{background:#2e7d5b;color:#fff}

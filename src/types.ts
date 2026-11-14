@@ -31,6 +31,8 @@ export interface Geschichte {
   fassungen: Partial<Record<Niveau, Fassung>>
   quiz?: Partial<Record<Niveau, VerstaendnisFrage[]>>
   hat_inhalt?: boolean // nur Katalog-Eintrag: gibt es schon Text?
+  pruefung?: Pruefung
 }
+export interface Pruefung { pruefer: string; datum: string; niveaus: Niveau[]; bemerkung?: string }
 
 export interface VerstaendnisFrage { satz: string; frage: string; optionen: string[]; richtig: number }

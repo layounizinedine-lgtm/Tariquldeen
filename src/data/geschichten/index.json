@@ -5,6 +5,7 @@
   "titel_ar": "آدَمُ عَلَيْهِ السَّلَامُ",
   "titel_de": "Adam",
   "bild_motiv": "Paradiesgarten mit Baum",
+  "bild_url": "/bilder/adam.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -14,6 +15,7 @@
   "titel_ar": "إِدْرِيسُ عَلَيْهِ السَّلَامُ",
   "titel_de": "Idris",
   "bild_motiv": "Sternenhimmel über Bergen",
+  "bild_url": "/bilder/idris.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -23,6 +25,7 @@
   "titel_ar": "نُوحٌ عَلَيْهِ السَّلَامُ",
   "titel_de": "Nuh (Noah)",
   "bild_motiv": "Schiff auf Wellen",
+  "bild_url": "/bilder/nuh.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -32,6 +35,7 @@
   "titel_ar": "هُودٌ عَلَيْهِ السَّلَامُ",
   "titel_de": "Hud",
   "bild_motiv": "Sanddünen und Windhosen",
+  "bild_url": "/bilder/hud.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -41,6 +45,7 @@
   "titel_ar": "صَالِحٌ عَلَيْهِ السَّلَامُ",
   "titel_de": "Salih",
   "bild_motiv": "Felsenlandschaft mit Berg",
+  "bild_url": "/bilder/salih.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -50,6 +55,7 @@
   "titel_ar": "إِبْرَاهِيمُ عَلَيْهِ السَّلَامُ",
   "titel_de": "Ibrahim (Abraham)",
   "bild_motiv": "Sternenhimmel und Feuerstelle",
+  "bild_url": "/bilder/ibrahim.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -59,6 +65,7 @@
   "titel_ar": "لُوطٌ عَلَيْهِ السَّلَامُ",
   "titel_de": "Lut (Lot)",
   "bild_motiv": "Zerfallene Stadtmauern",
+  "bild_url": "/bilder/lut.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -68,6 +75,7 @@
   "titel_ar": "إِسْمَاعِيلُ عَلَيْهِ السَّلَامُ",
   "titel_de": "Ismail (Ismael)",
   "bild_motiv": "Quelle in der Wüste",
+  "bild_url": "/bilder/ismail.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -77,6 +85,7 @@
   "titel_ar": "إِسْحَاقُ عَلَيْهِ السَّلَامُ",
   "titel_de": "Ishaq (Isaak)",
   "bild_motiv": "Olivenbaum im Abendlicht",
+  "bild_url": "/bilder/ishaq.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -86,6 +95,7 @@
   "titel_ar": "يَعْقُوبُ عَلَيْهِ السَّلَامُ",
   "titel_de": "Yaqub (Jakob)",
   "bild_motiv": "Zelt unter Sternen",
+  "bild_url": "/bilder/yaqub.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -95,6 +105,7 @@
   "titel_ar": "أَيُّوبُ عَلَيْهِ السَّلَامُ",
   "titel_de": "Ayyub (Hiob)",
   "bild_motiv": "Quelle im Gebirge",
+  "bild_url": "/bilder/ayyub.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -104,6 +115,7 @@
   "titel_ar": "شُعَيْبٌ عَلَيْهِ السَّلَامُ",
   "titel_de": "Shuayb",
   "bild_motiv": "Waage und Marktplatz",
+  "bild_url": "/bilder/shuayb.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -113,6 +125,7 @@
   "titel_ar": "مُوسَى عَلَيْهِ السَّلَامُ",
   "titel_de": "Musa (Moses)",
   "bild_motiv": "Geteiltes Meer",
+  "bild_url": "/bilder/musa.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -122,6 +135,7 @@
   "titel_ar": "هَارُونُ عَلَيْهِ السَّلَامُ",
   "titel_de": "Harun (Aaron)",
   "bild_motiv": "Bergpfad im Morgenlicht",
+  "bild_url": "/bilder/harun.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -131,6 +145,7 @@
   "titel_ar": "ذُو الْكِفْلِ عَلَيْهِ السَّلَامُ",
   "titel_de": "Dhul-Kifl",
   "bild_motiv": "Tor einer alten Stadt",
+  "bild_url": "/bilder/dhulkifl.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },
@@ -140,6 +155,7 @@
   "titel_ar": "دَاوُودُ عَلَيْهِ السَّلَامُ",
   "titel_de": "Dawud (David)",
   "bild_motiv": "Harfe und Eisenringe",
+  "bild_url": "/bilder/dawud.webp",
   "status": "entwurf",
   "hat_inhalt": true
  },

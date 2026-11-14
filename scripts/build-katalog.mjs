@@ -88,6 +88,8 @@ function biografie(id) {
     niveau: b.niveau,
   }
 }
+const hadithDe = existsSync('content/hadith-de.json') ? JSON.parse(readFileSync('content/hadith-de.json', 'utf8')) : {}
+const freigaben = existsSync('content/pruefung.json') ? JSON.parse(readFileSync('content/pruefung.json', 'utf8')).freigaben ?? {} : {}
 let n = 0
 const index = []
 for (const e of katalog) {
@@ -113,7 +115,7 @@ for (const e of katalog) {
     const x = await hadith(h.sammlung, h.nr), id = `h-${h.sammlung}-${h.nr}`
     const grade = x.grades.map((g) => `${g.grade} (${g.name})`).join('; ') || '[Platzhalter: Einstufung fehlt]'
     zitate[id] = {
-      id, typ: 'hadith', text_ar: x.ar, text_en: x.en, text_de: '[Platzhalter: deutsche Übersetzung noch zu ergänzen]',
+      id, typ: 'hadith', text_ar: x.ar, text_en: x.en, text_de: hadithDe[id] ? hadithDe[id] + ' [Übersetzung: Entwurf]' : '[Platzhalter: deutsche Übersetzung noch zu ergänzen]',
       quelle: `${h.edition} ${h.nr}`, einstufung: grade,
     }
     saetze.push({ id: `k${saetze.length + 1}`, text_ar_mit_harakat: x.ar, text_de: zitate[id].text_de, zitat_id: id })
@@ -135,12 +137,18 @@ for (const e of katalog) {
   }
   const g = {
     id: e.id, bereich: e.bereich, titel_ar: e.titel_ar, titel_de: e.titel_de, bild_motiv: e.motiv,
+    bild_url: existsSync(`public/bilder/${e.id}.webp`) ? `/bilder/${e.id}.webp` : undefined,
     quellen: [...quellen, ...(bio?.quellen ?? []), ...e.quellen.filter((q) => !(bio && /Siyar/.test(q.werk)))],
     hinweis: bio ? (bio.hinweis ?? 'Nacherzählung und Zitate nach adh-Dhahabis Siyar (Seiten angegeben). Weitere Quellen noch zu ergänzen.') : e.hinweis, status: 'entwurf', zitate,
     fassungen,
   }
+  const fr = freigaben[e.id]
+  if (fr && fr.pruefer && fr.datum) {
+    g.status = 'geprüft'; g.pruefung = fr
+    for (const niv of fr.niveaus ?? []) if (g.fassungen[niv]) g.fassungen[niv].status = 'geprüft'
+  }
   writeFileSync(`src/data/geschichten/${e.id}.json`, JSON.stringify(g)); n++
-  index.push({ id: g.id, bereich: g.bereich, titel_ar: g.titel_ar, titel_de: g.titel_de, bild_motiv: g.bild_motiv, status: g.status, hat_inhalt: Object.keys(fassungen).length > 0 })
+  index.push({ id: g.id, bereich: g.bereich, titel_ar: g.titel_ar, titel_de: g.titel_de, bild_motiv: g.bild_motiv, bild_url: g.bild_url, status: g.status, hat_inhalt: Object.keys(fassungen).length > 0 })
 }
 writeFileSync('src/data/geschichten/index.json', JSON.stringify(index, null, 1))
 console.log(n, 'Geschichten geschrieben')
