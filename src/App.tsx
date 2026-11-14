@@ -37,6 +37,7 @@ export default function App() {
       </header>
       {laedt && <p className="klein mitte">Lade Geschichten …</p>}
       {fehler && <p className="hinweis">Offline oder Serverfehler – zeige gespeicherte Geschichten. ({fehler})</p>}
+      <p className="hinweis">Alle Inhalte sind <strong>Entwürfe</strong> und noch nicht fachlich geprüft. Fehler bitte melden.</p>
       <button className="vok-karte" onClick={() => setVok(true)}>
         <span>📚 Meine Vokabeln<small>{karten.length} Karten</small></span>
         <em className="tag">{faellige(karten).length} fällig</em>
