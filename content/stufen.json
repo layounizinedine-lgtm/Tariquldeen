@@ -1,0 +1,608 @@
+{
+ "nuh": {
+  "A1": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ نُوحًا.",
+    "de": "Allah sandte Nuh.",
+    "beleg": "Quran 11:25"
+   },
+   {
+    "ar": "نُوحٌ يَدْعُو قَوْمَهُ.",
+    "de": "Nuh ruft sein Volk.",
+    "beleg": "Quran 11:25-26"
+   },
+   {
+    "ar": "كَثِيرٌ مِنْهُمْ لَا يُؤْمِنُونَ.",
+    "de": "Viele von ihnen glauben nicht.",
+    "beleg": "Quran 11:27; 11:40"
+   },
+   {
+    "ar": "اللَّهُ يَأْمُرُ نُوحًا: اصْنَعِ السَّفِينَةَ.",
+    "de": "Allah befiehlt Nuh: Baue das Schiff.",
+    "beleg": "Quran 11:37-38"
+   },
+   {
+    "ar": "الْمَاءُ يَخْرُجُ مِنَ التَّنُّورِ.",
+    "de": "Wasser kommt aus dem Ofen.",
+    "beleg": "Quran 11:40"
+   },
+   {
+    "ar": "الْمُؤْمِنُونَ فِي السَّفِينَةِ.",
+    "de": "Die Gläubigen sind im Schiff.",
+    "beleg": "Quran 11:40"
+   },
+   {
+    "ar": "ابْنُ نُوحٍ غَرِقَ.",
+    "de": "Nuhs Sohn ertrank.",
+    "beleg": "Quran 11:42-43; 11:46"
+   },
+   {
+    "ar": "السَّفِينَةُ عَلَى الْجُودِيِّ.",
+    "de": "Das Schiff ist auf dem Dschudi.",
+    "beleg": "Quran 11:44"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ نُوحًا إِلَى قَوْمِهِ.",
+    "de": "Allah sandte Nuh zu seinem Volk.",
+    "beleg": "Quran 11:25"
+   },
+   {
+    "ar": "دَعَاهُمْ إِلَى عِبَادَةِ اللَّهِ.",
+    "de": "Er rief sie auf, Allah zu dienen.",
+    "beleg": "Quran 11:25-26"
+   },
+   {
+    "ar": "لَمْ يُؤْمِنْ مَعَهُ إِلَّا قَلِيلٌ مِنْهُمْ.",
+    "de": "Nur wenige von ihnen glaubten mit ihm.",
+    "beleg": "Quran 11:27; 11:40"
+   },
+   {
+    "ar": "قَالَ اللَّهُ لِنُوحٍ: اصْنَعِ السَّفِينَةَ.",
+    "de": "Allah sagte zu Nuh: Baue das Schiff.",
+    "beleg": "Quran 11:37-38"
+   },
+   {
+    "ar": "ثُمَّ جَاءَ أَمْرُ اللَّهِ، وَخَرَجَ الْمَاءُ مِنَ التَّنُّورِ.",
+    "de": "Dann kam Allahs Befehl, und das Wasser kam aus dem Ofen.",
+    "beleg": "Quran 11:40"
+   },
+   {
+    "ar": "رَكِبَ الْمُؤْمِنُونَ فِي السَّفِينَةِ، وَرَكِبَ مِنْ كُلِّ نَوْعٍ زَوْجَانِ.",
+    "de": "Die Gläubigen stiegen ins Schiff, und von jeder Art ein Paar.",
+    "beleg": "Quran 11:40"
+   },
+   {
+    "ar": "وَغَرِقَ ابْنُ نُوحٍ، لِأَنَّهُ لَمْ يُؤْمِنْ.",
+    "de": "Nuhs Sohn ertrank, weil er nicht glaubte.",
+    "beleg": "Quran 11:42-43; 11:46"
+   },
+   {
+    "ar": "ثُمَّ وَقَفَتِ السَّفِينَةُ عَلَى جَبَلِ الْجُودِيِّ.",
+    "de": "Dann kam das Schiff auf dem Berg Dschudi zum Stehen.",
+    "beleg": "Quran 11:44"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ نُوحًا إِلَى قَوْمِهِ لِيَدْعُوَهُمْ إِلَى عِبَادَتِهِ وَحْدَهُ.",
+    "de": "Allah sandte Nuh zu seinem Volk, damit er sie aufrufe, Ihm allein zu dienen.",
+    "beleg": "Quran 11:25-26"
+   },
+   {
+    "ar": "وَلَكِنَّ أَكْثَرَ قَوْمِهِ كَذَّبُوهُ، وَلَمْ يُؤْمِنْ مَعَهُ إِلَّا عَدَدٌ قَلِيلٌ.",
+    "de": "Aber die meisten seines Volkes hielten ihn für einen Lügner, und nur wenige glaubten mit ihm.",
+    "beleg": "Quran 11:27; 11:40"
+   },
+   {
+    "ar": "فَأَمَرَهُ اللَّهُ أَنْ يَصْنَعَ السَّفِينَةَ تَحْتَ رِعَايَتِهِ وَوَحْيِهِ.",
+    "de": "Da befahl Allah ihm, das Schiff unter Seiner Obhut und Seiner Eingebung zu bauen.",
+    "beleg": "Quran 11:37-38"
+   },
+   {
+    "ar": "وَلَمَّا جَاءَ أَمْرُ اللَّهِ، فَارَ التَّنُّورُ بِالْمَاءِ.",
+    "de": "Als Allahs Befehl kam, sprudelte der Ofen von Wasser über.",
+    "beleg": "Quran 11:40"
+   },
+   {
+    "ar": "وَأَمَرَ اللَّهُ نُوحًا أَنْ يَحْمِلَ مِنْ كُلِّ نَوْعٍ زَوْجَيْنِ، وَأَهْلَهُ إِلَّا مَنْ سَبَقَ عَلَيْهِ الْقَوْلُ، وَالْمُؤْمِنِينَ.",
+    "de": "Und Allah befahl Nuh, von jeder Art ein Paar aufzunehmen, dazu seine Familie – außer denen, über die das Urteil schon ergangen war – und die Gläubigen.",
+    "beleg": "Quran 11:40"
+   },
+   {
+    "ar": "وَنَادَى نُوحٌ ابْنَهُ، لَكِنَّ الِابْنَ لَمْ يَرْكَبْ مَعَهُمْ، فَكَانَ مِنَ الْغَارِقِينَ.",
+    "de": "Nuh rief seinen Sohn, doch der Sohn stieg nicht mit ihnen ein und gehörte zu den Ertrunkenen.",
+    "beleg": "Quran 11:42-43"
+   },
+   {
+    "ar": "وَبَعْدَ أَنِ انْتَهَى الطُّوفَانُ، اسْتَوَتِ السَّفِينَةُ عَلَى الْجُودِيِّ.",
+    "de": "Nachdem die Flut vorüber war, ließ sich das Schiff auf dem Dschudi nieder.",
+    "beleg": "Quran 11:44"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "بَعَثَ اللَّهُ نُوحًا إِلَى قَوْمِهِ نَذِيرًا، يَدْعُوهُمْ إِلَى تَوْحِيدِ اللَّهِ وَتَرْكِ مَا هُمْ عَلَيْهِ.",
+    "de": "Allah entsandte Nuh als Warner zu seinem Volk; er rief sie zur Einzigkeit Allahs auf und dazu, ihr bisheriges Treiben zu lassen.",
+    "beleg": "Quran 11:25-26"
+   },
+   {
+    "ar": "وَلَمْ يَسْتَجِبْ لَهُ إِلَّا قِلَّةٌ قَلِيلَةٌ، أَمَّا أَكْثَرُهُمْ فَكَذَّبُوهُ.",
+    "de": "Nur eine kleine Schar folgte ihm, die meisten aber erklärten ihn zum Lügner.",
+    "beleg": "Quran 11:27; 11:40"
+   },
+   {
+    "ar": "وَأَخْبَرَهُ اللَّهُ أَنَّهُ لَنْ يُؤْمِنَ مِنْ قَوْمِهِ إِلَّا مَنْ قَدْ آمَنَ.",
+    "de": "Und Allah teilte ihm mit, dass von seinem Volk nur noch glauben werde, wer bereits geglaubt hatte.",
+    "beleg": "Quran 11:36"
+   },
+   {
+    "ar": "ثُمَّ أَوْحَى إِلَيْهِ أَنْ يَصْنَعَ السَّفِينَةَ، فَشَرَعَ فِي ذَلِكَ بِرِعَايَةِ اللَّهِ وَوَحْيِهِ.",
+    "de": "Dann gab Er ihm ein, das Schiff zu bauen, und er machte sich unter Allahs Obhut und Eingebung daran.",
+    "beleg": "Quran 11:37-38"
+   },
+   {
+    "ar": "وَحِينَ جَاءَ أَمْرُ اللَّهِ، فَارَ التَّنُّورُ، وَحَمَلَ نُوحٌ فِي السَّفِينَةِ الْمُؤْمِنِينَ وَمِنْ كُلِّ نَوْعٍ زَوْجَيْنِ.",
+    "de": "Als Allahs Befehl kam, sprudelte der Ofen, und Nuh nahm die Gläubigen und von jeder Art ein Paar ins Schiff.",
+    "beleg": "Quran 11:40"
+   },
+   {
+    "ar": "وَلَمْ يَكُنِ ابْنُهُ مِنَ الْمَحْمُولِينَ، إِذْ لَمْ يُؤْمِنْ، فَكَانَ مِنَ الْمُغْرَقِينَ.",
+    "de": "Sein Sohn gehörte nicht zu den Mitgenommenen, da er nicht glaubte, und so zählte er zu den Ertrunkenen.",
+    "beleg": "Quran 11:42-43; 11:46"
+   },
+   {
+    "ar": "ثُمَّ انْحَسَرَ الْمَاءُ، وَاسْتَقَرَّتِ السَّفِينَةُ عَلَى الْجُودِيِّ.",
+    "de": "Dann ging das Wasser zurück, und das Schiff kam auf dem Dschudi zur Ruhe.",
+    "beleg": "Quran 11:44"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "اصْطَفَى اللَّهُ نُوحًا لِيَكُونَ نَذِيرًا لِقَوْمِهِ، يَدْعُوهُمْ إِلَى عِبَادَةِ رَبٍّ وَاحِدٍ لَا شَرِيكَ لَهُ.",
+    "de": "Allah erwählte Nuh, damit er seinem Volk ein Warner sei und sie zum Dienst an einem einzigen Herrn aufrufe, der keinen Teilhaber hat.",
+    "beleg": "Quran 11:25-26"
+   },
+   {
+    "ar": "فَمَا كَانَ مِنْ أَكْثَرِهِمْ إِلَّا أَنْ كَذَّبُوهُ، وَلَمْ يَثْبُتْ مَعَهُ إِلَّا قِلَّةٌ مُؤْمِنَةٌ.",
+    "de": "Doch die meisten von ihnen taten nichts anderes, als ihn der Lüge zu bezichtigen, und nur eine kleine gläubige Schar hielt zu ihm.",
+    "beleg": "Quran 11:27; 11:40"
+   },
+   {
+    "ar": "وَلَمَّا حَانَ الْأَمْرُ، أَوْحَى اللَّهُ إِلَيْهِ أَنْ يَصْنَعَ السَّفِينَةَ، فَصَنَعَهَا بِرِعَايَتِهِ وَوَحْيِهِ، وَكُلَّمَا مَرَّ بِهِ جَمَاعَةٌ مِنْ قَوْمِهِ سَخِرُوا مِنْهُ.",
+    "de": "Als die Zeit gekommen war, gab Allah ihm ein, das Schiff zu bauen; er baute es unter Seiner Obhut und Eingebung, und sooft eine Gruppe seines Volkes an ihm vorbeiging, verspottete sie ihn.",
+    "beleg": "Quran 11:37-38"
+   },
+   {
+    "ar": "فَلَمَّا جَاءَ أَمْرُ اللَّهِ وَفَارَ التَّنُّورُ، حَمَلَ فِيهَا مَنْ آمَنَ، وَمِنْ كُلِّ صِنْفٍ زَوْجَيْنِ، إِلَّا مَنْ سَبَقَ عَلَيْهِ الْقَوْلُ.",
+    "de": "Als Allahs Befehl kam und der Ofen sprudelte, nahm er darin jeden auf, der glaubte, und von jeder Art ein Paar – außer denen, über die das Urteil schon ergangen war.",
+    "beleg": "Quran 11:40"
+   },
+   {
+    "ar": "وَكَانَ ابْنُهُ فِي مَعْزِلٍ عَنْهُمْ، فَلَمْ يَرْكَبْ مَعَهُمْ، وَفَرَّقَ بَيْنَهُمَا الْمَوْجُ، فَكَانَ مِنَ الْمُغْرَقِينَ.",
+    "de": "Sein Sohn hielt sich abseits von ihnen, stieg nicht mit ein, die Wellen trennten die beiden, und er zählte zu den Ertrunkenen.",
+    "beleg": "Quran 11:42-43"
+   },
+   {
+    "ar": "ثُمَّ نَزَلَ الْمَاءُ وَانْتَهَى الْأَمْرُ، وَاسْتَقَرَّتِ السَّفِينَةُ عَلَى جَبَلِ الْجُودِيِّ.",
+    "de": "Dann sank das Wasser, die Sache war entschieden, und das Schiff kam auf dem Berg Dschudi zur Ruhe.",
+    "beleg": "Quran 11:44"
+   }
+  ]
+ },
+ "adam": {
+  "A1": [
+   {
+    "ar": "اللَّهُ يَخْلُقُ آدَمَ.",
+    "de": "Allah erschafft Adam.",
+    "beleg": "Quran 2:30-31"
+   },
+   {
+    "ar": "اللَّهُ يُعَلِّمُ آدَمَ الْأَسْمَاءَ.",
+    "de": "Allah lehrt Adam die Namen.",
+    "beleg": "Quran 2:31"
+   },
+   {
+    "ar": "الْمَلَائِكَةُ يَسْجُدُونَ لِآدَمَ.",
+    "de": "Die Engel werfen sich vor Adam nieder.",
+    "beleg": "Quran 2:34"
+   },
+   {
+    "ar": "إِبْلِيسُ لَا يَسْجُدُ.",
+    "de": "Iblis wirft sich nicht nieder.",
+    "beleg": "Quran 2:34"
+   },
+   {
+    "ar": "آدَمُ وَزَوْجُهُ فِي الْجَنَّةِ.",
+    "de": "Adam und seine Frau sind im Paradies.",
+    "beleg": "Quran 2:35"
+   },
+   {
+    "ar": "لَا تَأْكُلَا مِنْ هَذِهِ الشَّجَرَةِ.",
+    "de": "Esst nicht von diesem Baum.",
+    "beleg": "Quran 2:35; 7:19"
+   },
+   {
+    "ar": "الشَّيْطَانُ يُوَسْوِسُ لَهُمَا، وَهُمَا يَأْكُلَانِ.",
+    "de": "Der Satan flüstert ihnen ein, und sie essen.",
+    "beleg": "Quran 7:20-22; 2:36"
+   },
+   {
+    "ar": "آدَمُ يَتُوبُ، وَاللَّهُ يَقْبَلُ تَوْبَتَهُ.",
+    "de": "Adam kehrt reumütig um, und Allah nimmt seine Reue an.",
+    "beleg": "Quran 7:23; 2:37"
+   },
+   {
+    "ar": "ثُمَّ يَنْزِلَانِ إِلَى الْأَرْضِ.",
+    "de": "Dann steigen sie zur Erde hinab.",
+    "beleg": "Quran 2:36; 2:38"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "أَرَادَ اللَّهُ أَنْ يَجْعَلَ خَلِيفَةً فِي الْأَرْضِ.",
+    "de": "Allah wollte einen Statthalter auf der Erde einsetzen.",
+    "beleg": "Quran 2:30"
+   },
+   {
+    "ar": "خَلَقَ اللَّهُ آدَمَ، وَعَلَّمَهُ أَسْمَاءَ الْأَشْيَاءِ.",
+    "de": "Allah erschuf Adam und lehrte ihn die Namen der Dinge.",
+    "beleg": "Quran 2:31"
+   },
+   {
+    "ar": "قَالَ اللَّهُ لِلْمَلَائِكَةِ: اسْجُدُوا لِآدَمَ. فَسَجَدُوا، إِلَّا إِبْلِيسَ.",
+    "de": "Allah sagte den Engeln: Werft euch vor Adam nieder. Sie taten es, außer Iblis.",
+    "beleg": "Quran 2:34"
+   },
+   {
+    "ar": "سَكَنَ آدَمُ وَزَوْجُهُ فِي الْجَنَّةِ.",
+    "de": "Adam und seine Frau wohnten im Paradies.",
+    "beleg": "Quran 2:35"
+   },
+   {
+    "ar": "وَنَهَاهُمَا اللَّهُ عَنِ الْأَكْلِ مِنْ شَجَرَةٍ وَاحِدَةٍ.",
+    "de": "Und Allah verbot ihnen, von einem einzigen Baum zu essen.",
+    "beleg": "Quran 2:35; 7:19"
+   },
+   {
+    "ar": "لَكِنَّ الشَّيْطَانَ وَسْوَسَ لَهُمَا، فَأَكَلَا مِنَ الشَّجَرَةِ.",
+    "de": "Aber der Satan flüsterte ihnen ein, und sie aßen von dem Baum.",
+    "beleg": "Quran 7:20-22; 2:36"
+   },
+   {
+    "ar": "نَدِمَ آدَمُ وَزَوْجُهُ وَتَابَا إِلَى اللَّهِ، فَقَبِلَ اللَّهُ تَوْبَتَهُمَا.",
+    "de": "Adam und seine Frau bereuten und kehrten zu Allah zurück, und Allah nahm ihre Reue an.",
+    "beleg": "Quran 7:23; 2:37"
+   },
+   {
+    "ar": "ثُمَّ أَنْزَلَهُمَا اللَّهُ إِلَى الْأَرْضِ.",
+    "de": "Dann ließ Allah sie zur Erde hinabsteigen.",
+    "beleg": "Quran 2:36; 2:38"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "أَرَادَ اللَّهُ أَنْ يَجْعَلَ فِي الْأَرْضِ خَلِيفَةً يَخْلُفُ فِيهَا غَيْرَهُ.",
+    "de": "Allah wollte auf der Erde einen Statthalter einsetzen, der dort einem anderen nachfolgt.",
+    "beleg": "Quran 2:30"
+   },
+   {
+    "ar": "فَخَلَقَ آدَمَ، وَعَلَّمَهُ الْأَسْمَاءَ كُلَّهَا حَتَّى يَتَبَيَّنَ فَضْلُهُ.",
+    "de": "So erschuf Er Adam und lehrte ihn alle Namen, damit sein Vorzug deutlich werde.",
+    "beleg": "Quran 2:31"
+   },
+   {
+    "ar": "وَأَمَرَ الْمَلَائِكَةَ أَنْ يَسْجُدُوا لِآدَمَ، فَسَجَدُوا جَمِيعًا إِلَّا إِبْلِيسَ الَّذِي امْتَنَعَ.",
+    "de": "Und Er befahl den Engeln, sich vor Adam niederzuwerfen; alle taten es, außer Iblis, der sich verweigerte.",
+    "beleg": "Quran 2:34"
+   },
+   {
+    "ar": "وَأَسْكَنَ اللَّهُ آدَمَ وَزَوْجَهُ الْجَنَّةَ، وَأَبَاحَ لَهُمَا كُلَّ مَا فِيهَا إِلَّا شَجَرَةً وَاحِدَةً.",
+    "de": "Und Allah ließ Adam und seine Frau im Paradies wohnen und erlaubte ihnen alles dort, außer einem einzigen Baum.",
+    "beleg": "Quran 2:35; 7:19"
+   },
+   {
+    "ar": "وَسْوَسَ لَهُمَا الشَّيْطَانُ حَتَّى أَكَلَا مِنَ الشَّجَرَةِ.",
+    "de": "Der Satan flüsterte ihnen so lange ein, bis sie von dem Baum aßen.",
+    "beleg": "Quran 7:20-22; 2:36"
+   },
+   {
+    "ar": "وَلَمَّا أَدْرَكَا خَطَأَهُمَا، رَجَعَا إِلَى اللَّهِ تَائِبَيْنِ، فَتَابَ عَلَيْهِمَا.",
+    "de": "Als sie ihren Fehler erkannten, kehrten sie reumütig zu Allah zurück, und Er nahm ihre Reue an.",
+    "beleg": "Quran 7:23; 2:37"
+   },
+   {
+    "ar": "ثُمَّ أَنْزَلَهُمَا إِلَى الْأَرْضِ لِيَعِيشَا فِيهَا.",
+    "de": "Dann ließ Er sie zur Erde hinabsteigen, damit sie dort leben.",
+    "beleg": "Quran 2:36; 2:38"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "أَرَادَ اللَّهُ أَنْ يَسْتَخْلِفَ فِي الْأَرْضِ خَلِيفَةً.",
+    "de": "Allah wollte auf der Erde einen Statthalter bestimmen.",
+    "beleg": "Quran 2:30"
+   },
+   {
+    "ar": "فَخَلَقَ آدَمَ، وَعَلَّمَهُ مِنَ الْأَسْمَاءِ مَا لَمْ تَعْلَمْهُ الْمَلَائِكَةُ.",
+    "de": "So erschuf Er Adam und lehrte ihn von den Namen, was die Engel nicht wussten.",
+    "beleg": "Quran 2:31"
+   },
+   {
+    "ar": "وَأَمَرَ الْمَلَائِكَةَ بِالسُّجُودِ لَهُ، فَامْتَثَلُوا جَمِيعًا إِلَّا إِبْلِيسَ.",
+    "de": "Er befahl den Engeln, sich vor ihm niederzuwerfen, und alle gehorchten außer Iblis.",
+    "beleg": "Quran 2:34"
+   },
+   {
+    "ar": "ثُمَّ أَسْكَنَهُ وَزَوْجَهُ الْجَنَّةَ، وَنَهَاهُمَا عَنِ الِاقْتِرَابِ مِنْ شَجَرَةٍ بِعَيْنِهَا.",
+    "de": "Dann ließ Er ihn und seine Frau im Paradies wohnen und verbot ihnen, einem bestimmten Baum nahe zu kommen.",
+    "beleg": "Quran 2:35; 7:19"
+   },
+   {
+    "ar": "فَأَغْوَاهُمَا الشَّيْطَانُ وَوَسْوَسَ لَهُمَا حَتَّى أَكَلَا مِنْهَا.",
+    "de": "Doch der Satan verführte die beiden und flüsterte ihnen ein, bis sie davon aßen.",
+    "beleg": "Quran 7:20-22; 2:36"
+   },
+   {
+    "ar": "وَمَا لَبِثَا أَنْ تَابَا إِلَى رَبِّهِمَا، فَقَبِلَ اللَّهُ تَوْبَتَهُمَا.",
+    "de": "Und sie kehrten alsbald zu ihrem Herrn zurück, und Allah nahm ihre Reue an.",
+    "beleg": "Quran 7:23; 2:37"
+   },
+   {
+    "ar": "وَقَضَى أَنْ يَهْبِطَا إِلَى الْأَرْضِ لِتَكُونَ مَقَرَّهُمَا.",
+    "de": "Und Er bestimmte, dass sie zur Erde hinabsteigen, damit sie ihr Aufenthaltsort sei.",
+    "beleg": "Quran 2:36; 2:38"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "شَاءَ اللَّهُ أَنْ يُقِيمَ فِي الْأَرْضِ خَلِيفَةً، فَخَلَقَ آدَمَ وَفَضَّلَهُ بِالْعِلْمِ.",
+    "de": "Allah wollte auf der Erde einen Statthalter einsetzen; so erschuf Er Adam und zeichnete ihn durch Wissen aus.",
+    "beleg": "Quran 2:30-31"
+   },
+   {
+    "ar": "وَأَمَرَ الْمَلَائِكَةَ بِالسُّجُودِ لَهُ تَكْرِيمًا، فَسَجَدُوا كُلُّهُمْ إِلَّا إِبْلِيسَ فَإِنَّهُ أَبَى.",
+    "de": "Er befahl den Engeln, sich ihm zu Ehren niederzuwerfen; sie alle taten es, nur Iblis weigerte sich.",
+    "beleg": "Quran 2:34"
+   },
+   {
+    "ar": "وَأَسْكَنَ آدَمَ وَزَوْجَهُ جَنَّتَهُ، وَأَبَاحَ لَهُمَا نَعِيمَهَا غَيْرَ شَجَرَةٍ وَاحِدَةٍ نَهَاهُمَا عَنْهَا.",
+    "de": "Er ließ Adam und seine Frau in Seinem Paradies wohnen und erlaubte ihnen dessen Wonnen, außer einem einzigen Baum, den Er ihnen verbot.",
+    "beleg": "Quran 2:35; 7:19"
+   },
+   {
+    "ar": "فَلَمْ يَزَلِ الشَّيْطَانُ يَغُرُّهُمَا بِوَسْوَسَتِهِ حَتَّى أَكَلَا مِنْهَا، فَظَهَرَ لَهُمَا مَا كَانَ مَسْتُورًا.",
+    "de": "Der Satan hörte nicht auf, sie mit seinen Einflüsterungen zu betören, bis sie davon aßen und ihnen offenbar wurde, was verborgen gewesen war.",
+    "beleg": "Quran 7:20-22; 2:36"
+   },
+   {
+    "ar": "وَلَمَّا أَدْرَكَا مَا وَقَعَا فِيهِ، لَجَآ إِلَى رَبِّهِمَا نَادِمَيْنِ، فَتَقَبَّلَ اللَّهُ تَوْبَتَهُمَا.",
+    "de": "Als sie begriffen, worein sie geraten waren, suchten sie reuevoll Zuflucht bei ihrem Herrn, und Allah nahm ihre Reue an.",
+    "beleg": "Quran 7:23; 2:37"
+   },
+   {
+    "ar": "ثُمَّ هَبَطَا إِلَى الْأَرْضِ بِقَضَاءٍ مِنْهُ، لِيَبْدَأَ فِيهَا أَمْرُ الْخِلَافَةِ.",
+    "de": "Dann stiegen sie auf Seinen Beschluss zur Erde hinab, damit dort die Aufgabe der Statthalterschaft beginne.",
+    "beleg": "Quran 2:36; 2:38"
+   }
+  ]
+ },
+ "musa": {
+  "A1": [
+   {
+    "ar": "أُمُّ مُوسَى تُرْضِعُ مُوسَى.",
+    "de": "Musas Mutter stillt Musa.",
+    "beleg": "Quran 28:7"
+   },
+   {
+    "ar": "اللَّهُ يَقُولُ لَهَا: ضَعِيهِ فِي النَّهْرِ.",
+    "de": "Allah sagt ihr: Leg ihn in den Fluss.",
+    "beleg": "Quran 28:7"
+   },
+   {
+    "ar": "آلُ فِرْعَوْنَ يَأْخُذُونَ مُوسَى.",
+    "de": "Fir'auns Leute nehmen Musa auf.",
+    "beleg": "Quran 28:8"
+   },
+   {
+    "ar": "اللَّهُ يَرُدُّ مُوسَى إِلَى أُمِّهِ.",
+    "de": "Allah bringt Musa zu seiner Mutter zurück.",
+    "beleg": "Quran 28:13"
+   },
+   {
+    "ar": "مُوسَى يَرَى نَارًا.",
+    "de": "Musa sieht ein Feuer.",
+    "beleg": "Quran 20:10"
+   },
+   {
+    "ar": "اللَّهُ يُكَلِّمُ مُوسَى.",
+    "de": "Allah spricht zu Musa.",
+    "beleg": "Quran 20:11-14"
+   },
+   {
+    "ar": "فِي يَدِ مُوسَى عَصًا.",
+    "de": "In Musas Hand ist ein Stab.",
+    "beleg": "Quran 20:17-21"
+   },
+   {
+    "ar": "مُوسَى يَذْهَبُ إِلَى فِرْعَوْنَ.",
+    "de": "Musa geht zu Fir'aun.",
+    "beleg": "Quran 20:24"
+   },
+   {
+    "ar": "هَارُونُ أَخُو مُوسَى يُسَاعِدُهُ.",
+    "de": "Harun, Musas Bruder, hilft ihm.",
+    "beleg": "Quran 20:29-30"
+   },
+   {
+    "ar": "الْبَحْرُ يَنْفَلِقُ.",
+    "de": "Das Meer teilt sich.",
+    "beleg": "Quran 26:63"
+   },
+   {
+    "ar": "اللَّهُ يُنْجِي مُوسَى وَمَنْ مَعَهُ.",
+    "de": "Allah rettet Musa und die bei ihm sind.",
+    "beleg": "Quran 26:65-66"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "أَوْحَى اللَّهُ إِلَى أُمِّ مُوسَى أَنْ تُرْضِعَهُ ثُمَّ تَضَعَهُ فِي النَّهْرِ.",
+    "de": "Allah gab Musas Mutter ein, ihn zu stillen und dann in den Fluss zu legen.",
+    "beleg": "Quran 28:7"
+   },
+   {
+    "ar": "وَأَخَذَهُ آلُ فِرْعَوْنَ.",
+    "de": "Und Fir'auns Leute nahmen ihn auf.",
+    "beleg": "Quran 28:8"
+   },
+   {
+    "ar": "ثُمَّ رَدَّهُ اللَّهُ إِلَى أُمِّهِ لِتَفْرَحَ.",
+    "de": "Dann brachte Allah ihn zu seiner Mutter zurück, damit sie sich freut.",
+    "beleg": "Quran 28:13"
+   },
+   {
+    "ar": "رَأَى مُوسَى نَارًا، فَذَهَبَ إِلَيْهَا.",
+    "de": "Musa sah ein Feuer und ging dorthin.",
+    "beleg": "Quran 20:10"
+   },
+   {
+    "ar": "هُنَاكَ كَلَّمَهُ اللَّهُ.",
+    "de": "Dort sprach Allah zu ihm.",
+    "beleg": "Quran 20:11-14"
+   },
+   {
+    "ar": "وَأَعْطَاهُ اللَّهُ آيَةَ الْعَصَا.",
+    "de": "Und Allah gab ihm das Zeichen des Stabes.",
+    "beleg": "Quran 20:17-21"
+   },
+   {
+    "ar": "وَقَالَ لَهُ: اذْهَبْ إِلَى فِرْعَوْنَ.",
+    "de": "Und Er sagte zu ihm: Geh zu Fir'aun.",
+    "beleg": "Quran 20:24"
+   },
+   {
+    "ar": "طَلَبَ مُوسَى مِنْ رَبِّهِ أَنْ يَجْعَلَ أَخَاهُ هَارُونَ مُسَاعِدًا لَهُ.",
+    "de": "Musa bat seinen Herrn, seinen Bruder Harun zu seinem Helfer zu machen.",
+    "beleg": "Quran 20:29-30"
+   },
+   {
+    "ar": "وَأَمَرَهُ اللَّهُ أَنْ يَضْرِبَ الْبَحْرَ بِعَصَاهُ، فَانْفَلَقَ الْبَحْرُ.",
+    "de": "Allah befahl ihm, mit dem Stab auf das Meer zu schlagen, und das Meer teilte sich.",
+    "beleg": "Quran 26:63"
+   },
+   {
+    "ar": "فَنَجَّى اللَّهُ مُوسَى وَمَنْ مَعَهُ، وَأَغْرَقَ الْآخَرِينَ.",
+    "de": "Da rettete Allah Musa und die bei ihm waren und ließ die anderen ertrinken.",
+    "beleg": "Quran 26:65-66"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "أَوْحَى اللَّهُ إِلَى أُمِّ مُوسَى أَنْ تُرْضِعَهُ، فَإِذَا خَافَتْ عَلَيْهِ وَضَعَتْهُ فِي النَّهْرِ.",
+    "de": "Allah gab Musas Mutter ein, ihn zu stillen und ihn, wenn sie um ihn fürchte, in den Fluss zu legen.",
+    "beleg": "Quran 28:7"
+   },
+   {
+    "ar": "فَالْتَقَطَهُ آلُ فِرْعَوْنَ، ثُمَّ رَدَّهُ اللَّهُ إِلَى أُمِّهِ لِكَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ.",
+    "de": "Fir'auns Leute nahmen ihn auf, und Allah brachte ihn zu seiner Mutter zurück, damit sie sich freue und nicht traure.",
+    "beleg": "Quran 28:8; 28:13"
+   },
+   {
+    "ar": "وَرَأَى نَارًا فَقَصَدَهَا، فَكَلَّمَهُ اللَّهُ هُنَاكَ.",
+    "de": "Er sah ein Feuer und ging darauf zu; dort sprach Allah zu ihm.",
+    "beleg": "Quran 20:10-14"
+   },
+   {
+    "ar": "وَأَرَاهُ اللَّهُ آيَةَ الْعَصَا، ثُمَّ أَمَرَهُ أَنْ يَذْهَبَ إِلَى فِرْعَوْنَ.",
+    "de": "Allah zeigte ihm das Zeichen des Stabes und befahl ihm dann, zu Fir'aun zu gehen.",
+    "beleg": "Quran 20:17-24"
+   },
+   {
+    "ar": "وَسَأَلَ رَبَّهُ أَنْ يَجْعَلَ لَهُ أَخَاهُ هَارُونَ وَزِيرًا يُعِينُهُ.",
+    "de": "Er bat seinen Herrn, ihm seinen Bruder Harun als Helfer zu geben, der ihm beisteht.",
+    "beleg": "Quran 20:29-30"
+   },
+   {
+    "ar": "وَحِينَ لَحِقَ بِهِمُ الْعَدُوُّ، أَمَرَهُ اللَّهُ أَنْ يَضْرِبَ الْبَحْرَ بِعَصَاهُ، فَانْفَلَقَ.",
+    "de": "Als der Feind sie einholte, befahl Allah ihm, mit seinem Stab auf das Meer zu schlagen, und es teilte sich.",
+    "beleg": "Quran 26:61-63"
+   },
+   {
+    "ar": "فَنَجَا مُوسَى وَمَنْ مَعَهُ، وَأُغْرِقَ الْآخَرُونَ.",
+    "de": "So wurde Musa mit denen, die bei ihm waren, gerettet, und die anderen wurden ertränkt.",
+    "beleg": "Quran 26:65-66"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "أَوْحَى اللَّهُ إِلَى أُمِّ مُوسَى أَنْ تُرْضِعَهُ، وَأَنْ تَضَعَهُ فِي النَّهْرِ إِذَا خَافَتْ عَلَيْهِ، وَبَشَّرَهَا بِأَنَّهُ سَيَعُودُ إِلَيْهَا.",
+    "de": "Allah gab Musas Mutter ein, ihn zu stillen und ihn in den Fluss zu legen, wenn sie um ihn fürchte, und verkündete ihr, dass er zu ihr zurückkehren werde.",
+    "beleg": "Quran 28:7"
+   },
+   {
+    "ar": "فَالْتَقَطَهُ آلُ فِرْعَوْنَ، ثُمَّ أَعَادَهُ اللَّهُ إِلَى أُمِّهِ لِتَسْكُنَ نَفْسُهَا.",
+    "de": "Fir'auns Leute nahmen ihn auf, und dann gab Allah ihn seiner Mutter zurück, damit sie Ruhe finde.",
+    "beleg": "Quran 28:8; 28:13"
+   },
+   {
+    "ar": "وَأَبْصَرَ نَارًا فَتَوَجَّهَ إِلَيْهَا، فَنَاجَاهُ رَبُّهُ.",
+    "de": "Er erblickte ein Feuer und ging darauf zu; da sprach sein Herr zu ihm.",
+    "beleg": "Quran 20:10-14"
+   },
+   {
+    "ar": "وَأَيَّدَهُ بِآيَةِ الْعَصَا، وَكَلَّفَهُ بِالذَّهَابِ إِلَى فِرْعَوْنَ.",
+    "de": "Er unterstützte ihn mit dem Zeichen des Stabes und beauftragte ihn, zu Fir'aun zu gehen.",
+    "beleg": "Quran 20:17-24"
+   },
+   {
+    "ar": "فَسَأَلَ رَبَّهُ أَنْ يَشُدَّ أَزْرَهُ بِأَخِيهِ هَارُونَ، وَاسْتَجَابَ اللَّهُ لَهُ.",
+    "de": "Da bat er seinen Herrn, ihn durch seinen Bruder Harun zu stärken, und Allah erhörte ihn.",
+    "beleg": "Quran 20:29-36"
+   },
+   {
+    "ar": "وَعِنْدَمَا ضَاقَ الْأَمْرُ، أَمَرَهُ اللَّهُ أَنْ يَضْرِبَ الْبَحْرَ بِعَصَاهُ، فَانْشَقَّ وَسَلَكُوهُ.",
+    "de": "Als die Lage eng wurde, befahl Allah ihm, mit dem Stab auf das Meer zu schlagen; es spaltete sich, und sie zogen hindurch.",
+    "beleg": "Quran 26:61-63"
+   },
+   {
+    "ar": "وَهَكَذَا نَجَّى اللَّهُ مُوسَى وَمَنْ مَعَهُ، وَأَغْرَقَ الْآخَرِينَ.",
+    "de": "So rettete Allah Musa und die bei ihm waren und ließ die anderen ertrinken.",
+    "beleg": "Quran 26:65-66"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "جَعَلَ اللَّهُ لِمُوسَى مَسْلَكًا عَجِيبًا مُنْذُ مَوْلِدِهِ: أَوْحَى إِلَى أُمِّهِ أَنْ تُرْضِعَهُ وَتُلْقِيَهُ فِي النَّهْرِ، وَوَعَدَهَا بِرَدِّهِ إِلَيْهَا.",
+    "de": "Allah bestimmte für Musa von seiner Geburt an einen erstaunlichen Weg: Er gab seiner Mutter ein, ihn zu stillen und in den Fluss zu legen, und versprach, ihn zu ihr zurückzubringen.",
+    "beleg": "Quran 28:7"
+   },
+   {
+    "ar": "فَالْتَقَطَهُ آلُ فِرْعَوْنَ، ثُمَّ رَدَّهُ اللَّهُ إِلَى أُمِّهِ لِتَقَرَّ عَيْنُهَا وَتَعْلَمَ أَنَّ وَعْدَهُ حَقٌّ.",
+    "de": "Fir'auns Leute nahmen ihn auf, doch Allah brachte ihn zu seiner Mutter zurück, damit sie sich freue und wisse, dass Sein Versprechen wahr ist.",
+    "beleg": "Quran 28:8; 28:13"
+   },
+   {
+    "ar": "وَبَعْدَ حِينٍ أَبْصَرَ نَارًا فِي الْأُفُقِ فَاتَّجَهَ نَحْوَهَا، فَإِذَا بِرَبِّهِ يُخَاطِبُهُ وَيَصْطَفِيهِ لِلرِّسَالَةِ.",
+    "de": "Nach einer Weile sah er in der Ferne ein Feuer und ging darauf zu, und siehe, sein Herr sprach zu ihm und erwählte ihn für die Botschaft.",
+    "beleg": "Quran 20:10-14"
+   },
+   {
+    "ar": "وَأَيَّدَهُ بِآيَةِ الْعَصَا وَأَرْسَلَهُ إِلَى فِرْعَوْنَ، وَسَأَلَ اللَّهَ أَنْ يُشْرِكَ أَخَاهُ هَارُونَ فِي أَمْرِهِ، فَأُجِيبَ سُؤْلُهُ.",
+    "de": "Er stärkte ihn mit dem Zeichen des Stabes und sandte ihn zu Fir'aun; Musa bat Allah, seinen Bruder Harun an seiner Aufgabe zu beteiligen, und seine Bitte wurde erhört.",
+    "beleg": "Quran 20:17-36"
+   },
+   {
+    "ar": "وَحِينَ اشْتَدَّ الْكَرْبُ عَلَيْهِمْ، أَمَرَهُ رَبُّهُ أَنْ يَضْرِبَ الْبَحْرَ بِعَصَاهُ، فَانْفَلَقَ وَصَارَ لَهُمْ طَرِيقًا.",
+    "de": "Als die Not groß wurde, befahl ihm sein Herr, mit dem Stab auf das Meer zu schlagen; es teilte sich und wurde ihnen zum Weg.",
+    "beleg": "Quran 26:61-63"
+   },
+   {
+    "ar": "فَكَانَتِ النَّجَاةُ لِمُوسَى وَمَنْ مَعَهُ، وَالْغَرَقُ لِلْآخَرِينَ.",
+    "de": "So galt die Rettung Musa und den Seinen, der Untergang den anderen.",
+    "beleg": "Quran 26:65-66"
+   }
+  ]
+ }
+}

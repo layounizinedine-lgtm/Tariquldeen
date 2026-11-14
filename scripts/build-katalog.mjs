@@ -44,6 +44,7 @@ const ts = (v) => {
 }
 
 const nach = JSON.parse(readFileSync('content/nacherzaehlungen.json', 'utf8'))
+const stufen = existsSync('content/stufen.json') ? JSON.parse(readFileSync('content/stufen.json', 'utf8')) : {}
 const WERK = { 10906: "adh-Dhahabi, Siyar A'lam an-Nubala (Ausgabe ar-Risala)" }
 const BAND = { 'راشدون': 'al-Khulafa ar-Rashidun', 'سيرة 1': 'as-Sira 1', 'سيرة 2': 'as-Sira 2' }
 const band = (b) => BAND[b] ?? b
@@ -129,6 +130,10 @@ for (const e of katalog) {
     k.saetze = [...k.saetze, ...bio.zitate.map((z, i) => ({ id: `kz${i + 1}`, text_ar_mit_harakat: z.text_ar, text_de: z.text_de, zitat_id: z.id }))]
     fassungen.klassisch = k
     fassungen[bio.niveau] = { status: 'entwurf', hinweis: 'Nacherzählung in eigenen Worten (Entwurf) nach den angegebenen Seiten. Harakat und Übersetzung ungeprüft.', saetze: bio.saetze }
+  }
+  for (const [niv, sa] of Object.entries(stufen[e.id] ?? {})) fassungen[niv] = {
+    status: 'entwurf', hinweis: `Vereinfachte Nacherzählung auf Stufe ${niv} (Entwurf): gleicher Inhalt wie die anderen Stufen, nur sprachlich angepasst. Harakat und Übersetzung ungeprüft.`,
+    saetze: sa.map((x, i) => ({ id: `${niv.toLowerCase()}-${i + 1}`, text_ar_mit_harakat: x.ar, text_de: x.de, beleg: x.beleg })),
   }
   const nz = nach[e.id]
   if (nz) fassungen[nz.niveau] = {
