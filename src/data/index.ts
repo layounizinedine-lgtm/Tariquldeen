@@ -16,6 +16,7 @@ export const bereiche: { id: Bereich; ar: string; de: string; beschr: string }[]
   { id: 'anbiya', ar: 'قَصَصُ الْأَنْبِيَاءِ', de: 'Propheten', beschr: 'Geschichten der Propheten, Friede auf ihnen' },
   { id: 'sahaba', ar: 'الصَّحَابَةُ', de: 'Sahaba', beschr: 'Die Gefährten des Propheten ﷺ, darunter die zehn mit der Zusage des Paradieses' },
   { id: 'tabiin', ar: 'التَّابِعُونَ', de: "Tabi'in", beschr: 'Die Generation nach den Gefährten' },
+  { id: 'aimma', ar: 'الْأَئِمَّةُ', de: 'Imame', beschr: 'Die großen Imame der Rechtsschulen: Abu Hanifa, Malik, asch-Schafiʿi' },
   { id: 'ahmad', ar: 'الْإِمَامُ أَحْمَدُ', de: 'Imam Ahmad & Schüler', beschr: 'Leben, Mihna und Wara\u2019' },
 ]
 // Nur geprüfte Inhalte sind für Nutzer sichtbar; Entwürfe nur im Entwicklungsmodus oder mit ?entwurf=1

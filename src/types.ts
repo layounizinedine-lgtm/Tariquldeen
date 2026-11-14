@@ -1,4 +1,4 @@
-export type Bereich = 'anbiya' | 'sahaba' | 'tabiin' | 'ahmad'
+export type Bereich = 'anbiya' | 'sahaba' | 'tabiin' | 'aimma' | 'ahmad'
 export type Status = 'entwurf' | 'geprüft'
 export type Niveau = 'klassisch' | 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2'
 

@@ -8,26 +8,9 @@ Werkzeuge:
 - Regeln: nur Berichte, die adh-Dhahabi als gesichert/sahih/hasan nennt oder als Tatsache berichtet; kein "qila", keine Isra'iliyyat; jeder Satz mit Seite; Zitate wörtlich (Builder prüft das).
 
 ## Status
-| id | Quelle (page_id) | Stand |
-|---|---|---|
-| abu-bakr | Siyar 10906: 1155–1164 | ✅ |
-| umar | 1216–1223 | ✅ |
-| uthman | 1291–1297 | ✅ |
-| ali | 1365–1371 | ✅ |
-| abu-ubayda | 1431–1437, 1449 | ✅ |
-| talha | 1449–1453 | ✅ |
-| zubayr | 1467–1470 | ✅ |
-| abdurrahman-ibn-awf | 1494–1497, 1518 | ✅ |
-| sad | 1518–1525 | ✅ |
-| said-ibn-zayd | 1550–1552 | ✅ |
-| bilal, musab, khadija, fatima, aisha, hamza, khalid, salman, jafar, abu-hurayra, ibn-abbas, muadh, abu-dharr | siehe content/quellen | ✅ |
+Fertig (Siyar, mit Seiten + wörtlichen Zitaten): abdullah-ibn-ahmad, abdurrahman-ibn-awf, abu-bakr, abu-dawud, abu-dharr, abu-hanifa, abu-hurayra, abu-ubayda, ahmad, ahmad-mihna, aisha, ali, ata, athram, bilal, fatima, hamza, harb-kirmani, hasan-basri, ibn-abbas, ibn-sirin, jafar, khadija, khalid, malik, marrudhi, muadh, musab, sad, said-ibn-musayyib, said-ibn-zayd, salih-ibn-ahmad, salman, shafii, sufyan-thawri, sufyan-uyayna, talha, tawus, umar, umar-ibn-abdulaziz, urwa, uthman, uways, zaynulabidin, zubayr
 
-## Offen (Reihenfolge)
-said-ibn-musayyib 3370, uways 3172, hasan-basri 3716, umar-ibn-abdulaziz 3886, ibn-sirin (?),
-ata 3850, urwa 3574, zaynulabidin 3539, tawus (?), sufyan-thawri (?), sufyan-uyayna 5580, ahmad 7116, ahmad-mihna, salih-ibn-ahmad 8018,
-abdullah-ibn-ahmad 8635, abu-dawud 8322, athram 8112, marrudhi 8292, harb-kirmani (?), ishaq-ibn-hani (?),
-NEU: shafii 6254, malik (?), abu-hanifa 4640 (neuer Bereich „Imame“)
-Danach: Prüfdurchgang Harakat/Inhalte der ganzen App.
-
-Hilfe: `python3 scripts/quellen.py grep 10906 <start> <n> "<regex ohne Harakat>"` findet Stellen schnell.
-Bekannte page_ids: sufyan-thawri 4893, malik 5174, ibn-sirin 3759, tawus 3810, shafii 6254, abu-hanifa 4640.
+## Offen
+- ishaq-ibn-hani: nicht im Siyar → andere Quelle (Tabaqat al-Hanabila) suchen
+- Prüfdurchgang: Harakat/Inhalte aller Nacherzählungen (Propheten B1 + Biografien), Ahmad-Satz zum Musnad präzisieren
+- Bilder für neue Geschichten (Credits, Nutzer fragen)

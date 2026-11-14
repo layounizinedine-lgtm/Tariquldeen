@@ -1,0 +1,68 @@
+{
+ "id": "malik",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ مَالِكُ بْنُ أَنَسٍ الْأَصْبَحِيُّ، أَبُو عَبْدِ اللَّهِ، إِمَامُ دَارِ الْهِجْرَةِ.",
+   "de": "Er ist Malik ibn Anas al-Asbahi, Abu ʿAbdillah, der Imam der Stadt der Hidschra (Medina).",
+   "page_id": 5174,
+   "book_id": 10906
+  },
+  {
+   "ar": "طَلَبَ الْعِلْمَ صَغِيرًا، وَجَلَسَ لِلتَّعْلِيمِ وَلَهُ إِحْدَى وَعِشْرُونَ سَنَةً.",
+   "de": "Er suchte schon als Junge Wissen und begann mit 21 Jahren zu lehren.",
+   "page_id": 5181,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَصَدَهُ طَلَبَةُ الْعِلْمِ مِنْ كُلِّ الْبِلَادِ.",
+   "de": "Wissenssuchende aus allen Ländern kamen zu ihm.",
+   "page_id": 5181,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ عَالِمَ الْمَدِينَةِ فِي زَمَانِهِ.",
+   "de": "Er war der Gelehrte Medinas seiner Zeit.",
+   "page_id": 5183,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَضُرِبَ بِالسِّيَاطِ فِي مَسْأَلَةِ طَلَاقِ الْمُكْرَهِ، فَلَمْ يَتْرُكْ قَوْلَهُ.",
+   "de": "Er wurde wegen seiner Meinung zur Scheidung unter Zwang ausgepeitscht, gab sie aber nicht auf.",
+   "page_id": 5206,
+   "book_id": 10906
+  },
+  {
+   "ar": "قَالَ الشَّافِعِيُّ: إِذَا جَاءَ الْأَثَرُ كَانَ مَالِكٌ كَالنَّجْمِ.",
+   "de": "asch-Schafiʿi sagte: Wenn es um Überlieferungen geht, ist Malik wie ein Stern.",
+   "page_id": 5222,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَتُوُفِّيَ فِي رَبِيعٍ الْأَوَّلِ سَنَةَ تِسْعٍ وَسَبْعِينَ وَمِئَةٍ.",
+   "de": "Er starb im Rabiʿ al-Awwal des Jahres 179.",
+   "page_id": 5256,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "هُوَ شَيْخُ الإِسْلاَمِ، حُجَّةُ الأُمَّةِ، إِمَامُ دَارِ الهِجْرَةِ",
+   "text_de": "Er ist Schaikh al-Islam, der Beweis der Umma, der Imam der Stadt der Hidschra. (adh-Dhahabi)",
+   "page_id": 5174,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "إِذَا جَاءَ الأَثَرُ، كَانَ مَالِكٌ كَالنَّجْمِ",
+   "text_de": "Wenn es um Überlieferungen geht, ist Malik wie ein Stern. (asch-Schafiʿi)",
+   "page_id": 5222,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

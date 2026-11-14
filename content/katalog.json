@@ -2111,5 +2111,56 @@
    }
   ],
   "hinweis": "In adh-Dhahabis Siyar nicht gefunden. Belege (z. B. Ibn Abi Yaʿla, Tabaqat al-Hanabila) noch einzutragen; Schüler-Beziehung ZU PRÜFEN."
+ },
+ {
+  "id": "abu-hanifa",
+  "bereich": "aimma",
+  "titel_ar": "أَبُو حَنِيفَةَ النُّعْمَانُ رَحِمَهُ اللَّهُ",
+  "titel_de": "Abu Hanifa an-Nuʿman",
+  "motiv": "Lehrkreis in der Moschee von Kufa",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch einzutragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Nach adh-Dhahabis Siyar."
+ },
+ {
+  "id": "malik",
+  "bereich": "aimma",
+  "titel_ar": "مَالِكُ بْنُ أَنَسٍ رَحِمَهُ اللَّهُ",
+  "titel_de": "Malik ibn Anas",
+  "motiv": "Prophetenmoschee in Medina bei Morgenlicht",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch einzutragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Nach adh-Dhahabis Siyar."
+ },
+ {
+  "id": "shafii",
+  "bereich": "aimma",
+  "titel_ar": "مُحَمَّدُ بْنُ إِدْرِيسَ الشَّافِعِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "asch-Schafiʿi",
+  "motiv": "Pfeil und Bogen neben aufgeschlagenem Buch",
+  "quran": [],
+  "hadith": [],
+  "quellen": [
+   {
+    "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch einzutragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Nach adh-Dhahabis Siyar."
  }
 ]

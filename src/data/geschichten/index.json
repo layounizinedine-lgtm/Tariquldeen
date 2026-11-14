@@ -601,5 +601,32 @@
   "bild_motiv": "Bücher und Öllampe",
   "status": "entwurf",
   "hat_inhalt": false
+ },
+ {
+  "id": "abu-hanifa",
+  "bereich": "aimma",
+  "titel_ar": "أَبُو حَنِيفَةَ النُّعْمَانُ رَحِمَهُ اللَّهُ",
+  "titel_de": "Abu Hanifa an-Nuʿman",
+  "bild_motiv": "Lehrkreis in der Moschee von Kufa",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "malik",
+  "bereich": "aimma",
+  "titel_ar": "مَالِكُ بْنُ أَنَسٍ رَحِمَهُ اللَّهُ",
+  "titel_de": "Malik ibn Anas",
+  "bild_motiv": "Prophetenmoschee in Medina bei Morgenlicht",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
+  "id": "shafii",
+  "bereich": "aimma",
+  "titel_ar": "مُحَمَّدُ بْنُ إِدْرِيسَ الشَّافِعِيُّ رَحِمَهُ اللَّهُ",
+  "titel_de": "asch-Schafiʿi",
+  "bild_motiv": "Pfeil und Bogen neben aufgeschlagenem Buch",
+  "status": "entwurf",
+  "hat_inhalt": true
  }
 ]

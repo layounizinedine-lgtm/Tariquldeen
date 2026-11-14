@@ -1,0 +1,54 @@
+{
+ "id": "abu-hanifa",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ أَبُو حَنِيفَةَ النُّعْمَانُ بْنُ ثَابِتٍ الْكُوفِيُّ، فَقِيهُ الْمِلَّةِ، وَعَالِمُ الْعِرَاقِ.",
+   "de": "Er ist Abu Hanifa an-Nuʿman ibn Thabit aus Kufa, der Rechtsgelehrte der Gemeinschaft und Gelehrte des Irak.",
+   "page_id": 4640,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَ سَنَةَ ثَمَانِينَ، فِي حَيَاةِ صِغَارِ الصَّحَابَةِ.",
+   "de": "Er wurde im Jahr 80 geboren, als noch jüngere Prophetengefährten lebten.",
+   "page_id": 4641,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَعُنِيَ بِطَلَبِ الْآثَارِ، وَارْتَحَلَ فِي ذَلِكَ.",
+   "de": "Er bemühte sich um die Überlieferungen und reiste dafür.",
+   "page_id": 4642,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَأَمَّا الْفِقْهُ وَالتَّدْقِيقُ فِي الرَّأْيِ فَإِلَيْهِ الْمُنْتَهَى، وَالنَّاسُ عَلَيْهِ عِيَالٌ فِي ذَلِكَ.",
+   "de": "Im Fiqh und im genauen Abwägen der Meinung erreichte er den Gipfel; darin sind die Menschen auf ihn angewiesen.",
+   "page_id": 4642,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَضَرَبَهُ ابْنُ هُبَيْرَةَ لِيَتَوَلَّى الْقَضَاءَ، فَأَبَى أَنْ يَكُونَ قَاضِيًا.",
+   "de": "Ibn Hubaira ließ ihn schlagen, damit er das Richteramt übernehme, doch er weigerte sich, Richter zu werden.",
+   "page_id": 4645,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَتُوُفِّيَ سَنَةَ خَمْسِينَ وَمِئَةٍ، وَلَهُ سَبْعُونَ سَنَةً.",
+   "de": "Er starb im Jahr 150 im Alter von siebzig Jahren.",
+   "page_id": 4653,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "وَأَمَّا الفِقْهُ وَالتَّدْقِيْقُ فِي الرَّأْيِ وَغوَامِضِهِ، فَإِلَيْهِ المُنْتَهَى، وَالنَّاسُ عَلَيْهِ عِيَالٌ فِي ذَلِكَ",
+   "text_de": "Was den Fiqh und das genaue Abwägen der Meinung und ihrer feinen Fragen angeht, so erreichte er den Gipfel, und die Menschen sind darin auf ihn angewiesen. (adh-Dhahabi)",
+   "page_id": 4642,
+   "einstufung": null,
+   "book_id": 10906
+  }
+ ]
+}

@@ -4,7 +4,7 @@ import { hochladen, loescheFassung, speichereFassung, speichereGeschichte, speic
 import { ohneHarakat } from '../settings'
 
 const NIVEAUS: Niveau[] = ['klassisch', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']
-const BEREICHE = ['anbiya', 'sahaba', 'tabiin', 'ahmad'] as const
+const BEREICHE = ['anbiya', 'sahaba', 'tabiin', 'aimma', 'ahmad'] as const
 const toks = (t: string) => t.trim().split(/\s+/).filter(Boolean)
 
 export default function Editor({ start, rolle, zurueck }: { start: Geschichte; rolle: string; zurueck: () => void }) {
