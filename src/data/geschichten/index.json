@@ -456,7 +456,7 @@
   "titel_de": "Umar ibn Abd al-Aziz",
   "bild_motiv": "Öllampe und Waage",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "ibn-sirin",
@@ -465,7 +465,7 @@
   "titel_de": "Muhammad ibn Sirin",
   "bild_motiv": "Marktplatz und Schriftrolle",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "ata",
@@ -474,7 +474,7 @@
   "titel_de": "Ata ibn Abi Rabah",
   "bild_motiv": "Kaaba-Vorhof",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "urwa",
@@ -483,7 +483,7 @@
   "titel_de": "Urwa ibn az-Zubayr",
   "bild_motiv": "Bibliothek mit Schriftrollen",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "zaynulabidin",

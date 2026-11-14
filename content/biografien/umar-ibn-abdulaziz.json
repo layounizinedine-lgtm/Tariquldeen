@@ -1,0 +1,62 @@
+{
+ "id": "umar-ibn-abdulaziz",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ عُمَرُ بْنُ عَبْدِ الْعَزِيزِ بْنِ مَرْوَانَ، أَمِيرُ الْمُؤْمِنِينَ، أَبُو حَفْصٍ الْأُمَوِيُّ.",
+   "de": "Er ist ʿUmar ibn ʿAbd al-ʿAziz ibn Marwan, der Befehlshaber der Gläubigen, Abu Hafs aus dem Haus Umayya.",
+   "page_id": 3886,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ إِمَامًا عَالِمًا زَاهِدًا عَابِدًا.",
+   "de": "Er war ein gelehrter Imam, ein Asket und ein Mann der Anbetung.",
+   "page_id": 3886,
+   "book_id": 10906
+  },
+  {
+   "ar": "صَلَّى بِأَنَسِ بْنِ مَالِكٍ، فَقَالَ أَنَسٌ: مَا رَأَيْتُ أَحَدًا أَشْبَهَ صَلَاةً بِرَسُولِ اللَّهِ ﷺ مِنْ هَذَا الْفَتَى.",
+   "de": "Er leitete Anas ibn Malik im Gebet, und Anas sagte: Ich habe niemanden gesehen, dessen Gebet dem des Gesandten Allahs ﷺ ähnlicher war als das dieses jungen Mannes.",
+   "page_id": 3886,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ حَرِيصًا عَلَى الْعَدْلِ، زَاهِدًا مَعَ الْخِلَافَةِ.",
+   "de": "Er bemühte sich um Gerechtigkeit mit allen Mitteln und lebte asketisch, obwohl er Kalif war.",
+   "page_id": 3892,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ: لَوْ أَقَمْتُ فِيكُمْ خَمْسِينَ عَامًا مَا اسْتَكْمَلْتُ فِيكُمُ الْعَدْلَ.",
+   "de": "Er sagte: Selbst wenn ich fünfzig Jahre unter euch bliebe, könnte ich die Gerechtigkeit unter euch nicht vollenden.",
+   "page_id": 3901,
+   "book_id": 10906
+  },
+  {
+   "ar": "تُوُفِّيَ فِي رَجَبٍ سَنَةَ إِحْدَى وَمِئَةٍ، بِدَيْرِ سَمْعَانَ مِنْ أَرْضِ حِمْصَ.",
+   "de": "Er starb im Radschab des Jahres 101 in Dair Simʿan bei Homs.",
+   "page_id": 3916,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "مَا رَأَيْتُ أَحَدًا أَشْبَهَ صَلاَةً بِرَسُوْلِ اللهِ -ﷺ- مِنْ هَذَا الفَتَى",
+   "text_de": "Ich habe niemanden gesehen, dessen Gebet dem des Gesandten Allahs ﷺ ähnlicher war als das dieses jungen Mannes. (Anas ibn Malik)",
+   "page_id": 3886,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "حَرِيْصًا عَلَى العَدْلِ بِكُلِّ مُمْكِنٍ، وَافِرَ العِلْمِ، فَقِيْهَ النَّفْسِ",
+   "text_de": "… bemüht um Gerechtigkeit mit allen Mitteln, reich an Wissen, von tiefem Verständnis. (adh-Dhahabi)",
+   "page_id": 3892,
+   "einstufung": null,
+   "book_id": 10906
+  }
+ ]
+}
