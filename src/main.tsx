@@ -17,4 +17,9 @@ function Root() {
   return <App />
 }
 
+// Neue App-Version sofort übernehmen: wenn ein neuer Service Worker die Kontrolle übernimmt, einmal neu laden
+if ('serviceWorker' in navigator && navigator.serviceWorker.controller) {
+  let neu = false
+  navigator.serviceWorker.addEventListener('controllerchange', () => { if (!neu) { neu = true; location.reload() } })
+}
 createRoot(document.getElementById('root')!).render(<StrictMode><Root /></StrictMode>)
