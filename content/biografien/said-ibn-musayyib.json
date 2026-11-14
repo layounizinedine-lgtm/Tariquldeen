@@ -1,0 +1,68 @@
+{
+ "id": "said-ibn-musayyib",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ سَعِيدُ بْنُ الْمُسَيِّبِ، مِنْ قُرَيْشٍ، أَبُو مُحَمَّدٍ.",
+   "de": "Er ist Saʿid ibn al-Musayyib, aus Quraisch, Abu Muhammad.",
+   "page_id": 3370,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ عَالِمَ أَهْلِ الْمَدِينَةِ، وَسَيِّدَ التَّابِعِينَ فِي زَمَانِهِ.",
+   "de": "Er war der Gelehrte der Leute von Medina und der Herr der Tabiʿin seiner Zeit.",
+   "page_id": 3371,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَ فِي خِلَافَةِ عُمَرَ بْنِ الْخَطَّابِ.",
+   "de": "Er wurde während des Kalifats von ʿUmar ibn al-Khattab geboren.",
+   "page_id": 3371,
+   "book_id": 10906
+  },
+  {
+   "ar": "قَالَ: مَا فَاتَتْنِي الصَّلَاةُ فِي جَمَاعَةٍ مُنْذُ أَرْبَعِينَ سَنَةً.",
+   "de": "Er sagte: Seit vierzig Jahren habe ich kein Gemeinschaftsgebet verpasst.",
+   "page_id": 3374,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ زَوْجَ ابْنَةِ أَبِي هُرَيْرَةَ، وَأَكْثَرُ رِوَايَتِهِ عَنْهُ.",
+   "de": "Er war mit der Tochter Abu Hurayras verheiratet, und das meiste, was er überlieferte, stammt von ihm.",
+   "page_id": 3377,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَلَمْ يَكُنْ يَذْهَبُ إِلَى الْخُلَفَاءِ، حَتَّى عَبْدُ الْمَلِكِ بْنُ مَرْوَانَ تَرَكَهُ.",
+   "de": "Er ging nicht zu den Kalifen; selbst ʿAbd al-Malik ibn Marwan ließ ihn in Ruhe.",
+   "page_id": 3379,
+   "book_id": 10906
+  },
+  {
+   "ar": "تُوُفِّيَ سَنَةَ ثَلَاثٍ وَتِسْعِينَ، وَقِيلَ غَيْرُ ذَلِكَ.",
+   "de": "Er starb im Jahr 93; es gibt auch andere Angaben.",
+   "page_id": 3399,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "عَالِمُ أَهْلِ المَدِيْنَةِ",
+   "text_de": "Der Gelehrte der Leute von Medina. (adh-Dhahabi)",
+   "page_id": 3370,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "مَا فَاتَتْنِي الصَّلاَةُ فِي جَمَاعَةٍ مُنْذُ أَرْبَعِيْنَ سَنَةً",
+   "text_de": "Seit vierzig Jahren habe ich kein Gemeinschaftsgebet verpasst. (Saʿid ibn al-Musayyib)",
+   "page_id": 3374,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

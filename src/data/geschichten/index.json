@@ -429,7 +429,7 @@
   "titel_de": "Said ibn al-Musayyib",
   "bild_motiv": "Moscheehof mit Säulen",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "uways",
@@ -438,7 +438,7 @@
   "titel_de": "Uways al-Qarani",
   "bild_motiv": "Einsamer Pfad im Jemen",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "hasan-basri",
@@ -447,7 +447,7 @@
   "titel_de": "al-Hasan al-Basri",
   "bild_motiv": "Lernkreis unter Palmen",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "umar-ibn-abdulaziz",
