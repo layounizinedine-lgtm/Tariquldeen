@@ -11,8 +11,8 @@ on:
         description: 'Höchstens so viele Geschichten pro Lauf'
         default: '40'
       stimme:
-        description: 'Stimme: A_ruhig, B_neutral oder C_langsam'
-        default: 'A_ruhig'
+        description: 'Stimme: D1_tief, D2_tiefer, D3_alt, C_langsam'
+        default: 'D2_tiefer'
 permissions: { contents: write, actions: write }
 concurrency: { group: audio, cancel-in-progress: false }
 jobs:

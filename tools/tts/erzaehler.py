@@ -16,6 +16,14 @@ STIMMEN = {
     'B_neutral': dict(exaggeration=0.5, cfg_weight=0.5, temperature=0.8),
     'C_langsam': dict(exaggeration=0.25, cfg_weight=0.2, temperature=0.6),
 }
+# Tiefere, ältere Erzählerstimme: Basis = C_langsam, danach Tonhöhe senken (Tempo bleibt) + Klangfarbe (Bässe wärmer, Höhen weicher).
+# Reine Signalbearbeitung der Standardstimme – es wird keine reale Person nachgebildet.
+NACH = {  # (Tonhöhen-Faktor, zusätzliche ffmpeg-Filter)
+    'D1_tief': (0.89, 'equalizer=f=140:t=q:w=1:g=3,lowpass=f=7500'),
+    'D2_tiefer': (0.82, 'equalizer=f=130:t=q:w=1:g=4,equalizer=f=4500:t=h:w=2000:g=-4,lowpass=f=7000'),
+    'D3_alt': (0.78, 'equalizer=f=120:t=q:w=1:g=5,equalizer=f=4000:t=h:w=2000:g=-5,lowpass=f=6500'),
+}
+for _k in NACH: STIMMEN[_k] = STIMMEN['C_langsam']
 HARAKAT = re.compile(r'[ً-ٰٟـ]')
 
 def tts_text(t: str) -> str:
@@ -41,7 +49,7 @@ def woerter_zeitstempel(whisper, wav, anzeige_tokens):
     return out
 
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument('id'); ap.add_argument('--stimme', default='A_ruhig'); ap.add_argument('--max', type=int, default=0)
+    ap = argparse.ArgumentParser(); ap.add_argument('id'); ap.add_argument('--stimme', default='D2_tiefer'); ap.add_argument('--max', type=int, default=0)
     a = ap.parse_args()
     g = json.load(open(os.path.join(ROOT, 'src/data/geschichten', f'{a.id}.json'), encoding='utf-8'))
     saetze = [s for niv, f in g['fassungen'].items() if niv != 'klassisch' for s in f['saetze'] if not s.get('zitat_id')]
@@ -61,6 +69,10 @@ def main():
         torch.manual_seed(7)
         wav = tts.generate(tts_text(s['text_ar_mit_harakat']), language_id='ar', **STIMMEN[a.stimme])
         tmp = tempfile.mktemp(suffix='.wav'); ta.save(tmp, wav, tts.sr)
+        if a.stimme in NACH:
+            f, eq = NACH[a.stimme]; tmp2 = tempfile.mktemp(suffix='.wav')
+            subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', tmp, '-af', f'asetrate={int(tts.sr * f)},aresample={tts.sr},atempo={round(1 / f, 4)},{eq}', '-ac', '1', tmp2], check=True)
+            os.replace(tmp2, tmp)
         mp3 = os.path.join(out_dir, f"{s['id']}.mp3")
         subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', tmp, '-ac', '1', '-b:a', '48k', mp3], check=True)
         ts = woerter_zeitstempel(whisper, tmp, s['text_ar_mit_harakat'].split()); os.remove(tmp)
