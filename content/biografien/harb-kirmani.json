@@ -1,0 +1,44 @@
+{
+ "id": "harb-kirmani",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": "Schüler Imam Ahmads – belegt in adh-Dhahabis Siyar (Seiten angegeben).",
+ "saetze": [
+  {
+   "ar": "هُوَ أَبُو مُحَمَّدٍ حَرْبُ بْنُ إِسْمَاعِيلَ الْكِرْمَانِيُّ، الْفَقِيهُ.",
+   "de": "Er ist Abu Muhammad Harb ibn Ismaʿil al-Kirmani, der Rechtsgelehrte.",
+   "page_id": 8363,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَهُوَ تِلْمِيذُ أَحْمَدَ بْنِ حَنْبَلٍ.",
+   "de": "Er ist ein Schüler Ahmad ibn Hanbals.",
+   "page_id": 8363,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكِتَابُهُ الْمَسَائِلُ مِنْ أَنْفَسِ كُتُبِ الْحَنَابِلَةِ.",
+   "de": "Sein Buch „al-Masaʾil“ gehört zu den wertvollsten Büchern der Hanbaliten.",
+   "page_id": 8364,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "الإِمَامُ، العَلاَّمَةُ، أَبُو مُحَمَّدٍ حَرْبُ بنُ إِسْمَاعِيْلَ الكِرْمَانِيُّ، الفَقِيْهُ، تِلْمِيْذُ أَحْمَدَ بنَ حَنْبَلٍ",
+   "text_de": "Der Imam, der große Gelehrte, Abu Muhammad Harb ibn Ismaʿil al-Kirmani, der Rechtsgelehrte, Schüler Ahmad ibn Hanbals. (adh-Dhahabi)",
+   "page_id": 8363,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "(مَسَائِلُ) حَرْبٍ مِنْ أَنْفَسِ كُتُبِ الحَنَابِلَةِ",
+   "text_de": "Die „Masaʾil“ von Harb gehören zu den wertvollsten Büchern der Hanbaliten. (adh-Dhahabi)",
+   "page_id": 8364,
+   "einstufung": null,
+   "book_id": 10906
+  }
+ ]
+}

@@ -546,7 +546,7 @@
   "titel_de": "Salih ibn Ahmad (Sohn)",
   "bild_motiv": "Bücher und Öllampe",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "abdullah-ibn-ahmad",
@@ -555,7 +555,7 @@
   "titel_de": "Abdullah ibn Ahmad (Sohn)",
   "bild_motiv": "Bücher und Öllampe",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "abu-dawud",
@@ -564,7 +564,7 @@
   "titel_de": "Abu Dawud as-Sijistani",
   "bild_motiv": "Bücher und Öllampe",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "athram",
@@ -573,7 +573,7 @@
   "titel_de": "al-Athram",
   "bild_motiv": "Bücher und Öllampe",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "marrudhi",
@@ -582,7 +582,7 @@
   "titel_de": "al-Marrudhi",
   "bild_motiv": "Bücher und Öllampe",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "harb-kirmani",
@@ -591,7 +591,7 @@
   "titel_de": "Harb al-Kirmani",
   "bild_motiv": "Bücher und Öllampe",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "ishaq-ibn-hani",
