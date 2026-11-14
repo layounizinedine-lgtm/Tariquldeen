@@ -1,0 +1,54 @@
+{
+ "id": "sufyan-uyayna",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": "Sufyan ibn ʿUyayna zählt zu den Atbaʿ at-Tabiʿin. Nacherzählung und Zitate nach adh-Dhahabis Siyar.",
+ "saetze": [
+  {
+   "ar": "هُوَ سُفْيَانُ بْنُ عُيَيْنَةَ، أَبُو مُحَمَّدٍ الْهِلَالِيُّ، الْكُوفِيُّ ثُمَّ الْمَكِّيُّ.",
+   "de": "Er ist Sufyan ibn ʿUyayna, Abu Muhammad al-Hilali, aus Kufa, später in Mekka.",
+   "page_id": 5580,
+   "book_id": 10906
+  },
+  {
+   "ar": "لُقِّبَ بِحَافِظِ الْعَصْرِ وَشَيْخِ الْإِسْلَامِ.",
+   "de": "Man nannte ihn den Hadith-Bewahrer seiner Zeit und Schaikh al-Islam.",
+   "page_id": 5580,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَ بِالْكُوفَةِ سَنَةَ سَبْعٍ وَمِئَةٍ.",
+   "de": "Er wurde im Jahr 107 in Kufa geboren.",
+   "page_id": 5581,
+   "book_id": 10906
+  },
+  {
+   "ar": "ثُمَّ حُمِلَ إِلَى مَكَّةَ صَغِيرًا، فَسَمِعَ مِنْ عَمْرِو بْنِ دِينَارٍ.",
+   "de": "Als Kind wurde er nach Mekka gebracht und hörte dort ʿAmr ibn Dinar.",
+   "page_id": 5586,
+   "book_id": 10906
+  },
+  {
+   "ar": "قَالَ الشَّافِعِيُّ: لَوْلَا مَالِكٌ وَسُفْيَانُ بْنُ عُيَيْنَةَ لَذَهَبَ عِلْمُ الْحِجَازِ.",
+   "de": "asch-Schafiʿi sagte: Gäbe es Malik und Sufyan ibn ʿUyayna nicht, wäre das Wissen des Hidschaz verloren gegangen.",
+   "page_id": 5583,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَمَاتَ سَنَةَ ثَمَانٍ وَتِسْعِينَ وَمِئَةٍ.",
+   "de": "Er starb im Jahr 198.",
+   "page_id": 5596,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "لَوْلاَ مَالِكٌ وَسُفْيَانُ بنُ عُيَيْنَةَ، لَذَهَبَ عِلْمُ الحِجَازِ",
+   "text_de": "Gäbe es Malik und Sufyan ibn ʿUyayna nicht, wäre das Wissen des Hidschaz verloren gegangen. (asch-Schafiʿi)",
+   "page_id": 5583,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

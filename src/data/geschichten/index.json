@@ -492,7 +492,7 @@
   "titel_de": "Ali ibn al-Husayn Zayn al-Abidin",
   "bild_motiv": "Gebetsnische im Lampenlicht",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "tawus",
@@ -501,7 +501,7 @@
   "titel_de": "Tawus ibn Kaysan",
   "bild_motiv": "Bergpfad nach Mekka",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "sufyan-thawri",
@@ -510,7 +510,7 @@
   "titel_de": "Sufyan ath-Thawri",
   "bild_motiv": "Lernkreis mit Schriftrollen",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "sufyan-uyayna",
@@ -519,7 +519,7 @@
   "titel_de": "Sufyan ibn Uyayna",
   "bild_motiv": "Moscheehof bei Morgendämmerung",
   "status": "entwurf",
-  "hat_inhalt": false
+  "hat_inhalt": true
  },
  {
   "id": "ahmad",
