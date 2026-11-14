@@ -1,0 +1,62 @@
+{
+ "id": "urwa",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ عُرْوَةُ بْنُ الزُّبَيْرِ بْنِ الْعَوَّامِ، أَبُو عَبْدِ اللَّهِ.",
+   "de": "Er ist ʿUrwa ibn az-Zubayr ibn al-ʿAwwam, Abu ʿAbdillah.",
+   "page_id": 3574,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ عَالِمَ الْمَدِينَةِ، وَأَحَدَ الْفُقَهَاءِ السَّبْعَةِ.",
+   "de": "Er war der Gelehrte Medinas und einer der sieben Rechtsgelehrten.",
+   "page_id": 3574,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَأَخَذَ عِلْمًا كَثِيرًا عَنْ خَالَتِهِ عَائِشَةَ.",
+   "de": "Er lernte viel Wissen von seiner Tante ʿAischa.",
+   "page_id": 3577,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ يَقُولُ لِلشَّبَابِ: تَعَلَّمُوا، فَإِنَّكُمْ تَكُونُونَ كِبَارَ قَوْمٍ.",
+   "de": "Er sagte zu den jungen Leuten: Lernt! Denn bald werdet ihr die Großen eures Volkes sein.",
+   "page_id": 3577,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ يَقْرَأُ رُبُعَ الْقُرْآنِ كُلَّ يَوْمٍ، وَيَقُومُ بِهِ اللَّيْلَ.",
+   "de": "Er las jeden Tag ein Viertel des Quran und betete damit in der Nacht.",
+   "page_id": 3579,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَأَصَابَتْ رِجْلَهُ الْآكِلَةُ فَقُطِعَتْ، فَصَبَرَ.",
+   "de": "Sein Bein wurde vom Brand befallen und abgenommen, und er blieb geduldig.",
+   "page_id": 3579,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "عَالِمُ المَدِيْنَةِ، أَبُو عَبْدِ اللهِ القُرَشِيُّ، الأَسَدِيُّ، المَدَنِيُّ، الفَقِيْهُ، أَحَدُ الفُقَهَاءِ السَّبْعَةِ",
+   "text_de": "Der Gelehrte Medinas, Abu ʿAbdillah …, der Rechtsgelehrte, einer der sieben Rechtsgelehrten. (adh-Dhahabi)",
+   "page_id": 3574,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "كَانَ عُرْوَةُ يَقْرَأُ رُبُعَ القُرْآنِ كُلَّ يَوْمٍ فِي المُصْحَفِ نَظَرًا، وَيَقُوْمُ بِهِ اللَّيْلَ",
+   "text_de": "ʿUrwa las jeden Tag ein Viertel des Quran aus dem Mushaf und betete damit in der Nacht.",
+   "page_id": 3579,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

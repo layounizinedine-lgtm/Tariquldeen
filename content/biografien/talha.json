@@ -1,0 +1,68 @@
+{
+ "id": "talha",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ طَلْحَةُ بْنُ عُبَيْدِ اللَّهِ، مِنْ قُرَيْشٍ، أَبُو مُحَمَّدٍ.",
+   "de": "Er ist Talha ibn ʿUbaydillah, aus Quraisch, Abu Muhammad.",
+   "page_id": 1449,
+   "book_id": 10906
+  },
+  {
+   "ar": "هُوَ أَحَدُ الْعَشَرَةِ الْمَشْهُودِ لَهُمْ بِالْجَنَّةِ.",
+   "de": "Er ist einer der Zehn, denen das Paradies bezeugt wurde.",
+   "page_id": 1450,
+   "book_id": 10906
+  },
+  {
+   "ar": "سَبَقَ إِلَى الْإِسْلَامِ، وَأُوذِيَ فِي اللَّهِ، ثُمَّ هَاجَرَ.",
+   "de": "Er nahm früh den Islam an, wurde um Allahs willen verfolgt und wanderte dann aus.",
+   "page_id": 1451,
+   "book_id": 10906
+  },
+  {
+   "ar": "غَابَ عَنْ بَدْرٍ فِي تِجَارَةٍ بِالشَّامِ، فَأَعْطَاهُ النَّبِيُّ ﷺ سَهْمَهُ وَأَجْرَهُ.",
+   "de": "Er war bei Badr wegen eines Handels in Syrien abwesend, doch der Prophet ﷺ gab ihm seinen Anteil und seinen Lohn.",
+   "page_id": 1451,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَيَوْمَ أُحُدٍ وَقَى النَّبِيَّ ﷺ بِيَدِهِ حَتَّى شَلَّتْ.",
+   "de": "Am Tag von Uhud schützte er den Propheten ﷺ mit seiner Hand, bis sie gelähmt war.",
+   "page_id": 1452,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَاتَلَ دُونَ النَّبِيِّ ﷺ حَتَّى قُطِعَتْ أَصَابِعُهُ.",
+   "de": "Er kämpfte zur Verteidigung des Propheten ﷺ, bis seine Finger abgetrennt wurden.",
+   "page_id": 1453,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ النَّبِيُّ ﷺ يَوْمَ أُحُدٍ: أَوْجَبَ طَلْحَةُ.",
+   "de": "Der Prophet ﷺ sagte am Tag von Uhud: Talha hat (sich das Paradies) verdient.",
+   "page_id": 1452,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "رَأَيْتُ يَدَ طَلْحَةَ الَّتِي وَقَى بِهَا النَّبِيَّ -ﷺ- يَوْمَ أُحُدٍ شَلاَّءَ.",
+   "text_de": "Ich sah die Hand Talhas, mit der er den Propheten ﷺ am Tag von Uhud schützte – sie war gelähmt. (Qays)",
+   "page_id": 1452,
+   "einstufung": "أخرجه البخاري (laut adh-Dhahabi)",
+   "book_id": 10906
+  },
+  {
+   "typ": "hadith",
+   "text_ar": "أَوجب طَلْحَةُ",
+   "text_de": "Talha hat es (sich) verdient.",
+   "page_id": 1452,
+   "einstufung": "بإسناد حسن (laut adh-Dhahabi, Tirmidhi)",
+   "book_id": 10906
+  }
+ ]
+}

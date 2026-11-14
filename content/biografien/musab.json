@@ -1,0 +1,62 @@
+{
+ "id": "musab",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ مُصْعَبُ بْنُ عُمَيْرٍ مِنْ قُرَيْشٍ، مِنَ السَّابِقِينَ، وَشَهِدَ بَدْرًا.",
+   "de": "Er ist Musʿab ibn ʿUmair aus Quraisch, einer der ersten Muslime, und kämpfte bei Badr.",
+   "page_id": 1571,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ قَبْلَ الْإِسْلَامِ مِنْ أَنْعَمِ شَبَابِ مَكَّةَ.",
+   "de": "Vor dem Islam war er einer der verwöhntesten jungen Männer Mekkas.",
+   "page_id": 1573,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ أَوَّلَ مَنْ قَدِمَ الْمَدِينَةَ مِنَ الْمُهَاجِرِينَ.",
+   "de": "Er war der erste der Auswanderer, der nach Medina kam.",
+   "page_id": 1571,
+   "book_id": 10906
+  },
+  {
+   "ar": "قُتِلَ يَوْمَ أُحُدٍ، وَلَمْ يَتْرُكْ إِلَّا ثَوْبًا قَصِيرًا.",
+   "de": "Er fiel am Tag von Uhud und hinterließ nur ein kurzes Gewand.",
+   "page_id": 1572,
+   "book_id": 10906
+  },
+  {
+   "ar": "إِذَا غَطَّوْا رَأْسَهُ بَدَتْ رِجْلَاهُ، فَأَمَرَ النَّبِيُّ ﷺ أَنْ يَجْعَلُوا عَلَى رِجْلَيْهِ الْإِذْخِرَ.",
+   "de": "Bedeckten sie seinen Kopf, waren seine Füße frei; da befahl der Prophet ﷺ, Idhkhir-Gras auf seine Füße zu legen.",
+   "page_id": 1572,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَبَكَى عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ لَمَّا ذَكَرَهُ.",
+   "de": "ʿAbd ar-Rahman ibn ʿAwf weinte, als er sich an ihn erinnerte.",
+   "page_id": 1573,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "أَوَّلُ مَنْ قَدِمَ عَلَيْنَا مِنَ المُهَاجِرِيْنَ مُصْعَبُ بنُ عُمَيْرٍ",
+   "text_de": "Der erste der Auswanderer, der zu uns kam, war Musʿab ibn ʿUmair. (al-Baraʾ ibn ʿAzib)",
+   "page_id": 1571,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "فَمِنَّا مَنْ مَضَى لِسَبِيْلِهِ، لَمْ يَأْكُلْ مِنْ أَجْرِهِ شَيْئًا، مِنْهُم مُصْعَبُ بنُ عُمَيْرٍ، قُتِلَ يَوْمَ أُحُدٍ",
+   "text_de": "Manche von uns gingen dahin, ohne etwas von ihrem Lohn (in dieser Welt) genossen zu haben; zu ihnen gehört Musʿab ibn ʿUmair, er fiel bei Uhud. (Khabbab)",
+   "page_id": 1572,
+   "einstufung": null,
+   "book_id": 10906
+  }
+ ]
+}

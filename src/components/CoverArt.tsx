@@ -15,13 +15,19 @@ export default function CoverArt({ motiv, url }: { motiv: string; url?: string }
       <circle cx="300" cy="55" r="22" fill="#e8d28a" /><circle cx="310" cy="50" r="20" fill="#1c2c4d" />
       <path d="M0 150 Q100 120 200 145 T400 135 V200 H0Z" fill="#b8975a" />
       <path d="M0 175 Q120 150 240 172 T400 165 V200 H0Z" fill="#9a7b44" />
-      {/* Brunnen */}
-      <g>
-        <ellipse cx="200" cy="150" rx="34" ry="9" fill="#5b4526" />
-        <rect x="166" y="128" width="68" height="22" fill="#8a7a62" />
-        <ellipse cx="200" cy="128" rx="34" ry="9" fill="#a8977c" />
-        <ellipse cx="200" cy="128" rx="26" ry="6" fill="#0b1426" />
-      </g>
+      {motiv === 'brunnen' ? (
+        <g>
+          <ellipse cx="200" cy="150" rx="34" ry="9" fill="#5b4526" />
+          <rect x="166" y="128" width="68" height="22" fill="#8a7a62" />
+          <ellipse cx="200" cy="128" rx="34" ry="9" fill="#a8977c" />
+          <ellipse cx="200" cy="128" rx="26" ry="6" fill="#0b1426" />
+        </g>
+      ) : (
+        <g fill="none" stroke="#e8d28a" strokeWidth="2" opacity=".85">
+          <path d="M200 62l12 24 26-4-10 24 20 18-26 4-2 26-20-18-20 18-2-26-26-4 20-18-10-24 26 4z" />
+          <circle cx="200" cy="108" r="18" />
+        </g>
+      )}
     </svg>
   )
 }

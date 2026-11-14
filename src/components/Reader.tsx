@@ -12,7 +12,8 @@ import ArText from './WordText'
 import CoverArt from './CoverArt'
 import SettingsBar from './SettingsBar'
 
-interface Item extends Spur { woerter?: Wort[]; kind: 'satz' | 'zitat'; ar: string; de: string; zitat?: Zitat }
+interface Item extends Spur { beleg?: string; woerter?: Wort[]; kind: 'satz' | 'zitat'; ar: string; de: string; zitat?: Zitat }
+const kurz = (t: string) => t.replace(/ (عَلَيْهِ السَّلَامُ|رَضِيَ اللَّهُ عَنْهُ|رَضِيَ اللَّهُ عَنْهَا|رَحِمَهُ اللَّهُ)$/, '')
 const NIVEAUS: Niveau[] = ['klassisch', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 type Tab = 'text' | 'vokabeln' | 'quiz'
 
@@ -23,6 +24,7 @@ function ZitatBox({ z, s, aktiv, wort }: { z: Zitat; s: Settings; aktiv?: boolea
       <div className="zitat-kopf"><span className="zitat-typ">❖ {label}</span><span>{z.quelle.split(' (')[0]}</span></div>
       <ArText text={z.text_ar} s={s} words={z.wort_zeitstempel ? { aktiv: aktiv ? (wort ?? -1) : -1 } : undefined} />
       {s.uebersetzung !== 'aus' && <p className="de">{z.text_de}</p>}
+      {s.uebersetzung !== 'aus' && z.text_en && <p className="de en" lang="en">EN: {z.text_en}</p>}
       {z.einstufung && <p className="klein">Einstufung: {z.einstufung}</p>}
       {z.hinweis && <p className="hinweis">Hinweis: {z.hinweis}</p>}
       {z.qari && <p className="klein">Rezitation: {z.qari}</p>}
@@ -30,11 +32,28 @@ function ZitatBox({ z, s, aktiv, wort }: { z: Zitat; s: Settings; aktiv?: boolea
   )
 }
 
-export default function Reader({ g, s, set, zurueck }: {
+export default function Reader(props: { g: Geschichte; s: Settings; set: (p: Partial<Settings>) => void; zurueck: () => void }) {
+  const { g, zurueck } = props
+  if (Object.keys(g.fassungen).length) return <ReaderInner {...props} />
+  return (
+    <main className="seite">
+      <button className="link" onClick={zurueck}>← Zurück</button>
+      <div className="hero"><CoverArt motiv={g.bild_motiv} url={g.bild_url} />
+        <div className="hero-text"><span className="ar" dir="rtl" lang="ar" style={{ fontSize: g.titel_ar.length > 24 ? "1.5rem" : undefined }}>{g.titel_ar}</span><small>{g.titel_de}</small></div></div>
+      <p className="banner">Gerüst – Inhalt in Vorbereitung</p>
+      <p>Für diese Geschichte gibt es noch keinen geprüften Text. Es werden keine Inhalte ohne belegte Quelle ergänzt.</p>
+      {g.hinweis && <p className="hinweis">{g.hinweis}</p>}
+      <h2>Vorgesehene Quellen</h2>
+      <ul>{g.quellen.map((q, i) => <li key={i} className={q.platzhalter ? 'platzhalter' : ''}><strong>{q.werk}</strong> – {q.stelle}</li>)}</ul>
+    </main>
+  )
+}
+
+function ReaderInner({ g, s, set, zurueck }: {
   g: Geschichte; s: Settings; set: (p: Partial<Settings>) => void; zurueck: () => void
 }) {
   const verfuegbar = NIVEAUS.filter((n) => g.fassungen[n])
-  const [niveau, setNiveau] = useState<Niveau>(verfuegbar.includes('A2') ? 'A2' : verfuegbar[0])
+  const [niveau, setNiveau] = useState<Niveau>((['A2', 'B1', 'A1', 'B2'] as Niveau[]).find((n) => verfuegbar.includes(n)) ?? verfuegbar[0])
   const [tab, setTab] = useState<Tab>('text')
   const [einst, setEinst] = useState(false)
   const [offen, setOffen] = useState<Set<string>>(new Set())
@@ -48,7 +67,7 @@ export default function Reader({ g, s, set, zurueck }: {
     for (const sa of f.saetze) {
       const z = sa.zitat_id ? g.zitate[sa.zitat_id] : undefined
       if (z) out.push(zi(z))
-      else out.push({ id: sa.id, kind: 'satz', ar: sa.text_ar_mit_harakat, de: sa.text_de, audio_url: sa.audio_url, ts: sa.wort_zeitstempel, woerter: sa.woerter })
+      else out.push({ id: sa.id, kind: 'satz', ar: sa.text_ar_mit_harakat, de: sa.text_de, audio_url: sa.audio_url, ts: sa.wort_zeitstempel, woerter: sa.woerter, beleg: sa.beleg })
       if (sa.zitat_nach) out.push(zi(g.zitate[sa.zitat_nach]))
     }
     f.schluss_zitate?.forEach((id) => out.push(zi(g.zitate[id])))
@@ -90,7 +109,7 @@ export default function Reader({ g, s, set, zurueck }: {
       <header className="kopfleiste">
         <button className="pillbtn" onClick={zurueck}>‹ Zurück</button>
         <div className="kopf-titel">
-          <span className="ar" dir="rtl" lang="ar">{g.titel_ar.split(' ').slice(0, 1).join(' ')}</span>
+          <span className="ar" dir="rtl" lang="ar">{kurz(g.titel_ar)}</span>
           <small>{g.titel_de}</small>
         </div>
         <button className="pillbtn" onClick={() => setEinst(true)} aria-label="Anzeige-Einstellungen">Aa</button>
@@ -107,7 +126,7 @@ export default function Reader({ g, s, set, zurueck }: {
         <div className="hero">
           <CoverArt motiv={g.bild_motiv} url={g.bild_url} />
           <div className="hero-text">
-            <span className="ar" dir="rtl" lang="ar">{g.titel_ar}</span>
+            <span className="ar" dir="rtl" lang="ar" style={{ fontSize: g.titel_ar.length > 24 ? "1.5rem" : undefined }}>{g.titel_ar}</span>
             <small>{g.titel_de}</small>
           </div>
         </div>
@@ -140,6 +159,7 @@ export default function Reader({ g, s, set, zurueck }: {
                         },
                       } : undefined} />
                       {s.uebersetzung === 'immer' && <p className="de">{it.de}</p>}
+                      {it.beleg && <p className="beleg">Beleg: {it.beleg}</p>}
                       {s.uebersetzung === 'tippen' && (
                         <>
                           <button className="link" onClick={(e) => { e.stopPropagation(); toggle(it.id) }}>

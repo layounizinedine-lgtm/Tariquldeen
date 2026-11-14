@@ -1,0 +1,54 @@
+{
+ "id": "hasan-basri",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ الْحَسَنُ بْنُ أَبِي الْحَسَنِ يَسَارٍ، أَبُو سَعِيدٍ الْبَصْرِيُّ.",
+   "de": "Er ist al-Hasan ibn Abi l-Hasan Yasar, Abu Saʿid aus Basra.",
+   "page_id": 3716,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَ فِي الْمَدِينَةِ قَبْلَ نِهَايَةِ خِلَافَةِ عُمَرَ بِسَنَتَيْنِ.",
+   "de": "Er wurde in Medina geboren, zwei Jahre vor dem Ende von ʿUmars Kalifat.",
+   "page_id": 3717,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ أَبُوهُ يَسَارٌ مِنْ سَبْيِ مَيْسَانَ، ثُمَّ أُعْتِقَ.",
+   "de": "Sein Vater Yasar war ein Kriegsgefangener aus Maysan und wurde später freigelassen.",
+   "page_id": 3717,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ عَالِمًا فَقِيهًا ثِقَةً، عَابِدًا، كَثِيرَ الْعِلْمِ، فَصِيحًا.",
+   "de": "Er war gelehrt, rechtskundig, zuverlässig, ein Mann der Anbetung, reich an Wissen und sprachgewandt.",
+   "page_id": 3725,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ الزُّهَّادُ يَأْتُونَهُ وَيَسْمَعُونَ كَلَامَهُ فِي الزُّهْدِ.",
+   "de": "Die Asketen kamen zu ihm und hörten seine Worte über den Weltverzicht.",
+   "page_id": 3732,
+   "book_id": 10906
+  },
+  {
+   "ar": "تُوُفِّيَ فِي رَجَبٍ سَنَةَ عَشْرٍ وَمِئَةٍ.",
+   "de": "Er starb im Radschab des Jahres 110.",
+   "page_id": 3740,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "كَانَ الحَسَنُ -﵀- جَامِعًا، عَالِمًا، رَفِيْعًا، فَقِيْهًا، ثِقَةً، حُجَّةً، مَأْمُوْنًا، عَابِدًا، نَاسِكًا، كَثِيْرَ العِلْمِ، فَصِيْحًا",
+   "text_de": "Al-Hasan – Allah erbarme sich seiner – war umfassend gebildet, gelehrt, angesehen, rechtskundig, zuverlässig, ein Beweis, vertrauenswürdig, gottesdienstlich, asketisch, reich an Wissen und sprachgewandt. (Ibn Saʿd)",
+   "page_id": 3725,
+   "einstufung": null,
+   "book_id": 10906
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "abu-dharr",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ أَبُو ذَرٍّ جُنْدُبُ بْنُ جُنَادَةَ الْغِفَارِيُّ.",
+   "de": "Er ist Abu Dharr Dschundub ibn Dschunada al-Ghifari.",
+   "page_id": 2026,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ مِنَ السَّابِقِينَ الْأَوَّلِينَ، وَمِنْ نُجَبَاءِ الصَّحَابَةِ.",
+   "de": "Er gehörte zu den ersten Muslimen und zu den edelsten Gefährten.",
+   "page_id": 2026,
+   "book_id": 10906
+  },
+  {
+   "ar": "لَمَّا جَاءَ مَكَّةَ لَمْ يَكُنْ لَهُ طَعَامٌ إِلَّا مَاءُ زَمْزَمَ.",
+   "de": "Als er nach Mekka kam, hatte er keine Nahrung außer Zamzam-Wasser.",
+   "page_id": 2031,
+   "book_id": 10906
+  },
+  {
+   "ar": "ثُمَّ رَجَعَ إِلَى قَوْمِهِ بِأَمْرِ النَّبِيِّ ﷺ، فَلَمَّا هَاجَرَ النَّبِيُّ ﷺ هَاجَرَ إِلَيْهِ.",
+   "de": "Dann kehrte er auf Anweisung des Propheten ﷺ zu seinem Stamm zurück; als der Prophet ﷺ auswanderte, wanderte er zu ihm aus.",
+   "page_id": 2026,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ يُفْتِي فِي خِلَافَةِ أَبِي بَكْرٍ وَعُمَرَ وَعُثْمَانَ.",
+   "de": "Er gab Rechtsauskünfte während des Kalifats von Abu Bakr, ʿUmar und ʿUthman.",
+   "page_id": 2026,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَخَرَجَ فِي آخِرِ حَيَاتِهِ إِلَى الرَّبَذَةِ، وَمَاتَ هُنَاكَ.",
+   "de": "Am Ende seines Lebens ging er nach ar-Rabadha und starb dort.",
+   "page_id": 2037,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "أَحَدُ السَّابِقِيْنَ الأَوَّلِيْنَ، مِنْ نُجَبَاءِ أَصْحَابِ مُحَمَّدٍ -ﷺ-",
+   "text_de": "Einer der ersten Muslime, einer der edelsten Gefährten Muhammads ﷺ. (adh-Dhahabi)",
+   "page_id": 2026,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "مَا لِي طَعَامٌ إِلاَّ مَاءُ زَمْزَمَ",
+   "text_de": "Ich hatte keine Nahrung außer Zamzam-Wasser. (Abu Dharr)",
+   "page_id": 2031,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

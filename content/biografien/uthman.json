@@ -1,0 +1,88 @@
+{
+ "id": "uthman",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ عُثْمَانُ بْنُ عَفَّانَ، أَمِيرُ الْمُؤْمِنِينَ، مِنْ بَنِي أُمَيَّةَ.",
+   "de": "Er ist ʿUthman ibn ʿAffan, der Befehlshaber der Gläubigen, aus dem Stamm Banu Umayya.",
+   "page_id": 1291,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ مِنَ السَّابِقِينَ الْأَوَّلِينَ إِلَى الْإِسْلَامِ.",
+   "de": "Er gehörte zu den Ersten, die den Islam annahmen.",
+   "page_id": 1291,
+   "book_id": 10906
+  },
+  {
+   "ar": "تَزَوَّجَ رُقَيَّةَ بِنْتَ النَّبِيِّ ﷺ، وَهَاجَرَ بِهَا إِلَى الْحَبَشَةِ.",
+   "de": "Er heiratete Ruqayya, die Tochter des Propheten ﷺ, und wanderte mit ihr nach Abessinien aus.",
+   "page_id": 1291,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَتَخَلَّفَ عَنْ بَدْرٍ لِيُمَرِّضَهَا، فَأَعْطَاهُ النَّبِيُّ ﷺ سَهْمَهُ مِنْ بَدْرٍ.",
+   "de": "Er blieb von Badr fern, um sie zu pflegen, und der Prophet ﷺ gab ihm seinen Anteil von Badr.",
+   "page_id": 1292,
+   "book_id": 10906
+  },
+  {
+   "ar": "ثُمَّ زَوَّجَهُ النَّبِيُّ ﷺ ابْنَتَهُ أُمَّ كُلْثُومٍ، فَسُمِّيَ ذَا النُّورَيْنِ.",
+   "de": "Dann verheiratete ihn der Prophet ﷺ mit seiner Tochter Umm Kulthum; deshalb wurde er „der mit den zwei Lichtern“ genannt.",
+   "page_id": 1293,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَجَاءَ بِأَلْفِ دِينَارٍ حِينَ جُهِّزَ جَيْشُ الْعُسْرَةِ.",
+   "de": "Er brachte tausend Dinar, als das Heer der Bedrängnis ausgerüstet wurde.",
+   "page_id": 1294,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَاشْتَرَى بِئْرَ رُومَةَ وَجَعَلَهَا لِلْمُسْلِمِينَ.",
+   "de": "Und er kaufte den Brunnen Ruma und stiftete ihn den Muslimen.",
+   "page_id": 1295,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَتِ الْمَلَائِكَةُ تَسْتَحْيِي مِنْهُ، كَمَا قَالَ النَّبِيُّ ﷺ.",
+   "de": "Selbst die Engel hatten Scheu vor ihm, wie der Prophet ﷺ sagte.",
+   "page_id": 1295,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَبَشَّرَهُ النَّبِيُّ ﷺ بِالْجَنَّةِ عَلَى بَلْوَى تُصِيبُهُ.",
+   "de": "Der Prophet ﷺ verkündete ihm das Paradies, nach einer Prüfung, die ihn treffen würde.",
+   "page_id": 1296,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "hadith",
+   "text_ar": "ألا أستحيي من رجل تستحيي منه الملائكة",
+   "text_de": "Soll ich keine Scheu vor einem Mann haben, vor dem selbst die Engel Scheu haben?",
+   "page_id": 1295,
+   "einstufung": "رواه مسلم (laut adh-Dhahabi)",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "إنما سمي عثمان \"ذا النورين\"؛ لأنا لا نعلم أحدا أغلق بابه على ابنتي نبي غيره.",
+   "text_de": "ʿUthman wurde „der mit den zwei Lichtern“ genannt, weil wir niemanden außer ihm kennen, der mit zwei Töchtern eines Propheten verheiratet war. (al-Hasan)",
+   "page_id": 1293,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "كنا نقول على عهد رسول الله ﷺ: أبو بكر ثم عمر، ثم عثمان.",
+   "text_de": "Zur Zeit des Gesandten Allahs ﷺ sagten wir: Abu Bakr, dann ʿUmar, dann ʿUthman. (Ibn ʿUmar)",
+   "page_id": 1297,
+   "einstufung": "رواه جماعة عن ابن عمر (laut adh-Dhahabi)",
+   "book_id": 10906
+  }
+ ]
+}

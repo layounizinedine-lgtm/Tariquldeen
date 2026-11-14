@@ -1,0 +1,74 @@
+{
+ "id": "ahmad-mihna",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": "Nach adh-Dhahabis Siyar (Abschnitt „al-Mihna“). Weitere Quelle: Ibn al-Jawzi, Manaqib al-Imam Ahmad (noch einzutragen).",
+ "saetze": [
+  {
+   "ar": "كَانَتِ الْأُمَّةُ عَلَى أَنَّ الْقُرْآنَ كَلَامُ اللَّهِ، حَتَّى ظَهَرَ الْقَوْلُ بِأَنَّهُ مَخْلُوقٌ.",
+   "de": "Die Umma war sich einig, dass der Quran die Rede Allahs ist, bis die Behauptung aufkam, er sei erschaffen.",
+   "page_id": 7175,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَفِي زَمَنِ الْمَأْمُونِ امْتُحِنَ الْعُلَمَاءُ بِهَذَا الْقَوْلِ، وَهِيَ الْمِحْنَةُ.",
+   "de": "Zur Zeit al-Maʾmuns wurden die Gelehrten mit dieser Behauptung geprüft – das ist die Mihna (Prüfung).",
+   "page_id": 7175,
+   "book_id": 10906
+  },
+  {
+   "ar": "أُحْضِرَ أَحْمَدُ، فَلَمَّا رَأَى النَّاسَ يُجِيبُونَ، ثَبَتَ وَلَمْ يُجِبْ.",
+   "de": "Ahmad wurde vorgeführt; als er sah, wie die Leute nachgaben, blieb er standhaft und gab nicht nach.",
+   "page_id": 7177,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَبَقِيَ مَحْبُوسًا بِالرَّقَّةِ، ثُمَّ رُدَّ إِلَى بَغْدَادَ فِي زَمَنِ الْمُعْتَصِمِ.",
+   "de": "Er blieb in ar-Raqqa gefangen und wurde zur Zeit al-Muʿtasims nach Bagdad zurückgebracht.",
+   "page_id": 7181,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَضُرِبَ بِالسِّيَاطِ، وَهُوَ ثَابِتٌ عَلَى قَوْلِهِ.",
+   "de": "Er wurde ausgepeitscht und blieb doch bei seiner Überzeugung.",
+   "page_id": 7190,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ مُكْثُهُ فِي السِّجْنِ ثَمَانِيَةً وَعِشْرِينَ شَهْرًا، ثُمَّ خُلِّيَ عَنْهُ.",
+   "de": "Er verbrachte 28 Monate im Gefängnis, dann wurde er freigelassen.",
+   "page_id": 7191,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَبَقِيَ أَثَرُ الضَّرْبِ ظَاهِرًا فِي ظَهْرِهِ.",
+   "de": "Die Spuren der Schläge blieben auf seinem Rücken sichtbar.",
+   "page_id": 7156,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ بَعْدَ ذَلِكَ: فِتْنَةُ الدُّنْيَا أَشَدُّ عَلَيَّ مِنْ فِتْنَةِ الضَّرْبِ وَالْحَبْسِ.",
+   "de": "Später sagte er: Die Versuchung durch die Welt (Geschenke der Herrscher) ist mir schwerer als die Prüfung durch Schläge und Gefängnis.",
+   "page_id": 7154,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "وَكَانَ مَكثُه فِي السجنِ مُنْذُ أُخذَ إِلَى أَنْ ضُربَ وَخُلِّيَ عَنْهُ، ثَمَانِيَةً وَعِشْرِيْنَ شَهْرًا",
+   "text_de": "Seine Zeit im Gefängnis, von der Festnahme bis zu den Schlägen und der Freilassung, betrug 28 Monate. (Salih, sein Sohn)",
+   "page_id": 7191,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "ذَاكَ فِتْنَةُ الضَّرْبِ وَالحَبْسِ كُنْت أَحْمِلُه، وَهَذِهِ فِتْنَةُ الدُّنْيَا",
+   "text_de": "Jenes war die Prüfung der Schläge und des Gefängnisses – die konnte ich ertragen; dies aber ist die Versuchung der Welt. (Imam Ahmad)",
+   "page_id": 7154,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "jafar",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ جَعْفَرُ بْنُ أَبِي طَالِبٍ، ابْنُ عَمِّ رَسُولِ اللَّهِ ﷺ، وَأَخُو عَلِيٍّ.",
+   "de": "Er ist Dschaʿfar ibn Abi Talib, Cousin des Gesandten Allahs ﷺ und Bruder ʿAlis.",
+   "page_id": 1632,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ أَكْبَرَ مِنْ عَلِيٍّ بِعَشْرِ سِنِينَ.",
+   "de": "Er war zehn Jahre älter als ʿAli.",
+   "page_id": 1632,
+   "book_id": 10906
+  },
+  {
+   "ar": "هَاجَرَ إِلَى الْحَبَشَةِ، وَكَانَ هُوَ الَّذِي يُكَلِّمُ النَّجَاشِيَّ عَنِ الْمُسْلِمِينَ.",
+   "de": "Er wanderte nach Abessinien aus und war es, der für die Muslime mit dem Negus sprach.",
+   "page_id": 1641,
+   "book_id": 10906
+  },
+  {
+   "ar": "ثُمَّ قَدِمَ الْمَدِينَةَ عِنْدَ فَتْحِ خَيْبَرَ، فَسُرَّ النَّبِيُّ ﷺ بِقُدُومِهِ كَثِيرًا.",
+   "de": "Dann kam er zur Zeit der Einnahme Khaybars nach Medina, und der Prophet ﷺ freute sich sehr über seine Ankunft.",
+   "page_id": 1632,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَأَمَّرَهُ النَّبِيُّ ﷺ عَلَى جَيْشِ مُؤْتَةَ، فَاسْتُشْهِدَ هُنَاكَ.",
+   "de": "Der Prophet ﷺ machte ihn zum Befehlshaber des Heeres von Muʾta, und dort fiel er als Märtyrer.",
+   "page_id": 1632,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَرَآهُ النَّبِيُّ ﷺ مَلَكًا يَطِيرُ فِي الْجَنَّةِ، وَلُقِّبَ بِذِي الْجَنَاحَيْنِ.",
+   "de": "Der Prophet ﷺ sah ihn als einen Engel, der im Paradies fliegt; er erhielt den Beinamen „der mit den zwei Flügeln“.",
+   "page_id": 1638,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "وَقَدْ سُرَّ رَسُوْلُ اللهِ -ﷺ- كَثِيْرًا بِقُدُوْمِهِ، وَحَزِنَ -وَاللهِ- لِوَفَاتِهِ.",
+   "text_de": "Der Gesandte Allahs ﷺ freute sich sehr über seine Ankunft und trauerte – bei Allah – über seinen Tod. (adh-Dhahabi)",
+   "page_id": 1632,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "hadith",
+   "text_ar": "رَأَيْتُ جَعْفَرَ بنَ أَبِي طَالِبٍ مَلَكًا فِي الجَنَّةِ",
+   "text_de": "Ich sah Dschaʿfar ibn Abi Talib als Engel im Paradies.",
+   "page_id": 1638,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

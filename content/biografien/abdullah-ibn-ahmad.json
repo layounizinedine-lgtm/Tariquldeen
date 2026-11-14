@@ -1,0 +1,48 @@
+{
+ "id": "abdullah-ibn-ahmad",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": "Schüler Imam Ahmads – belegt in adh-Dhahabis Siyar (Seiten angegeben).",
+ "saetze": [
+  {
+   "ar": "هُوَ عَبْدُ اللَّهِ بْنُ أَحْمَدَ بْنِ حَنْبَلٍ، أَبُو عَبْدِ الرَّحْمَنِ، مُحَدِّثُ بَغْدَادَ.",
+   "de": "Er ist ʿAbdullah ibn Ahmad ibn Hanbal, Abu ʿAbd ar-Rahman, der Hadith-Gelehrte Bagdads.",
+   "page_id": 8635,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَ سَنَةَ ثَلَاثَ عَشْرَةَ وَمِئَتَيْنِ، وَهُوَ أَصْغَرُ مِنْ أَخِيهِ صَالِحٍ.",
+   "de": "Er wurde im Jahr 213 geboren und war jünger als sein Bruder Salih.",
+   "page_id": 8636,
+   "book_id": 10906
+  },
+  {
+   "ar": "رَوَى عَنْ أَبِيهِ شَيْئًا كَثِيرًا، وَمِنْهُ الْمُسْنَدُ كُلُّهُ.",
+   "de": "Er überlieferte sehr viel von seinem Vater, darunter den gesamten Musnad.",
+   "page_id": 8636,
+   "book_id": 10906
+  },
+  {
+   "ar": "قِيلَ: لَمْ يَكُنْ فِي الدُّنْيَا أَحَدٌ أَرْوَى عَنْ أَبِيهِ مِنْهُ.",
+   "de": "Man sagte: Niemand auf der Welt überlieferte mehr von seinem Vater als er.",
+   "page_id": 8640,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَمَاتَ سَنَةَ تِسْعِينَ وَمِئَتَيْنِ، عَنْ سَبْعٍ وَسَبْعِينَ سَنَةً.",
+   "de": "Er starb im Jahr 290 im Alter von 77 Jahren.",
+   "page_id": 7272,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "لَمْ يَكُنْ فِي الدُّنْيَا أَحَدٌ أَرْوَى عَنْ أَبِيْهِ مِنْ عَبْدِ اللهِ بنِ أَحْمَدَ",
+   "text_de": "Niemand auf der Welt überlieferte mehr von seinem Vater als ʿAbdullah ibn Ahmad. (Ibn al-Munadi)",
+   "page_id": 8640,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "muadh",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ مُعَاذُ بْنُ جَبَلٍ الْأَنْصَارِيُّ، مِنَ الْخَزْرَجِ، أَبُو عَبْدِ الرَّحْمَنِ.",
+   "de": "Er ist Muʿadh ibn Dschabal al-Ansari, aus dem Stamm Khazradsch, Abu ʿAbd ar-Rahman.",
+   "page_id": 1870,
+   "book_id": 10906
+  },
+  {
+   "ar": "شَهِدَ الْعَقَبَةَ شَابًّا، ثُمَّ شَهِدَ بَدْرًا وَلَهُ نَحْوُ عِشْرِينَ سَنَةً.",
+   "de": "Er war als junger Mann bei ʿAqaba dabei und kämpfte dann mit etwa zwanzig Jahren bei Badr.",
+   "page_id": 1870,
+   "book_id": 10906
+  },
+  {
+   "ar": "بَعَثَهُ النَّبِيُّ ﷺ إِلَى الْيَمَنِ.",
+   "de": "Der Prophet ﷺ sandte ihn in den Jemen.",
+   "page_id": 1874,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَخَرَجَ النَّبِيُّ ﷺ يُوصِيهِ، وَمُعَاذٌ رَاكِبٌ وَالنَّبِيُّ ﷺ يَمْشِي.",
+   "de": "Der Prophet ﷺ ging mit ihm hinaus, um ihm Ratschläge zu geben – Muʿadh ritt, und der Prophet ﷺ ging zu Fuß.",
+   "page_id": 1874,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ لَهُ وَلِأَبِي مُوسَى: يَسِّرَا وَلَا تُعَسِّرَا.",
+   "de": "Er sagte zu ihm und zu Abu Musa: Macht es leicht und macht es nicht schwer.",
+   "page_id": 1875,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "شَهِدَ العَقَبَةَ شَابًّا أَمْرَدَ",
+   "text_de": "Er war als bartloser junger Mann bei ʿAqaba dabei. (adh-Dhahabi)",
+   "page_id": 1870,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "hadith",
+   "text_ar": "يَسِّرَا وَلاَ تُعَسِّرَا، وَتَطَاوَعَا وَلاَ تُنَفِّرَا",
+   "text_de": "Macht es leicht und nicht schwer, seid euch einig und schreckt nicht ab.",
+   "page_id": 1875,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

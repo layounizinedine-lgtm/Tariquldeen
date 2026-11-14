@@ -1,0 +1,74 @@
+{
+ "id": "fatima",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هِيَ فَاطِمَةُ بِنْتُ رَسُولِ اللَّهِ ﷺ، أُمُّ الْحَسَنِ وَالْحُسَيْنِ.",
+   "de": "Sie ist Fatima, die Tochter des Gesandten Allahs ﷺ, die Mutter von al-Hasan und al-Husayn.",
+   "page_id": 2099,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَتْ قَبْلَ الْبَعْثَةِ بِقَلِيلٍ.",
+   "de": "Sie wurde kurz vor der Berufung (ihres Vaters) zum Propheten geboren.",
+   "page_id": 2099,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَتَزَوَّجَهَا عَلِيُّ بْنُ أَبِي طَالِبٍ فِي السَّنَةِ الثَّانِيَةِ بَعْدَ بَدْرٍ.",
+   "de": "ʿAli ibn Abi Talib heiratete sie im zweiten Jahr, nach Badr.",
+   "page_id": 2099,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ النَّبِيُّ ﷺ يُحِبُّهَا وَيُكْرِمُهَا.",
+   "de": "Der Prophet ﷺ liebte sie und ehrte sie.",
+   "page_id": 2099,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَتْ صَابِرَةً، دَيِّنَةً، قَانِعَةً، شَاكِرَةً لِلَّهِ.",
+   "de": "Sie war geduldig, fromm, genügsam und Allah dankbar.",
+   "page_id": 2099,
+   "book_id": 10906
+  },
+  {
+   "ar": "قَالَ النَّبِيُّ ﷺ: فَاطِمَةُ بَضْعَةٌ مِنِّي.",
+   "de": "Der Prophet ﷺ sagte: Fatima ist ein Teil von mir.",
+   "page_id": 2099,
+   "book_id": 10906
+  },
+  {
+   "ar": "لَمَّا تُوُفِّيَ النَّبِيُّ ﷺ حَزِنَتْ عَلَيْهِ وَبَكَتْ.",
+   "de": "Als der Prophet ﷺ starb, trauerte sie um ihn und weinte.",
+   "page_id": 2100,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَأَخْبَرَهَا أَنَّهَا أَوَّلُ أَهْلِهِ لُحُوقًا بِهِ، وَأَنَّهَا سَيِّدَةُ نِسَاءِ هَذِهِ الْأُمَّةِ.",
+   "de": "Er hatte ihr gesagt, dass sie als Erste seiner Familie ihm folgen würde und dass sie die Herrin der Frauen dieser Umma ist.",
+   "page_id": 2100,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "hadith",
+   "text_ar": "وَإِنَّمَا فَاطِمَةُ بَضْعَةٌ مِنِّي، يَرِيْبُنِي مَا رَابَهَا، وَيُؤْذِيْنِي مَا آذَاهَا",
+   "text_de": "Fatima ist ein Teil von mir; was sie beunruhigt, beunruhigt mich, und was ihr schadet, schadet mir.",
+   "page_id": 2099,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "يَا أَبَتَاهُ! إِلَى جِبْرِيْلَ نَنْعَاهُ! يَا أَبتَاهُ! أَجَابَ رَبًّا دَعَاهُ!",
+   "text_de": "O mein Vater! Jibril bringen wir die Nachricht seines Todes! O mein Vater! Er folgte dem Ruf seines Herrn! (Fatima)",
+   "page_id": 2100,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

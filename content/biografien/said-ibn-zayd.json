@@ -1,0 +1,62 @@
+{
+ "id": "said-ibn-zayd",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ سَعِيدُ بْنُ زَيْدِ بْنِ عَمْرِو بْنِ نُفَيْلٍ، مِنْ بَنِي عَدِيٍّ، أَبُو الْأَعْوَرِ.",
+   "de": "Er ist Saʿid ibn Zayd ibn ʿAmr ibn Nufayl, aus dem Stamm ʿAdi, Abu l-Aʿwar.",
+   "page_id": 1550,
+   "book_id": 10906
+  },
+  {
+   "ar": "هُوَ أَحَدُ الْعَشَرَةِ الْمَشْهُودِ لَهُمْ بِالْجَنَّةِ، وَمِنَ السَّابِقِينَ الْأَوَّلِينَ.",
+   "de": "Er ist einer der Zehn, denen das Paradies bezeugt wurde, und einer der Ersten im Islam.",
+   "page_id": 1550,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَشَهِدَ الْمَشَاهِدَ مَعَ النَّبِيِّ ﷺ.",
+   "de": "Er nahm an den Feldzügen mit dem Propheten ﷺ teil.",
+   "page_id": 1550,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَشَهِدَ فَتْحَ دِمَشْقَ، فَوَلَّاهُ أَبُو عُبَيْدَةَ عَلَيْهَا.",
+   "de": "Er war bei der Eroberung von Damaskus dabei, und Abu ʿUbayda setzte ihn dort als Statthalter ein.",
+   "page_id": 1551,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ أَبُوهُ زَيْدٌ قَدْ تَرَكَ عِبَادَةَ الْأَصْنَامِ قَبْلَ الْإِسْلَامِ، وَطَلَبَ الدِّينَ الْحَقَّ.",
+   "de": "Sein Vater Zayd hatte schon vor dem Islam die Götzenanbetung verlassen und nach der wahren Religion gesucht.",
+   "page_id": 1552,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَرَوَى عَنِ النَّبِيِّ ﷺ: مَنْ ظَلَمَ مِنَ الْأَرْضِ شِبْرًا طُوِّقَهُ مِنْ سَبْعِ أَرَضِينَ.",
+   "de": "Er überlieferte vom Propheten ﷺ: Wer eine Spanne Land zu Unrecht nimmt, dem wird es von sieben Erden um den Hals gelegt.",
+   "page_id": 1552,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "أَحَدُ العَشَرَةِ المَشْهُوْدِ لَهُم بِالجَنَّةِ، وَمِنَ السَّابِقِيْنَ الأَوَّلِيْنَ البَدْرِيِّيْنَ",
+   "text_de": "Einer der Zehn, denen das Paradies bezeugt wurde, einer der ersten Muslime und der Badr-Kämpfer. (adh-Dhahabi)",
+   "page_id": 1550,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "hadith",
+   "text_ar": "مَنْ ظَلَمَ مِنَ الأَرْضِ شِبرًا طُوِّقَهُ مِنْ سَبعِ أَرَضِيْنَ",
+   "text_de": "Wer eine Spanne Land zu Unrecht nimmt, dem wird es von sieben Erden um den Hals gelegt.",
+   "page_id": 1552,
+   "einstufung": "أخرجه البخاري (laut adh-Dhahabi)",
+   "book_id": 10906
+  }
+ ]
+}

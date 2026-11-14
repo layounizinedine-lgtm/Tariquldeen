@@ -1,0 +1,68 @@
+{
+ "id": "hamza",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ، عَمُّ رَسُولِ اللَّهِ ﷺ، وَأَخُوهُ مِنَ الرَّضَاعَةِ.",
+   "de": "Er ist Hamza ibn ʿAbd al-Muttalib, Onkel des Gesandten Allahs ﷺ und sein Milchbruder.",
+   "page_id": 1598,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ يُلَقَّبُ بِأَسَدِ اللَّهِ.",
+   "de": "Er trug den Beinamen „Löwe Allahs“.",
+   "page_id": 1598,
+   "book_id": 10906
+  },
+  {
+   "ar": "لَمَّا أَسْلَمَ عَلِمَتْ قُرَيْشٌ أَنَّهُ سَيَحْمِي النَّبِيَّ ﷺ، فَكَفُّوا عَنْ بَعْضِ أَذَاهُمْ.",
+   "de": "Als er Muslim wurde, wusste Quraisch, dass er den Propheten ﷺ schützen würde, und sie ließen von einem Teil ihrer Feindseligkeiten ab.",
+   "page_id": 1598,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَفِي رِوَايَةٍ: بَارَزَ يَوْمَ بَدْرٍ عُتْبَةَ بْنَ رَبِيعَةَ فَقَتَلَهُ.",
+   "de": "Nach einem Bericht trat er am Tag von Badr im Zweikampf gegen ʿUtba ibn Rabiʿa an und tötete ihn.",
+   "page_id": 1598,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَاسْتُشْهِدَ يَوْمَ أُحُدٍ، قَتَلَهُ وَحْشِيٌّ.",
+   "de": "Er fiel am Tag von Uhud als Märtyrer; Wahschi hatte ihn getötet.",
+   "page_id": 1600,
+   "book_id": 10906
+  },
+  {
+   "ar": "ثُمَّ أَسْلَمَ وَحْشِيٌّ بَعْدَ ذَلِكَ، وَقَدِمَ عَلَى النَّبِيِّ ﷺ.",
+   "de": "Später nahm Wahschi den Islam an und kam zum Propheten ﷺ.",
+   "page_id": 1602,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَقَالَ النَّبِيُّ ﷺ: سَيِّدُ الشُّهَدَاءِ حَمْزَةُ.",
+   "de": "Der Prophet ﷺ sagte: Der Herr der Märtyrer ist Hamza.",
+   "page_id": 1599,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "الإِمَامُ، البَطَلُ، الضِّرْغَامُ، أَسَدُ اللهِ",
+   "text_de": "Der Anführer, der Held, der Löwe, der Löwe Allahs. (adh-Dhahabi)",
+   "page_id": 1598,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "hadith",
+   "text_ar": "سَيِّدُ الشُّهَدَاءِ حَمْزَةُ بنُ عَبْدِ المُطَّلِبِ",
+   "text_de": "Der Herr der Märtyrer ist Hamza ibn ʿAbd al-Muttalib.",
+   "page_id": 1599,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

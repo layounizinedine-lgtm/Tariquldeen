@@ -1,0 +1,62 @@
+{
+ "id": "zaynulabidin",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ عَلِيُّ بْنُ الْحُسَيْنِ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ، زَيْنُ الْعَابِدِينَ.",
+   "de": "Er ist ʿAli ibn al-Husayn ibn ʿAli ibn Abi Talib, genannt Zayn al-ʿAbidin (Zierde der Anbetenden).",
+   "page_id": 3539,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ مَعَ أَبِيهِ الْحُسَيْنِ يَوْمَ كَرْبَلَاءَ، وَكَانَ مَرِيضًا فَلَمْ يُقَاتِلْ.",
+   "de": "Er war am Tag von Karbala bei seinem Vater al-Husayn, war aber krank und kämpfte nicht.",
+   "page_id": 3539,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَسُمِّيَ زَيْنَ الْعَابِدِينَ لِكَثْرَةِ عِبَادَتِهِ.",
+   "de": "Er wurde wegen seiner vielen Gottesdienste „Zierde der Anbetenden“ genannt.",
+   "page_id": 3545,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ يَحْمِلُ الْخُبْزَ بِاللَّيْلِ عَلَى ظَهْرِهِ إِلَى الْمَسَاكِينِ.",
+   "de": "Nachts trug er Brot auf seinem Rücken zu den Armen.",
+   "page_id": 3546,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ يَقُولُ: إِنَّ الصَّدَقَةَ فِي سَوَادِ اللَّيْلِ تُطْفِئُ غَضَبَ الرَّبِّ.",
+   "de": "Er sagte: Die Spende im Dunkel der Nacht löscht den Zorn des Herrn.",
+   "page_id": 3546,
+   "book_id": 10906
+  },
+  {
+   "ar": "فَلَمَّا مَاتَ، فَقَدَ أُنَاسٌ فِي الْمَدِينَةِ مَا كَانَ يَأْتِيهِمْ بِاللَّيْلِ.",
+   "de": "Als er starb, merkten Leute in Medina, dass ausblieb, was ihnen nachts gebracht worden war.",
+   "page_id": 3546,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "إِنَّ الصَّدَقَةَ فِي سَوَادِ اللَّيْلِ تُطْفِئُ غَضَبَ الرَّبِّ",
+   "text_de": "Die Spende im Dunkel der Nacht löscht den Zorn des Herrn. (Zayn al-ʿAbidin)",
+   "page_id": 3546,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "لَمَّا مَاتَ عَلِيُّ بنُ الحُسَيْنِ، وَجَدُوا بِظَهْرِهِ أَثَرًا مِمَّا كَانَ يَنْقُلُ الجُرْبَ بِاللَّيْلِ إِلَى مَنَازِلِ الأَرَامِلِ",
+   "text_de": "Als ʿAli ibn al-Husayn starb, fand man auf seinem Rücken Spuren der Säcke, die er nachts zu den Häusern der Witwen trug.",
+   "page_id": 3546,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

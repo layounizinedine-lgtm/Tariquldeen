@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import { bereiche, sichtbar } from './data'
+import { bereiche, sichtbar, ladeVoll } from './data'
+import { useEffect } from 'react'
 import { useGeschichten } from './store'
 import { useSettings } from './settings'
 import Reader from './components/Reader'
@@ -15,8 +16,11 @@ export default function App() {
   const karten = useVokabeln()
   const fort = useFortschritt()
   const { liste: alleGeschichten, laedt, fehler } = useGeschichten()
-  const g = alleGeschichten.find((x) => x.id === id)
+  const stub = alleGeschichten.find((x) => x.id === id)
+  const [g, setGanz] = useState<typeof stub>(undefined)
+  useEffect(() => { setGanz(undefined); if (stub) ladeVoll(stub).then(setGanz) }, [id]) // eslint-disable-line react-hooks/exhaustive-deps
   if (vok) return <VocabView zurueck={() => setVok(false)} />
+  if (stub && !g) return <main className="seite"><p className="klein mitte">Lade …</p></main>
   if (g) return <Reader g={g} s={s} set={set} zurueck={() => setId(null)} />
 
   return (
@@ -43,11 +47,17 @@ export default function App() {
             </div>
             <p className="klein">{b.beschr}</p>
             {liste.length === 0 && <p className="leer">Noch keine geprüften Geschichten.</p>}
-            {liste.map((x) => (
+            {liste.map((x) => !x.bild_url ? (
+              <button key={x.id} className="karte-klein" onClick={() => setId(x.id)}>
+                <span className="mini"><CoverArt motiv={x.bild_motiv} /></span>
+                <span className="kk-text"><span className="ar" dir="rtl" lang="ar">{x.titel_ar}</span><b>{x.titel_de}</b>
+                  <span>{x.hat_inhalt === false && <em className="tag">Gerüst</em>}{x.status === 'entwurf' && <em className="tag">Entwurf</em>}{fort.gelesen[x.id] && <em className="tag ok">✓ gelesen</em>}</span></span>
+              </button>
+            ) : (
               <button key={x.id} className="karte" onClick={() => setId(x.id)}>
                 <CoverArt motiv={x.bild_motiv} url={x.bild_url} />
                 <span className="karte-text">
-                  <span className="ar" dir="rtl" lang="ar">{x.titel_ar}</span>
+                  <span className="ar" dir="rtl" lang="ar" style={{ fontSize: x.titel_ar.length > 24 ? "1.4rem" : undefined }}>{x.titel_ar}</span>
                   <b>{x.titel_de}</b>
                   <span>{x.status === 'entwurf' && <em className="tag">Entwurf</em>}{fort.gelesen[x.id] && <em className="tag ok">✓ gelesen</em>}</span>
                 </span>

@@ -1,0 +1,68 @@
+{
+ "id": "uways",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ أُوَيْسُ بْنُ عَامِرٍ الْقَرَنِيُّ، مِنْ مُرَادٍ، مِنْ أَهْلِ الْيَمَنِ.",
+   "de": "Er ist Uways ibn ʿAmir al-Qarani, aus dem Stamm Murad im Jemen.",
+   "page_id": 3173,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ قُدْوَةً زَاهِدًا، وَسَيِّدَ التَّابِعِينَ فِي زَمَانِهِ.",
+   "de": "Er war ein Vorbild an Weltverzicht und der Herr der Tabiʿin seiner Zeit.",
+   "page_id": 3172,
+   "book_id": 10906
+  },
+  {
+   "ar": "لَمْ يَرَ النَّبِيَّ ﷺ، وَلَكِنَّهُ وَفَدَ عَلَى عُمَرَ.",
+   "de": "Er sah den Propheten ﷺ nicht, aber er kam zu ʿUmar.",
+   "page_id": 3173,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ عُمَرُ يَسْأَلُ أَهْلَ الْيَمَنِ: هَلْ فِيكُمْ أَحَدٌ مِنْ قَرَنٍ؟",
+   "de": "ʿUmar fragte die Leute aus dem Jemen: Ist jemand aus Qaran unter euch?",
+   "page_id": 3173,
+   "book_id": 10906
+  },
+  {
+   "ar": "لِأَنَّهُ سَمِعَ النَّبِيَّ ﷺ يَقُولُ: إِنَّ خَيْرَ التَّابِعِينَ رَجُلٌ يُقَالُ لَهُ أُوَيْسٌ، وَلَهُ وَالِدَةٌ.",
+   "de": "Denn er hatte den Propheten ﷺ sagen hören: Der beste der Tabiʿin ist ein Mann namens Uways, der eine Mutter hat.",
+   "page_id": 3173,
+   "book_id": 10906
+  },
+  {
+   "ar": "فَلَمَّا وَجَدَهُ قَالَ لَهُ عُمَرُ: اسْتَغْفِرْ لِي.",
+   "de": "Als ʿUmar ihn fand, sagte er zu ihm: Bitte (Allah) um Vergebung für mich.",
+   "page_id": 3173,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ مِنْ أَوْلِيَاءِ اللَّهِ الْمُتَّقِينَ، وَمِنْ عِبَادِهِ الْمُخْلَصِينَ.",
+   "de": "Er gehörte zu den gottesfürchtigen Freunden Allahs und zu Seinen aufrichtigen Dienern.",
+   "page_id": 3173,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "hadith",
+   "text_ar": "إِنَّ خَيْرَ التَّابِعِيْنَ رَجُلٌ يُقَالُ لَهُ: أُوَيْسٌ، وَلَهُ وَالِدَةٌ",
+   "text_de": "Der beste der Tabiʿin ist ein Mann namens Uways, der eine Mutter hat.",
+   "page_id": 3173,
+   "einstufung": "Muslim (Sigel „م“ bei adh-Dhahabi)",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "وَقَدْ كَانَ مِنْ أَوْلِيَاءِ اللهِ المُتَّقِيْنَ، وَمِنْ عِبَادِهِ المُخْلَصِيْنَ",
+   "text_de": "Er gehörte zu den gottesfürchtigen Freunden Allahs und zu Seinen aufrichtigen Dienern. (adh-Dhahabi)",
+   "page_id": 3173,
+   "einstufung": null,
+   "book_id": 10906
+  }
+ ]
+}

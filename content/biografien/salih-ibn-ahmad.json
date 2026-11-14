@@ -1,0 +1,54 @@
+{
+ "id": "salih-ibn-ahmad",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": "Schüler Imam Ahmads – belegt in adh-Dhahabis Siyar (Seiten angegeben).",
+ "saetze": [
+  {
+   "ar": "هُوَ صَالِحُ بْنُ أَحْمَدَ بْنِ حَنْبَلٍ، أَبُو الْفَضْلِ، أَكْبَرُ أَوْلَادِ الْإِمَامِ أَحْمَدَ.",
+   "de": "Er ist Salih ibn Ahmad ibn Hanbal, Abu l-Fadl, der älteste Sohn Imam Ahmads.",
+   "page_id": 8019,
+   "book_id": 10906
+  },
+  {
+   "ar": "سَمِعَ مِنْ أَبِيهِ، وَتَفَقَّهَ عَلَيْهِ.",
+   "de": "Er hörte von seinem Vater und lernte bei ihm den Fiqh.",
+   "page_id": 8018,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَ سَنَةَ ثَلَاثٍ وَمِئَتَيْنِ.",
+   "de": "Er wurde im Jahr 203 geboren.",
+   "page_id": 8019,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَصَارَ قَاضِيَ أَصْبَهَانَ.",
+   "de": "Er wurde Richter von Isfahan.",
+   "page_id": 8018,
+   "book_id": 10906
+  },
+  {
+   "ar": "لَمَّا قُرِئَ عَهْدُهُ فِي أَصْبَهَانَ بَكَى، وَقَالَ: أَبْكَانِي أَنِّي تَذَكَّرْتُ أَبِي، كَأَنَّهُ يَرَانِي فِي هَذِهِ الْحَالِ.",
+   "de": "Als seine Ernennungsurkunde in Isfahan verlesen wurde, weinte er und sagte: Mich brachte zum Weinen, dass ich an meinen Vater dachte – als sähe er mich in diesem Zustand (als Amtsträger).",
+   "page_id": 8019,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَتُوُفِّيَ بِأَصْبَهَانَ سَنَةَ سِتٍّ وَسِتِّينَ وَمِئَتَيْنِ، وَقِيلَ: خَمْسٍ وَسِتِّينَ.",
+   "de": "Er starb in Isfahan im Jahr 266; nach anderer Angabe 265.",
+   "page_id": 8019,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "مَا بِبَلَدِنَا إِلاَّ مَنْ يُحِبُّ أَبَاكَ",
+   "text_de": "In unserer Stadt gibt es niemanden, der deinen Vater nicht liebt. (Gelehrte in Isfahan zu Salih)",
+   "page_id": 8019,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

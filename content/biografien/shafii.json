@@ -1,0 +1,74 @@
+{
+ "id": "shafii",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ مُحَمَّدُ بْنُ إِدْرِيسَ الشَّافِعِيُّ، أَبُو عَبْدِ اللَّهِ الْقُرَشِيُّ الْمُطَّلِبِيُّ.",
+   "de": "Er ist Muhammad ibn Idris asch-Schafiʿi, Abu ʿAbdillah aus Quraisch, aus der Familie al-Muttalib.",
+   "page_id": 6254,
+   "book_id": 10906
+  },
+  {
+   "ar": "لُقِّبَ بِعَالِمِ الْعَصْرِ، وَنَاصِرِ الْحَدِيثِ.",
+   "de": "Man nannte ihn den Gelehrten seiner Zeit und den Verteidiger des Hadith.",
+   "page_id": 6254,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَ بِغَزَّةَ سَنَةَ خَمْسِينَ وَمِئَةٍ، وَحُمِلَ إِلَى مَكَّةَ ابْنَ سَنَتَيْنِ.",
+   "de": "Er wurde im Jahr 150 in Gaza geboren und mit zwei Jahren nach Mekka gebracht.",
+   "page_id": 6259,
+   "book_id": 10906
+  },
+  {
+   "ar": "نَشَأَ يَتِيمًا، وَبَرَعَ فِي الرَّمْيِ، ثُمَّ أَقْبَلَ عَلَى الْعَرَبِيَّةِ وَالشَّرْعِ.",
+   "de": "Er wuchs als Waise auf, wurde ein ausgezeichneter Bogenschütze und wandte sich dann der arabischen Sprache und dem Recht zu.",
+   "page_id": 6255,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَحَفِظَ الْمُوَطَّأَ، ثُمَّ قَدِمَ عَلَى مَالِكٍ فِي الْمَدِينَةِ.",
+   "de": "Er lernte den Muwattaʾ auswendig und kam dann zu Malik nach Medina.",
+   "page_id": 6263,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَوَضَعَ كِتَابَ الرِّسَالَةِ.",
+   "de": "Er verfasste das Buch „ar-Risala“.",
+   "page_id": 6293,
+   "book_id": 10906
+  },
+  {
+   "ar": "قَالَ أَحْمَدُ لِابْنِهِ: كَانَ الشَّافِعِيُّ كَالشَّمْسِ لِلدُّنْيَا، وَكَالْعَافِيَةِ لِلنَّاسِ.",
+   "de": "Ahmad sagte zu seinem Sohn: asch-Schafiʿi war wie die Sonne für die Welt und wie die Gesundheit für die Menschen.",
+   "page_id": 6294,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَمَاتَ فِي شَعْبَانَ سَنَةَ أَرْبَعٍ وَمِئَتَيْنِ، وَلَهُ نَيِّفٌ وَخَمْسُونَ سَنَةً.",
+   "de": "Er starb im Schaʿban des Jahres 204, mit etwas über fünfzig Jahren.",
+   "page_id": 6325,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "الإِمَامُ، عَالِمُ العَصْرِ، نَاصِرُ الحَدِيْثِ",
+   "text_de": "Der Imam, der Gelehrte seiner Zeit, der Verteidiger des Hadith. (adh-Dhahabi)",
+   "page_id": 6254,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "كَانَ كَالشَّمْسِ لِلدُّنْيَا، وَكَالعَافِيَةِ لِلنَّاسِ",
+   "text_de": "Er war wie die Sonne für die Welt und wie die Gesundheit für die Menschen. (Imam Ahmad über asch-Schafiʿi)",
+   "page_id": 6294,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

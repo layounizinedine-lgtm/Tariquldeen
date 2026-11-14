@@ -1,0 +1,68 @@
+{
+ "id": "sufyan-thawri",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": "Sufyan ath-Thawri zählt zu den Atbaʿ at-Tabiʿin (Generation nach den Tabiʿin). Nacherzählung und Zitate nach adh-Dhahabis Siyar.",
+ "saetze": [
+  {
+   "ar": "هُوَ سُفْيَانُ بْنُ سَعِيدِ بْنِ مَسْرُوقٍ الثَّوْرِيُّ، أَبُو عَبْدِ اللَّهِ الْكُوفِيُّ.",
+   "de": "Er ist Sufyan ibn Saʿid ibn Masruq ath-Thawri, Abu ʿAbdillah aus Kufa.",
+   "page_id": 4894,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَ سَنَةَ سَبْعٍ وَتِسْعِينَ، وَطَلَبَ الْعِلْمَ صَغِيرًا بِعِنَايَةِ أَبِيهِ.",
+   "de": "Er wurde im Jahr 97 geboren und suchte schon als Junge Wissen, gefördert von seinem Vater.",
+   "page_id": 4894,
+   "book_id": 10906
+  },
+  {
+   "ar": "لُقِّبَ بِشَيْخِ الْإِسْلَامِ، وَإِمَامِ الْحُفَّاظِ.",
+   "de": "Man nannte ihn Schaikh al-Islam und Imam der Hadith-Bewahrer.",
+   "page_id": 4894,
+   "book_id": 10906
+  },
+  {
+   "ar": "قَالَ يَحْيَى الْقَطَّانُ: مَا رَأَيْتُ أَحَدًا أَحْفَظَ مِنْ سُفْيَانَ.",
+   "de": "Yahya al-Qattan sagte: Ich habe niemanden gesehen, der ein besseres Gedächtnis hatte als Sufyan.",
+   "page_id": 4901,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ رَأْسًا فِي الزُّهْدِ وَالْخَوْفِ وَالْفِقْهِ، لَا يَخَافُ فِي اللَّهِ لَوْمَةَ لَائِمٍ.",
+   "de": "Er war führend im Weltverzicht, in der Gottesfurcht und im Fiqh und fürchtete um Allahs willen keinen Tadel.",
+   "page_id": 4905,
+   "book_id": 10906
+  },
+  {
+   "ar": "طَلَبَهُ الْخَلِيفَةُ الْمَهْدِيُّ، فَتَوَارَى عَنْهُ.",
+   "de": "Der Kalif al-Mahdi suchte nach ihm, doch er hielt sich verborgen.",
+   "page_id": 4908,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَمَاتَ فِي أَوَّلِ سَنَةِ إِحْدَى وَسِتِّينَ وَمِئَةٍ.",
+   "de": "Er starb zu Beginn des Jahres 161.",
+   "page_id": 4943,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "هُوَ شَيْخُ الإِسْلاَمِ، إِمَامُ الحُفَّاظِ، سَيِّدُ العُلَمَاءِ العَامِلِيْنَ فِي زَمَانِهِ",
+   "text_de": "Er ist Schaikh al-Islam, der Imam der Hadith-Bewahrer, der Herr der handelnden Gelehrten seiner Zeit. (adh-Dhahabi)",
+   "page_id": 4894,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "مَا رَأَيتُ أَحَدًا أَحْفَظَ مِنْ سُفْيَانَ، ثُمَّ شُعْبَةَ",
+   "text_de": "Ich habe niemanden mit besserem Gedächtnis gesehen als Sufyan, dann Schuʿba. (Yahya al-Qattan)",
+   "page_id": 4903,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

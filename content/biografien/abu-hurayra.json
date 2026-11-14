@@ -1,0 +1,62 @@
+{
+ "id": "abu-hurayra",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ أَبُو هُرَيْرَةَ الدَّوْسِيُّ، صَاحِبُ رَسُولِ اللَّهِ ﷺ، وَسَيِّدُ الْحُفَّاظِ.",
+   "de": "Er ist Abu Hurayra ad-Dausi, Gefährte des Gesandten Allahs ﷺ und der Herr der Hadith-Bewahrer.",
+   "page_id": 2558,
+   "book_id": 10906
+  },
+  {
+   "ar": "اخْتُلِفَ فِي اسْمِهِ، وَأَرْجَحُ الْأَقْوَالِ: عَبْدُ الرَّحْمَنِ بْنُ صَخْرٍ.",
+   "de": "Über seinen Namen gibt es viele Angaben; am stärksten ist: ʿAbd ar-Rahman ibn Sakhr.",
+   "page_id": 2558,
+   "book_id": 10906
+  },
+  {
+   "ar": "قَدِمَ وَأَسْلَمَ فِي أَوَّلِ سَنَةِ سَبْعٍ، عَامَ خَيْبَرَ.",
+   "de": "Er kam und nahm den Islam an zu Beginn des Jahres 7, im Jahr von Khaybar.",
+   "page_id": 2566,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ فَقِيرًا مِنْ أَهْلِ الصُّفَّةِ، يَلْزَمُ النَّبِيَّ ﷺ.",
+   "de": "Er war ein Armer der Suffa und blieb ständig beim Propheten ﷺ.",
+   "page_id": 2575,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ يَحْضُرُ حِينَ يَغِيبُ النَّاسُ، وَيَحْفَظُ حِينَ يَنْسَوْنَ.",
+   "de": "Er war dabei, wenn andere fehlten, und behielt, wenn andere vergaßen.",
+   "page_id": 2575,
+   "book_id": 10906
+  },
+  {
+   "ar": "بَسَطَ ثَوْبَهُ عِنْدَ النَّبِيِّ ﷺ، فَمَا نَسِيَ شَيْئًا سَمِعَهُ مِنْهُ بَعْدَ ذَلِكَ.",
+   "de": "Er breitete sein Gewand vor dem Propheten ﷺ aus, und danach vergaß er nichts mehr, was er von ihm hörte.",
+   "page_id": 2575,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "سَيِّدُ الحُفَّاظِ الأَثْبَاتِ",
+   "text_de": "Der Herr der zuverlässigen Hadith-Bewahrer. (adh-Dhahabi)",
+   "page_id": 2558,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "فَوَالَّذِي بَعَثَهُ بِالحَقِّ، مَا نَسِيْتُ شَيْئًا سَمِعْتُهُ مِنْهُ",
+   "text_de": "Bei Dem, der ihn mit der Wahrheit gesandt hat: Ich habe nichts vergessen, was ich von ihm hörte. (Abu Hurayra)",
+   "page_id": 2575,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

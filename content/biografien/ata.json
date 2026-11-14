@@ -1,0 +1,62 @@
+{
+ "id": "ata",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ عَطَاءُ بْنُ أَبِي رَبَاحٍ، أَبُو مُحَمَّدٍ، مُفْتِي الْحَرَمِ.",
+   "de": "Er ist ʿAtaʾ ibn Abi Rabah, Abu Muhammad, der Rechtsgelehrte des heiligen Bezirks (Mekka).",
+   "page_id": 3850,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَ فِي خِلَافَةِ عُثْمَانَ، وَنَشَأَ بِمَكَّةَ.",
+   "de": "Er wurde während des Kalifats von ʿUthman geboren und wuchs in Mekka auf.",
+   "page_id": 3851,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ الْمُنَادِي فِي الْحَجِّ يَقُولُ: لَا يُفْتِي النَّاسَ إِلَّا عَطَاءُ بْنُ أَبِي رَبَاحٍ.",
+   "de": "Beim Haddsch rief ein Ausrufer: Niemand außer ʿAtaʾ ibn Abi Rabah soll den Leuten Rechtsauskunft geben.",
+   "page_id": 3854,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَحَجَّ أَكْثَرَ مِنْ سَبْعِينَ حَجَّةً.",
+   "de": "Er vollzog mehr als siebzig Mal den Haddsch.",
+   "page_id": 3854,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ الْمَسْجِدُ فِرَاشَهُ عِشْرِينَ سَنَةً، وَكَانَ مِنْ أَحْسَنِ النَّاسِ صَلَاةً.",
+   "de": "Zwanzig Jahre lang war die Moschee sein Lager, und er gehörte zu den Menschen mit dem schönsten Gebet.",
+   "page_id": 3856,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَمَاتَ وَهُوَ أَرْضَى أَهْلِ الْأَرْضِ عِنْدَ النَّاسِ.",
+   "de": "Als er starb, war er bei den Menschen der Beliebteste auf der Erde.",
+   "page_id": 3856,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "لاَ يُفْتِي النَّاسَ إِلاَّ عَطَاءُ بنُ أَبِي رَبَاحٍ",
+   "text_de": "Niemand außer ʿAtaʾ ibn Abi Rabah soll den Leuten Rechtsauskunft geben.",
+   "page_id": 3854,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "كَانَ المَسْجِدُ فِرَاشَ عَطَاءٍ عِشْرِيْنَ سَنَةً، وَكَانَ مِنْ أَحْسَنِ النَّاسِ صَلاَةً",
+   "text_de": "Zwanzig Jahre war die Moschee ʿAtaʾs Lager, und er hatte eines der schönsten Gebete. (Ibn Dschuraidsch)",
+   "page_id": 3856,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

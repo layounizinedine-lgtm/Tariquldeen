@@ -1,0 +1,48 @@
+{
+ "id": "abu-dawud",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": "Schüler Imam Ahmads – belegt in adh-Dhahabis Siyar (Seiten angegeben).",
+ "saetze": [
+  {
+   "ar": "هُوَ أَبُو دَاوُدَ سُلَيْمَانُ بْنُ الْأَشْعَثِ السِّجِسْتَانِيُّ، صَاحِبُ السُّنَنِ.",
+   "de": "Er ist Abu Dawud Sulayman ibn al-Aschʿath as-Sidschistani, der Verfasser der „Sunan“.",
+   "page_id": 8322,
+   "book_id": 10906
+  },
+  {
+   "ar": "لُقِّبَ بِشَيْخِ السُّنَّةِ وَمُقَدَّمِ الْحُفَّاظِ.",
+   "de": "Man nannte ihn Schaikh der Sunna und den Ersten unter den Hadith-Bewahrern.",
+   "page_id": 8322,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَ سَنَةَ اثْنَتَيْنِ وَمِئَتَيْنِ، وَرَحَلَ فِي طَلَبِ الْحَدِيثِ وَصَنَّفَ.",
+   "de": "Er wurde im Jahr 202 geboren, reiste auf der Suche nach Hadith und verfasste Werke.",
+   "page_id": 8323,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَسَمِعَ مِنْ أَحْمَدَ بْنِ حَنْبَلٍ وَطَبَقَتِهِ بِبَغْدَادَ.",
+   "de": "Er hörte in Bagdad von Ahmad ibn Hanbal und dessen Zeitgenossen.",
+   "page_id": 8324,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَتُوُفِّيَ فِي شَوَّالٍ سَنَةَ خَمْسٍ وَسَبْعِينَ وَمِئَتَيْنِ.",
+   "de": "Er starb im Schawwal des Jahres 275.",
+   "page_id": 8340,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "الإِمَامُ، شَيْخُ السُّنَّةِ، مُقَدَّمُ الحُفَّاظِ، أَبُو دَاوُدَ الأَزْدِيُّ، السِّجِسْتَانِيُّ، مُحَدِّثُ البَصْرَةِ",
+   "text_de": "Der Imam, Schaikh der Sunna, der Erste der Hadith-Bewahrer, Abu Dawud …, der Hadith-Gelehrte von Basra. (adh-Dhahabi)",
+   "page_id": 8322,
+   "einstufung": null,
+   "book_id": 10906
+  }
+ ]
+}

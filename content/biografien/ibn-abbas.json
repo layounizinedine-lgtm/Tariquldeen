@@ -1,0 +1,62 @@
+{
+ "id": "ibn-abbas",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ عَبْدُ اللَّهِ بْنُ عَبَّاسٍ، ابْنُ عَمِّ رَسُولِ اللَّهِ ﷺ.",
+   "de": "Er ist ʿAbdullah ibn ʿAbbas, der Cousin des Gesandten Allahs ﷺ.",
+   "page_id": 2939,
+   "book_id": 10906
+  },
+  {
+   "ar": "لُقِّبَ بِحَبْرِ الْأُمَّةِ، وَإِمَامِ التَّفْسِيرِ.",
+   "de": "Man nannte ihn den Gelehrten der Umma und den Imam der Quran-Auslegung.",
+   "page_id": 2939,
+   "book_id": 10906
+  },
+  {
+   "ar": "وُلِدَ فِي شِعْبِ بَنِي هَاشِمٍ، قَبْلَ الْهِجْرَةِ بِثَلَاثِ سِنِينَ.",
+   "de": "Er wurde in der Schlucht der Banu Haschim geboren, drei Jahre vor der Hidschra.",
+   "page_id": 2940,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ صَغِيرًا حِينَ تُوُفِّيَ النَّبِيُّ ﷺ، وَاخْتُلِفَ فِي سِنِّهِ يَوْمَئِذٍ.",
+   "de": "Er war noch jung, als der Prophet ﷺ starb; über sein damaliges Alter gibt es verschiedene Angaben.",
+   "page_id": 2943,
+   "book_id": 10906
+  },
+  {
+   "ar": "دَعَا لَهُ النَّبِيُّ ﷺ: اللَّهُمَّ فَقِّهْهُ فِي الدِّينِ، وَعَلِّمْهُ التَّأْوِيلَ.",
+   "de": "Der Prophet ﷺ betete für ihn: O Allah, gib ihm Verständnis in der Religion und lehre ihn die Auslegung.",
+   "page_id": 2945,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَدَعَا لَهُ بِالْحِكْمَةِ مَرَّتَيْنِ.",
+   "de": "Und er bat zweimal für ihn um Weisheit.",
+   "page_id": 2947,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "حَبْرُ الأُمَّةِ، وَفَقِيْهُ العَصْرِ، وَإِمَامُ التَّفْسِيْرِ",
+   "text_de": "Der Gelehrte der Umma, der Rechtsgelehrte seiner Zeit und der Imam der Quran-Auslegung. (adh-Dhahabi)",
+   "page_id": 2939,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "hadith",
+   "text_ar": "اللَّهُمَّ فَقِّهْهُ فِي الدِّيْنِ، وَعَلِّمْهُ التَّأْوِيْلَ",
+   "text_de": "O Allah, gib ihm Verständnis in der Religion und lehre ihn die Auslegung.",
+   "page_id": 2945,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

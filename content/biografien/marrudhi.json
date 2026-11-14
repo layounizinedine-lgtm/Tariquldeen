@@ -1,0 +1,54 @@
+{
+ "id": "marrudhi",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": "Schüler Imam Ahmads – belegt in adh-Dhahabis Siyar (Seiten angegeben).",
+ "saetze": [
+  {
+   "ar": "هُوَ أَبُو بَكْرٍ أَحْمَدُ بْنُ مُحَمَّدِ بْنِ الْحَجَّاجِ الْمَرُّوذِيُّ، صَاحِبُ الْإِمَامِ أَحْمَدَ.",
+   "de": "Er ist Abu Bakr Ahmad ibn Muhammad ibn al-Haddschadsch al-Marrudhi, der Gefährte Imam Ahmads.",
+   "page_id": 8292,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ الْمُقَدَّمَ مِنْ أَصْحَابِ أَحْمَدَ لِوَرَعِهِ وَفَضْلِهِ.",
+   "de": "Er war der Vorderste unter Ahmads Schülern wegen seiner Gewissenhaftigkeit und seines Vorzugs.",
+   "page_id": 8293,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَكَانَ أَحْمَدُ يَأْنَسُ بِهِ، وَلَا يُقَدِّمُ عَلَيْهِ أَحَدًا.",
+   "de": "Ahmad fühlte sich mit ihm wohl und stellte niemanden über ihn.",
+   "page_id": 8294,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَرَوَى عَنْهُ مَسَائِلَ كَثِيرَةً.",
+   "de": "Er überlieferte von ihm viele Rechtsfragen.",
+   "page_id": 8294,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَهُوَ الَّذِي أَغْمَضَ عَيْنَيْ أَحْمَدَ لَمَّا مَاتَ، وَغَسَّلَهُ.",
+   "de": "Er war es, der Ahmad nach seinem Tod die Augen schloss und ihn wusch.",
+   "page_id": 8293,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَتُوُفِّيَ فِي جُمَادَى الْأُولَى سَنَةَ خَمْسٍ وَسَبْعِينَ وَمِئَتَيْنِ.",
+   "de": "Er starb im Dschumada al-Ula des Jahres 275.",
+   "page_id": 8294,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "هُوَ المُقَدَّمُ مِنْ أَصْحَابِ أَحْمَدَ لِوَرَعِهِ وَفَضْلِهِ، وَكَانَ أَحْمَدُ يَأْنَسُ بِهِ، وَيَنْبَسِطُ إِلَيْهِ",
+   "text_de": "Er ist der Vorderste unter Ahmads Gefährten wegen seiner Gewissenhaftigkeit und seines Vorzugs; Ahmad fühlte sich mit ihm wohl und vertraut. (al-Khatib)",
+   "page_id": 8293,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}

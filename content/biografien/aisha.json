@@ -1,0 +1,62 @@
+{
+ "id": "aisha",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هِيَ عَائِشَةُ بِنْتُ أَبِي بَكْرٍ الصِّدِّيقِ، أُمُّ الْمُؤْمِنِينَ، زَوْجَةُ النَّبِيِّ ﷺ.",
+   "de": "Sie ist ʿAischa, die Tochter Abu Bakrs as-Siddiq, die Mutter der Gläubigen und Ehefrau des Propheten ﷺ.",
+   "page_id": 2115,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَهِيَ أَفْقَهُ نِسَاءِ الْأُمَّةِ.",
+   "de": "Sie ist die rechtskundigste Frau der Umma.",
+   "page_id": 2115,
+   "book_id": 10906
+  },
+  {
+   "ar": "تَزَوَّجَهَا النَّبِيُّ ﷺ قَبْلَ الْهِجْرَةِ، بَعْدَ وَفَاةِ خَدِيجَةَ.",
+   "de": "Der Prophet ﷺ heiratete sie vor der Hidschra, nach dem Tod Khadijas.",
+   "page_id": 2115,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَرَوَتْ عَنْهُ عِلْمًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ.",
+   "de": "Sie überlieferte von ihm viel gutes und gesegnetes Wissen.",
+   "page_id": 2115,
+   "book_id": 10906
+  },
+  {
+   "ar": "قَالَ النَّبِيُّ ﷺ: فَضْلُ عَائِشَةَ عَلَى النِّسَاءِ كَفَضْلِ الثَّرِيدِ عَلَى سَائِرِ الطَّعَامِ.",
+   "de": "Der Prophet ﷺ sagte: Der Vorzug ʿAischas vor den Frauen ist wie der Vorzug des Tharid vor allen anderen Speisen.",
+   "page_id": 2124,
+   "book_id": 10906
+  },
+  {
+   "ar": "تُوُفِّيَتْ سَنَةَ سَبْعٍ وَخَمْسِينَ، وَقِيلَ: سَنَةَ ثَمَانٍ وَخَمْسِينَ.",
+   "de": "Sie starb im Jahr 57; nach anderer Angabe im Jahr 58.",
+   "page_id": 2172,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "أَفْقَهُ نِسَاءِ الأُمَّةِ عَلَى الإِطْلاَقِ",
+   "text_de": "Die rechtskundigste Frau der Umma überhaupt. (adh-Dhahabi)",
+   "page_id": 2115,
+   "einstufung": null,
+   "book_id": 10906
+  },
+  {
+   "typ": "hadith",
+   "text_ar": "فَضْلُ عَائِشَةَ عَلَى النِّسَاءِ، كَفَضْلِ الثَّرِيْدِ عَلَى سَائِرِ الطَّعَامِ",
+   "text_de": "Der Vorzug ʿAischas vor den Frauen ist wie der Vorzug des Tharid vor allen anderen Speisen.",
+   "page_id": 2124,
+   "einstufung": "متفق عليه (laut adh-Dhahabi)",
+   "book_id": 10906
+  }
+ ]
+}

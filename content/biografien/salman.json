@@ -1,0 +1,74 @@
+{
+ "id": "salman",
+ "niveau": "B1",
+ "werk_kurz": "Siyar",
+ "hinweis": null,
+ "saetze": [
+  {
+   "ar": "هُوَ سَلْمَانُ الْفَارِسِيُّ، أَبُو عَبْدِ اللَّهِ، سَابِقُ الْفُرْسِ إِلَى الْإِسْلَامِ.",
+   "de": "Er ist Salman al-Farisi, Abu ʿAbdillah, der erste Perser im Islam.",
+   "page_id": 1931,
+   "book_id": 10906
+  },
+  {
+   "ar": "كَانَ مِنْ أَهْلِ أَصْبَهَانَ، مِنْ قَرْيَةٍ اسْمُهَا جَيٌّ، وَكَانَ أَبُوهُ دِهْقَانَهَا.",
+   "de": "Er stammte aus Isfahan, aus einem Dorf namens Dschayy, dessen Vorsteher sein Vater war.",
+   "page_id": 1932,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَاجْتَهَدَ فِي الْمَجُوسِيَّةِ حَتَّى كَانَ يَحْرُسُ النَّارَ.",
+   "de": "Er war so eifrig im Zoroastrismus, dass er das Feuer hütete.",
+   "page_id": 1932,
+   "book_id": 10906
+  },
+  {
+   "ar": "ثُمَّ تَرَكَ دِينَ قَوْمِهِ، وَصَحِبَ رُهْبَانًا مِنَ النَّصَارَى، آخِرُهُمْ فِي عَمُّورِيَةَ.",
+   "de": "Dann verließ er die Religion seines Volkes und begleitete christliche Mönche, der letzte von ihnen in Amorium.",
+   "page_id": 1935,
+   "book_id": 10906
+  },
+  {
+   "ar": "أَخْبَرَهُ صَاحِبُ عَمُّورِيَةَ أَنَّهُ قَدْ أَظَلَّهُ زَمَانُ نَبِيٍّ يُهَاجِرُ إِلَى أَرْضٍ ذَاتِ نَخْلٍ.",
+   "de": "Der Mönch von Amorium sagte ihm, die Zeit eines Propheten sei nahe, der in ein Land mit Palmen auswandern werde.",
+   "page_id": 1935,
+   "book_id": 10906
+  },
+  {
+   "ar": "فَظَلَمَهُ قَوْمٌ وَبَاعُوهُ عَبْدًا لِرَجُلٍ يَهُودِيٍّ.",
+   "de": "Doch Leute taten ihm Unrecht und verkauften ihn als Sklaven an einen jüdischen Mann.",
+   "page_id": 1935,
+   "book_id": 10906
+  },
+  {
+   "ar": "لَمَّا رَأَى خَاتَمَ النُّبُوَّةِ عَرَفَ النَّبِيَّ ﷺ، فَأَسْلَمَ.",
+   "de": "Als er das Siegel des Prophetentums sah, erkannte er den Propheten ﷺ und nahm den Islam an.",
+   "page_id": 1936,
+   "book_id": 10906
+  },
+  {
+   "ar": "وَأَعَانَهُ الصَّحَابَةُ بِالنَّخْلِ حَتَّى عُتِقَ، فَشَهِدَ الْخَنْدَقَ حُرًّا.",
+   "de": "Die Gefährten halfen ihm mit Palmsetzlingen, bis er frei war, und so nahm er als freier Mann am Grabenkrieg teil.",
+   "page_id": 1937,
+   "book_id": 10906
+  }
+ ],
+ "zitate": [
+  {
+   "typ": "athar",
+   "text_ar": "كُنْتُ رَجُلًا فَارِسِيًّا مِنْ أَهْلِ أَصْبَهَانَ",
+   "text_de": "Ich war ein Perser aus Isfahan. (Salman)",
+   "page_id": 1932,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  },
+  {
+   "typ": "athar",
+   "text_ar": "فَشَهِدْتُ مَعَ رَسُوْلِ اللهِ -ﷺ- الخَنْدَقَ حُرًّا، ثُمَّ لَمْ يَفُتْنِي مَعَهُ مَشْهَدٌ",
+   "text_de": "Ich nahm mit dem Gesandten Allahs ﷺ als freier Mann am Graben teil, und danach verpasste ich keine Schlacht mit ihm. (Salman)",
+   "page_id": 1937,
+   "einstufung": "[Einstufung nicht angegeben – zu prüfen]",
+   "book_id": 10906
+  }
+ ]
+}
