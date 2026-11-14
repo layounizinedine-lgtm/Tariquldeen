@@ -29,3 +29,12 @@ Optional unter Settings → Secrets and variables → Actions → *Variables*: `
 `content/katalog.json` listet alle Geschichten (25 Propheten, die zehn mit Paradies-Zusage, weitere Sahaba, Tabi'in, Imam Ahmad & Schüler).
 `npm run build:katalog` lädt dazu Quran-Verse (Quran.com-API) und Hadith (hadith-api) und schreibt `src/data/geschichten/*.json`.
 Alles ist `entwurf`. Ohne Quellentext bleibt ein „Gerüst“ mit Platzhaltern – nichts wird erfunden.
+
+## Prüfen & Freigeben (ohne Supabase)
+1. Fachkundige Person öffnet die App mit `#/pruefen`, hakt je Geschichte alle Punkte ab und wählt die geprüften Fassungen.
+2. „Eintrag kopieren“ → in `content/pruefung.json` unter `"freigaben"` einfügen (Link „Auf GitHub einfügen“).
+3. Nach dem Speichern baut GitHub die Seite neu; die Geschichte ist dann ohne `?entwurf=1` sichtbar und trägt „✓ Geprüft von … am …“.
+Freigaben macht nur ein Mensch – nie die KI.
+
+## Bilder
+`public/bilder/<id>.webp` (Aquarell, ohne Menschen/Gesichter). Fehlt ein Bild, zeigt die App eine einfache Grafik.
