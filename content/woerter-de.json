@@ -1,0 +1,1451 @@
+{
+"_anleitung": "Handkorrekturen: Schlüssel = Grundform ohne Harakat. de = Bedeutung, art = Wortart (optional). Gelten für Lemma-Treffer in tools/woerter/bauen.py.",
+"الله": {
+"de": "Allah",
+"art": "Eigenname"
+},
+"يوسف": {
+"de": "Yusuf (Prophet)",
+"art": "Eigenname"
+},
+"عمر": {
+"de": "Umar",
+"art": "Eigenname"
+},
+"احمد": {
+"de": "Ahmad",
+"art": "Eigenname"
+},
+"بكر": {
+"de": "Bakr (Abu Bakr)",
+"art": "Eigenname"
+},
+"بدر": {
+"de": "Badr (Ort der Schlacht)",
+"art": "Eigenname"
+},
+"عبيدة": {
+"de": "Ubayda",
+"art": "Eigenname"
+},
+"اسحاق": {
+"de": "Ishaq (Prophet)",
+"art": "Eigenname"
+},
+"عثمان": {
+"de": "Uthman",
+"art": "Eigenname"
+},
+"سفيان": {
+"de": "Sufyan",
+"art": "Eigenname"
+},
+"سليمان": {
+"de": "Sulayman (Prophet)",
+"art": "Eigenname"
+},
+"قريش": {
+"de": "Quraisch (Stamm)",
+"art": "Eigenname"
+},
+"حنبل": {
+"de": "Hanbal",
+"art": "Eigenname"
+},
+"نوح": {
+"de": "Nuh (Prophet)",
+"art": "Eigenname"
+},
+"ادم": {
+"de": "Adam (Prophet)",
+"art": "Eigenname"
+},
+"بغداد": {
+"de": "Bagdad",
+"art": "Eigenname"
+},
+"هود": {
+"de": "Hud (Prophet)",
+"art": "Eigenname"
+},
+"لوط": {
+"de": "Lut (Prophet)",
+"art": "Eigenname"
+},
+"مصر": {
+"de": "Ägypten",
+"art": "Eigenname"
+},
+"عمرو": {
+"de": "Amr",
+"art": "Eigenname"
+},
+"فاطمة": {
+"de": "Fatima",
+"art": "Eigenname"
+},
+"عيسى": {
+"de": "Isa (Prophet)",
+"art": "Eigenname"
+},
+"كوفة": {
+"de": "Kufa",
+"art": "Eigenname"
+},
+"اسماعيل": {
+"de": "Ismail (Prophet)",
+"art": "Eigenname"
+},
+"حسين": {
+"de": "al-Husayn",
+"art": "Eigenname"
+},
+"زكريا": {
+"de": "Zakariya (Prophet)",
+"art": "Eigenname"
+},
+"فرعون": {
+"de": "Pharao",
+"art": "Eigenname"
+},
+"عوف": {
+"de": "Awf",
+"art": "Eigenname"
+},
+"زبير": {
+"de": "az-Zubayr",
+"art": "Eigenname"
+},
+"ادريس": {
+"de": "Idris (Prophet)",
+"art": "Eigenname"
+},
+"زيد": {
+"de": "Zayd",
+"art": "Eigenname"
+},
+"حبش": {
+"de": "Abessinien",
+"art": "Eigenname"
+},
+"شام": {
+"de": "Syrien (asch-Scham)",
+"art": "Eigenname"
+},
+"خديجة": {
+"de": "Khadija",
+"art": "Eigenname"
+},
+"حمزة": {
+"de": "Hamza",
+"art": "Eigenname"
+},
+"عراق": {
+"de": "Irak",
+"art": "Eigenname"
+},
+"عباس": {
+"de": "Abbas",
+"art": "Eigenname"
+},
+"الياس": {
+"de": "Ilyas (Prophet)",
+"art": "Eigenname"
+},
+"مريم": {
+"de": "Maryam",
+"art": "Eigenname"
+},
+"موسى": {
+"de": "Musa (Prophet)",
+"art": "Eigenname"
+},
+"ابراهيم": {
+"de": "Ibrahim (Prophet)",
+"art": "Eigenname"
+},
+"مكة": {
+"de": "Mekka",
+"art": "Eigenname"
+},
+"محمد": {
+"de": "Muhammad",
+"art": "Eigenname"
+},
+"قران": {
+"de": "Koran",
+"art": "Eigenname"
+},
+"رحمن": {
+"de": "der Allerbarmer (ar-Rahman)",
+"art": "Eigenname"
+},
+"يعقوب": {
+"de": "Yaqub (Prophet)",
+"art": "Eigenname"
+},
+"داود": {
+"de": "Dawud (Prophet)",
+"art": "Eigenname"
+},
+"اسلام": {
+"de": "Islam",
+"art": "Nomen"
+},
+"يمن": {
+"de": "Jemen",
+"art": "Eigenname"
+},
+"شافعي": {
+"de": "asch-Schafiʿi",
+"art": "Eigenname"
+},
+"علي": {
+"de": "Ali",
+"art": "Eigenname"
+},
+"نبي": {
+"de": "Prophet",
+"art": "Nomen"
+},
+"بن": {
+"de": "Sohn (von)",
+"art": "Nomen"
+},
+"ابن": {
+"de": "Sohn",
+"art": "Nomen"
+},
+"لما": {
+"de": "als / nachdem",
+"art": "Konjunktion"
+},
+"احد": {
+"de": "einer / jemand",
+"art": "Nomen"
+},
+"رب": {
+"de": "Herr",
+"art": "Nomen"
+},
+"عبد": {
+"de": "Diener / Sklave",
+"art": "Nomen"
+},
+"قوم": {
+"de": "Volk",
+"art": "Nomen"
+},
+"اهل": {
+"de": "Leute / Familie",
+"art": "Nomen"
+},
+"اول": {
+"de": "erster",
+"art": "Adjektiv"
+},
+"يوم": {
+"de": "Tag",
+"art": "Nomen"
+},
+"رسول": {
+"de": "Gesandter",
+"art": "Nomen"
+},
+"ناس": {
+"de": "Menschen",
+"art": "Nomen"
+},
+"بعد": {
+"de": "nach",
+"art": "Präposition"
+},
+"عالم": {
+"de": "Gelehrter",
+"art": "Nomen"
+},
+"ولد": {
+"de": "geboren werden / gebären",
+"art": "Verb"
+},
+"دعا": {
+"de": "rufen / einladen / bitten",
+"art": "Verb"
+},
+"حتى": {
+"de": "bis / sogar",
+"art": "Präposition"
+},
+"امام": {
+"de": "Imam / Vorbeter",
+"art": "Nomen"
+},
+"الذي": {
+"de": "der, welcher",
+"art": "Relativpronomen"
+},
+"جعل": {
+"de": "machen / einsetzen",
+"art": "Verb"
+},
+"ارض": {
+"de": "Erde / Land",
+"art": "Nomen"
+},
+"جنة": {
+"de": "Paradies / Garten",
+"art": "Nomen"
+},
+"مدينة": {
+"de": "Stadt",
+"art": "Nomen"
+},
+"امن": {
+"de": "glauben",
+"art": "Verb"
+},
+"شهد": {
+"de": "bezeugen / dabei sein",
+"art": "Verb"
+},
+"مومن": {
+"de": "Gläubiger",
+"art": "Nomen"
+},
+"ام": {
+"de": "Mutter",
+"art": "Nomen"
+},
+"مسلم": {
+"de": "Muslim",
+"art": "Nomen"
+},
+"قبل": {
+"de": "vor",
+"art": "Präposition"
+},
+"سال": {
+"de": "fragen / bitten",
+"art": "Verb"
+},
+"توفى": {
+"de": "sterben (verscheiden)",
+"art": "Verb"
+},
+"حديث": {
+"de": "Bericht / Hadith",
+"art": "Nomen"
+},
+"عند": {
+"de": "bei",
+"art": "Präposition"
+},
+"ثلاث": {
+"de": "drei",
+"art": "Zahlwort"
+},
+"علم": {
+"de": "Wissen",
+"art": "Nomen"
+},
+"صالح": {
+"de": "rechtschaffen",
+"art": "Adjektiv"
+},
+"مئة": {
+"de": "hundert",
+"art": "Zahlwort"
+},
+"طلب": {
+"de": "verlangen / suchen",
+"art": "Verb"
+},
+"جاء": {
+"de": "kommen",
+"art": "Verb"
+},
+"ملك": {
+"de": "König",
+"art": "Nomen"
+},
+"بشر": {
+"de": "frohe Botschaft verkünden",
+"art": "Verb"
+},
+"خليفة": {
+"de": "Kalif / Statthalter",
+"art": "Nomen"
+},
+"رجل": {
+"de": "Mann",
+"art": "Nomen"
+},
+"عبادة": {
+"de": "Gottesdienst / Anbetung",
+"art": "Nomen"
+},
+"ارسل": {
+"de": "senden",
+"art": "Verb"
+},
+"اسم": {
+"de": "Name",
+"art": "Nomen"
+},
+"امة": {
+"de": "Gemeinschaft (Umma)",
+"art": "Nomen"
+},
+"اخذ": {
+"de": "nehmen",
+"art": "Verb"
+},
+"اعطى": {
+"de": "geben",
+"art": "Verb"
+},
+"كثير": {
+"de": "viel",
+"art": "Adjektiv"
+},
+"رحمة": {
+"de": "Barmherzigkeit",
+"art": "Nomen"
+},
+"كتاب": {
+"de": "Buch",
+"art": "Nomen"
+},
+"صلاة": {
+"de": "Gebet (Salat)",
+"art": "Nomen"
+},
+"ذهب": {
+"de": "gehen",
+"art": "Verb"
+},
+"خلافة": {
+"de": "Kalifat",
+"art": "Nomen"
+},
+"قميص": {
+"de": "Hemd",
+"art": "Nomen"
+},
+"اخوة": {
+"de": "Brüder",
+"art": "Nomen"
+},
+"فقيه": {
+"de": "Rechtsgelehrter (Faqih)",
+"art": "Nomen"
+},
+"سجن": {
+"de": "Gefängnis",
+"art": "Nomen"
+},
+"ترك": {
+"de": "verlassen / zurücklassen",
+"art": "Verb"
+},
+"امراة": {
+"de": "Frau",
+"art": "Nomen"
+},
+"دين": {
+"de": "Religion",
+"art": "Nomen"
+},
+"خير": {
+"de": "Gutes / besser",
+"art": "Nomen"
+},
+"اكل": {
+"de": "essen",
+"art": "Verb"
+},
+"روى": {
+"de": "überliefern / erzählen",
+"art": "Verb"
+},
+"صاحب": {
+"de": "Gefährte / Besitzer",
+"art": "Nomen"
+},
+"عزيز": {
+"de": "Aziz (Machthaber) / mächtig",
+"art": "Nomen"
+},
+"امير": {
+"de": "Befehlshaber / Emir",
+"art": "Nomen"
+},
+"وجد": {
+"de": "finden",
+"art": "Verb"
+},
+"سابق": {
+"de": "früher / vorausgehend",
+"art": "Adjektiv"
+},
+"عم": {
+"de": "Onkel (väterlicherseits)",
+"art": "Nomen"
+},
+"مال": {
+"de": "Vermögen",
+"art": "Nomen"
+},
+"حين": {
+"de": "Zeit / Zeitpunkt",
+"art": "Nomen"
+},
+"انس": {
+"de": "Menschen",
+"art": "Nomen"
+},
+"مالك": {
+"de": "Besitzer / Malik",
+"art": "Nomen"
+},
+"بين": {
+"de": "zwischen",
+"art": "Präposition"
+},
+"بني": {
+"de": "Söhne von / Stamm",
+"art": "Nomen"
+},
+"يد": {
+"de": "Hand",
+"art": "Nomen"
+},
+"سمع": {
+"de": "hören",
+"art": "Verb"
+},
+"حافظ": {
+"de": "Bewahrer / Auswendiglerner",
+"art": "Nomen"
+},
+"سمى": {
+"de": "nennen",
+"art": "Verb"
+},
+"حمل": {
+"de": "tragen",
+"art": "Verb"
+},
+"زوج": {
+"de": "Ehepartner",
+"art": "Nomen"
+},
+"لقب": {
+"de": "Beiname",
+"art": "Nomen"
+},
+"حفظ": {
+"de": "bewahren / auswendig lernen",
+"art": "Verb"
+},
+"بكى": {
+"de": "weinen",
+"art": "Verb"
+},
+"بنت": {
+"de": "Tochter",
+"art": "Nomen"
+},
+"ذو": {
+"de": "Besitzer von / mit",
+"art": "Nomen"
+},
+"شيطان": {
+"de": "Satan",
+"art": "Nomen"
+},
+"عشرون": {
+"de": "zwanzig",
+"art": "Zahlwort"
+},
+"كبير": {
+"de": "groß / alt",
+"art": "Adjektiv"
+},
+"طير": {
+"de": "Vögel",
+"art": "Nomen"
+},
+"اية": {
+"de": "Zeichen / Vers",
+"art": "Nomen"
+},
+"سفينة": {
+"de": "Schiff",
+"art": "Nomen"
+},
+"ان": {
+"de": "dass / wenn",
+"art": "Partikel"
+},
+"حق": {
+"de": "Wahrheit / Recht",
+"art": "Nomen"
+},
+"رجع": {
+"de": "zurückkehren",
+"art": "Verb"
+},
+"يا": {
+"de": "o (Anrede)",
+"art": "Anrufpartikel"
+},
+"بيت": {
+"de": "Haus",
+"art": "Nomen"
+},
+"سعيد": {
+"de": "glücklich / Saʿid",
+"art": "Adjektiv"
+},
+"فقه": {
+"de": "Fiqh (islamisches Recht)",
+"art": "Nomen"
+},
+"سبع": {
+"de": "sieben",
+"art": "Zahlwort"
+},
+"فضل": {
+"de": "Vorzug / Gunst",
+"art": "Nomen"
+},
+"رفع": {
+"de": "erheben",
+"art": "Verb"
+},
+"باب": {
+"de": "Tür / Tor",
+"art": "Nomen"
+},
+"سبيل": {
+"de": "Weg",
+"art": "Nomen"
+},
+"اوصى": {
+"de": "ein Vermächtnis geben / auftragen",
+"art": "Verb"
+},
+"صغير": {
+"de": "klein / jung",
+"art": "Adjektiv"
+},
+"اباء": {
+"de": "Väter",
+"art": "Nomen"
+},
+"غير": {
+"de": "nicht / anderer",
+"art": "Nomen"
+},
+"نعمة": {
+"de": "Gnade / Wohltat",
+"art": "Nomen"
+},
+"طالب": {
+"de": "Schüler / Suchender",
+"art": "Nomen"
+},
+"قاتل": {
+"de": "kämpfen",
+"art": "Verb"
+},
+"ملاك": {
+"de": "Engel",
+"art": "Nomen"
+},
+"نار": {
+"de": "Feuer",
+"art": "Nomen"
+},
+"اذا": {
+"de": "wenn",
+"art": "Konjunktion"
+},
+"عابد": {
+"de": "Anbetender / Gottesdiener",
+"art": "Nomen"
+},
+"تاويل": {
+"de": "Deutung / Auslegung",
+"art": "Nomen"
+},
+"واحد": {
+"de": "eins / einer",
+"art": "Zahlwort"
+},
+"استشهد": {
+"de": "als Märtyrer sterben",
+"art": "Verb"
+},
+"مولى": {
+"de": "Schutzbefohlener / Freigelassener / Herr",
+"art": "Nomen"
+},
+"صحابة": {
+"de": "Gefährten (des Propheten)",
+"art": "Nomen"
+},
+"هاجر": {
+"de": "auswandern",
+"art": "Verb"
+},
+"زمان": {
+"de": "Zeit",
+"art": "Nomen"
+},
+"تزوج": {
+"de": "heiraten",
+"art": "Verb"
+},
+"قول": {
+"de": "Aussage / Wort",
+"art": "Nomen"
+},
+"عرف": {
+"de": "kennen / erkennen",
+"art": "Verb"
+},
+"دخل": {
+"de": "eintreten",
+"art": "Verb"
+},
+"وجه": {
+"de": "Gesicht",
+"art": "Nomen"
+},
+"عائش": {
+"de": "lebend",
+"art": "Adjektiv"
+},
+"شمس": {
+"de": "Sonne",
+"art": "Nomen"
+},
+"حسن": {
+"de": "gut / schön",
+"art": "Adjektiv"
+},
+"اخبر": {
+"de": "berichten / mitteilen",
+"art": "Verb"
+},
+"نفس": {
+"de": "Seele / Selbst",
+"art": "Nomen"
+},
+"استجاب": {
+"de": "erhören / antworten",
+"art": "Verb"
+},
+"شيء": {
+"de": "Ding / etwas",
+"art": "Nomen"
+},
+"بئر": {
+"de": "Brunnen",
+"art": "Nomen"
+},
+"ماء": {
+"de": "Wasser",
+"art": "Nomen"
+},
+"حكم": {
+"de": "Urteil / Entscheidung",
+"art": "Nomen"
+},
+"شيخ": {
+"de": "Schaikh / Lehrer / Greis",
+"art": "Nomen"
+},
+"تلميذ": {
+"de": "Schüler",
+"art": "Nomen"
+},
+"بقي": {
+"de": "bleiben",
+"art": "Verb"
+},
+"فتح": {
+"de": "Eroberung / Öffnen",
+"art": "Nomen"
+},
+"عين": {
+"de": "Auge / Quelle",
+"art": "Nomen"
+},
+"مسجد": {
+"de": "Moschee",
+"art": "Nomen"
+},
+"تابع": {
+"de": "Nachfolger (Tabiʿi)",
+"art": "Nomen"
+},
+"الف": {
+"de": "tausend",
+"art": "Zahlwort"
+},
+"حج": {
+"de": "Pilgerfahrt (Haddsch)",
+"art": "Nomen"
+},
+"جميل": {
+"de": "schön",
+"art": "Adjektiv"
+},
+"توفي": {
+"de": "sterben (verscheiden)",
+"art": "Verb"
+},
+"رويا": {
+"de": "Traum / Vision",
+"art": "Nomen"
+},
+"رؤى": {
+"de": "Traum / Vision",
+"art": "Nomen"
+},
+"رد": {
+"de": "Antwort / Zurückweisen",
+"art": "Nomen"
+},
+"صابر": {
+"de": "geduldig",
+"art": "Adjektiv"
+},
+"كلام": {
+"de": "Rede",
+"art": "Nomen"
+},
+"اراد": {
+"de": "wollen",
+"art": "Verb"
+},
+"يتيم": {
+"de": "Waise",
+"art": "Nomen"
+},
+"هجرة": {
+"de": "Auswanderung (Hidschra)",
+"art": "Nomen"
+},
+"او": {
+"de": "oder",
+"art": "Konjunktion"
+},
+"جبل": {
+"de": "Berg",
+"art": "Nomen"
+},
+"احب": {
+"de": "lieben",
+"art": "Verb"
+},
+"دنيا": {
+"de": "diese Welt",
+"art": "Nomen"
+},
+"دينار": {
+"de": "Dinar",
+"art": "Nomen"
+},
+"زاهد": {
+"de": "Asket",
+"art": "Nomen"
+},
+"قطع": {
+"de": "abschneiden / durchqueren",
+"art": "Verb"
+},
+"صنم": {
+"de": "Götzenbild",
+"art": "Nomen"
+},
+"امين": {
+"de": "vertrauenswürdig",
+"art": "Adjektiv"
+},
+"ضرب": {
+"de": "schlagen / Schlag",
+"art": "Verb"
+},
+"نبوة": {
+"de": "Prophetentum",
+"art": "Nomen"
+},
+"كيد": {
+"de": "List / Ränke",
+"art": "Nomen"
+},
+"سجد": {
+"de": "sich niederwerfen",
+"art": "Verb"
+},
+"خمس": {
+"de": "fünf",
+"art": "Zahlwort"
+},
+"زهد": {
+"de": "Weltverzicht",
+"art": "Nomen"
+},
+"شورى": {
+"de": "Beratung (Schura)",
+"art": "Nomen"
+},
+"بعث": {
+"de": "senden / aussenden",
+"art": "Verb"
+},
+"سهم": {
+"de": "Pfeil / Anteil",
+"art": "Nomen"
+},
+"اوحى": {
+"de": "eingeben / offenbaren",
+"art": "Verb"
+},
+"القى": {
+"de": "werfen / hinabwerfen",
+"art": "Verb"
+},
+"شاب": {
+"de": "junger Mann",
+"art": "Nomen"
+},
+"نادى": {
+"de": "rufen",
+"art": "Verb"
+},
+"توحيد": {
+"de": "Bekenntnis der Einzigkeit Allahs",
+"art": "Nomen"
+},
+"اذ": {
+"de": "als / damals",
+"art": "Partikel"
+},
+"كيل": {
+"de": "Maß (Hohlmaß)",
+"art": "Nomen"
+},
+"شجرة": {
+"de": "Baum",
+"art": "Nomen"
+},
+"نها": {
+"de": "verbieten",
+"art": "Verb"
+},
+"ولي": {
+"de": "verwalten / folgen",
+"art": "Verb"
+},
+"ورع": {
+"de": "Gewissenhaftigkeit (Waraʿ)",
+"art": "Nomen"
+},
+"شاكر": {
+"de": "dankbar",
+"art": "Adjektiv"
+},
+"اوائل": {
+"de": "Erste (Frühere)",
+"art": "Nomen"
+},
+"ثماني": {
+"de": "acht",
+"art": "Zahlwort"
+},
+"ريح": {
+"de": "Wind / Duft",
+"art": "Nomen"
+},
+"كلم": {
+"de": "sprechen",
+"art": "Verb"
+},
+"نساء": {
+"de": "Frauen",
+"art": "Nomen"
+},
+"عصا": {
+"de": "Stock",
+"art": "Nomen"
+},
+"نجى": {
+"de": "retten",
+"art": "Verb"
+},
+"بعض": {
+"de": "einige / ein Teil von",
+"art": "Nomen"
+},
+"مكان": {
+"de": "Ort",
+"art": "Nomen"
+},
+"غلام": {
+"de": "Junge",
+"art": "Nomen"
+},
+"فارسي": {
+"de": "persisch / Perser",
+"art": "Adjektiv"
+},
+"قرية": {
+"de": "Dorf / Stadt",
+"art": "Nomen"
+},
+"اربع": {
+"de": "vier",
+"art": "Zahlwort"
+},
+"ابناء": {
+"de": "Söhne",
+"art": "Nomen"
+},
+"اكثر": {
+"de": "mehr / meist",
+"art": "Adjektiv"
+},
+"سيف": {
+"de": "Schwert",
+"art": "Nomen"
+},
+"ناقة": {
+"de": "Kamelstute",
+"art": "Nomen"
+},
+"تفسير": {
+"de": "Auslegung (Tafsir)",
+"art": "Nomen"
+},
+"مسالة": {
+"de": "Rechtsfrage / Angelegenheit",
+"art": "Nomen"
+},
+"شكا": {
+"de": "klagen",
+"art": "Verb"
+},
+"حديد": {
+"de": "Eisen",
+"art": "Nomen"
+},
+"حكمة": {
+"de": "Weisheit",
+"art": "Nomen"
+},
+"صديق": {
+"de": "Wahrhaftiger (Siddiq)",
+"art": "Nomen"
+},
+"منذ": {
+"de": "seit",
+"art": "Präposition"
+},
+"تجارة": {
+"de": "Handel",
+"art": "Nomen"
+},
+"حي": {
+"de": "lebendig",
+"art": "Adjektiv"
+},
+"خاف": {
+"de": "fürchten",
+"art": "Verb"
+},
+"صبي": {
+"de": "Junge / Kind",
+"art": "Nomen"
+},
+"جماعة": {
+"de": "Gruppe",
+"art": "Nomen"
+},
+"ال": {
+"de": "Familie / Haus",
+"art": "Nomen"
+},
+"نجا": {
+"de": "gerettet werden",
+"art": "Verb"
+},
+"رمى": {
+"de": "werfen / schießen",
+"art": "Verb"
+},
+"عدل": {
+"de": "Gerechtigkeit",
+"art": "Nomen"
+},
+"اشترى": {
+"de": "kaufen",
+"art": "Verb"
+},
+"مسند": {
+"de": "Musnad (Sammlung)",
+"art": "Nomen"
+},
+"خرج": {
+"de": "hinausgehen",
+"art": "Verb"
+},
+"فعل": {
+"de": "tun",
+"art": "Verb"
+},
+"ظالم": {
+"de": "Unrecht Tuender",
+"art": "Nomen"
+},
+"راية": {
+"de": "Fahne",
+"art": "Nomen"
+},
+"ضر": {
+"de": "Leid / Not",
+"art": "Nomen"
+},
+"بصير": {
+"de": "sehend / einsichtig",
+"art": "Adjektiv"
+},
+"بضاعة": {
+"de": "Ware",
+"art": "Nomen"
+},
+"نسوة": {
+"de": "Frauen",
+"art": "Nomen"
+},
+"خطاب": {
+"de": "al-Khattab",
+"art": "Eigenname"
+},
+"فتنة": {
+"de": "Prüfung / Versuchung / Zwietracht",
+"art": "Nomen"
+},
+"كشف": {
+"de": "enthüllen",
+"art": "Verb"
+},
+"انصار": {
+"de": "Helfer (Ansar)",
+"art": "Nomen"
+},
+"سقيفة": {
+"de": "Vordach (Saqifa)",
+"art": "Nomen"
+},
+"بايع": {
+"de": "huldigen / Treueid leisten",
+"art": "Verb"
+},
+"مهاجر": {
+"de": "Auswanderer (Muhadschir)",
+"art": "Nomen"
+},
+"اصاب": {
+"de": "treffen / erfassen",
+"art": "Verb"
+},
+"عظيم": {
+"de": "gewaltig / groß",
+"art": "Adjektiv"
+},
+"جيش": {
+"de": "Heer",
+"art": "Nomen"
+},
+"شهيد": {
+"de": "Märtyrer",
+"art": "Nomen"
+},
+"وضع": {
+"de": "legen / setzen",
+"art": "Verb"
+},
+"رسالة": {
+"de": "Botschaft",
+"art": "Nomen"
+},
+"اجر": {
+"de": "Lohn",
+"art": "Nomen"
+},
+"قليل": {
+"de": "wenig",
+"art": "Adjektiv"
+},
+"عاد": {
+"de": "zurückkehren",
+"art": "Verb"
+},
+"زمن": {
+"de": "Zeit / Zeitalter",
+"art": "Nomen"
+},
+"ظهر": {
+"de": "Rücken",
+"art": "Nomen"
+},
+"حواري": {
+"de": "Jünger (Hawari)",
+"art": "Nomen"
+},
+"قدوة": {
+"de": "Vorbild",
+"art": "Nomen"
+},
+"فتى": {
+"de": "junger Mann",
+"art": "Nomen"
+},
+"عام": {
+"de": "Jahr",
+"art": "Nomen"
+},
+"سوء": {
+"de": "Böses",
+"art": "Nomen"
+},
+"تراب": {
+"de": "Staub / Erde",
+"art": "Nomen"
+},
+"معاذ": {
+"de": "Zuflucht",
+"art": "Nomen"
+},
+"يئس": {
+"de": "verzweifeln",
+"art": "Verb"
+},
+"حزن": {
+"de": "Trauer",
+"art": "Nomen"
+},
+"ذئب": {
+"de": "Wolf",
+"art": "Nomen"
+},
+"غفر": {
+"de": "vergeben",
+"art": "Verb"
+},
+"اتخذ": {
+"de": "annehmen / nehmen",
+"art": "Verb"
+},
+"قضاء": {
+"de": "Richteramt / Rechtsprechung",
+"art": "Nomen"
+},
+"بارد": {
+"de": "kalt",
+"art": "Adjektiv"
+},
+"ليلة": {
+"de": "Nacht",
+"art": "Nomen"
+},
+"ست": {
+"de": "Frau / sechs",
+"art": "Nomen"
+},
+"مريض": {
+"de": "krank / Kranker",
+"art": "Adjektiv"
+},
+"تقوى": {
+"de": "Gottesfurcht",
+"art": "Nomen"
+},
+"عباد": {
+"de": "Diener",
+"art": "Nomen"
+},
+"احسن": {
+"de": "besser / am besten",
+"art": "Adjektiv"
+},
+"سلام": {
+"de": "Friede / Gruß",
+"art": "Nomen"
+},
+"عطاء": {
+"de": "Gabe",
+"art": "Nomen"
+},
+"ابنة": {
+"de": "Tochter",
+"art": "Nomen"
+},
+"اجاب": {
+"de": "antworten",
+"art": "Verb"
+},
+"مس": {
+"de": "berühren / treffen",
+"art": "Verb"
+},
+"اتهم": {
+"de": "beschuldigen",
+"art": "Verb"
+},
+"كما": {
+"de": "wie / so wie",
+"art": "Konjunktion"
+},
+"نخل": {
+"de": "Palmen",
+"art": "Nomen"
+},
+"باع": {
+"de": "verkaufen",
+"art": "Verb"
+},
+"رواية": {
+"de": "Überlieferung / Bericht",
+"art": "Nomen"
+},
+"حجة": {
+"de": "Beweis / Argument",
+"art": "Nomen"
+},
+"قتل": {
+"de": "töten",
+"art": "Verb"
+},
+"افتى": {
+"de": "ein Rechtsgutachten geben",
+"art": "Verb"
+},
+"خبز": {
+"de": "Brot",
+"art": "Nomen"
+},
+"عَلَّم": {
+"de": "lehren",
+"art": "Verb"
+},
+"عَلِم": {
+"de": "wissen / erfahren",
+"art": "Verb"
+},
+"رِجْل": {
+"de": "Fuß / Bein",
+"art": "Nomen"
+},
+"وَلَد": {
+"de": "Kind / Sohn",
+"art": "Nomen"
+},
+"سَنَة": {
+"de": "Jahr",
+"art": "Nomen"
+},
+"سُنَّة": {
+"de": "Sunna (Weg des Propheten)",
+"art": "Nomen"
+},
+"ذَكَر": {
+"de": "erwähnen / gedenken",
+"art": "Verb"
+},
+"ذِكْر": {
+"de": "Gedenken / Erwähnung",
+"art": "Nomen"
+},
+"ذَكَّر": {
+"de": "erinnern",
+"art": "Verb"
+},
+"آخَر": {
+"de": "anderer",
+"art": "Adjektiv"
+},
+"آخِر": {
+"de": "letzter / Ende",
+"art": "Adjektiv"
+},
+"أَمْر": {
+"de": "Angelegenheit / Befehl",
+"art": "Nomen"
+},
+"أَمَر": {
+"de": "befehlen",
+"art": "Verb"
+},
+"عُمْر": {
+"de": "Alter / Lebenszeit",
+"art": "Nomen"
+},
+"كَذَّب": {
+"de": "für Lüge erklären",
+"art": "Verb"
+},
+"كِذْب": {
+"de": "Lüge",
+"art": "Nomen"
+},
+"صَبْر": {
+"de": "Geduld",
+"art": "Nomen"
+},
+"صَبَر": {
+"de": "geduldig sein",
+"art": "Verb"
+},
+"أَتَى": {
+"de": "kommen",
+"art": "Verb"
+},
+"آتَى": {
+"de": "geben",
+"art": "Verb"
+},
+"إِلَّا": {
+"de": "außer / nur",
+"art": "Partikel"
+},
+"أَلَّا": {
+"de": "dass nicht",
+"art": "Partikel"
+},
+"حكى": {
+"de": "erzählen",
+"art": "Verb"
+},
+"كاد": {
+"de": "Ränke schmieden",
+"art": "Verb"
+},
+"فاروق": {
+"de": "al-Faruq (Beiname Umars)",
+"art": "Eigenname"
+},
+"أَسْلَمَ": {
+"de": "den Islam annehmen / sich ergeben",
+"art": "Verb"
+},
+"وَجَّه": {
+"de": "richten",
+"art": "Verb"
+}
+}

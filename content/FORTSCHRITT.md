@@ -42,3 +42,14 @@ Fertig (Siyar, mit Seiten + wörtlichen Zitaten): abdullah-ibn-ahmad, abdurrahma
 - `content/stufen_8..12.py`: A1/A2/B2/C1/C2 für alle 45 Biografien (abu-bakr mit 4 Kapiteln). Beleg-Format `B:n,m-k` = Sätze der Biografie (Builder löst es zu Siyar-Seiten auf; `check-data` prüft die Indizes).
 - Reihenfolge zum Neuerzeugen: stufen_1 … stufen_12 (stufen_1 zuerst, schreibt neu).
 - OFFEN: längere Kapitel aus weiteren Siyar-Seiten (die Niveaus spiegeln bisher nur die 5–10 belegten B1-Sätze), `ishaq-ibn-hani` (andere Quelle), Audio für alle Geschichten, Wortpopups/Quiz.
+
+## Wortanalyse beim Antippen (maschinell, Entwurf)
+- `tools/woerter/bauen.py` (CAMeL Tools: Morphologie + BERT-Disambiguierung, MT en→de, Regeln für Idafa/Kasus/Präposition) schreibt `content/woerter/<id>.json`; `scripts/build-katalog.mjs` hängt es an die Sätze.
+- Handkorrekturen: `content/woerter-de.json` (Bedeutung/Wortart je Grundform), `content/woerter-wurzeln.json` (Wurzeln schwacher Verben).
+- Neu erzeugen: venv mit `camel-tools` (+ `camel_data -i morphology-db-msa-r13 disambig-bert-unfactored-all`), torch, transformers; `CAMELTOOLS_DATA` setzen; `python tools/woerter/bauen.py`; danach `node scripts/build-katalog.mjs`.
+- Quiz-Tab ist ausgeblendet (Code bleibt). Quran-/Athar-Zitate haben noch keine Wortanalyse.
+
+## Ahadith (Stand)
+- 36 weitere Hadithe (Bukhari/Muslim/Tirmidhi) in `content/katalog.json` (`hadith`), deutsche Entwurfsübersetzung in `content/hadith-de.json`; Bukhari/Muslim ohne API-Einstufung erhalten den Vermerk „Sammlung gilt als authentisch (keine Einzelprüfung)“.
+- `content/stufen_13.py` hängt zu jedem dieser Hadithe Zusammenfassungen in eigenen Worten an A1–C2 an (Beleg-Format `H:<zitat-id>`); Reihenfolge der Stufen-Skripte: 1…12, dann 13.
+- Offen: weitere Hadithe zu Hamza, Salman, Uways, Abdurrahman ibn Awf, Nuh, Musa u. a. (Quelle suchen, Übersetzung prüfen).

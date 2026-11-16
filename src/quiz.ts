@@ -1,4 +1,4 @@
-import type { Fassung, Geschichte, Niveau, Wort } from './types'
+import type { Fassung, Geschichte, Niveau, Satz, Wort } from './types'
 import { kartenId } from './vocab'
 
 export type FrageTyp = 'verstaendnis' | 'vokabel_ar_de' | 'vokabel_de_ar' | 'hoeren' | 'luecke' | 'grammatik'
@@ -39,7 +39,7 @@ export function baueQuiz(g: Geschichte, n: Niveau, seed = Date.now()): { fragen:
     }
   }
   const saetze = f.saetze.filter((s) => s.woerter)
-  const alle = saetze.flatMap((s) => s.woerter!.map((w, i) => ({ w, s, i }))).filter((x) => x.w.wortart !== 'Eigenname')
+  const alle = saetze.flatMap((s) => s.woerter!.map((w, i) => ({ w, s, i }))).filter((x): x is { w: Wort; s: Satz; i: number } => !!x.w && x.w.wortart !== 'Eigenname')
   const eindeutig = [...new Map(alle.map((x) => [kartenId(x.w), x])).values()]
 
   // 2) Vokabeln
@@ -63,11 +63,11 @@ export function baueQuiz(g: Geschichte, n: Niveau, seed = Date.now()): { fragen:
   // 4) Grammatik: Wurzel und Verbform
   const mitWurzel = eindeutig.filter((x) => x.w.wurzel.includes(' '))
   nimm(mitWurzel, 2, r).forEach(({ w, s, i }) => add(frage(
-    { id: `w-${kartenId(w)}`, typ: 'grammatik', prompt: 'Welche Wurzel hat dieses Wort?', promptAr: strip(s.woerter![i].text), optAr: true, wort: w },
+    { id: `w-${kartenId(w)}`, typ: 'grammatik', prompt: 'Welche Wurzel hat dieses Wort?', promptAr: strip(s.woerter![i]!.text), optAr: true, wort: w },
     w.wurzel, mitWurzel.map((x) => x.w.wurzel).sort(() => r() - 0.5), r)))
   const FORMEN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X']
   nimm(eindeutig.filter((x) => x.w.verbform), 2, r).forEach(({ w, s, i }) => add(frage(
-    { id: `vf-${kartenId(w)}`, typ: 'grammatik', prompt: 'In welcher Verbform (I–X) steht dieses Verb?', promptAr: strip(s.woerter![i].text), wort: w,
+    { id: `vf-${kartenId(w)}`, typ: 'grammatik', prompt: 'In welcher Verbform (I–X) steht dieses Verb?', promptAr: strip(s.woerter![i]!.text), wort: w,
       erklaerung: `Wurzel ${w.wurzel}, Grundform ${w.grundform}` },
     `Form ${w.verbform}`, FORMEN.map((x) => `Form ${x}`).sort(() => r() - 0.5), r)))
 

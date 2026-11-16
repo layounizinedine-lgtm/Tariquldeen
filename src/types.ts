@@ -4,7 +4,8 @@ export type Niveau = 'klassisch' | 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2'
 
 export interface Wort {
   text: string; wurzel: string; grundform: string; wortart: string
-  verbform?: string; zeit?: string; person?: string; hinweis?: string; bedeutung_kontext: string; bedeutung_grund: string; audio_url?: string
+  verbform?: string; zeit?: string; person?: string; hinweis?: string
+  numerus?: string; genus?: string; kasus?: string; status?: string; bedeutung_kontext: string; bedeutung_grund: string; audio_url?: string
 }
 export interface WortZeitstempel { wort_index: number; start: number; ende: number }
 export interface Quelle { werk: string; stelle: string; einstufung?: 'sahih' | 'hasan' | 'daif'; platzhalter?: boolean }
@@ -17,7 +18,7 @@ export interface Zitat {
 }
 export interface Satz {
   id: string; text_ar_mit_harakat: string; text_de: string
-  audio_url?: string; wort_zeitstempel?: WortZeitstempel[]; woerter?: Wort[]
+  audio_url?: string; wort_zeitstempel?: WortZeitstempel[]; woerter?: (Wort | null)[]
   zitat_id?: string // Satz ist ein Originalzitat (Ayah/Hadith/Athar)
   kapitel?: string // Überschrift des Kapitels, zu dem der Satz gehört
   beleg?: string // Quelle der Aussage (z. B. Quran 11:25-26), Pflicht bei Nacherzählungen
