@@ -3272,5 +3272,860 @@
     "kapitel": "Die Lehre"
    }
   ]
+ },
+ "hud": {
+  "B1": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ إِلَى عَادٍ أَخَاهُمْ هُودًا.",
+    "de": "Allah sandte zu ʿAd ihren Bruder Hud.",
+    "beleg": "Quran 7:65",
+    "kapitel": "Der Ruf an ʿAd"
+   },
+   {
+    "ar": "قَالَ: يَا قَوْمِ اعْبُدُوا اللَّهَ، مَا لَكُمْ مِنْ إِلَهٍ غَيْرُهُ، أَفَلَا تَتَّقُونَ؟",
+    "de": "Er sagte: Mein Volk, dient Allah; ihr habt keinen Gott außer Ihm. Fürchtet ihr euch nicht?",
+    "beleg": "Quran 7:65",
+    "kapitel": "Der Ruf an ʿAd"
+   },
+   {
+    "ar": "فَقَالَ الْمَلَأُ الَّذِينَ كَفَرُوا: إِنَّا لَنَرَاكَ فِي سَفَاهَةٍ وَإِنَّا لَنَظُنُّكَ مِنَ الْكَاذِبِينَ.",
+    "de": "Die Vornehmen, die ungläubig waren, sagten: Wir sehen dich in Torheit und halten dich für einen Lügner.",
+    "beleg": "Quran 7:66",
+    "kapitel": "Der Ruf an ʿAd"
+   },
+   {
+    "ar": "قَالَ: لَيْسَ بِي سَفَاهَةٌ وَلَكِنِّي رَسُولٌ مِنْ رَبِّ الْعَالَمِينَ.",
+    "de": "Er sagte: Ich bin nicht töricht, sondern ein Gesandter des Herrn der Welten.",
+    "beleg": "Quran 7:67",
+    "kapitel": "Der Ruf an ʿAd"
+   },
+   {
+    "ar": "أُبَلِّغُكُمْ رِسَالَاتِ رَبِّي وَأَنَا لَكُمْ نَاصِحٌ أَمِينٌ.",
+    "de": "Ich überbringe euch die Botschaften meines Herrn, und ich bin euch ein aufrichtiger, vertrauenswürdiger Ratgeber.",
+    "beleg": "Quran 7:68",
+    "kapitel": "Der Ruf an ʿAd"
+   },
+   {
+    "ar": "وَذَكَّرَهُمْ بِأَنَّ اللَّهَ جَعَلَهُمْ خُلَفَاءَ مِنْ بَعْدِ قَوْمِ نُوحٍ وَزَادَهُمْ فِي الْخَلْقِ بَسْطَةً.",
+    "de": "Und er erinnerte sie daran, dass Allah sie zu Nachfolgern nach dem Volk Nuhs gemacht und ihnen an Wuchs zugegeben hatte.",
+    "beleg": "Quran 7:69",
+    "kapitel": "Der Ruf an ʿAd"
+   },
+   {
+    "ar": "قَالُوا: أَجِئْتَنَا لِنَعْبُدَ اللَّهَ وَحْدَهُ وَنَذَرَ مَا كَانَ يَعْبُدُ آبَاؤُنَا؟ فَأْتِنَا بِمَا تَعِدُنَا.",
+    "de": "Sie sagten: Bist du gekommen, damit wir Allah allein dienen und verlassen, was unsere Väter anbeteten? Dann bring uns, womit du uns drohst.",
+    "beleg": "Quran 7:70",
+    "kapitel": "Die Ablehnung"
+   },
+   {
+    "ar": "وَقَالَ لَهُمْ: لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا، إِنْ أَجْرِيَ إِلَّا عَلَى الَّذِي فَطَرَنِي.",
+    "de": "Und er sagte ihnen: Ich verlange dafür keinen Lohn; mein Lohn liegt allein bei dem, der mich erschaffen hat.",
+    "beleg": "Quran 11:51",
+    "kapitel": "Die Ablehnung"
+   },
+   {
+    "ar": "وَقَالَ: اسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا وَيَزِدْكُمْ قُوَّةً إِلَى قُوَّتِكُمْ.",
+    "de": "Und er sagte: Bittet euren Herrn um Vergebung und kehrt reumütig zu Ihm zurück; Er sendet euch den Himmel mit reichlich Regen und fügt euch Kraft zu eurer Kraft hinzu.",
+    "beleg": "Quran 11:52",
+    "kapitel": "Die Ablehnung"
+   },
+   {
+    "ar": "قَالُوا: مَا جِئْتَنَا بِبَيِّنَةٍ، وَمَا نَحْنُ بِتَارِكِي آلِهَتِنَا عَنْ قَوْلِكَ.",
+    "de": "Sie sagten: Du hast uns keinen klaren Beweis gebracht, und wir lassen unsere Götter nicht auf dein Wort hin.",
+    "beleg": "Quran 11:53",
+    "kapitel": "Die Ablehnung"
+   },
+   {
+    "ar": "قَالَ: إِنِّي أُشْهِدُ اللَّهَ وَاشْهَدُوا أَنِّي بَرِيءٌ مِمَّا تُشْرِكُونَ.",
+    "de": "Er sagte: Ich nehme Allah zum Zeugen, und bezeugt auch ihr, dass ich unschuldig bin an dem, was ihr beigesellt.",
+    "beleg": "Quran 11:54",
+    "kapitel": "Die Ablehnung"
+   },
+   {
+    "ar": "إِنِّي تَوَكَّلْتُ عَلَى اللَّهِ رَبِّي وَرَبِّكُمْ، مَا مِنْ دَابَّةٍ إِلَّا هُوَ آخِذٌ بِنَاصِيَتِهَا.",
+    "de": "Ich habe auf Allah vertraut, meinen Herrn und euren Herrn; es gibt kein Lebewesen, dessen Stirnlocke Er nicht in der Hand hielte.",
+    "beleg": "Quran 11:56",
+    "kapitel": "Die Ablehnung"
+   },
+   {
+    "ar": "وَلَمَّا جَاءَ أَمْرُنَا نَجَّيْنَا هُودًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِنَّا.",
+    "de": "Als Unser Befehl kam, retteten Wir Hud und die, die mit ihm glaubten, durch Barmherzigkeit von Uns.",
+    "beleg": "Quran 11:58",
+    "kapitel": "Die Vernichtung"
+   },
+   {
+    "ar": "وَقَطَعْنَا دَابِرَ الَّذِينَ كَذَّبُوا بِآيَاتِنَا.",
+    "de": "Und Wir schnitten die Wurzel derer ab, die Unsere Zeichen leugneten.",
+    "beleg": "Quran 7:72",
+    "kapitel": "Die Vernichtung"
+   },
+   {
+    "ar": "وَتِلْكَ عَادٌ جَحَدُوا بِآيَاتِ رَبِّهِمْ وَعَصَوْا رُسُلَهُ.",
+    "de": "Das war ʿAd: Sie verleugneten die Zeichen ihres Herrn und widersetzten sich Seinen Gesandten.",
+    "beleg": "Quran 11:59",
+    "kapitel": "Die Vernichtung"
+   }
+  ],
+  "A1": [
+   {
+    "ar": "اللَّهُ يُرْسِلُ هُودًا إِلَى قَوْمِ عَادٍ.",
+    "de": "Allah sendet Hud zum Volk von ʿAd.",
+    "beleg": "Quran 7:65"
+   },
+   {
+    "ar": "هُودٌ يَقُولُ: اعْبُدُوا اللَّهَ.",
+    "de": "Hud sagt: Dient Allah.",
+    "beleg": "Quran 7:65"
+   },
+   {
+    "ar": "الْقَوْمُ يَقُولُونَ: أَنْتَ كَاذِبٌ.",
+    "de": "Das Volk sagt: Du lügst.",
+    "beleg": "Quran 7:66"
+   },
+   {
+    "ar": "هُودٌ يَقُولُ: أَنَا رَسُولُ رَبِّ الْعَالَمِينَ.",
+    "de": "Hud sagt: Ich bin ein Gesandter des Herrn der Welten.",
+    "beleg": "Quran 7:67"
+   },
+   {
+    "ar": "هُودٌ نَاصِحٌ أَمِينٌ.",
+    "de": "Hud ist ein ehrlicher Ratgeber.",
+    "beleg": "Quran 7:68"
+   },
+   {
+    "ar": "هُودٌ يَقُولُ: لَا أَطْلُبُ مِنْكُمْ مَالًا.",
+    "de": "Hud sagt: Ich verlange von euch kein Geld.",
+    "beleg": "Quran 11:51"
+   },
+   {
+    "ar": "هُودٌ يَتَوَكَّلُ عَلَى اللَّهِ.",
+    "de": "Hud vertraut auf Allah.",
+    "beleg": "Quran 11:56"
+   },
+   {
+    "ar": "اللَّهُ يُنَجِّي هُودًا وَالْمُؤْمِنِينَ.",
+    "de": "Allah rettet Hud und die Gläubigen.",
+    "beleg": "Quran 11:58"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ هُودًا إِلَى قَوْمِهِ عَادٍ.",
+    "de": "Allah sandte Hud zu seinem Volk ʿAd.",
+    "beleg": "Quran 7:65"
+   },
+   {
+    "ar": "قَالَ لَهُمْ: اعْبُدُوا اللَّهَ، لَيْسَ لَكُمْ إِلَهٌ غَيْرُهُ.",
+    "de": "Er sagte zu ihnen: Dient Allah; ihr habt keinen Gott außer Ihm.",
+    "beleg": "Quran 7:65"
+   },
+   {
+    "ar": "قَالَ الْكَافِرُونَ مِنْهُمْ: أَنْتَ سَفِيهٌ وَكَاذِبٌ.",
+    "de": "Die Ungläubigen unter ihnen sagten: Du bist töricht und ein Lügner.",
+    "beleg": "Quran 7:66"
+   },
+   {
+    "ar": "فَقَالَ: أَنَا لَسْتُ سَفِيهًا، أَنَا رَسُولٌ أُبَلِّغُكُمْ وَأَنْصَحُ لَكُمْ.",
+    "de": "Er sagte: Ich bin nicht töricht; ich bin ein Gesandter, der euch die Botschaft überbringt und euch berät.",
+    "beleg": "Quran 7:67-68"
+   },
+   {
+    "ar": "وَقَالَ: لَا أَسْأَلُكُمْ أَجْرًا، وَاسْتَغْفِرُوا رَبَّكُمْ وَتُوبُوا إِلَيْهِ.",
+    "de": "Und er sagte: Ich verlange von euch keinen Lohn; bittet euren Herrn um Vergebung und kehrt zu Ihm zurück.",
+    "beleg": "Quran 11:51-52"
+   },
+   {
+    "ar": "لَكِنَّهُمْ قَالُوا: لَنْ نَتْرُكَ آلِهَتَنَا عَنْ قَوْلِكَ.",
+    "de": "Aber sie sagten: Wir lassen unsere Götter nicht auf dein Wort hin.",
+    "beleg": "Quran 11:53"
+   },
+   {
+    "ar": "وَلَمَّا جَاءَ أَمْرُ اللَّهِ نَجَّى هُودًا وَالَّذِينَ آمَنُوا مَعَهُ.",
+    "de": "Als Allahs Befehl kam, rettete Er Hud und die, die mit ihm glaubten.",
+    "beleg": "Quran 11:58"
+   },
+   {
+    "ar": "وَقَطَعَ دَابِرَ الَّذِينَ كَذَّبُوا.",
+    "de": "Und Er schnitt die Wurzel derer ab, die die Wahrheit leugneten.",
+    "beleg": "Quran 7:72"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ إِلَى عَادٍ أَخَاهُمْ هُودًا يَدْعُوهُمْ إِلَى عِبَادَةِ اللَّهِ وَحْدَهُ، وَذَكَّرَهُمْ بِنِعَمِهِ إِذْ جَعَلَهُمْ خُلَفَاءَ مِنْ بَعْدِ قَوْمِ نُوحٍ وَزَادَهُمْ بَسْطَةً فِي الْخَلْقِ.",
+    "de": "Allah sandte zu ʿAd ihren Bruder Hud, der sie zum alleinigen Dienst an Allah aufrief und sie an Seine Gaben erinnerte: dass Er sie zu Nachfolgern nach dem Volk Nuhs gemacht und ihnen an Wuchs zugegeben hatte.",
+    "beleg": "Quran 7:65-69"
+   },
+   {
+    "ar": "فَاتَّهَمَهُ كُبَرَاؤُهُمْ بِالسَّفَاهَةِ وَالْكَذِبِ، وَتَمَسَّكُوا بِمَا كَانَ يَعْبُدُ آبَاؤُهُمْ، وَطَالَبُوهُ بِالْعَذَابِ الَّذِي يَعِدُهُمْ بِهِ.",
+    "de": "Ihre Anführer bezichtigten ihn der Torheit und der Lüge, hielten an dem fest, was ihre Väter anbeteten, und verlangten die Strafe, mit der er ihnen drohte.",
+    "beleg": "Quran 7:66-70"
+   },
+   {
+    "ar": "فَلَمْ يَطْلُبْ مِنْهُمْ أَجْرًا، بَلْ دَعَاهُمْ إِلَى الِاسْتِغْفَارِ وَالتَّوْبَةِ وَوَعَدَهُمْ بِالْمَطَرِ وَالْقُوَّةِ، وَأَعْلَنَ تَوَكُّلَهُ عَلَى رَبِّهِ وَبَرَاءَتَهُ مِنْ شِرْكِهِمْ.",
+    "de": "Er verlangte keinen Lohn von ihnen, sondern rief zu Vergebungsbitte und Reue auf, versprach Regen und Kraft und erklärte sein Vertrauen auf seinen Herrn und seine Lossagung von ihrem Beigesellen.",
+    "beleg": "Quran 11:50-56"
+   },
+   {
+    "ar": "وَلَمَّا جَاءَ أَمْرُ اللَّهِ نَجَّى هُودًا وَمَنْ آمَنَ مَعَهُ بِرَحْمَتِهِ، وَاسْتَأْصَلَ الْمُكَذِّبِينَ.",
+    "de": "Als Allahs Befehl kam, rettete Er Hud und die, die mit ihm glaubten, durch Seine Barmherzigkeit und rottete die Leugner aus.",
+    "beleg": "Quran 7:72; 11:58-60"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "دَعَا هُودٌ قَوْمَهُ عَادًا إِلَى التَّوْحِيدِ وَذَكَّرَهُمْ بِالنِّعَمِ، فَاتَّهَمُوهُ بِالسَّفَاهَةِ وَتَشَبَّثُوا بِدِينِ آبَائِهِمْ، فَأَعْلَنَ بَرَاءَتَهُ مِنْ شِرْكِهِمْ وَتَوَكَّلَ عَلَى رَبِّهِ وَرَبِّهِمْ.",
+    "de": "Hud rief sein Volk ʿAd zur Einzigkeit Allahs und erinnerte sie an Seine Gaben; sie bezichtigten ihn der Torheit und klammerten sich an die Religion ihrer Väter; er erklärte seine Lossagung von ihrem Beigesellen und vertraute auf seinen und ihren Herrn.",
+    "beleg": "Quran 7:65-70; 11:50-56"
+   },
+   {
+    "ar": "فَلَمَّا جَاءَ أَمْرُ اللَّهِ نَجَّاهُ وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِنْهُ، وَقَطَعَ دَابِرَ الْمُكَذِّبِينَ.",
+    "de": "Als Allahs Befehl kam, rettete Er ihn und die, die mit ihm glaubten, durch Seine Barmherzigkeit und schnitt die Wurzel der Leugner ab.",
+    "beleg": "Quran 7:72; 11:58-60"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "أُرْسِلَ هُودٌ إِلَى عَادٍ يَدْعُوهُمْ إِلَى عِبَادَةِ اللَّهِ وَحْدَهُ دُونَ أَجْرٍ، فَكَذَّبُوهُ وَعَصَوْا رُسُلَهُ وَاتَّبَعُوا أَمْرَ كُلِّ جَبَّارٍ عَنِيدٍ، فَنَجَّاهُ اللَّهُ وَمَنْ آمَنَ مَعَهُ وَقَطَعَ دَابِرَ الْمُكَذِّبِينَ.",
+    "de": "Hud wurde zu ʿAd gesandt, sie ohne Lohn zum alleinigen Dienst an Allah aufzurufen; sie hielten ihn für einen Lügner, widersetzten sich Seinen Gesandten und folgten dem Befehl jedes widerspenstigen Tyrannen; da rettete Allah ihn und die mit ihm Gläubigen und schnitt die Wurzel der Leugner ab.",
+    "beleg": "Quran 7:65-72; 11:50-60"
+   }
+  ]
+ },
+ "salih": {
+  "B1": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ إِلَى ثَمُودَ أَخَاهُمْ صَالِحًا.",
+    "de": "Allah sandte zu Thamud ihren Bruder Salih.",
+    "beleg": "Quran 7:73",
+    "kapitel": "Der Ruf an Thamud"
+   },
+   {
+    "ar": "قَالَ: يَا قَوْمِ اعْبُدُوا اللَّهَ، مَا لَكُمْ مِنْ إِلَهٍ غَيْرُهُ، قَدْ جَاءَتْكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْ.",
+    "de": "Er sagte: Mein Volk, dient Allah; ihr habt keinen Gott außer Ihm; ein klarer Beweis ist zu euch von eurem Herrn gekommen.",
+    "beleg": "Quran 7:73",
+    "kapitel": "Der Ruf an Thamud"
+   },
+   {
+    "ar": "هَذِهِ نَاقَةُ اللَّهِ لَكُمْ آيَةً، فَذَرُوهَا تَأْكُلْ فِي أَرْضِ اللَّهِ وَلَا تَمَسُّوهَا بِسُوءٍ.",
+    "de": "Das ist Allahs Kamelstute, ein Zeichen für euch; lasst sie auf Allahs Erde fressen und tut ihr nichts Böses an.",
+    "beleg": "Quran 7:73",
+    "kapitel": "Der Ruf an Thamud"
+   },
+   {
+    "ar": "وَذَكَّرَهُمْ بِأَنَّ اللَّهَ جَعَلَهُمْ خُلَفَاءَ مِنْ بَعْدِ عَادٍ وَبَوَّأَهُمْ فِي الْأَرْضِ، يَتَّخِذُونَ مِنْ سُهُولِهَا قُصُورًا وَيَنْحِتُونَ الْجِبَالَ بُيُوتًا.",
+    "de": "Und er erinnerte sie, dass Allah sie zu Nachfolgern nach ʿAd gemacht und ihnen im Land Wohnung gegeben hatte: Aus seinen Ebenen bauten sie Paläste und aus den Bergen hauten sie Häuser.",
+    "beleg": "Quran 7:74",
+    "kapitel": "Der Ruf an Thamud"
+   },
+   {
+    "ar": "قَالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُوا لِلَّذِينَ اسْتُضْعِفُوا لِمَنْ آمَنَ مِنْهُمْ: أَتَعْلَمُونَ أَنَّ صَالِحًا مُرْسَلٌ مِنْ رَبِّهِ؟",
+    "de": "Die hochmütigen Vornehmen sagten zu den Schwachen, die glaubten: Wisst ihr, dass Salih von seinem Herrn gesandt ist?",
+    "beleg": "Quran 7:75",
+    "kapitel": "Zwei Gruppen"
+   },
+   {
+    "ar": "قَالُوا: إِنَّا بِمَا أُرْسِلَ بِهِ مُؤْمِنُونَ.",
+    "de": "Sie sagten: Wir glauben an das, womit er gesandt wurde.",
+    "beleg": "Quran 7:75",
+    "kapitel": "Zwei Gruppen"
+   },
+   {
+    "ar": "قَالَ الَّذِينَ اسْتَكْبَرُوا: إِنَّا بِالَّذِي آمَنْتُمْ بِهِ كَافِرُونَ.",
+    "de": "Die Hochmütigen sagten: Wir lehnen das ab, woran ihr glaubt.",
+    "beleg": "Quran 7:76",
+    "kapitel": "Zwei Gruppen"
+   },
+   {
+    "ar": "وَقَالُوا لِصَالِحٍ: قَدْ كُنْتَ فِينَا مَرْجُوًّا قَبْلَ هَذَا، أَتَنْهَانَا أَنْ نَعْبُدَ مَا يَعْبُدُ آبَاؤُنَا؟",
+    "de": "Und sie sagten zu Salih: Du warst vorher eine Hoffnung unter uns; verbietest du uns, anzubeten, was unsere Väter anbeten?",
+    "beleg": "Quran 11:62",
+    "kapitel": "Zwei Gruppen"
+   },
+   {
+    "ar": "قَالَ: أَرَأَيْتُمْ إِنْ كُنْتُ عَلَى بَيِّنَةٍ مِنْ رَبِّي وَآتَانِي مِنْهُ رَحْمَةً، فَمَنْ يَنْصُرُنِي مِنَ اللَّهِ إِنْ عَصَيْتُهُ؟",
+    "de": "Er sagte: Was meint ihr: Wenn ich einen klaren Beweis von meinem Herrn habe und Er mir Barmherzigkeit von Sich gab – wer würde mir gegen Allah helfen, wenn ich Ihm nicht gehorchte?",
+    "beleg": "Quran 11:63",
+    "kapitel": "Zwei Gruppen"
+   },
+   {
+    "ar": "فَعَقَرُوا النَّاقَةَ وَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ، وَقَالُوا: يَا صَالِحُ ائْتِنَا بِمَا تَعِدُنَا إِنْ كُنْتَ مِنَ الْمُرْسَلِينَ.",
+    "de": "Da töteten sie die Kamelstute, widersetzten sich dem Befehl ihres Herrn und sagten: Salih, bring uns, womit du uns drohst, wenn du ein Gesandter bist.",
+    "beleg": "Quran 7:77",
+    "kapitel": "Die Kamelstute und die Strafe"
+   },
+   {
+    "ar": "فَقَالَ: تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ، ذَلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ.",
+    "de": "Er sagte: Genießt in euren Häusern noch drei Tage; das ist ein Versprechen, das nicht gelogen ist.",
+    "beleg": "Quran 11:65",
+    "kapitel": "Die Kamelstute und die Strafe"
+   },
+   {
+    "ar": "فَلَمَّا جَاءَ أَمْرُنَا نَجَّيْنَا صَالِحًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِنَّا.",
+    "de": "Als Unser Befehl kam, retteten Wir Salih und die, die mit ihm glaubten, durch Barmherzigkeit von Uns.",
+    "beleg": "Quran 11:66",
+    "kapitel": "Die Kamelstute und die Strafe"
+   },
+   {
+    "ar": "وَأَخَذَتِ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ.",
+    "de": "Und der Schrei ergriff die Unrecht Tuenden, und am Morgen lagen sie in ihren Häusern reglos am Boden.",
+    "beleg": "Quran 11:67",
+    "kapitel": "Die Kamelstute und die Strafe"
+   },
+   {
+    "ar": "فَتَوَلَّى عَنْهُمْ وَقَالَ: يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ، وَلَكِنْ لَا تُحِبُّونَ النَّاصِحِينَ.",
+    "de": "Er wandte sich von ihnen ab und sagte: Mein Volk, ich habe euch die Botschaft meines Herrn überbracht und euch beraten, aber ihr liebt die Ratgeber nicht.",
+    "beleg": "Quran 7:79",
+    "kapitel": "Die Kamelstute und die Strafe"
+   }
+  ],
+  "A1": [
+   {
+    "ar": "اللَّهُ يُرْسِلُ صَالِحًا إِلَى ثَمُودَ.",
+    "de": "Allah sendet Salih zu Thamud.",
+    "beleg": "Quran 7:73"
+   },
+   {
+    "ar": "صَالِحٌ يَقُولُ: اعْبُدُوا اللَّهَ.",
+    "de": "Salih sagt: Dient Allah.",
+    "beleg": "Quran 7:73"
+   },
+   {
+    "ar": "هَذِهِ نَاقَةُ اللَّهِ، آيَةٌ لَكُمْ.",
+    "de": "Das ist Allahs Kamelstute, ein Zeichen für euch.",
+    "beleg": "Quran 7:73"
+   },
+   {
+    "ar": "لَا تَمَسُّوهَا بِسُوءٍ.",
+    "de": "Tut ihr nichts Böses an.",
+    "beleg": "Quran 7:73"
+   },
+   {
+    "ar": "الْقَوْمُ يَقْتُلُونَ النَّاقَةَ.",
+    "de": "Die Leute töten die Kamelstute.",
+    "beleg": "Quran 7:77"
+   },
+   {
+    "ar": "صَالِحٌ يَقُولُ: ثَلَاثَةَ أَيَّامٍ.",
+    "de": "Salih sagt: Drei Tage.",
+    "beleg": "Quran 11:65"
+   },
+   {
+    "ar": "اللَّهُ يُنَجِّي صَالِحًا وَالْمُؤْمِنِينَ.",
+    "de": "Allah rettet Salih und die Gläubigen.",
+    "beleg": "Quran 11:66"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ صَالِحًا إِلَى قَوْمِ ثَمُودَ.",
+    "de": "Allah sandte Salih zum Volk von Thamud.",
+    "beleg": "Quran 7:73"
+   },
+   {
+    "ar": "قَالَ: اعْبُدُوا اللَّهَ، وَهَذِهِ نَاقَةُ اللَّهِ آيَةٌ لَكُمْ.",
+    "de": "Er sagte: Dient Allah; und das ist Allahs Kamelstute, ein Zeichen für euch.",
+    "beleg": "Quran 7:73"
+   },
+   {
+    "ar": "قَالَ: دَعُوهَا تَأْكُلْ فِي أَرْضِ اللَّهِ وَلَا تَمَسُّوهَا بِسُوءٍ.",
+    "de": "Er sagte: Lasst sie auf Allahs Erde fressen und tut ihr nichts Böses an.",
+    "beleg": "Quran 7:73"
+   },
+   {
+    "ar": "وَكَانُوا يَبْنُونَ قُصُورًا فِي السُّهُولِ وَبُيُوتًا فِي الْجِبَالِ.",
+    "de": "Sie bauten Paläste in den Ebenen und Häuser in den Bergen.",
+    "beleg": "Quran 7:74"
+   },
+   {
+    "ar": "آمَنَ بَعْضُهُمْ وَكَفَرَ بَعْضُهُمْ.",
+    "de": "Einige von ihnen glaubten, andere nicht.",
+    "beleg": "Quran 7:75-76"
+   },
+   {
+    "ar": "ثُمَّ قَتَلُوا النَّاقَةَ وَقَالُوا: ائْتِنَا بِمَا تَعِدُنَا.",
+    "de": "Dann töteten sie die Kamelstute und sagten: Bring uns, womit du uns drohst.",
+    "beleg": "Quran 7:77"
+   },
+   {
+    "ar": "قَالَ صَالِحٌ: تَمَتَّعُوا ثَلَاثَةَ أَيَّامٍ فِي بُيُوتِكُمْ.",
+    "de": "Salih sagte: Genießt noch drei Tage in euren Häusern.",
+    "beleg": "Quran 11:65"
+   },
+   {
+    "ar": "فَنَجَّى اللَّهُ صَالِحًا وَالْمُؤْمِنِينَ، وَأَخَذَتِ الصَّيْحَةُ الظَّالِمِينَ.",
+    "de": "Da rettete Allah Salih und die Gläubigen, und der Schrei ergriff die Unrecht Tuenden.",
+    "beleg": "Quran 11:66-67"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ إِلَى ثَمُودَ أَخَاهُمْ صَالِحًا يَدْعُوهُمْ إِلَى عِبَادَةِ اللَّهِ وَحْدَهُ، وَجَعَلَ لَهُمُ النَّاقَةَ آيَةً وَنَهَاهُمْ عَنْ مَسِّهَا بِسُوءٍ، وَذَكَّرَهُمْ بِنِعَمِ اللَّهِ إِذْ مَكَّنَ لَهُمْ فِي الْأَرْضِ.",
+    "de": "Allah sandte zu Thamud ihren Bruder Salih, der sie zum alleinigen Dienst an Allah aufrief; Er gab ihnen die Kamelstute als Zeichen und verbot, ihr Böses zuzufügen, und er erinnerte sie an Allahs Gaben, da Er ihnen im Land Stellung gegeben hatte.",
+    "beleg": "Quran 7:73-74"
+   },
+   {
+    "ar": "فَانْقَسَمَ قَوْمُهُ إِلَى مُسْتَكْبِرِينَ وَمُسْتَضْعَفِينَ آمَنُوا، وَرَفَضَ الْمُسْتَكْبِرُونَ الْإِيمَانَ.",
+    "de": "Sein Volk spaltete sich in Hochmütige und schwache Gläubige, und die Hochmütigen lehnten den Glauben ab.",
+    "beleg": "Quran 7:75-76"
+   },
+   {
+    "ar": "ثُمَّ عَقَرُوا النَّاقَةَ وَتَحَدَّوْهُ أَنْ يَأْتِيَهُمْ بِمَا وَعَدَ، فَأَمْهَلَهُمْ ثَلَاثَةَ أَيَّامٍ.",
+    "de": "Dann töteten sie die Kamelstute und forderten ihn heraus, zu bringen, was er angedroht hatte; er gab ihnen drei Tage Frist.",
+    "beleg": "Quran 7:77; 11:65"
+   },
+   {
+    "ar": "فَنَجَّى اللَّهُ صَالِحًا وَالَّذِينَ آمَنُوا مَعَهُ، وَأَخَذَتِ الصَّيْحَةُ الظَّالِمِينَ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ.",
+    "de": "Allah rettete Salih und die mit ihm Gläubigen, und der Schrei ergriff die Unrecht Tuenden, sodass sie am Morgen in ihren Häusern reglos dalagen.",
+    "beleg": "Quran 11:66-67"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "دَعَا صَالِحٌ ثَمُودَ إِلَى التَّوْحِيدِ وَجَعَلَ لَهُمُ النَّاقَةَ آيَةً، فَانْقَسَمُوا بَيْنَ مُسْتَكْبِرِينَ وَمُؤْمِنِينَ مُسْتَضْعَفِينَ، ثُمَّ عَقَرُوا النَّاقَةَ وَاسْتَعْجَلُوا الْوَعِيدَ.",
+    "de": "Salih rief Thamud zur Einzigkeit Allahs, und die Kamelstute war ihr Zeichen; sie spalteten sich in Hochmütige und schwache Gläubige, dann töteten sie die Kamelstute und forderten die Drohung heraus.",
+    "beleg": "Quran 7:73-77"
+   },
+   {
+    "ar": "فَأَمْهَلَهُمْ ثَلَاثَةَ أَيَّامٍ، ثُمَّ نَجَّى اللَّهُ صَالِحًا وَالْمُؤْمِنِينَ وَأَخَذَتِ الصَّيْحَةُ الظَّالِمِينَ.",
+    "de": "Er gab ihnen drei Tage Frist, dann rettete Allah Salih und die Gläubigen, und der Schrei ergriff die Unrecht Tuenden.",
+    "beleg": "Quran 11:65-67"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "بُعِثَ صَالِحٌ إِلَى ثَمُودَ بِالتَّوْحِيدِ وَآيَةِ النَّاقَةِ، فَلَمَّا عَقَرُوهَا وَاسْتَعْجَلُوا الْعَذَابَ أَمْهَلَهُمْ ثَلَاثًا ثُمَّ أَخَذَتْهُمُ الصَّيْحَةُ، وَنَجَا هُوَ وَمَنْ آمَنَ مَعَهُ بِرَحْمَةٍ مِنَ اللَّهِ.",
+    "de": "Salih wurde zu Thamud mit der Einzigkeit Allahs und dem Zeichen der Kamelstute gesandt; als sie sie töteten und die Strafe herausforderten, gab er ihnen drei Tage Frist, dann ergriff sie der Schrei, und er und die mit ihm Gläubigen wurden durch Allahs Barmherzigkeit gerettet.",
+    "beleg": "Quran 7:73-79; 11:61-68"
+   }
+  ]
+ },
+ "lut": {
+  "B1": [
+   {
+    "ar": "وَلَمَّا جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا، وَقَالَ: هَذَا يَوْمٌ عَصِيبٌ.",
+    "de": "Als Unsere Gesandten zu Lut kamen, war er ihretwegen bedrängt und ihm wurde bang ums Herz, und er sagte: Das ist ein schwerer Tag.",
+    "beleg": "Quran 11:77",
+    "kapitel": "Die Gäste"
+   },
+   {
+    "ar": "وَجَاءَهُ قَوْمُهُ يُهْرَعُونَ إِلَيْهِ، وَمِنْ قَبْلُ كَانُوا يَعْمَلُونَ السَّيِّئَاتِ.",
+    "de": "Und sein Volk kam eilig zu ihm, und schon zuvor hatten sie schlechte Taten begangen.",
+    "beleg": "Quran 11:78",
+    "kapitel": "Die Gäste"
+   },
+   {
+    "ar": "قَالَ: يَا قَوْمِ اتَّقُوا اللَّهَ وَلَا تُخْزُونِ فِي ضَيْفِي، أَلَيْسَ مِنْكُمْ رَجُلٌ رَشِيدٌ؟",
+    "de": "Er sagte: Mein Volk, fürchtet Allah und beschämt mich nicht vor meinen Gästen. Gibt es unter euch keinen vernünftigen Mann?",
+    "beleg": "Quran 11:78",
+    "kapitel": "Die Gäste"
+   },
+   {
+    "ar": "قَالُوا: لَقَدْ عَلِمْتَ مَا لَنَا فِي بَنَاتِكَ مِنْ حَقٍّ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ.",
+    "de": "Sie sagten: Du weißt, dass wir kein Recht an deinen Töchtern haben, und du weißt, was wir wollen.",
+    "beleg": "Quran 11:79",
+    "kapitel": "Die Gäste"
+   },
+   {
+    "ar": "قَالَ: لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَى رُكْنٍ شَدِيدٍ.",
+    "de": "Er sagte: Hätte ich doch Kraft gegen euch oder könnte ich Zuflucht bei einer starken Stütze finden!",
+    "beleg": "Quran 11:80",
+    "kapitel": "Die Gäste"
+   },
+   {
+    "ar": "وَقَالَ لُوطٌ لِقَوْمِهِ: أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُمْ بِهَا مِنْ أَحَدٍ مِنَ الْعَالَمِينَ؟",
+    "de": "Und Lut sagte zu seinem Volk: Begeht ihr eine Schandtat, die vor euch keiner in den Welten begangen hat?",
+    "beleg": "Quran 7:80",
+    "kapitel": "Die Mahnung"
+   },
+   {
+    "ar": "إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِنْ دُونِ النِّسَاءِ، بَلْ أَنْتُمْ قَوْمٌ مُسْرِفُونَ.",
+    "de": "Ihr nähert euch den Männern aus Begierde statt den Frauen; ja, ihr seid maßlose Leute.",
+    "beleg": "Quran 7:81",
+    "kapitel": "Die Mahnung"
+   },
+   {
+    "ar": "وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا: أَخْرِجُوهُمْ مِنْ قَرْيَتِكُمْ، إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ.",
+    "de": "Die Antwort seines Volkes war nur: Vertreibt sie aus eurer Stadt; das sind Leute, die rein sein wollen.",
+    "beleg": "Quran 7:82",
+    "kapitel": "Die Mahnung"
+   },
+   {
+    "ar": "قَالُوا: يَا لُوطُ إِنَّا رُسُلُ رَبِّكَ لَنْ يَصِلُوا إِلَيْكَ.",
+    "de": "Sie sagten: Lut, wir sind Gesandte deines Herrn; sie werden dich nie erreichen.",
+    "beleg": "Quran 11:81",
+    "kapitel": "Die Rettung und die Strafe"
+   },
+   {
+    "ar": "فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِنَ اللَّيْلِ وَلَا يَلْتَفِتْ مِنْكُمْ أَحَدٌ إِلَّا امْرَأَتَكَ.",
+    "de": "Zieh mit deiner Familie in einem Teil der Nacht fort, und keiner von euch soll sich umdrehen – außer deiner Frau.",
+    "beleg": "Quran 11:81",
+    "kapitel": "Die Rettung und die Strafe"
+   },
+   {
+    "ar": "إِنَّهُ مُصِيبُهَا مَا أَصَابَهُمْ، إِنَّ مَوْعِدَهُمُ الصُّبْحُ، أَلَيْسَ الصُّبْحُ بِقَرِيبٍ؟",
+    "de": "Sie trifft, was sie treffen wird; ihr Termin ist der Morgen. Ist der Morgen nicht nahe?",
+    "beleg": "Quran 11:81",
+    "kapitel": "Die Rettung und die Strafe"
+   },
+   {
+    "ar": "فَلَمَّا جَاءَ أَمْرُنَا جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِنْ سِجِّيلٍ مَنْضُودٍ.",
+    "de": "Als Unser Befehl kam, machten Wir ihr Oberstes zu ihrem Untersten und ließen Steine aus Ton, dicht geschichtet, auf sie regnen.",
+    "beleg": "Quran 11:82",
+    "kapitel": "Die Rettung und die Strafe"
+   },
+   {
+    "ar": "فَأَنْجَيْنَاهُ وَأَهْلَهُ إِلَّا امْرَأَتَهُ كَانَتْ مِنَ الْغَابِرِينَ.",
+    "de": "Da retteten Wir ihn und seine Familie, außer seiner Frau; sie gehörte zu denen, die zurückblieben.",
+    "beleg": "Quran 7:83",
+    "kapitel": "Die Rettung und die Strafe"
+   },
+   {
+    "ar": "وَأَمْطَرْنَا عَلَيْهِمْ مَطَرًا، فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُجْرِمِينَ.",
+    "de": "Und Wir ließen einen Regen auf sie niedergehen; sieh, wie das Ende der Übeltäter war.",
+    "beleg": "Quran 7:84",
+    "kapitel": "Die Rettung und die Strafe"
+   }
+  ],
+  "A1": [
+   {
+    "ar": "رُسُلُ اللَّهِ يَأْتُونَ إِلَى لُوطٍ.",
+    "de": "Die Gesandten Allahs kommen zu Lut.",
+    "beleg": "Quran 11:77"
+   },
+   {
+    "ar": "لُوطٌ حَزِينٌ.",
+    "de": "Lut ist bedrückt.",
+    "beleg": "Quran 11:77"
+   },
+   {
+    "ar": "الْقَوْمُ يَأْتُونَ إِلَى بَيْتِ لُوطٍ.",
+    "de": "Die Leute kommen zu Luts Haus.",
+    "beleg": "Quran 11:78"
+   },
+   {
+    "ar": "لُوطٌ يَقُولُ: اتَّقُوا اللَّهَ.",
+    "de": "Lut sagt: Fürchtet Allah.",
+    "beleg": "Quran 11:78"
+   },
+   {
+    "ar": "الرُّسُلُ يَقُولُونَ: نَحْنُ رُسُلُ رَبِّكَ.",
+    "de": "Die Gesandten sagen: Wir sind die Gesandten deines Herrn.",
+    "beleg": "Quran 11:81"
+   },
+   {
+    "ar": "لُوطٌ يَخْرُجُ بِاللَّيْلِ مَعَ أَهْلِهِ.",
+    "de": "Lut zieht nachts mit seiner Familie fort.",
+    "beleg": "Quran 11:81"
+   },
+   {
+    "ar": "اللَّهُ يُمْطِرُ حِجَارَةً عَلَى الْقَوْمِ.",
+    "de": "Allah lässt Steine auf das Volk regnen.",
+    "beleg": "Quran 11:82"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "جَاءَتْ رُسُلُ اللَّهِ إِلَى لُوطٍ، فَضَاقَ بِهِمْ وَقَالَ: هَذَا يَوْمٌ صَعْبٌ.",
+    "de": "Die Gesandten Allahs kamen zu Lut; er war ihretwegen bedrängt und sagte: Das ist ein schwerer Tag.",
+    "beleg": "Quran 11:77"
+   },
+   {
+    "ar": "جَاءَ قَوْمُهُ يُسْرِعُونَ إِلَيْهِ، وَكَانُوا يَعْمَلُونَ السَّيِّئَاتِ.",
+    "de": "Sein Volk kam eilig zu ihm, und sie begingen schlechte Taten.",
+    "beleg": "Quran 11:78"
+   },
+   {
+    "ar": "قَالَ لُوطٌ: اتَّقُوا اللَّهَ وَلَا تُخْزُونِي فِي ضَيْفِي.",
+    "de": "Lut sagte: Fürchtet Allah und beschämt mich nicht vor meinen Gästen.",
+    "beleg": "Quran 11:78"
+   },
+   {
+    "ar": "وَقَالَ: لَوْ كَانَتْ لِي قُوَّةٌ عَلَيْكُمْ!",
+    "de": "Und er sagte: Hätte ich doch Kraft gegen euch!",
+    "beleg": "Quran 11:80"
+   },
+   {
+    "ar": "قَالَ الرُّسُلُ: نَحْنُ رُسُلُ رَبِّكَ، لَنْ يَصِلُوا إِلَيْكَ.",
+    "de": "Die Gesandten sagten: Wir sind die Gesandten deines Herrn; sie werden dich nicht erreichen.",
+    "beleg": "Quran 11:81"
+   },
+   {
+    "ar": "اخْرُجْ بِأَهْلِكَ فِي اللَّيْلِ، وَلَا يَلْتَفِتْ مِنْكُمْ أَحَدٌ إِلَّا امْرَأَتَكَ.",
+    "de": "Zieh in der Nacht mit deiner Familie fort, und keiner von euch soll sich umdrehen – außer deiner Frau.",
+    "beleg": "Quran 11:81"
+   },
+   {
+    "ar": "وَلَمَّا جَاءَ أَمْرُ اللَّهِ قَلَبَ الْقَرْيَةَ وَأَمْطَرَ عَلَيْهَا حِجَارَةً.",
+    "de": "Als Allahs Befehl kam, kehrte Er die Stadt um und ließ Steine auf sie regnen.",
+    "beleg": "Quran 11:82"
+   },
+   {
+    "ar": "وَأَنْجَى اللَّهُ لُوطًا وَأَهْلَهُ إِلَّا امْرَأَتَهُ.",
+    "de": "Allah rettete Lut und seine Familie, außer seiner Frau.",
+    "beleg": "Quran 7:83"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "جَاءَتْ رُسُلُ اللَّهِ إِلَى لُوطٍ فَضَاقَ بِهِمْ ذَرْعًا، وَجَاءَهُ قَوْمُهُ يُسْرِعُونَ وَكَانُوا يَعْمَلُونَ السَّيِّئَاتِ، فَنَاشَدَهُمْ أَنْ يَتَّقُوا اللَّهَ وَلَا يُخْزُوهُ فِي ضَيْفِهِ.",
+    "de": "Die Gesandten Allahs kamen zu Lut, und ihm wurde bang ums Herz; sein Volk kam eilig zu ihm, sie begingen schlechte Taten, und er beschwor sie, Allah zu fürchten und ihn vor seinen Gästen nicht zu beschämen.",
+    "beleg": "Quran 11:77-79"
+   },
+   {
+    "ar": "وَقَدْ أَنْكَرَ عَلَيْهِمْ فَاحِشَتَهُمُ الَّتِي لَمْ يَسْبِقْهُمْ بِهَا أَحَدٌ، فَلَمْ يَكُنْ جَوَابُهُمْ إِلَّا أَنْ قَالُوا بِإِخْرَاجِهِ وَأَهْلِهِ مِنَ الْقَرْيَةِ.",
+    "de": "Er tadelte ihre Schandtat, die ihnen keiner zuvor begangen hatte, und ihre Antwort war nur, ihn und seine Leute aus der Stadt zu vertreiben.",
+    "beleg": "Quran 7:80-82"
+   },
+   {
+    "ar": "فَكَشَفَ لَهُ الرُّسُلُ عَنْ حَقِيقَتِهِمْ وَأَمَرُوهُ بِالسَّيْرِ لَيْلًا مَعَ أَهْلِهِ دُونَ الْتِفَاتٍ إِلَّا امْرَأَتَهُ.",
+    "de": "Da offenbarten ihm die Gesandten, wer sie waren, und befahlen ihm, nachts mit seiner Familie fortzuziehen, ohne sich umzudrehen – außer seiner Frau.",
+    "beleg": "Quran 11:81"
+   },
+   {
+    "ar": "ثُمَّ جَاءَ أَمْرُ اللَّهِ فَجَعَلَ عَالِيَ الْقَرْيَةِ سَافِلَهَا وَأَمْطَرَ حِجَارَةً مِنْ سِجِّيلٍ.",
+    "de": "Dann kam Allahs Befehl; Er machte das Oberste der Stadt zu ihrem Untersten und ließ Steine aus Ton regnen.",
+    "beleg": "Quran 11:82-83"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "لَمَّا جَاءَ الرُّسُلُ إِلَى لُوطٍ ضَاقَ بِهِمْ، وَحَاوَلَ قَوْمُهُ الِاعْتِدَاءَ عَلَى ضُيُوفِهِ، فَنَاشَدَهُمْ بِاللَّهِ وَأَنْكَرَ عَلَيْهِمْ فَاحِشَتَهُمُ الَّتِي لَمْ يُسْبَقُوا إِلَيْهَا، فَرَدُّوا بِتَهْدِيدِهِ بِالْإِخْرَاجِ.",
+    "de": "Als die Gesandten zu Lut kamen, wurde ihm bang; sein Volk wollte sich an seinen Gästen vergreifen, er beschwor sie bei Allah und tadelte ihre noch nie dagewesene Schandtat, sie antworteten mit der Drohung der Vertreibung.",
+    "beleg": "Quran 11:77-80; 7:80-82"
+   },
+   {
+    "ar": "فَأَعْلَمَهُ الرُّسُلُ بِأَنَّهُمْ رُسُلُ رَبِّهِ وَأَمَرُوهُ بِالْخُرُوجِ لَيْلًا، فَنَجَا هُوَ وَأَهْلُهُ إِلَّا امْرَأَتَهُ، وَنَزَلَ بِالْقَرْيَةِ مَا نَزَلَ مِنَ الْعَذَابِ.",
+    "de": "Die Gesandten teilten ihm mit, dass sie Gesandte seines Herrn waren, und hießen ihn nachts ausziehen; er und seine Familie wurden gerettet, außer seiner Frau, und die Strafe kam über die Stadt.",
+    "beleg": "Quran 11:81-83; 7:83-84"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "ضَاقَ لُوطٌ بِضَيْفِهِ ذَرْعًا حِينَ هَجَمَ عَلَيْهِ قَوْمُهُ وَهُمْ يَأْتُونَ الْفَاحِشَةَ، فَلَمَّا كَشَفَ الرُّسُلُ عَنْ هُوِيَّتِهِمْ أَسْرَى بِأَهْلِهِ إِلَّا امْرَأَتَهُ، فَجُعِلَ عَالِي الْقَرْيَةِ سَافِلَهَا وَأُمْطِرَتْ حِجَارَةً مِنْ سِجِّيلٍ.",
+    "de": "Lut wurde bang ihretwegen, als sein Volk, das die Schandtat beging, auf ihn zustürmte; als die Gesandten sich zu erkennen gaben, zog er mit seiner Familie nachts fort, außer seiner Frau, und das Oberste der Stadt wurde zu ihrem Untersten und Steine aus Ton regneten auf sie.",
+    "beleg": "Quran 11:77-83; 7:80-84"
+   }
+  ]
+ },
+ "shuayb": {
+  "B1": [
+   {
+    "ar": "وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ: يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَهٍ غَيْرُهُ.",
+    "de": "Und zu Madyan sandte Er ihren Bruder Shuayb; er sagte: Mein Volk, dient Allah; ihr habt keinen Gott außer Ihm.",
+    "beleg": "Quran 7:85",
+    "kapitel": "Der Ruf an Madyan"
+   },
+   {
+    "ar": "قَدْ جَاءَتْكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْ، فَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ.",
+    "de": "Ein klarer Beweis ist zu euch von eurem Herrn gekommen; gebt volles Maß und Gewicht und schmälert den Menschen nicht ihre Sachen.",
+    "beleg": "Quran 7:85",
+    "kapitel": "Der Ruf an Madyan"
+   },
+   {
+    "ar": "وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا.",
+    "de": "Und stiftet kein Unheil auf der Erde, nachdem sie in Ordnung gebracht wurde.",
+    "beleg": "Quran 7:85",
+    "kapitel": "Der Ruf an Madyan"
+   },
+   {
+    "ar": "وَلَا تَقْعُدُوا بِكُلِّ صِرَاطٍ تُوعِدُونَ وَتَصُدُّونَ عَنْ سَبِيلِ اللَّهِ مَنْ آمَنَ بِهِ.",
+    "de": "Und lagert nicht an jedem Weg, um zu drohen und die vom Weg Allahs abzuhalten, die an Ihn glauben.",
+    "beleg": "Quran 7:86",
+    "kapitel": "Der Ruf an Madyan"
+   },
+   {
+    "ar": "وَاذْكُرُوا إِذْ كُنْتُمْ قَلِيلًا فَكَثَّرَكُمْ.",
+    "de": "Und denkt daran, dass ihr wenige wart und Er euch zahlreich machte.",
+    "beleg": "Quran 7:86",
+    "kapitel": "Der Ruf an Madyan"
+   },
+   {
+    "ar": "وَإِنْ كَانَ طَائِفَةٌ مِنْكُمْ آمَنُوا وَطَائِفَةٌ لَمْ يُؤْمِنُوا فَاصْبِرُوا حَتَّى يَحْكُمَ اللَّهُ بَيْنَنَا.",
+    "de": "Und wenn eine Gruppe von euch glaubt und eine Gruppe nicht glaubt, dann seid geduldig, bis Allah zwischen uns urteilt.",
+    "beleg": "Quran 7:87",
+    "kapitel": "Die Weigerung"
+   },
+   {
+    "ar": "قَالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُوا: لَنُخْرِجَنَّكَ يَا شُعَيْبُ وَالَّذِينَ آمَنُوا مَعَكَ مِنْ قَرْيَتِنَا أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا.",
+    "de": "Die hochmütigen Vornehmen sagten: Wir werden dich, Shuayb, und die mit dir Gläubigen aus unserer Stadt vertreiben, oder ihr kehrt zu unserer Religion zurück.",
+    "beleg": "Quran 7:88",
+    "kapitel": "Die Weigerung"
+   },
+   {
+    "ar": "قَالَ: أَوَلَوْ كُنَّا كَارِهِينَ؟ وَمَا يَكُونُ لَنَا أَنْ نَعُودَ فِيهَا إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّنَا.",
+    "de": "Er sagte: Auch wenn wir es verabscheuen? Es steht uns nicht zu, dazu zurückzukehren, außer Allah, unser Herr, will es.",
+    "beleg": "Quran 7:88-89",
+    "kapitel": "Die Weigerung"
+   },
+   {
+    "ar": "عَلَى اللَّهِ تَوَكَّلْنَا، رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنْتَ خَيْرُ الْفَاتِحِينَ.",
+    "de": "Auf Allah vertrauen wir; unser Herr, entscheide zwischen uns und unserem Volk in Wahrheit; Du bist der beste Entscheider.",
+    "beleg": "Quran 7:89",
+    "kapitel": "Die Weigerung"
+   },
+   {
+    "ar": "وَقَالُوا: يَا شُعَيْبُ أَصَلَاتُكَ تَأْمُرُكَ أَنْ نَتْرُكَ مَا يَعْبُدُ آبَاؤُنَا أَوْ أَنْ نَفْعَلَ فِي أَمْوَالِنَا مَا نَشَاءُ؟",
+    "de": "Und sie sagten: Shuayb, befiehlt dir dein Gebet, dass wir verlassen, was unsere Väter anbeten, oder dass wir mit unserem Besitz nicht tun, was wir wollen?",
+    "beleg": "Quran 11:87",
+    "kapitel": "Die Weigerung"
+   },
+   {
+    "ar": "قَالَ: إِنْ أُرِيدُ إِلَّا الْإِصْلَاحَ مَا اسْتَطَعْتُ، وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ.",
+    "de": "Er sagte: Ich will nur Besserung, soweit ich kann, und mein Gelingen liegt allein bei Allah.",
+    "beleg": "Quran 11:88",
+    "kapitel": "Die Weigerung"
+   },
+   {
+    "ar": "وَقَالُوا: مَا نَفْقَهُ كَثِيرًا مِمَّا تَقُولُ، وَلَوْلَا رَهْطُكَ لَرَجَمْنَاكَ.",
+    "de": "Sie sagten: Wir verstehen vieles von dem nicht, was du sagst; und wäre nicht dein Clan, wir hätten dich gesteinigt.",
+    "beleg": "Quran 11:91",
+    "kapitel": "Die Weigerung"
+   },
+   {
+    "ar": "قَالَ: أَرَهْطِي أَعَزُّ عَلَيْكُمْ مِنَ اللَّهِ؟ وَاتَّخَذْتُمُوهُ وَرَاءَكُمْ ظِهْرِيًّا.",
+    "de": "Er sagte: Ist mein Clan euch angesehener als Allah? Ihr habt Ihn hinter euren Rücken geworfen.",
+    "beleg": "Quran 11:92",
+    "kapitel": "Die Weigerung"
+   },
+   {
+    "ar": "وَلَمَّا جَاءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِنَّا.",
+    "de": "Als Unser Befehl kam, retteten Wir Shuayb und die mit ihm Gläubigen durch Barmherzigkeit von Uns.",
+    "beleg": "Quran 11:94",
+    "kapitel": "Das Ende"
+   },
+   {
+    "ar": "وَأَخَذَتِ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ.",
+    "de": "Und der Schrei ergriff die Unrecht Tuenden, sodass sie am Morgen in ihren Häusern reglos am Boden lagen.",
+    "beleg": "Quran 11:94",
+    "kapitel": "Das Ende"
+   },
+   {
+    "ar": "فَتَوَلَّى عَنْهُمْ وَقَالَ: يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَاتِ رَبِّي وَنَصَحْتُ لَكُمْ، فَكَيْفَ آسَى عَلَى قَوْمٍ كَافِرِينَ؟",
+    "de": "Er wandte sich von ihnen ab und sagte: Mein Volk, ich habe euch die Botschaften meines Herrn überbracht und euch beraten; wie sollte ich um ungläubige Leute trauern?",
+    "beleg": "Quran 7:93",
+    "kapitel": "Das Ende"
+   }
+  ],
+  "A1": [
+   {
+    "ar": "اللَّهُ يُرْسِلُ شُعَيْبًا إِلَى مَدْيَنَ.",
+    "de": "Allah sendet Shuayb nach Madyan.",
+    "beleg": "Quran 7:85"
+   },
+   {
+    "ar": "شُعَيْبٌ يَقُولُ: اعْبُدُوا اللَّهَ.",
+    "de": "Shuayb sagt: Dient Allah.",
+    "beleg": "Quran 7:85"
+   },
+   {
+    "ar": "شُعَيْبٌ يَقُولُ: أَعْطُوا النَّاسَ الْكَيْلَ وَالْمِيزَانَ كَامِلًا.",
+    "de": "Shuayb sagt: Gebt den Leuten volles Maß und Gewicht.",
+    "beleg": "Quran 7:85"
+   },
+   {
+    "ar": "الْقَوْمُ يَقُولُونَ: سَنُخْرِجُكَ مِنَ الْقَرْيَةِ.",
+    "de": "Das Volk sagt: Wir werden dich aus der Stadt vertreiben.",
+    "beleg": "Quran 7:88"
+   },
+   {
+    "ar": "شُعَيْبٌ يَقُولُ: عَلَى اللَّهِ تَوَكَّلْنَا.",
+    "de": "Shuayb sagt: Auf Allah vertrauen wir.",
+    "beleg": "Quran 7:89"
+   },
+   {
+    "ar": "اللَّهُ يُنَجِّي شُعَيْبًا وَالْمُؤْمِنِينَ.",
+    "de": "Allah rettet Shuayb und die Gläubigen.",
+    "beleg": "Quran 11:94"
+   },
+   {
+    "ar": "الصَّيْحَةُ تَأْخُذُ الظَّالِمِينَ.",
+    "de": "Der Schrei ergreift die Unrecht Tuenden.",
+    "beleg": "Quran 11:94"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ شُعَيْبًا إِلَى أَهْلِ مَدْيَنَ.",
+    "de": "Allah sandte Shuayb zu den Leuten von Madyan.",
+    "beleg": "Quran 7:85"
+   },
+   {
+    "ar": "قَالَ لَهُمْ: اعْبُدُوا اللَّهَ، وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ، وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ.",
+    "de": "Er sagte zu ihnen: Dient Allah, gebt volles Maß und Gewicht und schmälert den Leuten nicht ihre Sachen.",
+    "beleg": "Quran 7:85"
+   },
+   {
+    "ar": "وَقَالَ: لَا تَقْعُدُوا عَلَى كُلِّ طَرِيقٍ تُهَدِّدُونَ النَّاسَ.",
+    "de": "Und er sagte: Lagert nicht an jedem Weg und bedroht die Leute.",
+    "beleg": "Quran 7:86"
+   },
+   {
+    "ar": "قَالَ الْكُبَرَاءُ: سَنُخْرِجُكَ مِنْ قَرْيَتِنَا أَوْ تَعُودُونَ إِلَى دِينِنَا.",
+    "de": "Die Anführer sagten: Wir vertreiben dich aus unserer Stadt, oder ihr kehrt zu unserer Religion zurück.",
+    "beleg": "Quran 7:88"
+   },
+   {
+    "ar": "قَالَ شُعَيْبٌ: عَلَى اللَّهِ تَوَكَّلْنَا، رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ.",
+    "de": "Shuayb sagte: Auf Allah vertrauen wir; unser Herr, entscheide zwischen uns und unserem Volk in Wahrheit.",
+    "beleg": "Quran 7:89"
+   },
+   {
+    "ar": "وَقَالَ: إِنْ أُرِيدُ إِلَّا الْإِصْلَاحَ مَا اسْتَطَعْتُ.",
+    "de": "Und er sagte: Ich will nur Besserung, soweit ich kann.",
+    "beleg": "Quran 11:88"
+   },
+   {
+    "ar": "وَلَمَّا جَاءَ أَمْرُ اللَّهِ نَجَّى شُعَيْبًا وَالَّذِينَ آمَنُوا.",
+    "de": "Als Allahs Befehl kam, rettete Er Shuayb und die Gläubigen.",
+    "beleg": "Quran 11:94"
+   },
+   {
+    "ar": "وَأَخَذَتِ الصَّيْحَةُ الظَّالِمِينَ فَأَصْبَحُوا جَاثِمِينَ فِي دِيَارِهِمْ.",
+    "de": "Und der Schrei ergriff die Unrecht Tuenden, und am Morgen lagen sie reglos in ihren Häusern.",
+    "beleg": "Quran 11:94"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "أَرْسَلَ اللَّهُ إِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا يَدْعُوهُمْ إِلَى التَّوْحِيدِ وَإِلَى الْعَدْلِ فِي الْكَيْلِ وَالْمِيزَانِ، وَيَنْهَاهُمْ عَنِ الْإِفْسَادِ وَعَنْ تَهْدِيدِ النَّاسِ وَصَدِّهِمْ عَنْ سَبِيلِ اللَّهِ.",
+    "de": "Allah sandte zu Madyan ihren Bruder Shuayb, der sie zur Einzigkeit Allahs und zur Gerechtigkeit bei Maß und Gewicht aufrief und ihnen verbot, Unheil zu stiften, die Leute zu bedrohen und vom Weg Allahs abzuhalten.",
+    "beleg": "Quran 7:85-86"
+   },
+   {
+    "ar": "فَهَدَّدَهُ الْمُسْتَكْبِرُونَ بِالْإِخْرَاجِ هُوَ وَالْمُؤْمِنُونَ أَوْ بِالْعَوْدَةِ إِلَى مِلَّتِهِمْ، فَأَجَابَ بِأَنَّهُ لَا يَعُودُ إِلَّا أَنْ يَشَاءَ اللَّهُ، وَتَوَكَّلَ عَلَيْهِ.",
+    "de": "Die Hochmütigen drohten, ihn und die Gläubigen zu vertreiben oder zur Rückkehr zu ihrer Religion zu zwingen; er antwortete, dass er nur zurückkehre, wenn Allah es wolle, und vertraute auf Ihn.",
+    "beleg": "Quran 7:88-89"
+   },
+   {
+    "ar": "وَحِينَ اسْتَهْزَؤُوا بِصَلَاتِهِ وَدَعْوَتِهِ بَيَّنَ أَنَّهُ لَا يُرِيدُ إِلَّا الْإِصْلَاحَ، وَأَنَّ رَهْطَهُ لَيْسُوا أَعَزَّ مِنَ اللَّهِ.",
+    "de": "Als sie sein Gebet und seinen Ruf verspotteten, erklärte er, nur Besserung zu wollen und dass sein Clan nicht mächtiger sei als Allah.",
+    "beleg": "Quran 11:87-92"
+   },
+   {
+    "ar": "فَجَاءَ أَمْرُ اللَّهِ، فَنَجَّى شُعَيْبًا وَالْمُؤْمِنِينَ وَأَخَذَتِ الصَّيْحَةُ الظَّالِمِينَ.",
+    "de": "Da kam Allahs Befehl; Er rettete Shuayb und die Gläubigen, und der Schrei ergriff die Unrecht Tuenden.",
+    "beleg": "Quran 11:94"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "دَعَا شُعَيْبٌ أَهْلَ مَدْيَنَ إِلَى التَّوْحِيدِ وَالْعَدْلِ فِي الْمَكَايِيلِ وَالْمَوَازِينِ، فَهَدَّدَهُ الْمُسْتَكْبِرُونَ بِالْإِخْرَاجِ، فَأَعْلَنَ تَوَكُّلَهُ عَلَى اللَّهِ وَسَأَلَهُ أَنْ يَفْتَحَ بَيْنَهُمْ بِالْحَقِّ.",
+    "de": "Shuayb rief die Leute von Madyan zur Einzigkeit Allahs und zur Gerechtigkeit bei Maßen und Gewichten; die Hochmütigen drohten ihm mit Vertreibung; er erklärte sein Vertrauen auf Allah und bat Ihn, zwischen ihnen in Wahrheit zu entscheiden.",
+    "beleg": "Quran 7:85-89"
+   },
+   {
+    "ar": "وَلَمَّا اسْتَخَفُّوا بِدَعْوَتِهِ، وَأَعْرَضُوا عَنِ اللَّهِ، جَاءَ أَمْرُ اللَّهِ فَنَجَّاهُ وَالَّذِينَ آمَنُوا، وَأَخَذَتِ الصَّيْحَةُ الظَّالِمِينَ.",
+    "de": "Als sie seinen Ruf geringachteten und sich von Allah abwandten, kam Allahs Befehl; Er rettete ihn und die Gläubigen, und der Schrei ergriff die Unrecht Tuenden.",
+    "beleg": "Quran 11:87-95"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "أُرْسِلَ شُعَيْبٌ إِلَى مَدْيَنَ فَدَعَاهُمْ إِلَى التَّوْحِيدِ وَالْإِصْلَاحِ وَالْعَدْلِ، فَتَوَعَّدُوهُ وَاسْتَخَفُّوا بِرَهْطِهِ وَبِرَبِّهِ، فَنَجَّاهُ اللَّهُ وَمَنْ آمَنَ مَعَهُ بِرَحْمَةٍ مِنْهُ، وَأَصْبَحَ الظَّالِمُونَ فِي دِيَارِهِمْ جَاثِمِينَ.",
+    "de": "Shuayb wurde zu Madyan gesandt und rief sie zur Einzigkeit Allahs, zur Besserung und zur Gerechtigkeit; sie drohten ihm und achteten seinen Clan und seinen Herrn gering; da rettete Allah ihn und die mit ihm Gläubigen durch Seine Barmherzigkeit, und die Unrecht Tuenden lagen am Morgen reglos in ihren Häusern.",
+    "beleg": "Quran 7:85-93; 11:84-95"
+   }
+  ]
  }
 }
