@@ -7064,5 +7064,914 @@
     "beleg": "B:1-9"
    }
   ]
+ },
+ "ata": {
+  "A1": [
+   {
+    "ar": "عَطَاءٌ عَالِمٌ فِي مَكَّةَ.",
+    "de": "Ata ist ein Gelehrter in Mekka.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هُوَ يُفْتِي النَّاسَ فِي الْحَجِّ.",
+    "de": "Er gibt den Leuten beim Haddsch Rechtsauskunft.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "هُوَ يَحُجُّ كَثِيرًا.",
+    "de": "Er macht oft den Haddsch.",
+    "beleg": "B:4"
+   },
+   {
+    "ar": "النَّاسُ يُحِبُّونَهُ.",
+    "de": "Die Leute lieben ihn.",
+    "beleg": "B:6"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "عَطَاءُ بْنُ أَبِي رَبَاحٍ فَقِيهُ مَكَّةَ.",
+    "de": "Ata ibn Abi Rabah ist der Rechtsgelehrte Mekkas.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "وُلِدَ فِي خِلَافَةِ عُثْمَانَ وَنَشَأَ فِي مَكَّةَ.",
+    "de": "Er wurde zur Zeit Uthmans geboren und wuchs in Mekka auf.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "نَادَى مُنَادٍ فِي الْحَجِّ: لَا يُفْتِي النَّاسَ إِلَّا عَطَاءٌ.",
+    "de": "Beim Haddsch rief ein Ausrufer: Nur Ata soll den Leuten Rechtsauskunft geben.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "حَجَّ أَكْثَرَ مِنْ سَبْعِينَ مَرَّةً، وَكَانَ الْمَسْجِدُ فِرَاشَهُ عِشْرِينَ سَنَةً.",
+    "de": "Er machte mehr als siebzig Mal den Haddsch, und zwanzig Jahre lang war die Moschee sein Lager.",
+    "beleg": "B:4,5"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "عَطَاءُ بْنُ أَبِي رَبَاحٍ فَقِيهُ الْحَرَمِ، وُلِدَ فِي خِلَافَةِ عُثْمَانَ وَنَشَأَ بِمَكَّةَ، وَنَادَى مُنَادٍ فِي الْحَجِّ أَلَّا يُفْتِيَ النَّاسَ غَيْرُهُ.",
+    "de": "Ata ibn Abi Rabah, der Rechtsgelehrte des heiligen Bezirks, wurde unter Uthman geboren und wuchs in Mekka auf; beim Haddsch rief ein Ausrufer, dass niemand außer ihm den Leuten Rechtsauskunft geben solle.",
+    "beleg": "B:1,2,3"
+   },
+   {
+    "ar": "وَحَجَّ أَكْثَرَ مِنْ سَبْعِينَ حَجَّةً، وَكَانَ الْمَسْجِدُ مَأْوَاهُ عِشْرِينَ سَنَةً مِنْ أَحْسَنِ النَّاسِ صَلَاةً، وَمَاتَ وَهُوَ أَحَبُّ النَّاسِ إِلَى النَّاسِ.",
+    "de": "Er vollzog mehr als siebzig Mal den Haddsch, die Moschee war zwanzig Jahre sein Lager, er gehörte zu den Menschen mit dem schönsten Gebet und starb als Beliebtester bei den Menschen.",
+    "beleg": "B:4,5,6"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "كَانَ عَطَاءٌ فَقِيهَ الْحَرَمِ بِمَكَّةَ، أَفْتَى النَّاسَ فِي الْحَجِّ بِأَمْرِ مُنَادٍ، وَحَجَّ أَكْثَرَ مِنْ سَبْعِينَ حَجَّةً، وَلَزِمَ الْمَسْجِدَ عِشْرِينَ سَنَةً، وَمَاتَ وَهُوَ أَحَبُّ النَّاسِ إِلَى أَهْلِ الْأَرْضِ.",
+    "de": "Ata war der Rechtsgelehrte des heiligen Bezirks in Mekka, gab beim Haddsch auf Ausruf eines Ausrufers Rechtsauskunft, vollzog über siebzig Mal den Haddsch, hielt sich zwanzig Jahre in der Moschee auf und starb als der bei den Menschen auf Erden Beliebteste.",
+    "beleg": "B:1-6"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "عَطَاءُ بْنُ أَبِي رَبَاحٍ، فَقِيهُ الْحَرَمِ، نَشَأَ فِي مَكَّةَ مُنْذُ خِلَافَةِ عُثْمَانَ، وَانْفَرَدَ بِالْفُتْيَا فِي الْحَجِّ بِنِدَاءِ مُنَادٍ، وَحَجَّ سَبْعِينَ حَجَّةً وَأَكْثَرَ، وَلَزِمَ الْمَسْجِدَ وَحَسُنَتْ صَلَاتُهُ، وَمَاتَ أَحَبَّ النَّاسِ إِلَيْهِمْ.",
+    "de": "Ata ibn Abi Rabah, der Rechtsgelehrte des Haram, wuchs seit der Zeit Uthmans in Mekka auf, war beim Haddsch auf Ausruf allein für Rechtsauskünfte zuständig, vollzog siebzig Mal und öfter den Haddsch, hielt sich in der Moschee auf, hatte ein schönes Gebet und starb als der Beliebteste bei den Menschen.",
+    "beleg": "B:1-6"
+   }
+  ]
+ },
+ "athram": {
+  "A1": [
+   {
+    "ar": "الْأَثْرَمُ عَالِمٌ.",
+    "de": "Al-Athram ist ein Gelehrter.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هُوَ تِلْمِيذُ الْإِمَامِ أَحْمَدَ.",
+    "de": "Er ist ein Schüler Imam Ahmads.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "هُوَ يَكْتُبُ كِتَابًا.",
+    "de": "Er schreibt ein Buch.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "هُوَ ذَكِيٌّ.",
+    "de": "Er ist klug.",
+    "beleg": "B:3"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "أَبُو بَكْرٍ أَحْمَدُ بْنُ مُحَمَّدِ بْنِ هَانِئٍ، يُسَمَّى الْأَثْرَمَ.",
+    "de": "Abu Bakr Ahmad ibn Muhammad ibn Hani wird al-Athram genannt.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "كَانَ حَافِظًا لِلْحَدِيثِ وَصَاحِبَ كِتَابِ السُّنَنِ وَتِلْمِيذَ الْإِمَامِ أَحْمَدَ.",
+    "de": "Er war ein Hadith-Bewahrer, Verfasser des Buches der Sunan und Schüler Imam Ahmads.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "كَانَ ذَكِيًّا جِدًّا.",
+    "de": "Er war sehr klug.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "لَمَّا صَحِبَ أَحْمَدَ تَرَكَ الِاخْتِلَافَ الَّذِي يَحْفَظُهُ وَأَقْبَلَ عَلَى مَذْهَبِ أَحْمَدَ.",
+    "de": "Als er Ahmad begleitete, ließ er die Meinungsverschiedenheiten, die er kannte, und wandte sich Ahmads Lehre zu.",
+    "beleg": "B:4"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "الْأَثْرَمُ أَبُو بَكْرٍ أَحْمَدُ بْنُ مُحَمَّدِ بْنِ هَانِئٍ حَافِظٌ لِلْحَدِيثِ وَمُصَنِّفُ كِتَابِ السُّنَنِ وَتِلْمِيذُ الْإِمَامِ أَحْمَدَ، وَكَانَ ذَا ذَكَاءٍ عَجِيبٍ.",
+    "de": "Al-Athram Abu Bakr Ahmad ibn Muhammad ibn Hani war ein Hadith-Bewahrer, Verfasser des Buches „as-Sunan“ und Schüler Imam Ahmads und hatte eine erstaunliche Wachheit des Verstandes.",
+    "beleg": "B:1,2,3"
+   },
+   {
+    "ar": "وَلَمَّا صَحِبَ أَحْمَدَ بْنَ حَنْبَلٍ تَرَكَ مَا حَفِظَهُ مِنَ الْخِلَافِ وَأَقْبَلَ عَلَى عِلْمِ أَحْمَدَ.",
+    "de": "Als er Ahmad ibn Hanbal begleitete, ließ er die auswendig gekannten Meinungsverschiedenheiten und wandte sich Ahmads Wissen zu.",
+    "beleg": "B:4"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "الْأَثْرَمُ تِلْمِيذُ الْإِمَامِ أَحْمَدَ وَحَافِظٌ لِلْحَدِيثِ وَصَاحِبُ كِتَابِ السُّنَنِ، عُرِفَ بِذَكَاءٍ عَجِيبٍ، وَتَرَكَ لِأَجْلِ صُحْبَةِ أَحْمَدَ مَا حَفِظَهُ مِنَ الْخِلَافِ وَأَقْبَلَ عَلَى مَذْهَبِهِ.",
+    "de": "Al-Athram war Schüler Imam Ahmads, Hadith-Bewahrer und Verfasser des Buches der Sunan, bekannt für erstaunliche Wachheit, und ließ um der Begleitung Ahmads willen die auswendig gekannten Meinungsverschiedenheiten und wandte sich dessen Lehre zu.",
+    "beleg": "B:1-4"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "الْأَثْرَمُ أَحْمَدُ بْنُ مُحَمَّدِ بْنِ هَانِئٍ، حَافِظٌ وَمُصَنِّفٌ لِلسُّنَنِ وَمِنْ تَلَامِذَةِ أَحْمَدَ، ذُو ذَكَاءٍ عَجِيبٍ، تَرَكَ الْخِلَافَ الَّذِي يَحْفَظُهُ حِينَ صَحِبَ أَحْمَدَ وَاتَّجَهَ إِلَى عِلْمِهِ.",
+    "de": "Al-Athram Ahmad ibn Muhammad ibn Hani, Hadith-Bewahrer, Verfasser der Sunan und einer der Schüler Ahmads, von erstaunlicher Wachheit, ließ die auswendig gekannten Meinungsverschiedenheiten, als er Ahmad begleitete, und wandte sich dessen Wissen zu.",
+    "beleg": "B:1-4"
+   }
+  ]
+ },
+ "bilal": {
+  "A1": [
+   {
+    "ar": "بِلَالٌ مُؤَذِّنُ الرَّسُولِ ﷺ.",
+    "de": "Bilal ist der Gebetsrufer des Gesandten ﷺ.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هُوَ مِنَ الْمُسْلِمِينَ الْأَوَّلِينَ.",
+    "de": "Er gehört zu den ersten Muslimen.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "الْمُشْرِكُونَ يُعَذِّبُونَهُ.",
+    "de": "Die Götzendiener foltern ihn.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "هُوَ يَقُولُ: أَحَدٌ أَحَدٌ.",
+    "de": "Er sagt: Einer, Einer!",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "أَبُو بَكْرٍ يُحَرِّرُهُ.",
+    "de": "Abu Bakr befreit ihn.",
+    "beleg": "B:1,6"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "بِلَالُ بْنُ رَبَاحٍ مُؤَذِّنُ رَسُولِ اللَّهِ ﷺ وَمَوْلَى أَبِي بَكْرٍ.",
+    "de": "Bilal ibn Rabah ist der Gebetsrufer des Gesandten Allahs ﷺ und Freigelassener Abu Bakrs.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "كَانَ مِنْ أَوَائِلِ الْمُسْلِمِينَ الَّذِينَ عُذِّبُوا فِي سَبِيلِ اللَّهِ.",
+    "de": "Er gehörte zu den ersten Muslimen, die um Allahs willen gefoltert wurden.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "أَلْبَسَهُ الْمُشْرِكُونَ دُرُوعًا مِنْ حَدِيدٍ وَتَرَكُوهُ فِي الشَّمْسِ، فَقَالَ: أَحَدٌ أَحَدٌ.",
+    "de": "Die Götzendiener zogen ihm eiserne Rüstungen an und ließen ihn in der Sonne; er sagte: Einer, Einer!",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "قَاتَلَ فِي بَدْرٍ، وَشَهِدَ لَهُ النَّبِيُّ ﷺ بِالْجَنَّةِ.",
+    "de": "Er kämpfte bei Badr, und der Prophet ﷺ bezeugte ihm das Paradies.",
+    "beleg": "B:4"
+   },
+   {
+    "ar": "سَمِعَ النَّبِيُّ ﷺ صَوْتَ نَعْلَيْهِ فِي الْجَنَّةِ.",
+    "de": "Der Prophet ﷺ hörte das Geräusch seiner Sandalen im Paradies.",
+    "beleg": "B:5"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "بِلَالُ بْنُ رَبَاحٍ مُؤَذِّنُ رَسُولِ اللَّهِ ﷺ وَمَوْلَى أَبِي بَكْرٍ، مِنْ أَوَّلِ الْمُسْلِمِينَ تَعْذِيبًا فِي اللَّهِ؛ أَلْبَسَهُ الْمُشْرِكُونَ دُرُوعَ الْحَدِيدِ وَأَوْقَفُوهُ فِي الشَّمْسِ وَهُوَ يَقُولُ: أَحَدٌ أَحَدٌ.",
+    "de": "Bilal ibn Rabah, Gebetsrufer des Gesandten Allahs ﷺ und Freigelassener Abu Bakrs, gehörte zu den ersten Muslimen, die um Allahs willen gefoltert wurden; die Götzendiener zogen ihm eiserne Rüstungen an und stellten ihn in die Sonne, und er sagte nur: Einer, Einer!",
+    "beleg": "B:1,2,3"
+   },
+   {
+    "ar": "وَقَاتَلَ فِي بَدْرٍ وَشَهِدَ لَهُ النَّبِيُّ ﷺ بِالْجَنَّةِ بِاسْمِهِ وَسَمِعَ دَفَّ نَعْلَيْهِ فِيهَا، وَقَالَ عُمَرُ: أَبُو بَكْرٍ سَيِّدُنَا وَأَعْتَقَ سَيِّدَنَا، يَعْنِي بِلَالًا.",
+    "de": "Er kämpfte bei Badr, der Prophet ﷺ bezeugte ihm namentlich das Paradies und hörte dort das Geräusch seiner Sandalen; und Umar sagte: Abu Bakr ist unser Herr und befreite unseren Herrn – gemeint war Bilal.",
+    "beleg": "B:4,5,6"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "كَانَ بِلَالٌ مُؤَذِّنَ رَسُولِ اللَّهِ ﷺ وَمَوْلَى أَبِي بَكْرٍ، وَمِنْ أَوَّلِ مَنْ عُذِّبَ فِي اللَّهِ إِذْ أَلْبَسَهُ الْمُشْرِكُونَ دُرُوعَ الْحَدِيدِ وَتَرَكُوهُ فِي الشَّمْسِ فَلَمْ يَزِدْ عَلَى قَوْلِ: أَحَدٌ أَحَدٌ، ثُمَّ قَاتَلَ فِي بَدْرٍ وَبُشِّرَ بِالْجَنَّةِ بِاسْمِهِ.",
+    "de": "Bilal war Gebetsrufer des Gesandten Allahs ﷺ und Freigelassener Abu Bakrs, gehörte zu den Ersten, die um Allahs willen gefoltert wurden, als die Götzendiener ihm Eisenrüstungen anzogen und ihn in der Sonne ließen, und er nichts weiter sagte als: Einer, Einer; später kämpfte er bei Badr und erhielt namentlich die Verheißung des Paradieses.",
+    "beleg": "B:1-5"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "بِلَالُ بْنُ رَبَاحٍ، مُؤَذِّنُ الرَّسُولِ ﷺ وَمَوْلَى الصِّدِّيقِ، صَبَرَ عَلَى التَّعْذِيبِ فِي الشَّمْسِ بِدُرُوعِ الْحَدِيدِ وَهُوَ يَقُولُ: أَحَدٌ أَحَدٌ، وَقَاتَلَ فِي بَدْرٍ، وَشَهِدَ لَهُ النَّبِيُّ ﷺ بِالْجَنَّةِ وَسَمِعَ دَفَّ نَعْلَيْهِ فِيهَا، وَوَصَفَهُ عُمَرُ بِأَنَّهُ سَيِّدُنَا أَعْتَقَهُ سَيِّدُنَا.",
+    "de": "Bilal ibn Rabah, Gebetsrufer des Gesandten ﷺ und Freigelassener as-Siddiqs, ertrug die Folter in der Sonne in Eisenrüstungen mit den Worten „Einer, Einer“, kämpfte bei Badr, dem Propheten ﷺ bezeugte ihm das Paradies, wo er das Geräusch seiner Sandalen hörte, und Umar nannte ihn unseren Herrn, den unser Herr befreit hat.",
+    "beleg": "B:1-6"
+   }
+  ]
+ },
+ "fatima": {
+  "A1": [
+   {
+    "ar": "فَاطِمَةُ بِنْتُ رَسُولِ اللَّهِ ﷺ.",
+    "de": "Fatima ist die Tochter des Gesandten Allahs ﷺ.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هِيَ أُمُّ الْحَسَنِ وَالْحُسَيْنِ.",
+    "de": "Sie ist die Mutter von al-Hasan und al-Husayn.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "عَلِيٌّ يَتَزَوَّجُهَا.",
+    "de": "Ali heiratet sie.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "هِيَ صَابِرَةٌ وَشَاكِرَةٌ.",
+    "de": "Sie ist geduldig und dankbar.",
+    "beleg": "B:5"
+   },
+   {
+    "ar": "النَّبِيُّ ﷺ يُحِبُّهَا.",
+    "de": "Der Prophet ﷺ liebt sie.",
+    "beleg": "B:4"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "فَاطِمَةُ بِنْتُ رَسُولِ اللَّهِ ﷺ وَأُمُّ الْحَسَنِ وَالْحُسَيْنِ.",
+    "de": "Fatima, die Tochter des Gesandten Allahs ﷺ, ist die Mutter von al-Hasan und al-Husayn.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "وُلِدَتْ قَبْلَ بَعْثَةِ النَّبِيِّ ﷺ بِقَلِيلٍ.",
+    "de": "Sie wurde kurz vor der Berufung des Propheten ﷺ geboren.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "تَزَوَّجَهَا عَلِيُّ بْنُ أَبِي طَالِبٍ فِي السَّنَةِ الثَّانِيَةِ بَعْدَ بَدْرٍ.",
+    "de": "Ali ibn Abi Talib heiratete sie im zweiten Jahr, nach Badr.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "كَانَتْ صَابِرَةً دَيِّنَةً قَنُوعَةً شَاكِرَةً لِلَّهِ.",
+    "de": "Sie war geduldig, fromm, genügsam und Allah dankbar.",
+    "beleg": "B:5"
+   },
+   {
+    "ar": "قَالَ النَّبِيُّ ﷺ: فَاطِمَةُ بَضْعَةٌ مِنِّي.",
+    "de": "Der Prophet ﷺ sagte: Fatima ist ein Teil von mir.",
+    "beleg": "B:6"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "فَاطِمَةُ بِنْتُ رَسُولِ اللَّهِ ﷺ وَأُمُّ الْحَسَنِ وَالْحُسَيْنِ، وُلِدَتْ قُبَيْلَ الْبَعْثَةِ وَتَزَوَّجَهَا عَلِيٌّ فِي السَّنَةِ الثَّانِيَةِ بَعْدَ بَدْرٍ، وَكَانَ النَّبِيُّ ﷺ يُحِبُّهَا وَيُكْرِمُهَا.",
+    "de": "Fatima, die Tochter des Gesandten Allahs ﷺ und Mutter von al-Hasan und al-Husayn, wurde kurz vor der Berufung geboren, Ali heiratete sie im zweiten Jahr nach Badr, und der Prophet ﷺ liebte und ehrte sie.",
+    "beleg": "B:1,2,3,4"
+   },
+   {
+    "ar": "وَكَانَتْ صَابِرَةً دَيِّنَةً قَنُوعَةً شَاكِرَةً، وَقَالَ النَّبِيُّ ﷺ: فَاطِمَةُ بَضْعَةٌ مِنِّي، وَلَمَّا مَاتَ بَكَتْ، وَقَدْ أَخْبَرَهَا بِأَنَّهَا أَوَّلُ أَهْلِهِ لُحُوقًا بِهِ وَسَيِّدَةُ نِسَاءِ هَذِهِ الْأُمَّةِ.",
+    "de": "Sie war geduldig, fromm, genügsam und dankbar; der Prophet ﷺ sagte: Fatima ist ein Teil von mir; als er starb, trauerte sie und weinte; er hatte ihr gesagt, dass sie als Erste seiner Familie ihm folgen werde und die Herrin der Frauen dieser Umma sei.",
+    "beleg": "B:5,6,7,8"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "كَانَتْ فَاطِمَةُ بِنْتُ النَّبِيِّ ﷺ وَأُمُّ الْحَسَنِ وَالْحُسَيْنِ صَابِرَةً دَيِّنَةً قَنُوعَةً شَاكِرَةً، أَحَبَّهَا النَّبِيُّ ﷺ وَأَكْرَمَهَا وَقَالَ إِنَّهَا بَضْعَةٌ مِنْهُ، وَبَكَتْهُ عِنْدَ وَفَاتِهِ، وَكَانَ قَدْ أَخْبَرَهَا بِأَنَّهَا أَوَّلُ أَهْلِهِ لُحُوقًا بِهِ وَأَنَّهَا سَيِّدَةُ نِسَاءِ الْأُمَّةِ.",
+    "de": "Fatima, Tochter des Propheten ﷺ und Mutter von al-Hasan und al-Husayn, war geduldig, fromm, genügsam und dankbar; der Prophet ﷺ liebte und ehrte sie und sagte, sie sei ein Teil von ihm; sie weinte bei seinem Tod, und er hatte ihr gesagt, dass sie als Erste seiner Familie ihm folgen werde und Herrin der Frauen der Umma sei.",
+    "beleg": "B:1-8"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "فَاطِمَةُ، ابْنَةُ الرَّسُولِ ﷺ، وُلِدَتْ قُبَيْلَ الْبَعْثَةِ وَتَزَوَّجَهَا عَلِيٌّ بَعْدَ بَدْرٍ، فَكَانَتْ صَابِرَةً قَنُوعَةً، وَقَالَ فِيهَا النَّبِيُّ ﷺ إِنَّهَا بَضْعَةٌ مِنْهُ وَسَيِّدَةُ نِسَاءِ الْأُمَّةِ وَأَوَّلُ أَهْلِهِ لُحُوقًا بِهِ.",
+    "de": "Fatima, Tochter des Gesandten ﷺ, wurde kurz vor der Berufung geboren, Ali heiratete sie nach Badr; sie war geduldig und genügsam, und der Prophet ﷺ sagte von ihr, sie sei ein Teil von ihm, Herrin der Frauen der Umma und die Erste seiner Familie, die ihm folge.",
+    "beleg": "B:1-8"
+   }
+  ]
+ },
+ "hamza": {
+  "A1": [
+   {
+    "ar": "حَمْزَةُ عَمُّ النَّبِيِّ ﷺ.",
+    "de": "Hamza ist der Onkel des Propheten ﷺ.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "لَقَبُهُ أَسَدُ اللَّهِ.",
+    "de": "Sein Beiname ist Löwe Allahs.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "هُوَ يَحْمِي النَّبِيَّ ﷺ.",
+    "de": "Er schützt den Propheten ﷺ.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "هُوَ شَهِيدٌ فِي أُحُدٍ.",
+    "de": "Er ist Märtyrer bei Uhud.",
+    "beleg": "B:5"
+   },
+   {
+    "ar": "النَّبِيُّ ﷺ يَقُولُ: حَمْزَةُ سَيِّدُ الشُّهَدَاءِ.",
+    "de": "Der Prophet ﷺ sagt: Hamza ist der Herr der Märtyrer.",
+    "beleg": "B:7"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ عَمُّ رَسُولِ اللَّهِ ﷺ وَأَخُوهُ مِنَ الرَّضَاعَةِ.",
+    "de": "Hamza ibn Abd al-Muttalib ist der Onkel des Gesandten Allahs ﷺ und sein Milchbruder.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "كَانَ يُلَقَّبُ أَسَدَ اللَّهِ.",
+    "de": "Er trug den Beinamen Löwe Allahs.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "لَمَّا أَسْلَمَ عَرَفَتْ قُرَيْشٌ أَنَّهُ سَيَحْمِي النَّبِيَّ ﷺ، فَخَفَّفَتْ بَعْضَ عَدَاوَتِهَا.",
+    "de": "Als er Muslim wurde, wusste Quraisch, dass er den Propheten ﷺ schützen würde, und ließ von einem Teil ihrer Feindseligkeit ab.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "اسْتُشْهِدَ يَوْمَ أُحُدٍ، وَقَتَلَهُ وَحْشِيٌّ، ثُمَّ أَسْلَمَ وَحْشِيٌّ.",
+    "de": "Er fiel am Tag von Uhud als Märtyrer, Wahschi tötete ihn; später nahm Wahschi den Islam an.",
+    "beleg": "B:5,6"
+   },
+   {
+    "ar": "قَالَ النَّبِيُّ ﷺ: سَيِّدُ الشُّهَدَاءِ حَمْزَةُ.",
+    "de": "Der Prophet ﷺ sagte: Der Herr der Märtyrer ist Hamza.",
+    "beleg": "B:7"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ عَمُّ رَسُولِ اللَّهِ ﷺ وَأَخُوهُ مِنَ الرَّضَاعَةِ، لُقِّبَ أَسَدَ اللَّهِ، وَلَمَّا أَسْلَمَ عَلِمَتْ قُرَيْشٌ أَنَّهُ سَيَمْنَعُ النَّبِيَّ ﷺ فَكَفَّتْ عَنْ بَعْضِ أَذَاهَا.",
+    "de": "Hamza ibn Abd al-Muttalib, Onkel des Gesandten Allahs ﷺ und sein Milchbruder, trug den Beinamen Löwe Allahs; als er Muslim wurde, wusste Quraisch, dass er den Propheten ﷺ schützen würde, und ließ von einem Teil ihrer Feindseligkeiten ab.",
+    "beleg": "B:1,2,3"
+   },
+   {
+    "ar": "وَفِي رِوَايَةٍ بَارَزَ عُتْبَةَ بْنَ رَبِيعَةَ يَوْمَ بَدْرٍ فَقَتَلَهُ، وَاسْتُشْهِدَ يَوْمَ أُحُدٍ عَلَى يَدِ وَحْشِيٍّ الَّذِي أَسْلَمَ بَعْدَ ذَلِكَ وَجَاءَ النَّبِيَّ ﷺ، وَقَالَ ﷺ: سَيِّدُ الشُّهَدَاءِ حَمْزَةُ.",
+    "de": "Nach einem Bericht trat er bei Badr im Zweikampf gegen Utba ibn Rabiʿa an und tötete ihn; er fiel bei Uhud als Märtyrer durch Wahschi, der später den Islam annahm und zum Propheten ﷺ kam; und er ﷺ sagte: Der Herr der Märtyrer ist Hamza.",
+    "beleg": "B:4,5,6,7"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "كَانَ حَمْزَةُ عَمَّ النَّبِيِّ ﷺ وَأَخَاهُ مِنَ الرَّضَاعَةِ، لُقِّبَ أَسَدَ اللَّهِ، وَكَفَّتْ قُرَيْشٌ عَنْ بَعْضِ عَدَاوَتِهَا حِينَ أَسْلَمَ لِعِلْمِهَا بِأَنَّهُ سَيَحْمِي النَّبِيَّ ﷺ، وَاسْتُشْهِدَ يَوْمَ أُحُدٍ عَلَى يَدِ وَحْشِيٍّ الَّذِي أَسْلَمَ لَاحِقًا، وَقَالَ النَّبِيُّ ﷺ إِنَّ سَيِّدَ الشُّهَدَاءِ حَمْزَةُ.",
+    "de": "Hamza war der Onkel und Milchbruder des Propheten ﷺ und trug den Beinamen Löwe Allahs; Quraisch ließ von einem Teil ihrer Feindseligkeit ab, als er Muslim wurde, da sie wussten, dass er den Propheten ﷺ schützen würde; er fiel bei Uhud durch Wahschi, der später den Islam annahm, und der Prophet ﷺ sagte, der Herr der Märtyrer sei Hamza.",
+    "beleg": "B:1-7"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ، عَمُّ الرَّسُولِ ﷺ وَأَخُوهُ رَضَاعًا وَأَسَدُ اللَّهِ، كَانَ إِسْلَامُهُ حِمَايَةً لِلنَّبِيِّ ﷺ خَفَّفَتْ عَدَاوَةَ قُرَيْشٍ، وَاسْتُشْهِدَ يَوْمَ أُحُدٍ بِيَدِ وَحْشِيٍّ الَّذِي أَسْلَمَ بَعْدُ، وَسَمَّاهُ النَّبِيُّ ﷺ سَيِّدَ الشُّهَدَاءِ.",
+    "de": "Hamza ibn Abd al-Muttalib, Onkel und Milchbruder des Gesandten ﷺ und Löwe Allahs; sein Islam war ein Schutz für den Propheten ﷺ, der die Feindschaft Quraischs minderte; er fiel bei Uhud durch Wahschi, der später den Islam annahm, und der Prophet ﷺ nannte ihn den Herrn der Märtyrer.",
+    "beleg": "B:1-7"
+   }
+  ]
+ },
+ "harb-kirmani": {
+  "A1": [
+   {
+    "ar": "حَرْبٌ الْكِرْمَانِيُّ فَقِيهٌ.",
+    "de": "Harb al-Kirmani ist ein Rechtsgelehrter.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هُوَ تِلْمِيذُ أَحْمَدَ.",
+    "de": "Er ist ein Schüler Ahmads.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "لَهُ كِتَابٌ: الْمَسَائِلُ.",
+    "de": "Er hat ein Buch: al-Masaʾil.",
+    "beleg": "B:3"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "أَبُو مُحَمَّدٍ حَرْبُ بْنُ إِسْمَاعِيلَ الْكِرْمَانِيُّ فَقِيهٌ.",
+    "de": "Abu Muhammad Harb ibn Ismaʿil al-Kirmani ist ein Rechtsgelehrter.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هُوَ مِنْ تَلَامِذَةِ أَحْمَدَ بْنِ حَنْبَلٍ.",
+    "de": "Er ist einer der Schüler Ahmad ibn Hanbals.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "كِتَابُهُ الْمَسَائِلُ مِنْ أَنْفَسِ كُتُبِ الْحَنَابِلَةِ.",
+    "de": "Sein Buch „al-Masaʾil“ gehört zu den wertvollsten Büchern der Hanbaliten.",
+    "beleg": "B:3"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "حَرْبُ بْنُ إِسْمَاعِيلَ الْكِرْمَانِيُّ، أَبُو مُحَمَّدٍ، فَقِيهٌ وَتِلْمِيذٌ لِأَحْمَدَ بْنِ حَنْبَلٍ، وَكِتَابُهُ الْمَسَائِلُ مِنْ أَنْفَسِ كُتُبِ الْحَنَابِلَةِ.",
+    "de": "Harb ibn Ismaʿil al-Kirmani, Abu Muhammad, war Rechtsgelehrter und Schüler Ahmad ibn Hanbals, und sein Buch „al-Masaʾil“ gehört zu den wertvollsten Büchern der Hanbaliten.",
+    "beleg": "B:1,2,3"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "كَانَ حَرْبٌ الْكِرْمَانِيُّ فَقِيهًا مِنْ تَلَامِذَةِ الْإِمَامِ أَحْمَدَ، وَيُعَدُّ كِتَابُهُ الْمَسَائِلُ مِنْ أَنْفَسِ مَا صُنِّفَ فِي مَذْهَبِ الْحَنَابِلَةِ.",
+    "de": "Harb al-Kirmani war ein Rechtsgelehrter und Schüler Imam Ahmads, und sein Buch „al-Masaʾil“ gilt als eines der wertvollsten Werke der hanbalitischen Schule.",
+    "beleg": "B:1-3"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "حَرْبُ بْنُ إِسْمَاعِيلَ الْكِرْمَانِيُّ، فَقِيهٌ مِنْ تَلَامِذَةِ أَحْمَدَ، وَمَسَائِلُهُ مِنْ أَنْفَسِ كُتُبِ الْحَنَابِلَةِ.",
+    "de": "Harb ibn Ismaʿil al-Kirmani, Rechtsgelehrter und Schüler Ahmads; seine „Masaʾil“ gehören zu den wertvollsten Büchern der Hanbaliten.",
+    "beleg": "B:1-3"
+   }
+  ]
+ },
+ "hasan-basri": {
+  "A1": [
+   {
+    "ar": "الْحَسَنُ الْبَصْرِيُّ عَالِمٌ.",
+    "de": "Al-Hasan al-Basri ist ein Gelehrter.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هُوَ مِنَ الْبَصْرَةِ.",
+    "de": "Er ist aus Basra.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هُوَ زَاهِدٌ وَعَابِدٌ.",
+    "de": "Er ist ein Asket und ein Anbeter.",
+    "beleg": "B:4"
+   },
+   {
+    "ar": "الزُّهَّادُ يَسْمَعُونَ كَلَامَهُ.",
+    "de": "Die Asketen hören seine Worte.",
+    "beleg": "B:5"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "الْحَسَنُ بْنُ أَبِي الْحَسَنِ يَسَارٍ، أَبُو سَعِيدٍ مِنَ الْبَصْرَةِ.",
+    "de": "Al-Hasan ibn Abi l-Hasan Yasar, Abu Saʿid aus Basra.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "وُلِدَ فِي الْمَدِينَةِ قَبْلَ نِهَايَةِ خِلَافَةِ عُمَرَ بِسَنَتَيْنِ.",
+    "de": "Er wurde in Medina zwei Jahre vor dem Ende von Umars Kalifat geboren.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "كَانَ أَبُوهُ يَسَارٌ أَسِيرًا مِنْ مَيْسَانَ ثُمَّ أُعْتِقَ.",
+    "de": "Sein Vater Yasar war ein Gefangener aus Maysan und wurde später freigelassen.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "كَانَ عَالِمًا فَقِيهًا ثِقَةً عَابِدًا فَصِيحًا.",
+    "de": "Er war gelehrt, rechtskundig, zuverlässig, ein Anbeter und sprachgewandt.",
+    "beleg": "B:4"
+   },
+   {
+    "ar": "مَاتَ فِي رَجَبٍ سَنَةَ مِئَةٍ وَعَشْرٍ.",
+    "de": "Er starb im Radschab des Jahres 110.",
+    "beleg": "B:6"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "الْحَسَنُ بْنُ أَبِي الْحَسَنِ يَسَارٍ، أَبُو سَعِيدٍ الْبَصْرِيُّ، وُلِدَ بِالْمَدِينَةِ قَبْلَ نِهَايَةِ خِلَافَةِ عُمَرَ بِسَنَتَيْنِ، وَكَانَ أَبُوهُ يَسَارٌ أَسِيرًا مِنْ مَيْسَانَ ثُمَّ أُعْتِقَ.",
+    "de": "Al-Hasan ibn Abi l-Hasan Yasar, Abu Saʿid al-Basri, wurde zwei Jahre vor dem Ende von Umars Kalifat in Medina geboren; sein Vater Yasar war ein Gefangener aus Maysan und wurde später freigelassen.",
+    "beleg": "B:1,2,3"
+   },
+   {
+    "ar": "وَكَانَ عَالِمًا فَقِيهًا ثِقَةً عَابِدًا كَثِيرَ الْعِلْمِ فَصِيحًا، وَيَأْتِيهِ الزُّهَّادُ فَيَسْمَعُونَ كَلَامَهُ فِي الزُّهْدِ، وَمَاتَ فِي رَجَبٍ سَنَةَ ١١٠.",
+    "de": "Er war gelehrt, rechtskundig, zuverlässig, ein Mann der Anbetung, wissensreich und sprachgewandt; die Asketen kamen zu ihm und hörten seine Worte über den Weltverzicht; er starb im Radschab des Jahres 110.",
+    "beleg": "B:4,5,6"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "كَانَ الْحَسَنُ الْبَصْرِيُّ، وَهُوَ ابْنُ أَسِيرٍ مِنْ مَيْسَانَ أُعْتِقَ وَقَدْ وُلِدَ فِي الْمَدِينَةِ قَبْلَ نِهَايَةِ خِلَافَةِ عُمَرَ بِسَنَتَيْنِ، عَالِمًا فَقِيهًا ثِقَةً عَابِدًا فَصِيحًا، يَقْصِدُهُ الزُّهَّادُ لِيَسْمَعُوا كَلَامَهُ فِي الزُّهْدِ، وَتُوُفِّيَ فِي رَجَبٍ سَنَةَ ١١٠.",
+    "de": "Al-Hasan al-Basri, Sohn eines freigelassenen Gefangenen aus Maysan, zwei Jahre vor dem Ende von Umars Kalifat in Medina geboren, war gelehrt, rechtskundig, zuverlässig, ein Mann der Anbetung und sprachgewandt; die Asketen suchten ihn auf, um seine Worte über den Weltverzicht zu hören; er starb im Radschab des Jahres 110.",
+    "beleg": "B:1-6"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "الْحَسَنُ بْنُ يَسَارٍ الْبَصْرِيُّ، وُلِدَ بِالْمَدِينَةِ فِي أَوَاخِرِ خِلَافَةِ عُمَرَ لِأَبٍ أُعْتِقَ مِنَ الْأَسْرِ، وَاشْتُهِرَ بِالْعِلْمِ وَالْفِقْهِ وَالْعِبَادَةِ وَالْفَصَاحَةِ وَبِكَلَامِهِ فِي الزُّهْدِ، وَمَاتَ سَنَةَ ١١٠.",
+    "de": "Al-Hasan ibn Yasar al-Basri, am Ende von Umars Kalifat in Medina geboren als Sohn eines aus der Gefangenschaft Freigelassenen, war berühmt für Wissen, Rechtskunde, Anbetung, Sprachgewandtheit und seine Worte über den Weltverzicht und starb im Jahr 110.",
+    "beleg": "B:1-6"
+   }
+  ]
+ },
+ "ibn-abbas": {
+  "A1": [
+   {
+    "ar": "ابْنُ عَبَّاسٍ ابْنُ عَمِّ النَّبِيِّ ﷺ.",
+    "de": "Ibn Abbas ist der Cousin des Propheten ﷺ.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هُوَ عَالِمُ الْأُمَّةِ.",
+    "de": "Er ist der Gelehrte der Umma.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "النَّبِيُّ ﷺ يَدْعُو لَهُ.",
+    "de": "Der Prophet ﷺ betet für ihn.",
+    "beleg": "B:5"
+   },
+   {
+    "ar": "هُوَ يُفَسِّرُ الْقُرْآنَ.",
+    "de": "Er legt den Koran aus.",
+    "beleg": "B:2"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "عَبْدُ اللَّهِ بْنُ عَبَّاسٍ ابْنُ عَمِّ رَسُولِ اللَّهِ ﷺ.",
+    "de": "Abdullah ibn Abbas ist der Cousin des Gesandten Allahs ﷺ.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "لُقِّبَ بِعَالِمِ الْأُمَّةِ وَإِمَامِ التَّفْسِيرِ.",
+    "de": "Er wurde Gelehrter der Umma und Imam der Quran-Auslegung genannt.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "وُلِدَ فِي شِعْبِ بَنِي هَاشِمٍ قَبْلَ الْهِجْرَةِ بِثَلَاثِ سَنَوَاتٍ.",
+    "de": "Er wurde in der Schlucht der Banu Haschim drei Jahre vor der Hidschra geboren.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "دَعَا لَهُ النَّبِيُّ ﷺ: اللَّهُمَّ فَقِّهْهُ فِي الدِّينِ وَعَلِّمْهُ التَّأْوِيلَ.",
+    "de": "Der Prophet ﷺ betete für ihn: O Allah, gib ihm Verständnis in der Religion und lehre ihn die Auslegung.",
+    "beleg": "B:5"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "عَبْدُ اللَّهِ بْنُ عَبَّاسٍ ابْنُ عَمِّ رَسُولِ اللَّهِ ﷺ، يُسَمَّى عَالِمَ الْأُمَّةِ وَإِمَامَ التَّفْسِيرِ، وُلِدَ فِي شِعْبِ بَنِي هَاشِمٍ قَبْلَ الْهِجْرَةِ بِثَلَاثِ سَنَوَاتٍ.",
+    "de": "Abdullah ibn Abbas, Cousin des Gesandten Allahs ﷺ, wird Gelehrter der Umma und Imam der Quran-Auslegung genannt und wurde drei Jahre vor der Hidschra in der Schlucht der Banu Haschim geboren.",
+    "beleg": "B:1,2,3"
+   },
+   {
+    "ar": "وَكَانَ صَغِيرًا حِينَ تُوُفِّيَ النَّبِيُّ ﷺ وَفِي سِنِّهِ اخْتِلَافٌ، وَدَعَا لَهُ النَّبِيُّ ﷺ بِالْفِقْهِ فِي الدِّينِ وَتَعْلِيمِ التَّأْوِيلِ، وَسَأَلَ لَهُ الْحِكْمَةَ مَرَّتَيْنِ.",
+    "de": "Er war noch jung, als der Prophet ﷺ starb, wobei es zu seinem Alter verschiedene Angaben gibt; der Prophet ﷺ bat für ihn um Verständnis in der Religion und Lehre der Auslegung und bat zweimal für ihn um Weisheit.",
+    "beleg": "B:4,5,6"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "كَانَ ابْنُ عَبَّاسٍ ابْنَ عَمِّ النَّبِيِّ ﷺ وَعَالِمَ الْأُمَّةِ وَإِمَامَ التَّفْسِيرِ، وُلِدَ فِي شِعْبِ بَنِي هَاشِمٍ قَبْلَ الْهِجْرَةِ بِثَلَاثِ سَنَوَاتٍ وَكَانَ صَغِيرًا عِنْدَ وَفَاةِ النَّبِيِّ ﷺ عَلَى اخْتِلَافٍ فِي سِنِّهِ، وَدَعَا لَهُ النَّبِيُّ ﷺ بِالْفِقْهِ وَالتَّأْوِيلِ، وَسَأَلَ لَهُ الْحِكْمَةَ مَرَّتَيْنِ.",
+    "de": "Ibn Abbas war der Cousin des Propheten ﷺ, Gelehrter der Umma und Imam der Quran-Auslegung, wurde drei Jahre vor der Hidschra in der Schlucht der Banu Haschim geboren und war beim Tod des Propheten ﷺ jung, wobei sein Alter verschieden angegeben wird; der Prophet ﷺ betete für ihn um Verständnis und Auslegung und bat zweimal für ihn um Weisheit.",
+    "beleg": "B:1-6"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "عَبْدُ اللَّهِ بْنُ عَبَّاسٍ، ابْنُ عَمِّ الرَّسُولِ ﷺ، عَالِمُ الْأُمَّةِ وَإِمَامُ التَّفْسِيرِ، وُلِدَ قَبْلَ الْهِجْرَةِ بِثَلَاثٍ، وَدَعَا لَهُ النَّبِيُّ ﷺ بِالْفِقْهِ فِي الدِّينِ وَعِلْمِ التَّأْوِيلِ وَبِالْحِكْمَةِ.",
+    "de": "Abdullah ibn Abbas, Cousin des Gesandten ﷺ, Gelehrter der Umma und Imam der Auslegung, wurde drei Jahre vor der Hidschra geboren, und der Prophet ﷺ betete für ihn um Verständnis in der Religion, Wissen der Auslegung und Weisheit.",
+    "beleg": "B:1-6"
+   }
+  ]
+ },
+ "ibn-sirin": {
+  "A1": [
+   {
+    "ar": "ابْنُ سِيرِينَ عَالِمٌ مِنَ الْبَصْرَةِ.",
+    "de": "Ibn Sirin ist ein Gelehrter aus Basra.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هُوَ يَسْمَعُ مِنْ أَبِي هُرَيْرَةَ.",
+    "de": "Er hört von Abu Hurayra.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "هُوَ وَرِعٌ.",
+    "de": "Er ist gewissenhaft.",
+    "beleg": "B:4"
+   },
+   {
+    "ar": "هُوَ يَقُولُ: هَذَا الْعِلْمُ دِينٌ.",
+    "de": "Er sagt: Dieses Wissen ist Religion.",
+    "beleg": "B:5"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "مُحَمَّدُ بْنُ سِيرِينَ، أَبُو بَكْرٍ مِنَ الْبَصْرَةِ، مَوْلَى أَنَسِ بْنِ مَالِكٍ.",
+    "de": "Muhammad ibn Sirin, Abu Bakr aus Basra, Maula des Anas ibn Malik.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "وُلِدَ قَبْلَ نِهَايَةِ خِلَافَةِ عُمَرَ بِسَنَتَيْنِ.",
+    "de": "Er wurde zwei Jahre vor dem Ende von Umars Kalifat geboren.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "سَمِعَ مِنْ أَبِي هُرَيْرَةَ وَابْنِ عَبَّاسٍ وَابْنِ عُمَرَ وَأَنَسٍ وَغَيْرِهِمْ.",
+    "de": "Er hörte von Abu Hurayra, Ibn Abbas, Ibn Umar, Anas und anderen.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "اشْتُهِرَ بِالْوَرَعِ.",
+    "de": "Er war für seine Gewissenhaftigkeit berühmt.",
+    "beleg": "B:4"
+   },
+   {
+    "ar": "قَالَ: هَذَا الْعِلْمُ دِينٌ، فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ.",
+    "de": "Er sagte: Dieses Wissen ist Religion, also seht genau hin, von wem ihr eure Religion nehmt.",
+    "beleg": "B:5"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "مُحَمَّدُ بْنُ سِيرِينَ، أَبُو بَكْرٍ الْبَصْرِيُّ، مَوْلَى أَنَسِ بْنِ مَالِكٍ، وُلِدَ قَبْلَ نِهَايَةِ خِلَافَةِ عُمَرَ بِسَنَتَيْنِ، وَسَمِعَ مِنْ أَبِي هُرَيْرَةَ وَابْنِ عَبَّاسٍ وَابْنِ عُمَرَ وَأَنَسٍ وَغَيْرِهِمْ.",
+    "de": "Muhammad ibn Sirin, Abu Bakr al-Basri, Maula des Anas ibn Malik, wurde zwei Jahre vor dem Ende von Umars Kalifat geboren und hörte von Abu Hurayra, Ibn Abbas, Ibn Umar, Anas und anderen.",
+    "beleg": "B:1,2,3"
+   },
+   {
+    "ar": "وَاشْتُهِرَ بِالْوَرَعِ حَتَّى قِيلَ إِنَّهُ لَا أَحَدَ مِثْلُهُ فِيهِ، وَقَالَ: هَذَا الْعِلْمُ دِينٌ فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ، وَمَاتَ عَنْ ثَمَانٍ وَسَبْعِينَ سَنَةً.",
+    "de": "Er war so für seine Gewissenhaftigkeit berühmt, dass man sagte, niemand sei darin wie er; er sagte: Dieses Wissen ist Religion, also seht genau hin, von wem ihr eure Religion nehmt; und er starb mit 78 Jahren.",
+    "beleg": "B:4,5,6"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "كَانَ ابْنُ سِيرِينَ مَوْلَى أَنَسِ بْنِ مَالِكٍ مِنَ الْبَصْرَةِ، وُلِدَ قَبْلَ نِهَايَةِ خِلَافَةِ عُمَرَ بِسَنَتَيْنِ وَسَمِعَ مِنْ أَبِي هُرَيْرَةَ وَابْنِ عَبَّاسٍ وَابْنِ عُمَرَ وَأَنَسٍ، وَاشْتُهِرَ بِوَرَعٍ لَا نَظِيرَ لَهُ، وَأَوْصَى بِالتَّدْقِيقِ فِيمَنْ يُؤْخَذُ عَنْهُ الدِّينُ، وَتُوُفِّيَ عَنْ ثَمَانٍ وَسَبْعِينَ سَنَةً.",
+    "de": "Ibn Sirin, Maula des Anas ibn Malik aus Basra, wurde zwei Jahre vor dem Ende von Umars Kalifat geboren, hörte von Abu Hurayra, Ibn Abbas, Ibn Umar und Anas, war für eine unvergleichliche Gewissenhaftigkeit berühmt, mahnte zur Genauigkeit darin, von wem man die Religion nimmt, und starb mit 78 Jahren.",
+    "beleg": "B:1-6"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "مُحَمَّدُ بْنُ سِيرِينَ الْبَصْرِيُّ، مَوْلَى أَنَسٍ، رَوَى عَنْ جَمَاعَةٍ مِنَ الصَّحَابَةِ، وَاشْتُهِرَ بِالْوَرَعِ، وَقَالَ كَلِمَتَهُ الْمَشْهُورَةَ فِي أَنَّ هَذَا الْعِلْمَ دِينٌ فَيَنْبَغِي النَّظَرُ عَمَّنْ يُؤْخَذُ، وَمَاتَ عَنْ ثَمَانٍ وَسَبْعِينَ.",
+    "de": "Muhammad ibn Sirin al-Basri, Maula des Anas, überlieferte von mehreren Gefährten, war für seine Gewissenhaftigkeit berühmt, sprach sein bekanntes Wort, dass dieses Wissen Religion ist und man daher darauf achten müsse, von wem man es nimmt, und starb mit 78 Jahren.",
+    "beleg": "B:1-6"
+   }
+  ]
+ },
+ "jafar": {
+  "A1": [
+   {
+    "ar": "جَعْفَرٌ ابْنُ عَمِّ النَّبِيِّ ﷺ.",
+    "de": "Dschaʿfar ist der Cousin des Propheten ﷺ.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هُوَ أَخُو عَلِيٍّ.",
+    "de": "Er ist der Bruder Alis.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هُوَ يُهَاجِرُ إِلَى الْحَبَشَةِ.",
+    "de": "Er wandert nach Abessinien aus.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "هُوَ يَتَكَلَّمُ مَعَ النَّجَاشِيِّ.",
+    "de": "Er spricht mit dem Negus.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "هُوَ شَهِيدٌ فِي مُؤْتَةَ.",
+    "de": "Er ist Märtyrer bei Muʾta.",
+    "beleg": "B:5"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "جَعْفَرُ بْنُ أَبِي طَالِبٍ ابْنُ عَمِّ رَسُولِ اللَّهِ ﷺ وَأَخُو عَلِيٍّ.",
+    "de": "Dschaʿfar ibn Abi Talib ist der Cousin des Gesandten Allahs ﷺ und der Bruder Alis.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "كَانَ أَكْبَرَ مِنْ عَلِيٍّ بِعَشْرِ سَنَوَاتٍ.",
+    "de": "Er war zehn Jahre älter als Ali.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "هَاجَرَ إِلَى الْحَبَشَةِ، وَهُوَ الَّذِي تَكَلَّمَ مَعَ النَّجَاشِيِّ عَنِ الْمُسْلِمِينَ.",
+    "de": "Er wanderte nach Abessinien aus und sprach für die Muslime mit dem Negus.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "جَاءَ إِلَى الْمَدِينَةِ عِنْدَ فَتْحِ خَيْبَرَ، وَفَرِحَ النَّبِيُّ ﷺ بِقُدُومِهِ.",
+    "de": "Er kam bei der Einnahme von Khaybar nach Medina, und der Prophet ﷺ freute sich über seine Ankunft.",
+    "beleg": "B:4"
+   },
+   {
+    "ar": "جَعَلَهُ النَّبِيُّ ﷺ أَمِيرًا عَلَى جَيْشِ مُؤْتَةَ، وَاسْتُشْهِدَ هُنَاكَ.",
+    "de": "Der Prophet ﷺ machte ihn zum Befehlshaber des Heeres von Muʾta, und er fiel dort als Märtyrer.",
+    "beleg": "B:5"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "جَعْفَرُ بْنُ أَبِي طَالِبٍ ابْنُ عَمِّ رَسُولِ اللَّهِ ﷺ وَأَخُو عَلِيٍّ وَأَكْبَرُ مِنْهُ بِعَشْرِ سَنَوَاتٍ، هَاجَرَ إِلَى الْحَبَشَةِ وَكَانَ هُوَ الَّذِي كَلَّمَ النَّجَاشِيَّ عَنِ الْمُسْلِمِينَ.",
+    "de": "Dschaʿfar ibn Abi Talib, Cousin des Gesandten Allahs ﷺ und zehn Jahre älterer Bruder Alis, wanderte nach Abessinien aus und war es, der für die Muslime mit dem Negus sprach.",
+    "beleg": "B:1,2,3"
+   },
+   {
+    "ar": "ثُمَّ قَدِمَ الْمَدِينَةَ وَقْتَ فَتْحِ خَيْبَرَ فَفَرِحَ بِهِ النَّبِيُّ ﷺ كَثِيرًا، وَأَمَّرَهُ عَلَى جَيْشِ مُؤْتَةَ فَاسْتُشْهِدَ هُنَاكَ، وَرَآهُ النَّبِيُّ ﷺ مَلَكًا يَطِيرُ فِي الْجَنَّةِ فَلُقِّبَ ذَا الْجَنَاحَيْنِ.",
+    "de": "Dann kam er zur Zeit der Einnahme Khaybars nach Medina, und der Prophet ﷺ freute sich sehr über ihn; er machte ihn zum Befehlshaber des Heeres von Muʾta, wo er als Märtyrer fiel, und der Prophet ﷺ sah ihn als einen Engel, der im Paradies fliegt, sodass er den Beinamen „der mit den zwei Flügeln“ erhielt.",
+    "beleg": "B:4,5,6"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "كَانَ جَعْفَرُ بْنُ أَبِي طَالِبٍ ابْنَ عَمِّ النَّبِيِّ ﷺ وَأَخَا عَلِيٍّ الْأَكْبَرَ بِعَشْرِ سَنَوَاتٍ، هَاجَرَ إِلَى الْحَبَشَةِ وَتَكَلَّمَ عَنِ الْمُسْلِمِينَ عِنْدَ النَّجَاشِيِّ، وَقَدِمَ الْمَدِينَةَ وَقْتَ فَتْحِ خَيْبَرَ فَسُرَّ بِهِ النَّبِيُّ ﷺ، وَأَمَّرَهُ عَلَى جَيْشِ مُؤْتَةَ فَاسْتُشْهِدَ، وَرَآهُ النَّبِيُّ ﷺ فِي الْجَنَّةِ يَطِيرُ فَلُقِّبَ ذَا الْجَنَاحَيْنِ.",
+    "de": "Dschaʿfar ibn Abi Talib war Cousin des Propheten ﷺ und zehn Jahre älterer Bruder Alis; er wanderte nach Abessinien aus und sprach beim Negus für die Muslime, kam zur Zeit der Einnahme Khaybars nach Medina, worüber sich der Prophet ﷺ freute, wurde zum Befehlshaber des Heeres von Muʾta ernannt und fiel als Märtyrer; der Prophet ﷺ sah ihn im Paradies fliegen, daher der Beiname „der mit den zwei Flügeln“.",
+    "beleg": "B:1-6"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "جَعْفَرُ بْنُ أَبِي طَالِبٍ، ابْنُ عَمِّ الرَّسُولِ ﷺ وَأَخُو عَلِيٍّ، هَاجَرَ إِلَى الْحَبَشَةِ وَخَاطَبَ النَّجَاشِيَّ بِاسْمِ الْمُسْلِمِينَ، وَقَدِمَ الْمَدِينَةَ عِنْدَ فَتْحِ خَيْبَرَ، وَاسْتُشْهِدَ أَمِيرًا يَوْمَ مُؤْتَةَ، فَرَآهُ النَّبِيُّ ﷺ مَلَكًا فِي الْجَنَّةِ يَطِيرُ، وَلُقِّبَ ذَا الْجَنَاحَيْنِ.",
+    "de": "Dschaʿfar ibn Abi Talib, Cousin des Gesandten ﷺ und Bruder Alis, wanderte nach Abessinien aus und sprach im Namen der Muslime zum Negus, kam bei der Einnahme Khaybars nach Medina und fiel als Befehlshaber bei Muʾta als Märtyrer; der Prophet ﷺ sah ihn als Engel im Paradies fliegen, und er erhielt den Beinamen „der mit den zwei Flügeln“.",
+    "beleg": "B:1-6"
+   }
+  ]
+ },
+ "khadija": {
+  "A1": [
+   {
+    "ar": "خَدِيجَةُ أُمُّ الْمُؤْمِنِينَ.",
+    "de": "Khadija ist die Mutter der Gläubigen.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هِيَ أَوَّلُ مَنْ آمَنَ بِالنَّبِيِّ ﷺ.",
+    "de": "Sie ist die Erste, die an den Propheten ﷺ glaubte.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "هِيَ تُسَاعِدُ النَّبِيَّ ﷺ بِمَالِهَا.",
+    "de": "Sie unterstützt den Propheten ﷺ mit ihrem Vermögen.",
+    "beleg": "B:5"
+   },
+   {
+    "ar": "لَهَا بَيْتٌ فِي الْجَنَّةِ.",
+    "de": "Sie hat ein Haus im Paradies.",
+    "beleg": "B:7"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "خَدِيجَةُ بِنْتُ خُوَيْلِدٍ، أُمُّ الْمُؤْمِنِينَ مِنْ قُرَيْشٍ.",
+    "de": "Khadija bint Khuwaylid, die Mutter der Gläubigen, aus Quraisch.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "كَانَتْ أَوَّلَ مَنْ آمَنَ بِالنَّبِيِّ ﷺ وَصَدَّقَهُ قَبْلَ النَّاسِ.",
+    "de": "Sie war die Erste, die an den Propheten ﷺ glaubte, und sie bestätigte ihn vor allen anderen.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "ثَبَّتَتْهُ، وَذَهَبَتْ مَعَهُ إِلَى ابْنِ عَمِّهَا وَرَقَةَ.",
+    "de": "Sie gab ihm Halt und ging mit ihm zu ihrem Cousin Waraqa.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "أَنْفَقَتْ مَالَهَا لِدَعْمِهِ.",
+    "de": "Sie unterstützte ihn mit ihrem Vermögen.",
+    "beleg": "B:5"
+   },
+   {
+    "ar": "لَمْ يَتَزَوَّجِ النَّبِيُّ ﷺ غَيْرَهَا حَتَّى مَاتَتْ.",
+    "de": "Der Prophet ﷺ nahm keine andere Frau, solange sie lebte.",
+    "beleg": "B:6"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "خَدِيجَةُ بِنْتُ خُوَيْلِدٍ، أُمُّ الْمُؤْمِنِينَ، كَانَتْ أَوَّلَ مَنْ آمَنَ بِالنَّبِيِّ ﷺ وَصَدَّقَهُ قَبْلَ كُلِّ أَحَدٍ، وَثَبَّتَتْهُ وَذَهَبَتْ بِهِ إِلَى ابْنِ عَمِّهَا وَرَقَةَ، وَهِيَ أُمُّ أَوْلَادِ رَسُولِ اللَّهِ ﷺ.",
+    "de": "Khadija bint Khuwaylid, Mutter der Gläubigen, war die Erste, die an den Propheten ﷺ glaubte und ihn vor allen bestätigte; sie gab ihm Halt und ging mit ihm zu ihrem Cousin Waraqa; sie ist die Mutter der Kinder des Gesandten Allahs ﷺ.",
+    "beleg": "B:1,2,3,4"
+   },
+   {
+    "ar": "وَدَعَمَتْهُ بِمَالِهَا، وَلَمْ يَتَزَوَّجْ عَلَيْهَا فِي حَيَاتِهَا، وَأَمَرَ اللَّهُ نَبِيَّهُ أَنْ يُبَشِّرَهَا بِبَيْتٍ فِي الْجَنَّةِ لَا صَخَبَ فِيهِ وَلَا نَصَبَ، وَكَانَتْ تُسَمَّى فِي الْجَاهِلِيَّةِ الطَّاهِرَةَ.",
+    "de": "Sie unterstützte ihn mit ihrem Vermögen, er heiratete zu ihren Lebzeiten keine weitere Frau, und Allah befahl Seinem Propheten, ihr ein Haus im Paradies zu verkünden, ohne Lärm und ohne Mühsal; in der vorislamischen Zeit wurde sie „die Reine“ genannt.",
+    "beleg": "B:5,6,7,8"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "كَانَتْ خَدِيجَةُ بِنْتُ خُوَيْلِدٍ، الْمُلَقَّبَةُ فِي الْجَاهِلِيَّةِ بِالطَّاهِرَةِ، أَوَّلَ مَنْ آمَنَ بِالنَّبِيِّ ﷺ، فَثَبَّتَتْهُ وَذَهَبَتْ مَعَهُ إِلَى وَرَقَةَ وَدَعَمَتْهُ بِمَالِهَا وَلَمْ يَتَزَوَّجْ عَلَيْهَا، وَأَمَرَ اللَّهُ نَبِيَّهُ أَنْ يُبَشِّرَهَا بِبَيْتٍ فِي الْجَنَّةِ لَا صَخَبَ فِيهِ وَلَا نَصَبَ، وَمَاتَتْ قَبْلَ فَرْضِ الصَّلَاةِ.",
+    "de": "Khadija bint Khuwaylid, in der vorislamischen Zeit „die Reine“ genannt, war die Erste, die an den Propheten ﷺ glaubte; sie gab ihm Halt, ging mit ihm zu Waraqa und unterstützte ihn mit ihrem Vermögen, und er heiratete zu ihren Lebzeiten keine andere; Allah befahl Seinem Propheten, ihr ein Haus im Paradies ohne Lärm und Mühsal zu verkünden, und sie starb, bevor das Gebet zur Pflicht wurde.",
+    "beleg": "B:1-9"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "خَدِيجَةُ، أُمُّ الْمُؤْمِنِينَ وَأُمُّ أَوْلَادِ الرَّسُولِ ﷺ، أَوَّلُ مَنْ صَدَّقَهُ وَثَبَّتَهُ وَأَنْفَقَتْ مَالَهَا فِي دَعْمِهِ، وَلَمْ يَتَزَوَّجْ غَيْرَهَا فِي حَيَاتِهَا، وَبُشِّرَتْ بِبَيْتٍ فِي الْجَنَّةِ، وَمَاتَتْ قَبْلَ فَرْضِ الصَّلَاةِ.",
+    "de": "Khadija, Mutter der Gläubigen und Mutter der Kinder des Gesandten ﷺ, war die Erste, die ihn bestätigte und ihm Halt gab, und gab ihr Vermögen zu seiner Unterstützung; er heiratete zu ihren Lebzeiten keine andere, ihr wurde ein Haus im Paradies verkündet, und sie starb, bevor das Gebet zur Pflicht wurde.",
+    "beleg": "B:1-9"
+   }
+  ]
+ },
+ "khalid": {
+  "A1": [
+   {
+    "ar": "خَالِدُ بْنُ الْوَلِيدِ صَحَابِيٌّ.",
+    "de": "Khalid ibn al-Walid ist ein Gefährte.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هُوَ سَيْفُ اللَّهِ.",
+    "de": "Er ist das Schwert Allahs.",
+    "beleg": "B:4"
+   },
+   {
+    "ar": "هُوَ فِي مُؤْتَةَ وَيَأْخُذُ الرَّايَةَ.",
+    "de": "Er ist bei Muʾta und nimmt die Fahne.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "هُوَ يُقَاتِلُ فِي الْعِرَاقِ وَالشَّامِ.",
+    "de": "Er kämpft im Irak und in Syrien.",
+    "beleg": "B:6"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "خَالِدُ بْنُ الْوَلِيدِ مِنْ بَنِي مَخْزُومٍ، أَبُو سُلَيْمَانَ.",
+    "de": "Khalid ibn al-Walid aus dem Stamm Makhzum, Abu Sulayman.",
+    "beleg": "B:1"
+   },
+   {
+    "ar": "هَاجَرَ مُسْلِمًا فِي صَفَرٍ سَنَةَ ثَمَانٍ.",
+    "de": "Er wanderte im Safar des Jahres 8 als Muslim aus.",
+    "beleg": "B:2"
+   },
+   {
+    "ar": "فِي مُؤْتَةَ، بَعْدَ مَقْتَلِ الْأُمَرَاءِ الثَّلَاثَةِ، أَخَذَ الرَّايَةَ، فَحَصَلَ النَّجَاةُ.",
+    "de": "Bei Muʾta nahm er die Fahne, nachdem die drei Befehlshaber gefallen waren, und es kam die Rettung.",
+    "beleg": "B:3"
+   },
+   {
+    "ar": "سَمَّاهُ النَّبِيُّ ﷺ سَيْفَ اللَّهِ.",
+    "de": "Der Prophet ﷺ nannte ihn das Schwert Allahs.",
+    "beleg": "B:4"
+   },
+   {
+    "ar": "حَضَرَ فَتْحَ مَكَّةَ وَحُنَيْنًا، وَقَاتَلَ الْمُرْتَدِّينَ.",
+    "de": "Er war bei der Einnahme Mekkas und bei Hunayn dabei und kämpfte gegen die Abtrünnigen.",
+    "beleg": "B:5,6"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "خَالِدُ بْنُ الْوَلِيدِ الْمَخْزُومِيُّ، أَبُو سُلَيْمَانَ، هَاجَرَ مُسْلِمًا فِي صَفَرٍ سَنَةَ ٨، وَشَهِدَ مُؤْتَةَ، وَلَمَّا قُتِلَ الْأُمَرَاءُ الثَّلَاثَةُ أَخَذَ الرَّايَةَ فَكَانَتِ النَّجَاةُ، وَسَمَّاهُ النَّبِيُّ ﷺ سَيْفَ اللَّهِ.",
+    "de": "Khalid ibn al-Walid al-Makhzumi, Abu Sulayman, wanderte im Safar des Jahres 8 als Muslim aus und nahm an Muʾta teil; als die drei Befehlshaber gefallen waren, nahm er die Fahne, und es kam die Rettung; der Prophet ﷺ nannte ihn das Schwert Allahs.",
+    "beleg": "B:1,2,3,4"
+   },
+   {
+    "ar": "وَشَهِدَ فَتْحَ مَكَّةَ وَحُنَيْنًا، وَقَاتَلَ الْمُرْتَدِّينَ وَمُسَيْلِمَةَ ثُمَّ سَارَ إِلَى الْعِرَاقِ وَالشَّامِ، وَقَطَعَ الْبَادِيَةَ مِنَ الْعِرَاقِ إِلَى الشَّامِ فِي خَمْسِ لَيَالٍ.",
+    "de": "Er war bei der Einnahme Mekkas und bei Hunayn dabei, kämpfte gegen die Abtrünnigen und Musaylima und zog dann in den Irak und nach Syrien; er durchquerte die Wüste vom Irak nach Syrien in fünf Nächten.",
+    "beleg": "B:5,6,7"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "هَاجَرَ خَالِدُ بْنُ الْوَلِيدِ مُسْلِمًا فِي صَفَرٍ سَنَةَ ٨، وَفِي مُؤْتَةَ أَخَذَ الرَّايَةَ بَعْدَ سُقُوطِ الْأُمَرَاءِ الثَّلَاثَةِ فَكَانَتِ النَّجَاةُ، وَسَمَّاهُ النَّبِيُّ ﷺ سَيْفَ اللَّهِ، ثُمَّ شَهِدَ فَتْحَ مَكَّةَ وَحُنَيْنًا وَقَاتَلَ الْمُرْتَدِّينَ وَمُسَيْلِمَةَ وَانْتَقَلَ إِلَى الْعِرَاقِ وَالشَّامِ حَيْثُ قَطَعَ الْبَادِيَةَ فِي خَمْسِ لَيَالٍ.",
+    "de": "Khalid ibn al-Walid wanderte im Safar des Jahres 8 als Muslim aus; bei Muʾta nahm er nach dem Fall der drei Befehlshaber die Fahne, und es kam die Rettung; der Prophet ﷺ nannte ihn das Schwert Allahs; er war bei der Einnahme Mekkas und bei Hunayn dabei, kämpfte gegen die Abtrünnigen und Musaylima und zog dann in den Irak und nach Syrien, wo er die Wüste in fünf Nächten durchquerte.",
+    "beleg": "B:1-7"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "خَالِدُ بْنُ الْوَلِيدِ، سَيْفُ اللَّهِ، أَسْلَمَ وَهَاجَرَ سَنَةَ ٨، وَحَفِظَ الْجَيْشَ يَوْمَ مُؤْتَةَ بِأَخْذِهِ الرَّايَةَ، وَشَهِدَ الْفَتْحَ وَحُنَيْنًا، وَقَاتَلَ الْمُرْتَدِّينَ وَمُسَيْلِمَةَ، ثُمَّ قَاتَلَ فِي الْعِرَاقِ وَالشَّامِ وَقَطَعَ الْبَادِيَةَ فِي خَمْسِ لَيَالٍ.",
+    "de": "Khalid ibn al-Walid, das Schwert Allahs, nahm im Jahr 8 den Islam an und wanderte aus, rettete das Heer bei Muʾta, indem er die Fahne nahm, war bei der Einnahme Mekkas und bei Hunayn dabei, kämpfte gegen die Abtrünnigen und Musaylima, dann im Irak und in Syrien, und durchquerte die Wüste in fünf Nächten.",
+    "beleg": "B:1-7"
+   }
+  ]
  }
 }
