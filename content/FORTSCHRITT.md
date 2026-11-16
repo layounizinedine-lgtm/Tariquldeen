@@ -20,8 +20,9 @@ Fertig (Siyar, mit Seiten + wörtlichen Zitaten): abdullah-ibn-ahmad, abdurrahma
 
 ## Sprachstufen A1–C2 (Stand)
 - Format: `content/stufen_*.py` (je Geschichte alle Stufen, jeder Satz mit Vers-Beleg) → `content/stufen.json` → `npm run build:katalog`.
-- ✅ fertig: nuh, adam, musa (A1, A2, B1, B2, C1, C2 + klassisch)
-- Offen: alle weiteren Propheten (B1 existiert, A1/A2/B2/C1/C2 fehlen), danach Sahaba/Tabi'in/Imame (Siyar).
+- ✅ fertig: nuh, adam, musa, ibrahim, isa, muhammad (A1, A2, B1, B2, C1, C2 + klassisch)
+- Ausführen in Reihenfolge: `python3 content/stufen_1.py && python3 content/stufen_2.py …` (stufen_1 legt stufen.json neu an, die weiteren ergänzen)
+- Offen: Yusuf (eigene Datei yusuf.ts; braucht Ausbau der ganzen Sure 12), alle weiteren Propheten (B1 existiert, A1/A2/B2/C1/C2 fehlen), danach Sahaba/Tabi'in/Imame (Siyar).
 - Regeln: gleicher Inhalt wie B1, keine neuen Fakten, keine wörtlichen Quran-Zitate in eigenen Sätzen; Stufen unterscheiden sich in Satzlänge, Wortschatz und Grammatik.
 ## Stimme
 - Chatterbox-Standardstimme + Nachbearbeitung klang zu künstlich. Natürlichere Stimme braucht eine Referenzaufnahme mit ausdrücklicher Zustimmung des Sprechers (siehe README, Abschnitt Erzählerstimme).

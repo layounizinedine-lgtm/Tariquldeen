@@ -604,5 +604,661 @@
     "beleg": "Quran 26:65-66"
    }
   ]
+ },
+ "ibrahim": {
+  "A1": [
+   {
+    "ar": "إِبْرَاهِيمُ نَبِيُّ اللَّهِ.",
+    "de": "Ibrahim ist ein Prophet Allahs.",
+    "beleg": "Quran 21:51"
+   },
+   {
+    "ar": "قَوْمُهُ يَعْبُدُونَ الْأَصْنَامَ.",
+    "de": "Sein Volk verehrt Götzenbilder.",
+    "beleg": "Quran 21:52-53"
+   },
+   {
+    "ar": "إِبْرَاهِيمُ يَسْأَلُ: مَا هَذِهِ؟",
+    "de": "Ibrahim fragt: Was sind diese?",
+    "beleg": "Quran 21:52"
+   },
+   {
+    "ar": "هُمْ يَقُولُونَ: آبَاؤُنَا يَعْبُدُونَهَا.",
+    "de": "Sie sagen: Unsere Väter verehren sie.",
+    "beleg": "Quran 21:53"
+   },
+   {
+    "ar": "إِبْرَاهِيمُ يَكْسِرُ الْأَصْنَامَ.",
+    "de": "Ibrahim zerbricht die Götzenbilder.",
+    "beleg": "Quran 21:58"
+   },
+   {
+    "ar": "وَيَتْرُكُ الصَّنَمَ الْكَبِيرَ.",
+    "de": "Und er lässt das große Götzenbild stehen.",
+    "beleg": "Quran 21:58"
+   },
+   {
+    "ar": "قَوْمُهُ يَسْأَلُونَ: مَنْ فَعَلَ هَذَا؟",
+    "de": "Sein Volk fragt: Wer hat das getan?",
+    "beleg": "Quran 21:59-60"
+   },
+   {
+    "ar": "هُمْ يُرِيدُونَ أَنْ يُحْرِقُوا إِبْرَاهِيمَ.",
+    "de": "Sie wollen Ibrahim verbrennen.",
+    "beleg": "Quran 21:68"
+   },
+   {
+    "ar": "اللَّهُ يَجْعَلُ النَّارَ بَارِدَةً.",
+    "de": "Allah macht das Feuer kühl.",
+    "beleg": "Quran 21:69"
+   },
+   {
+    "ar": "النَّارُ لَا تَضُرُّ إِبْرَاهِيمَ.",
+    "de": "Das Feuer schadet Ibrahim nicht.",
+    "beleg": "Quran 21:69"
+   },
+   {
+    "ar": "قَوْمُهُ خَاسِرُونَ.",
+    "de": "Sein Volk verliert.",
+    "beleg": "Quran 21:70"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "قَدْ آتَى اللَّهُ إِبْرَاهِيمَ رُشْدَهُ.",
+    "de": "Allah hatte Ibrahim seine Rechtleitung gegeben.",
+    "beleg": "Quran 21:51"
+   },
+   {
+    "ar": "سَأَلَ إِبْرَاهِيمُ أَبَاهُ وَقَوْمَهُ: مَا هَذِهِ التَّمَاثِيلُ؟",
+    "de": "Ibrahim fragte seinen Vater und sein Volk: Was sind diese Standbilder?",
+    "beleg": "Quran 21:52"
+   },
+   {
+    "ar": "قَالُوا: وَجَدْنَا آبَاءَنَا يَعْبُدُونَهَا.",
+    "de": "Sie sagten: Wir fanden unsere Väter, wie sie sie verehrten.",
+    "beleg": "Quran 21:53"
+   },
+   {
+    "ar": "قَالَ إِبْرَاهِيمُ: أَنْتُمْ وَآبَاؤُكُمْ فِي ضَلَالٍ وَاضِحٍ.",
+    "de": "Ibrahim sagte: Ihr und eure Väter seid in deutlichem Irrtum.",
+    "beleg": "Quran 21:54"
+   },
+   {
+    "ar": "وَأَرَادَ أَنْ يَفْعَلَ بِأَصْنَامِهِمْ شَيْئًا بَعْدَ ذَهَابِهِمْ.",
+    "de": "Und er wollte mit ihren Götzen etwas tun, nachdem sie fortgegangen waren.",
+    "beleg": "Quran 21:57"
+   },
+   {
+    "ar": "فَكَسَرَ الْأَصْنَامَ وَتَرَكَ كَبِيرَهُمْ.",
+    "de": "Da zerbrach er die Götzen und ließ ihren größten stehen.",
+    "beleg": "Quran 21:58"
+   },
+   {
+    "ar": "سَأَلُوا: مَنْ فَعَلَ هَذَا بِآلِهَتِنَا؟",
+    "de": "Sie fragten: Wer hat das unseren Göttern angetan?",
+    "beleg": "Quran 21:59"
+   },
+   {
+    "ar": "قَالَ إِبْرَاهِيمُ: اسْأَلُوا الصَّنَمَ الْكَبِيرَ إِنْ كَانَ يَتَكَلَّمُ.",
+    "de": "Ibrahim sagte: Fragt das große Götzenbild, wenn es sprechen kann.",
+    "beleg": "Quran 21:63"
+   },
+   {
+    "ar": "أَرَادُوا أَنْ يُحْرِقُوهُ بِالنَّارِ.",
+    "de": "Sie wollten ihn im Feuer verbrennen.",
+    "beleg": "Quran 21:68"
+   },
+   {
+    "ar": "لَكِنَّ اللَّهَ جَعَلَ النَّارَ بَارِدَةً، فَلَمْ تَضُرَّهُ.",
+    "de": "Aber Allah machte das Feuer kühl, und es schadete ihm nicht.",
+    "beleg": "Quran 21:69"
+   },
+   {
+    "ar": "وَأَرَادُوا بِهِ مَكِيدَةً، فَخَسِرُوا.",
+    "de": "Sie wollten ihm eine List antun, doch sie verloren.",
+    "beleg": "Quran 21:70"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "آتَى اللَّهُ إِبْرَاهِيمَ رُشْدَهُ، وَكَانَ بِهِ عَلِيمًا.",
+    "de": "Allah gab Ibrahim seine Rechtleitung, und Er wusste um ihn Bescheid.",
+    "beleg": "Quran 21:51"
+   },
+   {
+    "ar": "وَسَأَلَ أَبَاهُ وَقَوْمَهُ: مَا هَذِهِ التَّمَاثِيلُ الَّتِي تُقِيمُونَ عَلَى عِبَادَتِهَا؟",
+    "de": "Er fragte seinen Vater und sein Volk: Was sind diese Standbilder, bei deren Verehrung ihr bleibt?",
+    "beleg": "Quran 21:52"
+   },
+   {
+    "ar": "فَأَجَابُوا بِأَنَّهُمْ وَجَدُوا آبَاءَهُمْ يَعْبُدُونَهَا، فَقَالَ لَهُمْ إِنَّهُمْ جَمِيعًا فِي ضَلَالٍ وَاضِحٍ.",
+    "de": "Sie antworteten, sie hätten ihre Väter bei deren Verehrung vorgefunden, und er sagte ihnen, sie alle seien in deutlichem Irrtum.",
+    "beleg": "Quran 21:53-54"
+   },
+   {
+    "ar": "ثُمَّ عَزَمَ عَلَى أَنْ يُدَبِّرَ شَيْئًا لِأَصْنَامِهِمْ بَعْدَ ذَهَابِهِمْ.",
+    "de": "Dann beschloss er, nach ihrem Weggang etwas mit ihren Götzen zu unternehmen.",
+    "beleg": "Quran 21:57"
+   },
+   {
+    "ar": "فَحَطَّمَهَا إِلَّا كَبِيرًا لَهُمْ، لَعَلَّهُمْ يَرْجِعُونَ إِلَيْهِ.",
+    "de": "So zerschlug er sie bis auf den größten von ihnen, damit sie vielleicht zu ihm zurückkämen.",
+    "beleg": "Quran 21:58"
+   },
+   {
+    "ar": "فَلَمَّا سَأَلُوا عَمَّنْ فَعَلَ ذَلِكَ، ذَكَرُوا إِبْرَاهِيمَ وَأَحْضَرُوهُ.",
+    "de": "Als sie fragten, wer das getan hatte, erwähnten sie Ibrahim und holten ihn herbei.",
+    "beleg": "Quran 21:59-61"
+   },
+   {
+    "ar": "فَقَالَ لَهُمُ: اسْأَلُوهُمْ إِنْ كَانُوا يَنْطِقُونَ. فَرَجَعُوا إِلَى أَنْفُسِهِمْ وَاعْتَرَفُوا بِأَنَّهُمُ الظَّالِمُونَ.",
+    "de": "Er sagte ihnen: Fragt sie, wenn sie sprechen können. Da gingen sie in sich und gestanden, dass sie selbst die Unrecht Tuenden seien.",
+    "beleg": "Quran 21:63-64"
+   },
+   {
+    "ar": "ثُمَّ قَرَّرُوا حَرْقَهُ، فَجَعَلَ اللَّهُ النَّارَ بَارِدَةً لَا تُؤْذِيهِ.",
+    "de": "Dann beschlossen sie, ihn zu verbrennen, doch Allah machte das Feuer kühl, sodass es ihm nicht schadete.",
+    "beleg": "Quran 21:68-69"
+   },
+   {
+    "ar": "وَأَرَادُوا بِهِ مَكِيدَةً، فَكَانُوا هُمُ الْخَاسِرِينَ.",
+    "de": "Sie wollten ihm eine List antun, doch sie waren die Verlierer.",
+    "beleg": "Quran 21:70"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "مَنَّ اللَّهُ عَلَى إِبْرَاهِيمَ بِالرُّشْدِ، وَكَانَ بِحَالِهِ عَلِيمًا.",
+    "de": "Allah erwies Ibrahim die Gunst der Rechtleitung und kannte seinen Zustand genau.",
+    "beleg": "Quran 21:51"
+   },
+   {
+    "ar": "فَسَأَلَ أَبَاهُ وَقَوْمَهُ عَنْ تِلْكَ التَّمَاثِيلِ الَّتِي عَكَفُوا عَلَيْهَا، فَلَمْ يَكُنْ جَوَابُهُمْ إِلَّا تَقْلِيدَ آبَائِهِمْ.",
+    "de": "Er fragte seinen Vater und sein Volk nach den Standbildern, die sie unentwegt umgaben, und ihre Antwort war nichts als Nachahmung ihrer Väter.",
+    "beleg": "Quran 21:52-53"
+   },
+   {
+    "ar": "فَبَيَّنَ لَهُمْ أَنَّهُمْ وَآبَاءَهُمْ فِي ضَلَالٍ ظَاهِرٍ.",
+    "de": "Da machte er ihnen klar, dass sie und ihre Väter in offenkundigem Irrtum waren.",
+    "beleg": "Quran 21:54"
+   },
+   {
+    "ar": "وَلَمَّا غَابُوا عَنْهَا، حَطَّمَ الْأَصْنَامَ إِلَّا كَبِيرًا لَهُمْ، فَتَرَكَهُ لَعَلَّهُمْ يَرْجِعُونَ إِلَيْهِ.",
+    "de": "Als sie fort waren, zertrümmerte er die Götzen bis auf ihren größten und ließ ihn stehen, damit sie vielleicht zu ihm zurückkehrten.",
+    "beleg": "Quran 21:57-58"
+   },
+   {
+    "ar": "فَاسْتَدْعَوْهُ وَسَأَلُوهُ، فَأَحَالَهُمْ عَلَى كَبِيرِهِمْ لِيَسْأَلُوهُ إِنْ كَانَ يَنْطِقُ، فَرَجَعُوا إِلَى أَنْفُسِهِمْ ثُمَّ انْقَلَبُوا عَلَى مَا كَانُوا عَلَيْهِ.",
+    "de": "Sie riefen ihn herbei und befragten ihn; er verwies sie an ihren größten, damit sie ihn fragten, ob er sprechen könne; sie gingen in sich, kehrten dann aber zu ihrem früheren Verhalten zurück.",
+    "beleg": "Quran 21:61-65"
+   },
+   {
+    "ar": "وَلَمَّا أَعْجَزَتْهُمُ الْحُجَّةُ، قَرَّرُوا أَنْ يُحْرِقُوهُ.",
+    "de": "Und als ihnen die Argumente ausgingen, beschlossen sie, ihn zu verbrennen.",
+    "beleg": "Quran 21:66-68"
+   },
+   {
+    "ar": "فَصَيَّرَ اللَّهُ النَّارَ بَرْدًا لَا يَضُرُّ إِبْرَاهِيمَ.",
+    "de": "Doch Allah machte das Feuer zu Kühle, die Ibrahim nicht schadete.",
+    "beleg": "Quran 21:69"
+   },
+   {
+    "ar": "وَأَرَادُوا بِهِ كَيْدًا فَرَدَّ اللَّهُ كَيْدَهُمْ إِلَيْهِمْ وَجَعَلَهُمُ الْخَاسِرِينَ.",
+    "de": "Sie wollten ihm eine List antun, doch Allah wendete ihre List gegen sie und machte sie zu den Verlierern.",
+    "beleg": "Quran 21:70"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "أَنْعَمَ اللَّهُ عَلَى إِبْرَاهِيمَ بِالرُّشْدِ، فَنَظَرَ فِي حَالِ قَوْمِهِ وَسَأَلَهُمْ عَنْ تِلْكَ التَّمَاثِيلِ الَّتِي عَكَفُوا عَلَيْهَا.",
+    "de": "Allah beschenkte Ibrahim mit Rechtleitung; er betrachtete die Lage seines Volkes und fragte nach den Standbildern, an die sie sich klammerten.",
+    "beleg": "Quran 21:51-52"
+   },
+   {
+    "ar": "فَلَمْ يَجِدُوا حُجَّةً سِوَى أَنَّ آبَاءَهُمْ كَانُوا يَعْبُدُونَهَا، فَقَضَى عَلَيْهِمْ وَعَلَى آبَائِهِمْ بِالضَّلَالِ الْمُبِينِ.",
+    "de": "Sie fanden keinen Beweis außer dem, dass schon ihre Väter sie verehrt hatten; da urteilte er über sie und ihre Väter: offenkundiger Irrtum.",
+    "beleg": "Quran 21:53-54"
+   },
+   {
+    "ar": "وَعَزَمَ عَلَى أَنْ يَكِيدَ لِأَصْنَامِهِمْ إِذَا وَلَّوْا مُدْبِرِينَ، فَجَعَلَهَا حُطَامًا إِلَّا كَبِيرًا تَرَكَهُ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ.",
+    "de": "Er fasste den Entschluss, ihren Götzen zu schaden, sobald sie den Rücken kehrten, und machte sie zu Trümmern, außer dem größten, den er stehen ließ, damit sie sich vielleicht an ihn wandten.",
+    "beleg": "Quran 21:57-58"
+   },
+   {
+    "ar": "وَلَمَّا سَأَلُوهُ، رَدَّهُمْ إِلَى كَبِيرِهِمْ أَنْ يَسْأَلُوهُ، فَأَفْحَمَهُمْ بِذَلِكَ، وَلَكِنَّهُمْ أَصَرُّوا عَلَى عِنَادِهِمْ.",
+    "de": "Als sie ihn befragten, verwies er sie an ihren größten, damit sie ihn fragten – damit brachte er sie zum Verstummen, doch sie beharrten auf ihrer Halsstarrigkeit.",
+    "beleg": "Quran 21:61-65"
+   },
+   {
+    "ar": "فَأَجْمَعُوا عَلَى إِحْرَاقِهِ انْتِصَارًا لِآلِهَتِهِمْ.",
+    "de": "Da einigten sie sich darauf, ihn zu verbrennen, um ihre Götter zu rächen.",
+    "beleg": "Quran 21:68"
+   },
+   {
+    "ar": "فَجَعَلَ اللَّهُ النَّارَ عَلَيْهِ بَرْدًا لَا أَذًى فِيهِ.",
+    "de": "Doch Allah machte das Feuer für ihn zu Kühle, in der kein Schaden lag.",
+    "beleg": "Quran 21:69"
+   },
+   {
+    "ar": "وَارْتَدَّ كَيْدُهُمْ عَلَيْهِمْ، فَكَانُوا هُمُ الْأَخْسَرِينَ.",
+    "de": "Und ihre List fiel auf sie zurück, sodass sie die größten Verlierer waren.",
+    "beleg": "Quran 21:70"
+   }
+  ]
+ },
+ "isa": {
+  "A1": [
+   {
+    "ar": "ذَهَبَتْ مَرْيَمُ إِلَى مَكَانٍ بَعِيدٍ.",
+    "de": "Maryam geht an einen fernen Ort.",
+    "beleg": "Quran 19:16"
+   },
+   {
+    "ar": "جَاءَهَا مَلَكٌ مِنَ اللَّهِ.",
+    "de": "Ein Engel von Allah kommt zu ihr.",
+    "beleg": "Quran 19:17-19; 3:45"
+   },
+   {
+    "ar": "هُوَ يُبَشِّرُهَا بِوَلَدٍ.",
+    "de": "Er verkündet ihr einen Sohn.",
+    "beleg": "Quran 3:45; 19:19"
+   },
+   {
+    "ar": "اسْمُ الْوَلَدِ عِيسَى.",
+    "de": "Der Name des Sohnes ist Isa.",
+    "beleg": "Quran 3:45"
+   },
+   {
+    "ar": "وُلِدَ عِيسَى بِأَمْرِ اللَّهِ.",
+    "de": "Isa wird auf Allahs Befehl geboren.",
+    "beleg": "Quran 3:47; 19:20-21"
+   },
+   {
+    "ar": "عِيسَى يَتَكَلَّمُ فِي الْمَهْدِ.",
+    "de": "Isa spricht in der Wiege.",
+    "beleg": "Quran 3:46; 19:29-30"
+   },
+   {
+    "ar": "هُوَ عَبْدُ اللَّهِ وَنَبِيُّهُ.",
+    "de": "Er ist Allahs Diener und Prophet.",
+    "beleg": "Quran 19:30"
+   },
+   {
+    "ar": "اللَّهُ يُعْطِيهِ مُعْجِزَاتٍ.",
+    "de": "Allah gibt ihm Wunder.",
+    "beleg": "Quran 3:49; 5:110"
+   },
+   {
+    "ar": "أَصْحَابُهُ يُؤْمِنُونَ بِهِ.",
+    "de": "Seine Gefährten glauben an ihn.",
+    "beleg": "Quran 3:52"
+   },
+   {
+    "ar": "اللَّهُ يَرْفَعُ عِيسَى إِلَيْهِ.",
+    "de": "Allah erhebt Isa zu Sich.",
+    "beleg": "Quran 3:55"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "ذَهَبَتْ مَرْيَمُ إِلَى مَكَانٍ شَرْقِيٍّ بَعِيدًا عَنْ أَهْلِهَا.",
+    "de": "Maryam ging an einen östlichen Ort, fern von ihrer Familie.",
+    "beleg": "Quran 19:16-17"
+   },
+   {
+    "ar": "فَأَرْسَلَ اللَّهُ إِلَيْهَا مَلَكًا فِي صُورَةِ بَشَرٍ.",
+    "de": "Da sandte Allah einen Engel zu ihr in Gestalt eines Menschen.",
+    "beleg": "Quran 19:17"
+   },
+   {
+    "ar": "قَالَ لَهَا: أَنَا رَسُولُ رَبِّكِ، وَسَتَلِدِينَ وَلَدًا زَكِيًّا.",
+    "de": "Er sagte ihr: Ich bin der Gesandte deines Herrn, und du wirst einen reinen Sohn gebären.",
+    "beleg": "Quran 19:19"
+   },
+   {
+    "ar": "سَأَلَتْ: كَيْفَ أَلِدُ وَلَمْ يَمْسَسْنِي بَشَرٌ؟",
+    "de": "Sie fragte: Wie soll ich gebären, wo mich kein Mann berührt hat?",
+    "beleg": "Quran 19:20"
+   },
+   {
+    "ar": "فَقَالَ: هَذَا سَهْلٌ عَلَى اللَّهِ.",
+    "de": "Er sagte: Das ist für Allah leicht.",
+    "beleg": "Quran 19:21; 3:47"
+   },
+   {
+    "ar": "وَوَلَدَتْ مَرْيَمُ عِيسَى، وَذَهَبَتْ بِهِ إِلَى قَوْمِهَا.",
+    "de": "Maryam gebar Isa und ging mit ihm zu ihrem Volk.",
+    "beleg": "Quran 19:22-27"
+   },
+   {
+    "ar": "اتَّهَمَهَا قَوْمُهَا، فَأَشَارَتْ إِلَى الْوَلَدِ.",
+    "de": "Ihr Volk beschuldigte sie, da zeigte sie auf das Kind.",
+    "beleg": "Quran 19:27-29"
+   },
+   {
+    "ar": "فَتَكَلَّمَ عِيسَى فِي الْمَهْدِ: إِنِّي عَبْدُ اللَّهِ.",
+    "de": "Da sprach Isa in der Wiege: Ich bin Allahs Diener.",
+    "beleg": "Quran 19:29-30"
+   },
+   {
+    "ar": "وَأَعْطَاهُ اللَّهُ مُعْجِزَاتٍ بِإِذْنِهِ.",
+    "de": "Und Allah gab ihm Wunder mit Seiner Erlaubnis.",
+    "beleg": "Quran 3:49; 5:110"
+   },
+   {
+    "ar": "وَآمَنَ بِهِ أَصْحَابُهُ، وَرَفَعَهُ اللَّهُ إِلَيْهِ.",
+    "de": "Seine Gefährten glaubten an ihn, und Allah erhob ihn zu Sich.",
+    "beleg": "Quran 3:52; 3:55"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "اعْتَزَلَتْ مَرْيَمُ أَهْلَهَا إِلَى مَكَانٍ شَرْقِيٍّ، فَأَرْسَلَ اللَّهُ إِلَيْهَا مَلَكًا تَمَثَّلَ لَهَا بَشَرًا.",
+    "de": "Maryam zog sich von ihrer Familie an einen östlichen Ort zurück, und Allah sandte ihr einen Engel, der ihr in Gestalt eines Menschen erschien.",
+    "beleg": "Quran 19:16-17"
+   },
+   {
+    "ar": "فَبَشَّرَهَا بِأَنَّهَا سَتَلِدُ عِيسَى الْمَسِيحَ، وَهُوَ كَلِمَةٌ مِنَ اللَّهِ.",
+    "de": "Er verkündete ihr, dass sie Isa, den Messias, gebären werde – ein Wort von Allah.",
+    "beleg": "Quran 3:45; 19:19"
+   },
+   {
+    "ar": "فَتَعَجَّبَتْ وَسَأَلَتْ كَيْفَ يَكُونُ لَهَا وَلَدٌ وَلَمْ يَمَسَّهَا بَشَرٌ، فَأُخْبِرَتْ أَنَّ اللَّهَ يَخْلُقُ مَا يَشَاءُ.",
+    "de": "Sie wunderte sich und fragte, wie sie ein Kind haben solle, wo kein Mann sie berührt habe; ihr wurde gesagt, dass Allah erschafft, was Er will.",
+    "beleg": "Quran 3:47; 19:20-21"
+   },
+   {
+    "ar": "وَلَمَّا وَلَدَتْهُ، أَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ، فَاتَّهَمُوهَا.",
+    "de": "Als sie ihn geboren hatte, brachte sie ihn zu ihrem Volk, und man beschuldigte sie.",
+    "beleg": "Quran 19:27-28"
+   },
+   {
+    "ar": "فَأَشَارَتْ إِلَيْهِ، فَنَطَقَ الطِّفْلُ وَهُوَ فِي الْمَهْدِ وَقَالَ إِنَّهُ عَبْدُ اللَّهِ.",
+    "de": "Sie zeigte auf ihn, da sprach das Kind in der Wiege und sagte, dass es Allahs Diener sei.",
+    "beleg": "Quran 19:29-30"
+   },
+   {
+    "ar": "وَعَلَّمَهُ اللَّهُ الْكِتَابَ وَالْحِكْمَةَ، وَجَعَلَهُ يُبْرِئُ الْأَعْمَى وَالْأَبْرَصَ وَيُحْيِي الْمَوْتَى بِإِذْنِهِ.",
+    "de": "Allah lehrte ihn das Buch und die Weisheit und ließ ihn mit Seiner Erlaubnis Blinde und Aussätzige heilen und Tote beleben.",
+    "beleg": "Quran 3:48-49; 5:110"
+   },
+   {
+    "ar": "وَدَعَا بَنِي إِسْرَائِيلَ إِلَى عِبَادَةِ اللَّهِ وَحْدَهُ، وَآمَنَ بِهِ الْحَوَارِيُّونَ.",
+    "de": "Er rief die Kinder Israels auf, Allah allein zu dienen, und die Jünger glaubten an ihn.",
+    "beleg": "Quran 3:49-52; 5:117"
+   },
+   {
+    "ar": "ثُمَّ رَفَعَهُ اللَّهُ إِلَيْهِ.",
+    "de": "Dann erhob Allah ihn zu Sich.",
+    "beleg": "Quran 3:55"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "اعْتَزَلَتْ مَرْيَمُ قَوْمَهَا فِي مَكَانٍ شَرْقِيٍّ، فَأَرْسَلَ اللَّهُ إِلَيْهَا مَلَكًا تَمَثَّلَ لَهَا فِي صُورَةِ رَجُلٍ.",
+    "de": "Maryam zog sich von ihrem Volk an einen östlichen Ort zurück, und Allah sandte ihr einen Engel, der ihr in Gestalt eines Mannes erschien.",
+    "beleg": "Quran 19:16-17"
+   },
+   {
+    "ar": "فَبَشَّرَهَا بِغُلَامٍ زَكِيٍّ، اسْمُهُ الْمَسِيحُ عِيسَى، كَلِمَةٌ مِنَ اللَّهِ.",
+    "de": "Er verkündete ihr einen reinen Knaben namens al-Masih Isa, ein Wort von Allah.",
+    "beleg": "Quran 3:45; 19:19"
+   },
+   {
+    "ar": "فَلَمَّا اسْتَغْرَبَتْ ذَلِكَ وَلَمْ يَمَسَّهَا بَشَرٌ، بَيَّنَ لَهَا أَنَّ أَمْرَ اللَّهِ إِذَا قَضَى شَيْئًا يَكُونُ.",
+    "de": "Als sie sich wunderte, da kein Mann sie berührt hatte, wurde ihr erklärt, dass es geschieht, sobald Allah etwas beschließt.",
+    "beleg": "Quran 3:47; 19:20-21"
+   },
+   {
+    "ar": "وَلَمَّا جَاءَتْ قَوْمَهَا بِالطِّفْلِ، رَمَوْهَا بِمَا هِيَ بَرِيئَةٌ مِنْهُ، فَأَشَارَتْ إِلَيْهِ.",
+    "de": "Als sie mit dem Kind zu ihrem Volk kam, bezichtigten sie sie dessen, wovon sie frei war, und sie wies auf das Kind.",
+    "beleg": "Quran 19:27-29"
+   },
+   {
+    "ar": "فَنَطَقَ الطِّفْلُ فِي الْمَهْدِ مُعْلِنًا عُبُودِيَّتَهُ لِلَّهِ وَنُبُوَّتَهُ.",
+    "de": "Da sprach das Kind in der Wiege und bekannte seine Dienerschaft vor Allah und sein Prophetentum.",
+    "beleg": "Quran 19:29-30; 3:46"
+   },
+   {
+    "ar": "وَأَيَّدَهُ اللَّهُ بِمُعْجِزَاتٍ بَاهِرَةٍ، فَكَانَ يُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ وَيُحْيِي الْمَوْتَى بِإِذْنِ اللَّهِ.",
+    "de": "Allah stärkte ihn mit überwältigenden Wundern: Er heilte Blindgeborene und Aussätzige und belebte Tote mit Allahs Erlaubnis.",
+    "beleg": "Quran 3:49; 5:110"
+   },
+   {
+    "ar": "وَدَعَا بَنِي إِسْرَائِيلَ إِلَى عِبَادَةِ اللَّهِ وَحْدَهُ، وَاسْتَجَابَ لَهُ الْحَوَارِيُّونَ.",
+    "de": "Er rief die Kinder Israels zum Dienst an Allah allein auf, und die Jünger folgten ihm.",
+    "beleg": "Quran 3:49-52; 5:117"
+   },
+   {
+    "ar": "ثُمَّ رَفَعَهُ اللَّهُ إِلَيْهِ.",
+    "de": "Dann erhob Allah ihn zu Sich.",
+    "beleg": "Quran 3:55"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "فِي مَكَانٍ نَائٍ شَرْقِيٍّ، انْفَرَدَتْ مَرْيَمُ عَنْ قَوْمِهَا، فَأَرْسَلَ اللَّهُ إِلَيْهَا مَلَكًا تَمَثَّلَ لَهَا بِصُورَةِ بَشَرٍ سَوِيٍّ.",
+    "de": "An einem entlegenen östlichen Ort zog sich Maryam von ihrem Volk zurück, und Allah sandte ihr einen Engel, der ihr in Gestalt eines wohlgestalteten Menschen erschien.",
+    "beleg": "Quran 19:16-17"
+   },
+   {
+    "ar": "فَبَشَّرَهَا بِغُلَامٍ يَكُونُ كَلِمَةً مِنَ اللَّهِ، اسْمُهُ الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ.",
+    "de": "Er verkündete ihr einen Knaben, der ein Wort von Allah sein werde, mit Namen al-Masih Isa, der Sohn der Maryam.",
+    "beleg": "Quran 3:45; 19:19"
+   },
+   {
+    "ar": "وَلَمَّا اسْتَبْعَدَتْ أَنْ يَكُونَ لَهَا وَلَدٌ وَلَمْ يَمْسَسْهَا بَشَرٌ، أُجِيبَتْ بِأَنَّ ذَلِكَ عَلَى اللَّهِ هَيِّنٌ.",
+    "de": "Als sie es für unvorstellbar hielt, ein Kind zu haben, ohne dass ein Mann sie berührt hätte, wurde ihr geantwortet, dass dies für Allah ein Leichtes sei.",
+    "beleg": "Quran 3:47; 19:20-21"
+   },
+   {
+    "ar": "وَحِينَ أَتَتْ قَوْمَهَا تَحْمِلُهُ، قَابَلُوهَا بِالِاتِّهَامِ، فَأَشَارَتْ إِلَى الطِّفْلِ لِيُكَلِّمَهُمْ.",
+    "de": "Als sie mit ihm im Arm zu ihrem Volk kam, begegneten sie ihr mit Verdächtigung, und sie wies auf das Kind, damit es zu ihnen spreche.",
+    "beleg": "Quran 19:27-29"
+   },
+   {
+    "ar": "فَأَنْطَقَهُ اللَّهُ فِي الْمَهْدِ، فَأَعْلَنَ أَنَّهُ عَبْدُ اللَّهِ، وَأَنَّهُ آتَاهُ الْكِتَابَ وَجَعَلَهُ نَبِيًّا.",
+    "de": "Da ließ Allah ihn in der Wiege sprechen; er erklärte, er sei Allahs Diener, dem Er das Buch gegeben und den Er zum Propheten gemacht habe.",
+    "beleg": "Quran 19:29-30; 3:46"
+   },
+   {
+    "ar": "وَمَضَى يُبَلِّغُ رِسَالَتَهُ مُؤَيَّدًا بِآيَاتٍ يُشْفِي بِهَا الْمَرْضَى وَيُحْيِي بِهَا الْمَوْتَى بِإِذْنِ اللَّهِ، وَاتَّبَعَهُ الْحَوَارِيُّونَ.",
+    "de": "Er ging daran, seine Botschaft zu verkünden, gestützt durch Zeichen, mit denen er Kranke heilte und – mit Allahs Erlaubnis – Tote belebte, und die Jünger folgten ihm.",
+    "beleg": "Quran 3:49-52; 5:110"
+   },
+   {
+    "ar": "ثُمَّ كَانَ مِنْ شَأْنِ اللَّهِ أَنْ رَفَعَهُ إِلَيْهِ.",
+    "de": "Dann war es Allahs Entscheid, ihn zu Sich zu erheben.",
+    "beleg": "Quran 3:55"
+   }
+  ]
+ },
+ "muhammad": {
+  "A1": [
+   {
+    "ar": "اللَّهُ لَا يَتْرُكُ مُحَمَّدًا ﷺ.",
+    "de": "Allah verlässt Muhammad ﷺ nicht.",
+    "beleg": "Quran 93:3"
+   },
+   {
+    "ar": "كَانَ مُحَمَّدٌ ﷺ يَتِيمًا.",
+    "de": "Muhammad ﷺ war eine Waise.",
+    "beleg": "Quran 93:6"
+   },
+   {
+    "ar": "اللَّهُ آوَاهُ.",
+    "de": "Allah gab ihm Obdach.",
+    "beleg": "Quran 93:6"
+   },
+   {
+    "ar": "كَانَ فَقِيرًا، وَاللَّهُ أَغْنَاهُ.",
+    "de": "Er war arm, und Allah machte ihn unabhängig.",
+    "beleg": "Quran 93:8"
+   },
+   {
+    "ar": "اللَّهُ يَشْرَحُ صَدْرَهُ.",
+    "de": "Allah öffnet ihm die Brust.",
+    "beleg": "Quran 94:1"
+   },
+   {
+    "ar": "اللَّهُ يَرْفَعُ ذِكْرَهُ.",
+    "de": "Allah erhöht sein Ansehen.",
+    "beleg": "Quran 94:4"
+   },
+   {
+    "ar": "اللَّهُ يُسْرِي بِنَبِيِّهِ لَيْلًا.",
+    "de": "Allah lässt Seinen Propheten bei Nacht reisen.",
+    "beleg": "Quran 17:1"
+   },
+   {
+    "ar": "اللَّهُ مَعَ مُحَمَّدٍ وَصَاحِبِهِ فِي الْغَارِ.",
+    "de": "Allah ist mit Muhammad und seinem Gefährten in der Höhle.",
+    "beleg": "Quran 9:40"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "لَمْ يَتْرُكِ اللَّهُ نَبِيَّهُ ﷺ، وَلَمْ يَكْرَهْهُ.",
+    "de": "Allah hat Seinen Propheten ﷺ weder verlassen noch verabscheut.",
+    "beleg": "Quran 93:3"
+   },
+   {
+    "ar": "وَعَدَهُ اللَّهُ أَنَّ آخِرَتَهُ خَيْرٌ لَهُ مِنَ الدُّنْيَا.",
+    "de": "Allah versprach ihm, dass das Jenseits besser für ihn ist als das Diesseits.",
+    "beleg": "Quran 93:4-5"
+   },
+   {
+    "ar": "كَانَ يَتِيمًا، فَآوَاهُ اللَّهُ.",
+    "de": "Er war eine Waise, und Allah gab ihm Obdach.",
+    "beleg": "Quran 93:6"
+   },
+   {
+    "ar": "وَكَانَ فَقِيرًا، فَأَغْنَاهُ اللَّهُ.",
+    "de": "Er war bedürftig, und Allah machte ihn unabhängig.",
+    "beleg": "Quran 93:8"
+   },
+   {
+    "ar": "وَأَمَرَهُ أَلَّا يَظْلِمَ الْيَتِيمَ وَأَلَّا يَرُدَّ السَّائِلَ.",
+    "de": "Und Er trug ihm auf, die Waise nicht zu unterdrücken und den Bittenden nicht abzuweisen.",
+    "beleg": "Quran 93:9-10"
+   },
+   {
+    "ar": "شَرَحَ اللَّهُ صَدْرَهُ، وَرَفَعَ ذِكْرَهُ.",
+    "de": "Allah öffnete ihm die Brust und erhöhte sein Ansehen.",
+    "beleg": "Quran 94:1-4"
+   },
+   {
+    "ar": "أَسْرَى اللَّهُ بِنَبِيِّهِ ﷺ لَيْلًا مِنْ مَكَّةَ إِلَى الْمَسْجِدِ الْأَقْصَى.",
+    "de": "Allah ließ Seinen Propheten ﷺ bei Nacht von Mekka zur al-Aqsa-Moschee reisen.",
+    "beleg": "Quran 17:1"
+   },
+   {
+    "ar": "وَفِي الْغَارِ قَالَ لِصَاحِبِهِ: لَا تَحْزَنْ، اللَّهُ مَعَنَا.",
+    "de": "In der Höhle sagte er zu seinem Gefährten: Sei nicht traurig, Allah ist mit uns.",
+    "beleg": "Quran 9:40"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "طَمْأَنَ اللَّهُ نَبِيَّهُ ﷺ بِأَنَّهُ لَمْ يَتْرُكْهُ وَلَمْ يُبْغِضْهُ، وَأَنَّ آخِرَتَهُ خَيْرٌ لَهُ مِنْ دُنْيَاهُ.",
+    "de": "Allah beruhigte Seinen Propheten ﷺ: Er habe ihn weder verlassen noch gehasst, und das Jenseits sei besser für ihn als das Diesseits.",
+    "beleg": "Quran 93:3-5"
+   },
+   {
+    "ar": "وَذَكَّرَهُ بِنِعَمِهِ عَلَيْهِ: كَانَ يَتِيمًا فَآوَاهُ، وَكَانَ فَقِيرًا فَأَغْنَاهُ.",
+    "de": "Und Er erinnerte ihn an Seine Wohltaten: Er war eine Waise, und Er gab ihm Obdach, er war bedürftig, und Er machte ihn unabhängig.",
+    "beleg": "Quran 93:6-8"
+   },
+   {
+    "ar": "وَلِذَلِكَ أَمَرَهُ أَلَّا يَقْهَرَ الْيَتِيمَ وَلَا يَرُدَّ السَّائِلَ، وَأَنْ يُحَدِّثَ بِنِعْمَةِ رَبِّهِ.",
+    "de": "Deshalb trug Er ihm auf, die Waise nicht zu unterdrücken, den Bittenden nicht abzuweisen und von der Gnade seines Herrn zu erzählen.",
+    "beleg": "Quran 93:9-11"
+   },
+   {
+    "ar": "وَشَرَحَ لَهُ صَدْرَهُ، وَرَفَعَ لَهُ ذِكْرَهُ، وَوَعَدَهُ بِأَنَّ مَعَ الْعُسْرِ يُسْرًا.",
+    "de": "Er öffnete ihm die Brust, erhöhte sein Ansehen und versprach ihm, dass mit der Bedrängnis Erleichterung kommt.",
+    "beleg": "Quran 94:1-6"
+   },
+   {
+    "ar": "وَأَسْرَى بِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى.",
+    "de": "Und Er ließ ihn bei Nacht von der Heiligen Moschee zur al-Aqsa-Moschee reisen.",
+    "beleg": "Quran 17:1"
+   },
+   {
+    "ar": "وَحِينَ كَانَ مَعَ صَاحِبِهِ فِي الْغَارِ، طَمْأَنَهُ بِأَنَّ اللَّهَ مَعَهُمَا.",
+    "de": "Und als er mit seinem Gefährten in der Höhle war, beruhigte er ihn, dass Allah mit den beiden sei.",
+    "beleg": "Quran 9:40"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "خَاطَبَ اللَّهُ نَبِيَّهُ ﷺ مُطَمْئِنًا إِيَّاهُ بِأَنَّهُ لَمْ يَهْجُرْهُ وَلَمْ يُبْغِضْهُ، وَأَنَّ لَهُ فِي الْآخِرَةِ خَيْرًا مِمَّا فِي الدُّنْيَا.",
+    "de": "Allah sprach Seinen Propheten ﷺ beruhigend an: Er habe ihn weder im Stich gelassen noch gehasst, und im Jenseits erwarte ihn Besseres als im Diesseits.",
+    "beleg": "Quran 93:1-5"
+   },
+   {
+    "ar": "ثُمَّ عَدَّدَ عَلَيْهِ نِعَمَهُ، فَقَدْ آوَاهُ يَتِيمًا، وَأَغْنَاهُ فَقِيرًا.",
+    "de": "Dann zählte Er ihm Seine Wohltaten auf: Er hatte ihm als Waise Obdach gegeben und ihn als Bedürftigen unabhängig gemacht.",
+    "beleg": "Quran 93:6-8"
+   },
+   {
+    "ar": "وَأَوْصَاهُ بِالْإِحْسَانِ إِلَى الْيَتِيمِ وَالسَّائِلِ، وَبِالتَّحَدُّثِ بِنِعْمَةِ رَبِّهِ.",
+    "de": "Und Er legte ihm ans Herz, den Waisen und Bittenden Gutes zu tun und von der Gnade seines Herrn zu sprechen.",
+    "beleg": "Quran 93:9-11"
+   },
+   {
+    "ar": "وَمَنَّ عَلَيْهِ بِشَرْحِ صَدْرِهِ وَرِفْعَةِ ذِكْرِهِ، وَبَشَّرَهُ بِأَنَّ مَعَ الْعُسْرِ يُسْرًا.",
+    "de": "Er erwies ihm die Gunst, ihm die Brust zu öffnen und sein Ansehen zu erhöhen, und verkündete ihm, dass mit der Bedrängnis Erleichterung kommt.",
+    "beleg": "Quran 94:1-6"
+   },
+   {
+    "ar": "وَأَمَرَهُ إِذَا فَرَغَ مِنْ شَأْنٍ أَنْ يَجْتَهِدَ فِي آخَرَ، وَأَنْ يَتَّجِهَ بِرَغْبَتِهِ إِلَى رَبِّهِ.",
+    "de": "Und Er trug ihm auf, sich nach Erledigung einer Sache der nächsten zu widmen und sich mit seinem Wunsch an seinen Herrn zu wenden.",
+    "beleg": "Quran 94:7-8"
+   },
+   {
+    "ar": "وَأَسْرَى بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى.",
+    "de": "Und Er ließ Seinen Diener bei Nacht von der Heiligen Moschee zur al-Aqsa-Moschee reisen.",
+    "beleg": "Quran 17:1"
+   },
+   {
+    "ar": "وَفِي الْغَارِ سَكَّنَ النَّبِيُّ ﷺ رَوْعَ صَاحِبِهِ بِأَنَّ اللَّهَ مَعَهُمَا.",
+    "de": "In der Höhle nahm der Prophet ﷺ seinem Gefährten die Angst, indem er sagte, dass Allah mit den beiden sei.",
+    "beleg": "Quran 9:40"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "خَاطَبَ اللَّهُ نَبِيَّهُ ﷺ مُؤَكِّدًا أَنَّهُ لَمْ يَهْجُرْهُ وَلَمْ يُبْغِضْهُ، وَأَنَّ الْآخِرَةَ خَيْرٌ لَهُ مِنَ الْأُولَى.",
+    "de": "Allah sprach Seinen Propheten ﷺ an und versicherte, dass Er ihn weder verlassen noch gehasst habe und dass das Jenseits besser für ihn sei als das Diesseits.",
+    "beleg": "Quran 93:1-5"
+   },
+   {
+    "ar": "وَذَكَّرَهُ بِمَا أَسْبَغَ عَلَيْهِ مِنْ نِعَمٍ: إِيوَاءٍ بَعْدَ يُتْمٍ، وَغِنًى بَعْدَ فَقْرٍ.",
+    "de": "Er erinnerte ihn an die Wohltaten, mit denen Er ihn überhäuft hatte: Obdach nach der Waisenschaft, Unabhängigkeit nach der Not.",
+    "beleg": "Quran 93:6-8"
+   },
+   {
+    "ar": "وَجَعَلَ شُكْرَهَا فِي رَحْمَةِ الْيَتِيمِ وَإِعْطَاءِ السَّائِلِ وَالتَّحَدُّثِ بِفَضْلِ رَبِّهِ.",
+    "de": "Und Er machte den Dank dafür zu Barmherzigkeit gegenüber der Waise, zu Gabe an den Bittenden und zum Sprechen über die Huld seines Herrn.",
+    "beleg": "Quran 93:9-11"
+   },
+   {
+    "ar": "وَشَرَحَ صَدْرَهُ وَرَفَعَ ذِكْرَهُ، وَقَرَنَ كُلَّ عُسْرٍ بِيُسْرٍ، وَأَمَرَهُ بِالدَّأَبِ وَبِالرَّغْبَةِ إِلَى رَبِّهِ.",
+    "de": "Er öffnete ihm die Brust und erhöhte sein Ansehen, verband jede Bedrängnis mit Erleichterung und trug ihm Ausdauer und Hinwendung zu seinem Herrn auf.",
+    "beleg": "Quran 94:1-8"
+   },
+   {
+    "ar": "وَأَكْرَمَهُ بِالْإِسْرَاءِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى.",
+    "de": "Und Er ehrte ihn mit der nächtlichen Reise von der Heiligen Moschee zur al-Aqsa-Moschee.",
+    "beleg": "Quran 17:1"
+   },
+   {
+    "ar": "وَلَمَّا اشْتَدَّ الْخَطَرُ وَهُمَا فِي الْغَارِ، سَكَّنَ ﷺ رَوْعَ صَاحِبِهِ مُذَكِّرًا إِيَّاهُ بِمَعِيَّةِ اللَّهِ لَهُمَا.",
+    "de": "Als die Gefahr groß wurde, während die beiden in der Höhle waren, beruhigte er ﷺ seinen Gefährten und erinnerte ihn daran, dass Allah mit ihnen war.",
+    "beleg": "Quran 9:40"
+   }
+  ]
  }
 }
