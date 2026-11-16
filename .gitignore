@@ -6,3 +6,4 @@ dist/
 .env.local
 content/.cache/
 __pycache__/
+__pycache__/

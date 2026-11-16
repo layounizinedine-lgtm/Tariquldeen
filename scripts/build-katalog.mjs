@@ -137,6 +137,12 @@ for (const e of katalog) {
     status: 'entwurf', hinweis: `Vereinfachte Nacherzählung auf Stufe ${niv} (Entwurf): gleicher Inhalt wie die anderen Stufen, nur sprachlich angepasst. Harakat und Übersetzung ungeprüft.`,
     saetze: sa.map((x, i) => ({ id: `${niv.toLowerCase()}-${i + 1}`, text_ar_mit_harakat: x.ar, text_de: x.de, beleg: /^B:/.test(x.beleg) ? [...new Set(x.beleg.slice(2).split(',').flatMap((t) => { const [a, z] = t.split('-').map(Number); return Array.from({ length: (z ?? a) - a + 1 }, (_, i) => a + i) }).map((n) => bio?.saetze[n - 1]?.beleg).filter(Boolean))].join('; ') : x.beleg, kapitel: x.kapitel })),
   }
+  // Wortdaten zum Antippen (maschinell erzeugt: tools/woerter/bauen.py)
+  const wfile = `content/woerter/${e.id}.json`
+  if (existsSync(wfile)) {
+    const wd = JSON.parse(readFileSync(wfile, 'utf8'))
+    for (const fa of Object.values(fassungen)) for (const sa of fa.saetze) if (wd[sa.id]) sa.woerter = wd[sa.id]
+  }
   const nz = nach[e.id]
   if (nz) fassungen[nz.niveau] = {
     status: 'entwurf', hinweis: 'Vereinfachte Nacherzählung (Entwurf): nur Inhalte, die durch die angegebenen Verse belegt sind. Stufe, Harakat und Übersetzung ungeprüft.',

@@ -14,7 +14,7 @@ import ArText from './WordText'
 import CoverArt from './CoverArt'
 import SettingsBar from './SettingsBar'
 
-interface Item extends Spur { kapitel?: string; beleg?: string; woerter?: Wort[]; kind: 'satz' | 'zitat'; ar: string; de: string; zitat?: Zitat }
+interface Item extends Spur { kapitel?: string; beleg?: string; woerter?: (Wort | null)[]; kind: 'satz' | 'zitat'; ar: string; de: string; zitat?: Zitat }
 const kurz = (t: string) => t.replace(/ (عَلَيْهِ السَّلَامُ|رَضِيَ اللَّهُ عَنْهُ|رَضِيَ اللَّهُ عَنْهَا|رَحِمَهُ اللَّهُ)$/, '')
 const NIVEAUS: Niveau[] = ['klassisch', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 type Tab = 'text' | 'vokabeln' | 'quiz'
@@ -97,7 +97,7 @@ function ReaderInner({ g, s, set, zurueck }: {
   }, [aktivId, p.wort])
 
   const vokabeln = useMemo(() => {
-    const alle = f.saetze.flatMap((x) => x.woerter ?? []).filter((w) => w.wortart !== 'Eigenname')
+    const alle = f.saetze.flatMap((x) => x.woerter ?? []).filter((w): w is Wort => !!w && w.wortart !== 'Eigenname')
     return [...new Map(alle.map((w) => [kartenId(w), w])).values()]
   }, [f])
 
@@ -117,7 +117,7 @@ function ReaderInner({ g, s, set, zurueck }: {
         <button className="pillbtn" onClick={() => setEinst(true)} aria-label="Anzeige-Einstellungen">Aa</button>
       </header>
       <nav className="tabs" role="tablist">
-        {(['text', 'vokabeln', 'quiz'] as Tab[]).map((t) => (
+        {(['text', 'vokabeln'] as Tab[]).map((t) => (
           <button key={t} role="tab" aria-selected={tab === t} className={tab === t ? 'on' : ''} onClick={() => setTab(t)}>
             {{ text: 'Text', vokabeln: 'Vokabeln', quiz: 'Quiz' }[t]}
           </button>
@@ -242,8 +242,8 @@ function ReaderInner({ g, s, set, zurueck }: {
           <button onClick={() => { setWahl({ item: tip.item, i: tip.i }); setTip(null) }}>Details ›</button>
         </div>
       )}
-      {wahl?.item.woerter && (
-        <WordSheet wort={wahl.item.woerter[wahl.i]} geschichte={g.id} zu={() => setWahl(null)}
+      {wahl?.item.woerter?.[wahl.i] && (
+        <WordSheet wort={wahl.item.woerter[wahl.i]!} geschichte={g.id} zu={() => setWahl(null)}
           ts={wahl.item.ts?.find((t) => t.wort_index === wahl.i)} audioUrl={wahl.item.audio_url} />
       )}
       {einst && (
