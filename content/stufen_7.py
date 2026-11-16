@@ -13,7 +13,7 @@ ST["yahya"] = {
  ("وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا.", "Und Friede sei auf ihm am Tag, da er geboren wurde, am Tag, da er stirbt, und am Tag, da er lebendig auferweckt wird.", "19:15"),
 ],
 "A1": [
- ("يَحْيَى ابْنُ زَكَرِيَّا.", "Yahya ist Zakariyas Sohn.", "19:7"),
+ ("الْمَلَائِكَةُ تُبَشِّرُ زَكَرِيَّا بِيَحْيَى.", "Yahya wird Zakariya verkündet.", "3:39"),
  ("اللَّهُ يَقُولُ: خُذِ الْكِتَابَ بِقُوَّةٍ.", "Allah sagt: Halte das Buch mit Kraft.", "19:12"),
  ("اللَّهُ يُعْطِيهِ الْحُكْمَ وَهُوَ صَغِيرٌ.", "Allah gibt ihm Urteilskraft, als er klein ist.", "19:12"),
  ("يَحْيَى تَقِيٌّ.", "Yahya ist gottesfürchtig.", "19:13"),
