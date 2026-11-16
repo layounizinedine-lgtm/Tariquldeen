@@ -9675,5 +9675,275 @@
     "beleg": "B:1-6"
    }
   ]
+ },
+ "abu-bakr": {
+  "A1": [
+   {
+    "ar": "أَبُو بَكْرٍ أَوَّلُ رَجُلٍ آمَنَ.",
+    "de": "Abu Bakr ist der erste Mann, der glaubt.",
+    "beleg": "B:1,2",
+    "kapitel": "Der Gefährte des Propheten"
+   },
+   {
+    "ar": "هُوَ يُنْفِقُ مَالَهُ فِي سَبِيلِ اللَّهِ.",
+    "de": "Er gibt sein Geld auf Allahs Weg aus.",
+    "beleg": "B:3",
+    "kapitel": "Der Gefährte des Propheten"
+   },
+   {
+    "ar": "النَّبِيُّ ﷺ يُحِبُّهُ.",
+    "de": "Der Prophet ﷺ liebt ihn.",
+    "beleg": "B:4,5",
+    "kapitel": "Der Gefährte des Propheten"
+   },
+   {
+    "ar": "هُوَ يَؤُمُّ النَّاسَ فِي الصَّلَاةِ.",
+    "de": "Er leitet die Leute im Gebet.",
+    "beleg": "B:6",
+    "kapitel": "Der Gefährte des Propheten"
+   },
+   {
+    "ar": "النَّبِيُّ ﷺ يَمُوتُ.",
+    "de": "Der Prophet ﷺ stirbt.",
+    "beleg": "B:7",
+    "kapitel": "Der Tod des Propheten"
+   },
+   {
+    "ar": "أَبُو بَكْرٍ يَقُولُ: مَنْ كَانَ يَعْبُدُ اللَّهَ فَإِنَّ اللَّهَ حَيٌّ لَا يَمُوتُ.",
+    "de": "Abu Bakr sagt: Wer Allah dient – Allah lebt und stirbt nicht.",
+    "beleg": "B:11",
+    "kapitel": "Der Tod des Propheten"
+   },
+   {
+    "ar": "النَّاسُ يَبْكُونَ.",
+    "de": "Die Leute weinen.",
+    "beleg": "B:12",
+    "kapitel": "Der Tod des Propheten"
+   },
+   {
+    "ar": "النَّاسُ يُبَايِعُونَ أَبَا بَكْرٍ.",
+    "de": "Die Leute huldigen Abu Bakr.",
+    "beleg": "B:17",
+    "kapitel": "Der Kalif"
+   },
+   {
+    "ar": "أَبُو بَكْرٍ خَلِيفَةٌ.",
+    "de": "Abu Bakr ist Kalif.",
+    "beleg": "B:21",
+    "kapitel": "Der Kalif"
+   },
+   {
+    "ar": "هُوَ يَجْمَعُ الْقُرْآنَ.",
+    "de": "Er sammelt den Koran.",
+    "beleg": "B:26",
+    "kapitel": "Der Kalif"
+   },
+   {
+    "ar": "أَبُو بَكْرٍ مَرِيضٌ.",
+    "de": "Abu Bakr ist krank.",
+    "beleg": "B:28",
+    "kapitel": "Die letzte Krankheit"
+   },
+   {
+    "ar": "هُوَ يَخْتَارُ عُمَرَ خَلِيفَةً.",
+    "de": "Er wählt Umar zum Nachfolger.",
+    "beleg": "B:30-34",
+    "kapitel": "Die letzte Krankheit"
+   },
+   {
+    "ar": "هُوَ يَمُوتُ بَعْدَ سَنَتَيْنِ مِنَ الْخِلَافَةِ.",
+    "de": "Er stirbt nach zwei Jahren als Kalif.",
+    "beleg": "B:39",
+    "kapitel": "Die letzte Krankheit"
+   }
+  ],
+  "A2": [
+   {
+    "ar": "كَانَ أَبُو بَكْرٍ أَوَّلَ مَنْ آمَنَ مِنَ الرِّجَالِ.",
+    "de": "Abu Bakr war der erste Mann, der den Glauben annahm.",
+    "beleg": "B:2",
+    "kapitel": "Der Gefährte des Propheten"
+   },
+   {
+    "ar": "أَنْفَقَ مَالَهُ عَلَى النَّبِيِّ ﷺ وَفِي سَبِيلِ اللَّهِ.",
+    "de": "Er gab sein Vermögen für den Propheten ﷺ und auf Allahs Weg aus.",
+    "beleg": "B:3",
+    "kapitel": "Der Gefährte des Propheten"
+   },
+   {
+    "ar": "قَالَ النَّبِيُّ ﷺ: لَوِ اتَّخَذْتُ خَلِيلًا لَاتَّخَذْتُ أَبَا بَكْرٍ.",
+    "de": "Der Prophet ﷺ sagte: Hätte ich einen engsten Freund genommen, dann Abu Bakr.",
+    "beleg": "B:5",
+    "kapitel": "Der Gefährte des Propheten"
+   },
+   {
+    "ar": "وَأَمَرَهُ النَّبِيُّ ﷺ أَنْ يَؤُمَّ النَّاسَ فِي الصَّلَاةِ.",
+    "de": "Und der Prophet ﷺ trug ihm auf, die Leute im Gebet zu leiten.",
+    "beleg": "B:6",
+    "kapitel": "Der Gefährte des Propheten"
+   },
+   {
+    "ar": "لَمَّا مَاتَ النَّبِيُّ ﷺ قَالَ عُمَرُ: مَا مَاتَ.",
+    "de": "Als der Prophet ﷺ starb, sagte Umar: Er ist nicht gestorben.",
+    "beleg": "B:7,8",
+    "kapitel": "Der Tod des Propheten"
+   },
+   {
+    "ar": "جَاءَ أَبُو بَكْرٍ وَقَبَّلَ وَجْهَ النَّبِيِّ ﷺ.",
+    "de": "Abu Bakr kam und küsste das Gesicht des Propheten ﷺ.",
+    "beleg": "B:9",
+    "kapitel": "Der Tod des Propheten"
+   },
+   {
+    "ar": "ثُمَّ قَالَ لِلنَّاسِ: مَنْ كَانَ يَعْبُدُ مُحَمَّدًا فَإِنَّ مُحَمَّدًا قَدْ مَاتَ، وَمَنْ كَانَ يَعْبُدُ اللَّهَ فَإِنَّ اللَّهَ حَيٌّ لَا يَمُوتُ.",
+    "de": "Dann sagte er den Leuten: Wer Muhammad verehrte – Muhammad ist gestorben; wer Allah verehrt – Allah lebt und stirbt nicht.",
+    "beleg": "B:11",
+    "kapitel": "Der Tod des Propheten"
+   },
+   {
+    "ar": "اجْتَمَعَ الْأَنْصَارُ فِي السَّقِيفَةِ، فَذَهَبَ إِلَيْهِمْ أَبُو بَكْرٍ وَعُمَرُ وَأَبُو عُبَيْدَةَ.",
+    "de": "Die Ansar versammelten sich in der Saqifa, und Abu Bakr, Umar und Abu Ubayda gingen zu ihnen.",
+    "beleg": "B:13,14",
+    "kapitel": "Der Kalif"
+   },
+   {
+    "ar": "بَايَعَ عُمَرُ أَبَا بَكْرٍ، ثُمَّ بَايَعَهُ الْمُهَاجِرُونَ وَالْأَنْصَارُ.",
+    "de": "Umar huldigte Abu Bakr, dann huldigten ihm die Auswanderer und die Ansar.",
+    "beleg": "B:17",
+    "kapitel": "Der Kalif"
+   },
+   {
+    "ar": "لَمَّا صَارَ خَلِيفَةً وَضَعَ مَالَهُ فِي بَيْتِ الْمَالِ.",
+    "de": "Als er Kalif wurde, legte er sein Geld in die Staatskasse.",
+    "beleg": "B:21",
+    "kapitel": "Der Kalif"
+   },
+   {
+    "ar": "وَكَانَ أَوَّلَ مَنْ جَمَعَ الْقُرْآنَ بَيْنَ اللَّوْحَيْنِ.",
+    "de": "Und er war der Erste, der den Koran zwischen zwei Buchdeckeln sammelte.",
+    "beleg": "B:26",
+    "kapitel": "Der Kalif"
+   },
+   {
+    "ar": "مَرِضَ خَمْسَةَ عَشَرَ يَوْمًا وَطَلَبَ مِنْ عُثْمَانَ أَنْ يَكْتُبَ وَصِيَّتَهُ.",
+    "de": "Er war fünfzehn Tage krank und ließ Uthman sein Vermächtnis aufschreiben.",
+    "beleg": "B:28,32",
+    "kapitel": "Die letzte Krankheit"
+   },
+   {
+    "ar": "أَمَرَ النَّاسَ أَنْ يَسْمَعُوا لِعُمَرَ وَيُطِيعُوا.",
+    "de": "Er befahl den Leuten, auf Umar zu hören und ihm zu gehorchen.",
+    "beleg": "B:34",
+    "kapitel": "Die letzte Krankheit"
+   },
+   {
+    "ar": "وَمَاتَ وَعُمْرُهُ ثَلَاثٌ وَسِتُّونَ سَنَةً.",
+    "de": "Und er starb im Alter von 63 Jahren.",
+    "beleg": "B:39,40",
+    "kapitel": "Die letzte Krankheit"
+   }
+  ],
+  "B2": [
+   {
+    "ar": "كَانَ اسْمُهُ عَبْدَ اللَّهِ بْنَ أَبِي قُحَافَةَ وَلَقَبُهُ عَتِيقٌ، وَهُوَ أَوَّلُ مَنْ آمَنَ مِنَ الرِّجَالِ، وَأَنْفَقَ مَالَهُ عَلَى النَّبِيِّ ﷺ وَفِي سَبِيلِ اللَّهِ.",
+    "de": "Sein Name war Abdullah ibn Abi Quhafa, sein Beiname ʿAtiq; er war der erste Mann, der den Glauben annahm, und gab sein Vermögen für den Propheten ﷺ und auf Allahs Weg aus.",
+    "beleg": "B:1,2,3",
+    "kapitel": "Der Gefährte des Propheten"
+   },
+   {
+    "ar": "وَسُئِلَ النَّبِيُّ ﷺ: أَيُّ الرِّجَالِ أَحَبُّ إِلَيْكَ؟ فَقَالَ: أَبُو بَكْرٍ، وَقَالَ إِنَّهُ لَوِ اتَّخَذَ خَلِيلًا لَاتَّخَذَهُ، وَأَمَرَهُ أَنْ يَؤُمَّ النَّاسَ.",
+    "de": "Der Prophet ﷺ wurde gefragt, welcher Mann ihm am liebsten sei, und sagte: Abu Bakr; er sagte, er würde ihn zum engsten Freund nehmen, wenn er einen nähme, und trug ihm auf, die Leute im Gebet zu leiten.",
+    "beleg": "B:4,5,6",
+    "kapitel": "Der Gefährte des Propheten"
+   },
+   {
+    "ar": "وَلَمَّا تُوُفِّيَ النَّبِيُّ ﷺ وَأَنْكَرَ عُمَرُ مَوْتَهُ جَاءَ أَبُو بَكْرٍ وَكَشَفَ عَنْ وَجْهِهِ وَقَبَّلَهُ وَقَالَ: طِبْتَ حَيًّا وَمَيِّتًا.",
+    "de": "Als der Prophet ﷺ starb und Umar seinen Tod leugnete, kam Abu Bakr, enthüllte sein Gesicht, küsste ihn und sagte: Gut warst du im Leben und im Tod.",
+    "beleg": "B:7-10",
+    "kapitel": "Der Tod des Propheten"
+   },
+   {
+    "ar": "ثُمَّ خَاطَبَ النَّاسَ: مَنْ كَانَ يَعْبُدُ مُحَمَّدًا فَإِنَّ مُحَمَّدًا قَدْ مَاتَ، وَمَنْ كَانَ يَعْبُدُ اللَّهَ فَإِنَّ اللَّهَ حَيٌّ لَا يَمُوتُ، وَتَلَا آيَتَيْنِ فَبَكَى النَّاسُ.",
+    "de": "Dann sprach er zu den Leuten: Wer Muhammad verehrte – Muhammad ist gestorben; wer Allah verehrt – Allah lebt und stirbt nicht; er führte zwei Verse an, und die Leute weinten.",
+    "beleg": "B:11,12",
+    "kapitel": "Der Tod des Propheten"
+   },
+   {
+    "ar": "وَاجْتَمَعَتِ الْأَنْصَارُ فِي سَقِيفَةِ بَنِي سَاعِدَةَ، فَذَهَبَ إِلَيْهِمْ أَبُو بَكْرٍ وَعُمَرُ وَأَبُو عُبَيْدَةَ، وَمَدَّ أَبُو بَكْرٍ يَدَهُ فَبَايَعَهُ عُمَرُ ثُمَّ الْمُهَاجِرُونَ وَالْأَنْصَارُ.",
+    "de": "Die Ansar versammelten sich in der Saqifa der Banu Saʿida, Abu Bakr, Umar und Abu Ubayda gingen zu ihnen, und Abu Bakr streckte seine Hand aus; da huldigte ihm Umar, dann die Auswanderer und die Ansar.",
+    "beleg": "B:13-17",
+    "kapitel": "Der Kalif"
+   },
+   {
+    "ar": "وَلَمَّا صَارَ خَلِيفَةً وَضَعَ دَنَانِيرَهُ وَدَرَاهِمَهُ فِي بَيْتِ الْمَالِ، وَجَمَعَ الْقُرْآنَ بَيْنَ اللَّوْحَيْنِ، وَقَالَ عَلِيٌّ: خَيْرُ الْأُمَّةِ بَعْدَ نَبِيِّهَا أَبُو بَكْرٍ وَعُمَرُ.",
+    "de": "Als er Kalif wurde, legte er seine Dinare und Dirhams in die Staatskasse und sammelte den Koran zwischen zwei Buchdeckeln; Ali sagte: Die Besten der Umma nach ihrem Propheten sind Abu Bakr und Umar.",
+    "beleg": "B:21,26,27",
+    "kapitel": "Der Kalif"
+   },
+   {
+    "ar": "وَمَرِضَ خَمْسَةَ عَشَرَ يَوْمًا فَاسْتَشَارَ عَبْدَ الرَّحْمَنِ بْنَ عَوْفٍ وَعُثْمَانَ فِي أَمْرِ عُمَرَ وَأَمَرَ بِكِتَابَةِ وَصِيَّتِهِ وَطَاعَتِهِ، وَمَاتَ وَعُمْرُهُ ثَلَاثٌ وَسِتُّونَ سَنَةً.",
+    "de": "Er war fünfzehn Tage krank, befragte Abd ar-Rahman ibn Auf und Uthman wegen Umar, ließ sein Vermächtnis aufschreiben und befahl Gehorsam gegenüber Umar; er starb im Alter von 63 Jahren.",
+    "beleg": "B:28-40",
+    "kapitel": "Die letzte Krankheit"
+   }
+  ],
+  "C1": [
+   {
+    "ar": "كَانَ أَبُو بَكْرٍ، عَبْدُ اللَّهِ بْنُ أَبِي قُحَافَةَ الْمُلَقَّبُ عَتِيقًا، أَوَّلَ الرِّجَالِ إِسْلَامًا، وَأَنْفَقَ مَالَهُ فِي سَبِيلِ اللَّهِ، وَشَهِدَ لَهُ النَّبِيُّ ﷺ بِأَنَّهُ أَحَبُّ الرِّجَالِ إِلَيْهِ وَبِأَنَّهُ لَوِ اتَّخَذَ خَلِيلًا لَاتَّخَذَهُ، وَأَمَرَهُ بِإِمَامَةِ النَّاسِ فِي الصَّلَاةِ.",
+    "de": "Abu Bakr, Abdullah ibn Abi Quhafa mit dem Beinamen ʿAtiq, war der erste Mann im Islam und gab sein Vermögen auf Allahs Weg aus; der Prophet ﷺ bezeugte ihm, dass er ihm der liebste Mann sei und dass er ihn zum engsten Freund nähme, wenn er einen nähme, und trug ihm auf, die Leute im Gebet zu leiten.",
+    "beleg": "B:1-6",
+    "kapitel": "Der Gefährte des Propheten"
+   },
+   {
+    "ar": "وَلَمَّا تُوُفِّيَ النَّبِيُّ ﷺ وَهُوَ فِي السُّنْحِ أَنْكَرَ عُمَرُ مَوْتَهُ، فَكَشَفَ أَبُو بَكْرٍ عَنْ وَجْهِهِ وَقَبَّلَهُ وَقَالَ: طِبْتَ حَيًّا وَمَيِّتًا، لَا يُذِيقُكَ اللَّهُ الْمَوْتَتَيْنِ، ثُمَّ خَطَبَ النَّاسَ بِأَنَّ مَنْ كَانَ يَعْبُدُ مُحَمَّدًا فَقَدْ مَاتَ وَمَنْ يَعْبُدُ اللَّهَ فَإِنَّهُ حَيٌّ لَا يَمُوتُ وَتَلَا آيَتَيْنِ فَبَكَى النَّاسُ.",
+    "de": "Als der Prophet ﷺ starb, während Abu Bakr in as-Sunh war, leugnete Umar seinen Tod; Abu Bakr enthüllte sein Gesicht, küsste ihn und sagte: Gut warst du im Leben und im Tod; Allah lässt dich nie zweimal den Tod kosten; dann sprach er zu den Leuten, dass Muhammad, wer ihn verehrte, gestorben sei, Allah aber, wer Ihn verehrt, lebe und nicht sterbe; er führte zwei Verse an, und die Leute weinten.",
+    "beleg": "B:7-12",
+    "kapitel": "Der Tod des Propheten"
+   },
+   {
+    "ar": "وَفِي سَقِيفَةِ بَنِي سَاعِدَةَ قَالَتِ الْأَنْصَارُ: مِنَّا أَمِيرٌ وَمِنْكُمْ أَمِيرٌ، فَذَهَبَ أَبُو بَكْرٍ وَعُمَرُ وَأَبُو عُبَيْدَةَ إِلَيْهِمْ، فَبَايَعَ عُمَرُ أَبَا بَكْرٍ ثُمَّ الْمُهَاجِرُونَ وَالْأَنْصَارُ ثُمَّ عَلِيٌّ، وَقَالَ عُمَرُ إِنَّهُمْ لَمْ يَجِدُوا أَوْلَى مِنْ بَيْعَتِهِ خَوْفَ الْفِتْنَةِ.",
+    "de": "In der Saqifa der Banu Saʿida sagten die Ansar: Von uns ein Befehlshaber und von euch ein Befehlshaber; Abu Bakr, Umar und Abu Ubayda gingen zu ihnen, Umar huldigte Abu Bakr, dann die Auswanderer und die Ansar, später Ali; Umar sagte, sie hätten nichts Passenderes als die Huldigung an ihn gefunden, aus Furcht vor Zwietracht.",
+    "beleg": "B:13-20",
+    "kapitel": "Der Kalif"
+   },
+   {
+    "ar": "وَلَمَّا صَارَ خَلِيفَةً وَضَعَ مَا عِنْدَهُ فِي بَيْتِ الْمَالِ لِأَنَّ أَمْرَ الْمُسْلِمِينَ شَغَلَهُ عَنِ التِّجَارَةِ، وَجَمَعَ الْقُرْآنَ بَيْنَ اللَّوْحَيْنِ.",
+    "de": "Als er Kalif wurde, legte er sein Vermögen in die Staatskasse, weil ihn die Angelegenheiten der Muslime vom Handel abhielten, und sammelte den Koran zwischen zwei Buchdeckeln.",
+    "beleg": "B:21,22,26",
+    "kapitel": "Der Kalif"
+   },
+   {
+    "ar": "وَفِي مَرَضِهِ بَعْدَ أَنْ أَصَابَتْهُ الْحُمَّى خَمْسَةَ عَشَرَ يَوْمًا اسْتَشَارَ عَبْدَ الرَّحْمَنِ وَعُثْمَانَ فِي عُمَرَ وَقَالَ لِمَنْ حَذَّرَهُ مِنْ شِدَّتِهِ: أَتُخَوِّفُونِي بِاللَّهِ؟ وَأَمَرَ بِطَاعَةِ عُمَرَ، وَأَمَرَ أَنْ يُرَدَّ إِلَيْهِ مَا بَقِيَ مِنْ مَالِ الْمُسْلِمِينَ، فَقَالَ عُمَرُ: رَحِمَ اللَّهُ أَبَا بَكْرٍ لَقَدْ أَتْعَبَ مَنْ بَعْدَهُ، وَمَاتَ سَنَةَ ١٣ بَعْدَ خِلَافَةٍ دَامَتْ سَنَتَيْنِ وَمِئَةَ يَوْمٍ.",
+    "de": "In seiner Krankheit, nachdem er fünfzehn Tage Fieber gehabt hatte, befragte er Abd ar-Rahman und Uthman wegen Umar und sagte zu dem, der ihn vor dessen Härte warnte: Wollt ihr mir mit Allah Angst machen?; er befahl Gehorsam gegenüber Umar und dass Umar das zurückgegeben werde, was noch vom Besitz der Muslime in seiner Hand war; Umar sagte: Allah erbarme sich Abu Bakrs, er hat es denen nach ihm schwer gemacht; er starb nach einem Kalifat von zwei Jahren und hundert Tagen.",
+    "beleg": "B:28-39",
+    "kapitel": "Die letzte Krankheit"
+   }
+  ],
+  "C2": [
+   {
+    "ar": "أَبُو بَكْرٍ، أَوَّلُ الرِّجَالِ إِسْلَامًا وَأَحَبُّهُمْ إِلَى النَّبِيِّ ﷺ، أَنْفَقَ مَالَهُ فِي سَبِيلِ اللَّهِ وَأَمَرَهُ النَّبِيُّ ﷺ بِإِمَامَةِ النَّاسِ.",
+    "de": "Abu Bakr, der erste Mann im Islam und dem Propheten ﷺ der liebste, gab sein Vermögen auf Allahs Weg aus, und der Prophet ﷺ trug ihm auf, die Leute im Gebet zu leiten.",
+    "beleg": "B:1-6",
+    "kapitel": "Der Gefährte des Propheten"
+   },
+   {
+    "ar": "وَثَبَتَ عِنْدَ وَفَاةِ النَّبِيِّ ﷺ حِينَ أَنْكَرَ عُمَرُ مَوْتَهُ، فَكَشَفَ عَنْ وَجْهِهِ وَقَبَّلَهُ وَخَطَبَ النَّاسَ بِأَنَّ اللَّهَ حَيٌّ لَا يَمُوتُ وَأَنَّ مُحَمَّدًا قَدْ مَاتَ.",
+    "de": "Er blieb standhaft beim Tod des Propheten ﷺ, als Umar dessen Tod leugnete, enthüllte sein Gesicht, küsste ihn und sagte den Leuten, Allah lebe und sterbe nicht, Muhammad aber sei gestorben.",
+    "beleg": "B:7-12",
+    "kapitel": "Der Tod des Propheten"
+   },
+   {
+    "ar": "وَفِي السَّقِيفَةِ بُويِعَ بِالْخِلَافَةِ وَبَايَعَهُ عُمَرُ وَالْمُهَاجِرُونَ وَالْأَنْصَارُ ثُمَّ عَلِيٌّ، وَتَنَازَلَ عَنْ مَالِهِ لِبَيْتِ الْمَالِ، وَجَمَعَ الْقُرْآنَ، وَشَهِدَ لَهُ عَلِيٌّ بِالْخَيْرِيَّةِ مَعَ عُمَرَ.",
+    "de": "In der Saqifa wurde ihm das Kalifat gehuldigt, durch Umar, die Auswanderer und die Ansar, später durch Ali; er gab sein Geld an die Staatskasse, sammelte den Koran, und Ali bezeugte ihm die Vortrefflichkeit zusammen mit Umar.",
+    "beleg": "B:13-27",
+    "kapitel": "Der Kalif"
+   },
+   {
+    "ar": "وَأَوْصَى بِعُمَرَ وَأَمَرَ بِطَاعَتِهِ وَرَدَّ إِلَيْهِ مَا بَقِيَ مِنْ مَالِ الْمُسْلِمِينَ، وَتُوُفِّيَ بَعْدَ خِلَافَةٍ دَامَتْ سَنَتَيْنِ وَمِئَةَ يَوْمٍ عَنْ ثَلَاثٍ وَسِتِّينَ سَنَةً.",
+    "de": "Er setzte Umar als Nachfolger ein, befahl Gehorsam ihm gegenüber, ließ ihm zurückgeben, was noch vom Besitz der Muslime übrig war, und starb nach einem Kalifat von zwei Jahren und hundert Tagen im Alter von 63 Jahren.",
+    "beleg": "B:28-40",
+    "kapitel": "Die letzte Krankheit"
+   }
+  ]
  }
 }
