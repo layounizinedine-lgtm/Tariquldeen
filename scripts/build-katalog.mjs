@@ -30,8 +30,12 @@ async function kapitel(n) {
 async function hadith(sammlung, nr) {
   const f = `content/.cache/h-${sammlung}-${nr}.json`
   if (existsSync(f)) return JSON.parse(readFileSync(f, 'utf8'))
-  const base = 'https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions'
-  const [ar, en] = await Promise.all([getJson(`${base}/ara-${sammlung}/${nr}.json`), getJson(`${base}/eng-${sammlung}/${nr}.json`)])
+  const bases = ['https://raw.githubusercontent.com/fawazahmed0/hadith-api/1/editions', 'https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions']
+  let ar, en
+  for (const base of bases) {
+    try { [ar, en] = await Promise.all([getJson(`${base}/ara-${sammlung}/${nr}.json`), getJson(`${base}/eng-${sammlung}/${nr}.json`)]) } catch { continue }
+    if (ar?.hadiths) break
+  }
   const a = ar?.hadiths?.find((h) => h.hadithnumber === nr), e = en?.hadiths?.find((h) => h.hadithnumber === nr)
   if (!a) throw new Error(`Hadith nicht gefunden: ${sammlung} ${nr}`)
   const out = { ar: a.text.replace(/‏/g, '').replace(/\s+/g, ' ').trim(), en: e?.text, grades: a.grades ?? [] }
@@ -116,7 +120,7 @@ for (const e of katalog) {
   }
   for (const h of e.hadith) {
     const x = await hadith(h.sammlung, h.nr), id = `h-${h.sammlung}-${h.nr}`
-    const grade = x.grades.map((g) => `${g.grade} (${g.name})`).join('; ') || '[Platzhalter: Einstufung fehlt]'
+    const grade = x.grades.map((g) => `${g.grade} (${g.name})`).join('; ') || (['bukhari', 'muslim'].includes(h.sammlung) ? 'Sahih (Sammlung Sahih al-Bukhari bzw. Sahih Muslim; die Sammlung gilt nach Konsens der Gelehrten als authentisch – keine Einzelprüfung durch uns)' : '[Platzhalter: Einstufung fehlt]')
     zitate[id] = {
       id, typ: 'hadith', text_ar: x.ar, text_en: x.en, text_de: hadithDe[id] ? hadithDe[id] + ' [Übersetzung: Entwurf]' : '[Platzhalter: deutsche Übersetzung noch zu ergänzen]',
       quelle: `${h.edition} ${h.nr}`, einstufung: grade,
@@ -135,7 +139,7 @@ for (const e of katalog) {
   }
   for (const [niv, sa] of Object.entries(stufen[e.id] ?? {})) fassungen[niv] = {
     status: 'entwurf', hinweis: `Vereinfachte Nacherzählung auf Stufe ${niv} (Entwurf): gleicher Inhalt wie die anderen Stufen, nur sprachlich angepasst. Harakat und Übersetzung ungeprüft.`,
-    saetze: sa.map((x, i) => ({ id: `${niv.toLowerCase()}-${i + 1}`, text_ar_mit_harakat: x.ar, text_de: x.de, beleg: /^B:/.test(x.beleg) ? [...new Set(x.beleg.slice(2).split(',').flatMap((t) => { const [a, z] = t.split('-').map(Number); return Array.from({ length: (z ?? a) - a + 1 }, (_, i) => a + i) }).map((n) => bio?.saetze[n - 1]?.beleg).filter(Boolean))].join('; ') : x.beleg, kapitel: x.kapitel })),
+    saetze: sa.map((x, i) => ({ id: `${niv.toLowerCase()}-${i + 1}`, text_ar_mit_harakat: x.ar, text_de: x.de, beleg: /^H:/.test(x.beleg) ? x.beleg.slice(2).split(',').map((i) => zitate[i.trim()]?.quelle).filter(Boolean).join('; ') : /^B:/.test(x.beleg) ? [...new Set(x.beleg.slice(2).split(',').flatMap((t) => { const [a, z] = t.split('-').map(Number); return Array.from({ length: (z ?? a) - a + 1 }, (_, i) => a + i) }).map((n) => bio?.saetze[n - 1]?.beleg).filter(Boolean))].join('; ') : x.beleg, kapitel: x.kapitel })),
   }
   // Wortdaten zum Antippen (maschinell erzeugt: tools/woerter/bauen.py)
   const wfile = `content/woerter/${e.id}.json`

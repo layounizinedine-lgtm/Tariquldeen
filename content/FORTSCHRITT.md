@@ -48,3 +48,8 @@ Fertig (Siyar, mit Seiten + wörtlichen Zitaten): abdullah-ibn-ahmad, abdurrahma
 - Handkorrekturen: `content/woerter-de.json` (Bedeutung/Wortart je Grundform), `content/woerter-wurzeln.json` (Wurzeln schwacher Verben).
 - Neu erzeugen: venv mit `camel-tools` (+ `camel_data -i morphology-db-msa-r13 disambig-bert-unfactored-all`), torch, transformers; `CAMELTOOLS_DATA` setzen; `python tools/woerter/bauen.py`; danach `node scripts/build-katalog.mjs`.
 - Quiz-Tab ist ausgeblendet (Code bleibt). Quran-/Athar-Zitate haben noch keine Wortanalyse.
+
+## Ahadith (Stand)
+- 36 weitere Hadithe (Bukhari/Muslim/Tirmidhi) in `content/katalog.json` (`hadith`), deutsche Entwurfsübersetzung in `content/hadith-de.json`; Bukhari/Muslim ohne API-Einstufung erhalten den Vermerk „Sammlung gilt als authentisch (keine Einzelprüfung)“.
+- `content/stufen_13.py` hängt zu jedem dieser Hadithe Zusammenfassungen in eigenen Worten an A1–C2 an (Beleg-Format `H:<zitat-id>`); Reihenfolge der Stufen-Skripte: 1…12, dann 13.
+- Offen: weitere Hadithe zu Hamza, Salman, Uways, Abdurrahman ibn Awf, Nuh, Musa u. a. (Quelle suchen, Übersetzung prüfen).

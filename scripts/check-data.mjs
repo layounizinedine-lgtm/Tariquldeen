@@ -30,6 +30,7 @@ if (existsSync('content/stufen.json')) {
     const g = JSON.parse(readFileSync(`src/data/geschichten/${id}.json`, 'utf8'))
     for (const [niv, sa] of Object.entries(lv)) for (const [i, x] of sa.entries()) {
       if (!x.beleg) { console.error(`${id}/${niv}[${i}]: Beleg fehlt`); fehler++; continue }
+      if (/^H:/.test(x.beleg)) { for (const zid of x.beleg.slice(2).split(',')) if (!g.zitate[zid.trim()]) { console.error(`${id}/${niv}[${i}]: Zitat ${zid} fehlt`); fehler++ }; continue }
       if (/^B:/.test(x.beleg)) { const bio = JSON.parse(readFileSync(`content/biografien/${id}.json`, 'utf8')); for (const n of bioNums(x.beleg)) if (!bio.saetze[n - 1]) { console.error(`${id}/${niv}[${i}]: Biografie-Satz ${n} fehlt`); fehler++ }; continue }
       for (const teil of x.beleg.replace('Quran ', '').split(';')) {
         const [sure, rest] = teil.trim().split(':'), [a, b] = rest.split('-').map(Number)

@@ -11,7 +11,18 @@
     "bis": "12:111"
    }
   ],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 3382,
+    "edition": "Sahih al-Bukhari"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 3387,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "kapitel_quran": [
    {
     "ab": "12:4",
@@ -299,7 +310,18 @@
     "bis": "7:84"
    }
   ],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 3375,
+    "edition": "Sahih al-Bukhari"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 3387,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "Ibn Kathir, Qisas al-Anbiya",
@@ -447,7 +469,13 @@
     "bis": "38:44"
    }
   ],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 3391,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "Ibn Kathir, Qisas al-Anbiya",
@@ -631,7 +659,13 @@
     "bis": "34:11"
    }
   ],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 3417,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "Ibn Kathir, Qisas al-Anbiya",
@@ -771,7 +805,13 @@
     "bis": "21:88"
    }
   ],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 3412,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "Ibn Kathir, Qisas al-Anbiya",
@@ -807,7 +847,13 @@
     "bis": "3:41"
    }
   ],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "muslim",
+    "nr": 6162,
+    "edition": "Sahih Muslim"
+   }
+  ],
   "quellen": [
    {
     "werk": "Ibn Kathir, Qisas al-Anbiya",
@@ -883,7 +929,13 @@
     "bis": "5:118"
    }
   ],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 3448,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "Ibn Kathir, Qisas al-Anbiya",
@@ -969,6 +1021,21 @@
     "sammlung": "abudawud",
     "nr": 4649,
     "edition": "Sunan Abi Dawud"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 3654,
+    "edition": "Sahih al-Bukhari"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 3666,
+    "edition": "Sahih al-Bukhari"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 683,
+    "edition": "Sahih al-Bukhari"
    }
   ],
   "quellen": [
@@ -1007,6 +1074,21 @@
     "sammlung": "abudawud",
     "nr": 4649,
     "edition": "Sunan Abi Dawud"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 3680,
+    "edition": "Sahih al-Bukhari"
+   },
+   {
+    "sammlung": "muslim",
+    "nr": 6204,
+    "edition": "Sahih Muslim"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 3294,
+    "edition": "Sahih al-Bukhari"
    }
   ],
   "quellen": [
@@ -1045,6 +1127,16 @@
     "sammlung": "abudawud",
     "nr": 4649,
     "edition": "Sunan Abi Dawud"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 2778,
+    "edition": "Sahih al-Bukhari"
+   },
+   {
+    "sammlung": "tirmidhi",
+    "nr": 3699,
+    "edition": "Jami at-Tirmidhi"
    }
   ],
   "quellen": [
@@ -1083,6 +1175,21 @@
     "sammlung": "abudawud",
     "nr": 4649,
     "edition": "Sunan Abi Dawud"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 3706,
+    "edition": "Sahih al-Bukhari"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 6204,
+    "edition": "Sahih al-Bukhari"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 3009,
+    "edition": "Sahih al-Bukhari"
    }
   ],
   "quellen": [
@@ -1121,6 +1228,11 @@
     "sammlung": "abudawud",
     "nr": 4649,
     "edition": "Sunan Abi Dawud"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 3724,
+    "edition": "Sahih al-Bukhari"
    }
   ],
   "quellen": [
@@ -1159,6 +1271,11 @@
     "sammlung": "abudawud",
     "nr": 4649,
     "edition": "Sunan Abi Dawud"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 3719,
+    "edition": "Sahih al-Bukhari"
    }
   ],
   "quellen": [
@@ -1235,6 +1352,11 @@
     "sammlung": "abudawud",
     "nr": 4649,
     "edition": "Sunan Abi Dawud"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 4055,
+    "edition": "Sahih al-Bukhari"
    }
   ],
   "quellen": [
@@ -1273,6 +1395,11 @@
     "sammlung": "abudawud",
     "nr": 4649,
     "edition": "Sunan Abi Dawud"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 4381,
+    "edition": "Sahih al-Bukhari"
    }
   ],
   "quellen": [
@@ -1311,6 +1438,11 @@
     "sammlung": "abudawud",
     "nr": 4649,
     "edition": "Sunan Abi Dawud"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 3198,
+    "edition": "Sahih al-Bukhari"
    }
   ],
   "quellen": [
@@ -1339,7 +1471,13 @@
   "titel_de": "Bilal ibn Rabah",
   "motiv": "Minarett bei Sonnenaufgang",
   "quran": [],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 1149,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
@@ -1366,7 +1504,13 @@
   "titel_de": "Mus'ab ibn Umair",
   "motiv": "Gebetsteppich und Schriftrolle",
   "quran": [],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 1276,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
@@ -1393,7 +1537,13 @@
   "titel_de": "Khadija bint Khuwaylid",
   "motiv": "Handelskarawane im Abendlicht",
   "quran": [],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 3819,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
@@ -1420,7 +1570,13 @@
   "titel_de": "Aisha bint Abi Bakr",
   "motiv": "Bücher und Öllampe",
   "quran": [],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 3769,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
@@ -1474,7 +1630,13 @@
   "titel_de": "Khalid ibn al-Walid",
   "motiv": "Schwert und Wüstenzelt",
   "quran": [],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 3757,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
@@ -1528,7 +1690,18 @@
   "titel_de": "Ja'far ibn Abi Talib",
   "motiv": "Schiff auf dem Roten Meer",
   "quran": [],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "tirmidhi",
+    "nr": 3763,
+    "edition": "Jami at-Tirmidhi"
+   },
+   {
+    "sammlung": "bukhari",
+    "nr": 4264,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
@@ -1555,7 +1728,13 @@
   "titel_de": "Fatima az-Zahra",
   "motiv": "Rose im Innenhof",
   "quran": [],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 3714,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
@@ -1582,7 +1761,13 @@
   "titel_de": "Abu Hurayra",
   "motiv": "Schriftrolle und Moscheesäulen",
   "quran": [],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 119,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
@@ -1609,7 +1794,13 @@
   "titel_de": "Abdullah ibn Abbas",
   "motiv": "Aufgeschlagenes Buch und Lampe",
   "quran": [],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 3756,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
@@ -1636,7 +1827,13 @@
   "titel_de": "Mu'adh ibn Jabal",
   "motiv": "Karawanenweg nach Jemen",
   "quran": [],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 1496,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
@@ -1663,7 +1860,13 @@
   "titel_de": "Abu Dharr al-Ghifari",
   "motiv": "Einsame Wüstenstraße",
   "quran": [],
-  "hadith": [],
+  "hadith": [
+   {
+    "sammlung": "bukhari",
+    "nr": 3366,
+    "edition": "Sahih al-Bukhari"
+   }
+  ],
   "quellen": [
    {
     "werk": "adh-Dhahabi, Siyar A'lam an-Nubala",
