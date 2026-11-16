@@ -1,8 +1,10 @@
 import type { usePlayer } from '../usePlayer'
 
 type P = ReturnType<typeof usePlayer>
-export default function PlayerBar({ p, anzahl, ausblenden }: { p: P; anzahl: number; ausblenden?: boolean }) {
+export default function PlayerBar({ p, anzahl, ausblenden, hatAudio = true }: { p: P; anzahl: number; ausblenden?: boolean; hatAudio?: boolean }) {
   if (ausblenden) return null
+  if (!hatAudio)
+    return <div className="pille aus" role="status">🎙 Erzählerstimme für diese Geschichte folgt noch</div>
   if (p.index < 0 && !p.playing)
     return <button className="pille" onClick={p.toggle} aria-label="Geschichte anhören">▶ Anhören</button>
   return (

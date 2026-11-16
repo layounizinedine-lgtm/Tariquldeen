@@ -254,7 +254,7 @@ function ReaderInner({ g, s, set, zurueck }: {
           </div>
         </div>
       )}
-      <PlayerBar p={p} anzahl={items.length} ausblenden={tab !== 'text'} />
+      <PlayerBar p={p} anzahl={items.length} ausblenden={tab !== 'text'} hatAudio={items.some((x) => !!x.audio_url)} />
     </div>
   )
 }
