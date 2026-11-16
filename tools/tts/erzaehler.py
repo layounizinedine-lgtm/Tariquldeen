@@ -49,7 +49,7 @@ def woerter_zeitstempel(whisper, wav, anzeige_tokens):
     return out
 
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument('id'); ap.add_argument('--stimme', default='D2_tiefer'); ap.add_argument('--max', type=int, default=0)
+    ap = argparse.ArgumentParser(); ap.add_argument('id'); ap.add_argument('--stimme', default='C_langsam'); ap.add_argument('--max', type=int, default=0)
     a = ap.parse_args()
     g = json.load(open(os.path.join(ROOT, 'src/data/geschichten', f'{a.id}.json'), encoding='utf-8'))
     saetze = [s for niv, f in g['fassungen'].items() if niv != 'klassisch' for s in f['saetze'] if not s.get('zitat_id')]
