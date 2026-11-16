@@ -1,3 +1,4 @@
+const bioNums = (b) => b.slice(2).split(',').flatMap((t) => { const [a, z] = t.split('-').map(Number); return Array.from({ length: (z ?? a) - a + 1 }, (_, i) => a + i) })
 // Prüft: Wort-Einträge passen 1:1 zu den Wörtern der Sätze (gleiche Anzahl + gleicher Text).
 import { readFileSync } from 'node:fs'
 const saetze = JSON.parse(readFileSync('src/data/yusuf-saetze-a2.json', 'utf8'))
@@ -29,6 +30,7 @@ if (existsSync('content/stufen.json')) {
     const g = JSON.parse(readFileSync(`src/data/geschichten/${id}.json`, 'utf8'))
     for (const [niv, sa] of Object.entries(lv)) for (const [i, x] of sa.entries()) {
       if (!x.beleg) { console.error(`${id}/${niv}[${i}]: Beleg fehlt`); fehler++; continue }
+      if (/^B:/.test(x.beleg)) { const bio = JSON.parse(readFileSync(`content/biografien/${id}.json`, 'utf8')); for (const n of bioNums(x.beleg)) if (!bio.saetze[n - 1]) { console.error(`${id}/${niv}[${i}]: Biografie-Satz ${n} fehlt`); fehler++ }; continue }
       for (const teil of x.beleg.replace('Quran ', '').split(';')) {
         const [sure, rest] = teil.trim().split(':'), [a, b] = rest.split('-').map(Number)
         for (let v = a; v <= (b ?? a); v++) if (!g.zitate[`q-${sure}:${v}`]) { console.error(`${id}/${niv}[${i}]: Vers ${sure}:${v} nicht in der Auswahl`); fehler++ }

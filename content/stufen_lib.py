@@ -10,7 +10,7 @@ def speichere(ST):
             for it in v:
                 if it[0] == "#": kap = it[1]; continue
                 a, d, b = it
-                arr.append({"ar": a, "de": d, "beleg": "Quran " + b, **({"kapitel": kap} if kap else {})})
+                arr.append({"ar": a, "de": d, "beleg": b if b.startswith("B:") else "Quran " + b, **({"kapitel": kap} if kap else {})})
             out[gid][k] = arr
     json.dump(out, open(P, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print({g: {k: len(v) for k, v in lv.items()} for g, lv in ST.items()})
