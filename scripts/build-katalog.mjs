@@ -4,7 +4,7 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs'
 
 const katalog = JSON.parse(readFileSync('content/katalog.json', 'utf8'))
-const SKIP = new Set(['yusuf']) // von Hand kuratiert (src/data/yusuf.ts)
+const SKIP = new Set([])
 mkdirSync('content/.cache', { recursive: true }); mkdirSync('src/data/geschichten', { recursive: true })
 const wait = (ms) => new Promise((r) => setTimeout(r, ms))
 async function getJson(url, tries = 4) {
@@ -108,7 +108,9 @@ for (const e of katalog) {
         quelle: `Quran ${s}:${v}`, qari: 'Mishari Rashid al-Afasy',
         rezitation_url: `https://verses.quran.com/${x.audio.url}`, wort_zeitstempel: ts(x),
       }
-      saetze.push({ id: `k${saetze.length + 1}`, text_ar_mit_harakat: x.text_uthmani, text_de: zitate[id].text_de, zitat_id: id })
+      if (e.zitat_hinweise?.[`${s}:${v}`]) zitate[id].hinweis = e.zitat_hinweise[`${s}:${v}`]
+      const kap = (e.kapitel_quran ?? []).filter((c) => { const [cs, cv] = c.ab.split(':').map(Number); return cs < s || (cs === s && cv <= v) }).pop()
+      saetze.push({ id: `k${saetze.length + 1}`, text_ar_mit_harakat: x.text_uthmani, text_de: zitate[id].text_de, zitat_id: id, kapitel: kap?.titel })
     }
     quellen.push({ werk: 'Quran', stelle: r.von === r.bis ? `Sure ${r.von}` : `Sure ${r.von}–${r.bis.split(':')[1]}` })
   }
@@ -133,7 +135,7 @@ for (const e of katalog) {
   }
   for (const [niv, sa] of Object.entries(stufen[e.id] ?? {})) fassungen[niv] = {
     status: 'entwurf', hinweis: `Vereinfachte Nacherzählung auf Stufe ${niv} (Entwurf): gleicher Inhalt wie die anderen Stufen, nur sprachlich angepasst. Harakat und Übersetzung ungeprüft.`,
-    saetze: sa.map((x, i) => ({ id: `${niv.toLowerCase()}-${i + 1}`, text_ar_mit_harakat: x.ar, text_de: x.de, beleg: x.beleg })),
+    saetze: sa.map((x, i) => ({ id: `${niv.toLowerCase()}-${i + 1}`, text_ar_mit_harakat: x.ar, text_de: x.de, beleg: x.beleg, kapitel: x.kapitel })),
   }
   const nz = nach[e.id]
   if (nz) fassungen[nz.niveau] = {

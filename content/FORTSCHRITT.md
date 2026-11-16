@@ -26,3 +26,8 @@ Fertig (Siyar, mit Seiten + wörtlichen Zitaten): abdullah-ibn-ahmad, abdurrahma
 - Regeln: gleicher Inhalt wie B1, keine neuen Fakten, keine wörtlichen Quran-Zitate in eigenen Sätzen; Stufen unterscheiden sich in Satzlänge, Wortschatz und Grammatik.
 ## Stimme
 - Chatterbox-Standardstimme + Nachbearbeitung klang zu künstlich. Natürlichere Stimme braucht eine Referenzaufnahme mit ausdrücklicher Zustimmung des Sprechers (siehe README, Abschnitt Erzählerstimme).
+
+## Stand: Yusuf vollständig (Sure 12 in 11 Kapiteln)
+- Yusuf ist jetzt Katalogeintrag (klassisch 12:4–111 aus Quran.com) + B1/A1/A2/B2/C1/C2 in `content/yusuf_a.py`/`yusuf_b.py` (Kapitelmarker `("#", Titel)`), erzeugt über `content/stufen_3.py` (Reihenfolge: stufen_1, stufen_2, stufen_3; `stufen_lib.py` = Writer).
+- Alte `src/data/yusuf.ts` wird nur noch vom Admin-Import-Beispiel genutzt.
+- Offen: Stufen für 18 weitere Propheten, Sahaba/Tabi'in/Imame-Stufen, Stimme (C_langsam) + Audio-Workflow.

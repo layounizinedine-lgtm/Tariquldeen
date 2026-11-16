@@ -1,5 +1,15 @@
 [
  {
+  "id": "yusuf",
+  "bereich": "anbiya",
+  "titel_ar": "يُوسُفُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Yusuf (Josef)",
+  "bild_motiv": "Brunnen in der Wüste",
+  "bild_url": "/bilder/yusuf.webp",
+  "status": "entwurf",
+  "hat_inhalt": true
+ },
+ {
   "id": "adam",
   "bereich": "anbiya",
   "titel_ar": "آدَمُ عَلَيْهِ السَّلَامُ",
