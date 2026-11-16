@@ -1,5 +1,81 @@
 [
  {
+  "id": "yusuf",
+  "bereich": "anbiya",
+  "titel_ar": "يُوسُفُ عَلَيْهِ السَّلَامُ",
+  "titel_de": "Yusuf (Josef)",
+  "motiv": "Brunnen in der Wüste",
+  "quran": [
+   {
+    "von": "12:4",
+    "bis": "12:111"
+   }
+  ],
+  "hadith": [],
+  "kapitel_quran": [
+   {
+    "ab": "12:4",
+    "titel": "Der Traum"
+   },
+   {
+    "ab": "12:7",
+    "titel": "Der Neid der Brüder"
+   },
+   {
+    "ab": "12:19",
+    "titel": "Der Brunnen und der Verkauf"
+   },
+   {
+    "ab": "12:23",
+    "titel": "Im Haus des Aziz"
+   },
+   {
+    "ab": "12:36",
+    "titel": "Im Gefängnis"
+   },
+   {
+    "ab": "12:43",
+    "titel": "Der Traum des Königs"
+   },
+   {
+    "ab": "12:58",
+    "titel": "Die Brüder kommen nach Ägypten"
+   },
+   {
+    "ab": "12:69",
+    "titel": "Der Becher"
+   },
+   {
+    "ab": "12:80",
+    "titel": "Yaqubs Trauer und das Erkennen"
+   },
+   {
+    "ab": "12:93",
+    "titel": "Das Hemd und die Erfüllung des Traums"
+   },
+   {
+    "ab": "12:102",
+    "titel": "Die Lehre"
+   }
+  ],
+  "zitat_hinweise": {
+   "12:53": "Die Tafsir-Gelehrten sind uneinig, ob diese Worte von Yusuf (Friede auf ihm) oder von der Frau des Aziz stammen. [Platzhalter: Belegstellen aus Tafsir noch einzutragen – Ibn Kathir, Tafsir zu 12:53]"
+  },
+  "quellen": [
+   {
+    "werk": "Ibn Kathir, Qisas al-Anbiya",
+    "stelle": "[Platzhalter: Band/Seite oder Kapitel noch einzutragen]",
+    "platzhalter": true
+   },
+   {
+    "werk": "Tafsir (z. B. Ibn Kathir) zu Sure 12",
+    "stelle": "[Platzhalter: Band/Seite noch einzutragen]",
+    "platzhalter": true
+   }
+  ],
+  "hinweis": "Die ganze Sure Yusuf (12:4–111) als Klassisch-Fassung, in Kapitel gegliedert. Nacherzählungen halten sich an die Verse; Reihenfolge und Auswahl sind ein Entwurf. Isra'iliyyat nicht übernommen."
+ },
+ {
   "id": "adam",
   "bereich": "anbiya",
   "titel_ar": "آدَمُ عَلَيْهِ السَّلَامُ",
