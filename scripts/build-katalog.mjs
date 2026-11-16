@@ -135,7 +135,7 @@ for (const e of katalog) {
   }
   for (const [niv, sa] of Object.entries(stufen[e.id] ?? {})) fassungen[niv] = {
     status: 'entwurf', hinweis: `Vereinfachte Nacherzählung auf Stufe ${niv} (Entwurf): gleicher Inhalt wie die anderen Stufen, nur sprachlich angepasst. Harakat und Übersetzung ungeprüft.`,
-    saetze: sa.map((x, i) => ({ id: `${niv.toLowerCase()}-${i + 1}`, text_ar_mit_harakat: x.ar, text_de: x.de, beleg: x.beleg, kapitel: x.kapitel })),
+    saetze: sa.map((x, i) => ({ id: `${niv.toLowerCase()}-${i + 1}`, text_ar_mit_harakat: x.ar, text_de: x.de, beleg: /^B:/.test(x.beleg) ? [...new Set(x.beleg.slice(2).split(',').flatMap((t) => { const [a, z] = t.split('-').map(Number); return Array.from({ length: (z ?? a) - a + 1 }, (_, i) => a + i) }).map((n) => bio?.saetze[n - 1]?.beleg).filter(Boolean))].join('; ') : x.beleg, kapitel: x.kapitel })),
   }
   const nz = nach[e.id]
   if (nz) fassungen[nz.niveau] = {

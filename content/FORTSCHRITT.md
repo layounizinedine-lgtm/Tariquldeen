@@ -31,3 +31,14 @@ Fertig (Siyar, mit Seiten + wörtlichen Zitaten): abdullah-ibn-ahmad, abdurrahma
 - Yusuf ist jetzt Katalogeintrag (klassisch 12:4–111 aus Quran.com) + B1/A1/A2/B2/C1/C2 in `content/yusuf_a.py`/`yusuf_b.py` (Kapitelmarker `("#", Titel)`), erzeugt über `content/stufen_3.py` (Reihenfolge: stufen_1, stufen_2, stufen_3; `stufen_lib.py` = Writer).
 - Alte `src/data/yusuf.ts` wird nur noch vom Admin-Import-Beispiel genutzt.
 - Offen: Stufen für 18 weitere Propheten, Sahaba/Tabi'in/Imame-Stufen, Stimme (C_langsam) + Audio-Workflow.
+
+## Stand: alle 24 Propheten mit A1–C2
+- `content/stufen_1..7.py` + `yusuf_a/b.py` (Reihenfolge: 1,2,3,4,5,6,7; Writer `stufen_lib.py`). Alle Belege geprüft mit `npm run check:data`.
+- Kurze Quran-Figuren (Idris, Dhul-Kifl, al-Yasa, Harun, Ilyas) haben bewusst wenig Text: der Quran sagt dort nicht mehr; Verlängerung nur mit belegtem Tafsir/Hadith.
+- Audio: Workflow `audio.yml` (C_langsam) für yusuf,nuh,musa,ibrahim,hud,salih gestartet; weitere Geschichten nachziehen (`geschichten: alle`).
+- OFFEN: Stufen A1–C2 für Sahaba/Tabi'in/Imame/Ahmad-Kreis (45 Biografien nur B1, je ~9 Sätze; Belege = Siyar-Seiten, `stufen_lib.py` muss dafür ein Nicht-Quran-Beleg-Format bekommen); längere Kapitel aus weiteren Siyar-Seiten; ishaq-ibn-hani (andere Quelle); Wortpopups/Quiz für neue Geschichten.
+
+## Stand: Biografien mit A1–C2
+- `content/stufen_8..12.py`: A1/A2/B2/C1/C2 für alle 45 Biografien (abu-bakr mit 4 Kapiteln). Beleg-Format `B:n,m-k` = Sätze der Biografie (Builder löst es zu Siyar-Seiten auf; `check-data` prüft die Indizes).
+- Reihenfolge zum Neuerzeugen: stufen_1 … stufen_12 (stufen_1 zuerst, schreibt neu).
+- OFFEN: längere Kapitel aus weiteren Siyar-Seiten (die Niveaus spiegeln bisher nur die 5–10 belegten B1-Sätze), `ishaq-ibn-hani` (andere Quelle), Audio für alle Geschichten, Wortpopups/Quiz.
